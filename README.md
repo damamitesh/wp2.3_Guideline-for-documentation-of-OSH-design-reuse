@@ -1,1 +1,14 @@
-
+This project aims at testing on a case study the template for design reuse. This template is based on three main models that describe the product and allow to understand:
+  - the context of use and the stakholders
+  - the interactions between the stakholders and the product (the functions)
+  - the interactions between the product and its environment (the constraints)
+  - the requirements
+  - the technical functions 
+  - the implementation and the architecture of the product
+  - the behavior of the product (structural, kinematic, logic...)
+  - the requirements for manufacturing (quality, tolerancing, machines, technology...)
+  - the requirements for assembly (techniques, sequences, machines)
+  - the materials requirements (recycle materials, raw material, quality, alternatives...)
+  - the dismantle requirements and procedures
+  - the recycle and reuse posibilities
+  - to be completed...
