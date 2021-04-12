@@ -2,7 +2,7 @@
 
 ## Motivations
 
-*Why are you starting this new project?*
+*Why are you starting this project?*
 
 ```
 The project BCN3D Moveo is motivated by the high cost of the materials that undergraduate students must use for learning how to engineer mechatronics systems.

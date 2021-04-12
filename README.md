@@ -2,7 +2,7 @@
 
 ## Motivations
 
-*Why are you starting this new project?*
+*Why are you starting this project?*
 
 
 
@@ -38,6 +38,16 @@ To reuse this project, the maker shall know how to:
 - [Clone a GIT repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 
 - [Edit a Markdown file](https://guides.github.com/features/mastering-markdown/)
+
+## Project team
+
+*Who are the leader of the project?*
+
+
+
+- Romain PINQUIE {romain.pinquie@grenoble-inp.fr}
+- Jean-François BOUJUT {Jean-francois.boujut@grenoble-inp.fr}
+- Amer EZOJI {amer.ezoji@grenoble-inp.fr}
 
 ## Contribution Process
 
