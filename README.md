@@ -1,14 +1,69 @@
-This project aims at testing on a case study the template for design reuse. This template is based on three main models that describe the product and allow to understand:
-  - the context of use and the stakholders
-  - the interactions between the stakholders and the product (the functions)
-  - the interactions between the product and its environment (the constraints)
-  - the requirements
-  - the technical functions 
-  - the implementation and the architecture of the product
-  - the behavior of the product (structural, kinematic, logic...)
-  - the requirements for manufacturing (quality, tolerancing, machines, technology...)
-  - the requirements for assembly (techniques, sequences, machines)
-  - the materials requirements (recycle materials, raw material, quality, alternatives...)
-  - the dismantle requirements and procedures
-  - the recycle and reuse posibilities
-  - to be completed...
+# Introduction
+
+## Motivations
+
+*Why are you starting this new project?*
+
+
+
+This project is motivated by the poor documentation practices observed in web-based open source hardware projects. The lack of standardised open source hardware documentation guidelines make the reuse - with or without modification - of the solution cumbersome.
+
+## Goals
+
+*What will you deliver in this project?*
+
+
+
+This project will deliver a template standing as a minimum viable documentation for open source hardware. By cloning this repository, any maker will be able to fill in the template provided in the folder entitled "Documentation".
+
+## History
+
+*What are the existing sources that you have reused in this project? Where did you find them?*
+
+
+
+The documentation template reuses exemplary documentation practices borrowed from:
+
+- [NASA JPL Open Source Rover Project](https://github.com/nasa-jpl/open-source-rover) - section "Skills Necessary"
+- ...
+
+## Required Background
+
+*What are the specific knowledge a maker shall own to reuse - with or without modification - your product?*
+
+
+
+To reuse this project, the maker shall know how to:
+
+- [Clone a GIT repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
+
+- [Edit a Markdown file](https://guides.github.com/features/mastering-markdown/)
+
+## Contribution Process
+
+*How a maker can contribute to your project?*
+
+
+
+To contribute to this project, you shall:
+
+- Post on issues page and briefly outline the changes you plan to make
+- If you are looking for input on what to contribute, brows the issues with the Requests or Bug label
+- ...
+
+## License
+
+*What open source hardware license your project complies with?*
+
+
+
+TBC
+
+## Sponsors and Partners
+
+Who is sponsoring your project?
+
+
+
+The European research and innovation project [OPENNEXT](https://opennext.eu/) is sponsorised by the [EU’s Horizon 2020 program](https://ec.europa.eu/easme/en/section/horizon-2020-energy-efficiency/h2020-programme#:~:text=Horizon%202020%20is%20the%20EU's,leadership%20and%20tackling%20societal%20challenges.).
+
