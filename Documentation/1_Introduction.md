@@ -1,6 +1,6 @@
 # Introduction
 
-##  Motivations
+## Motivations
 
 *Why are you starting this new project?*
 
