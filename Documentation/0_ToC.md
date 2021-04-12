@@ -1,5 +1,5 @@
-1. [Introduction](#1_Introduction)
-    - [Motivations](#Motivations)
-    - [Goals](#Goals)
-2. [Specification](#2_Specification)
-    - 
+# Table of Content
+
+1. [Introduction](#1_Introduction.md)
+2. [Specification](#2_Specification.md)
+3. [Design](#3_Design.md)
