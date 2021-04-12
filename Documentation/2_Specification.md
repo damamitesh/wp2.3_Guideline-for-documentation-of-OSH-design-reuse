@@ -19,7 +19,7 @@ The specification consists in describing the product with a "black box" external
   ```
 
 ```
-![Stakeholders analysis](Stakehodlers.drawio "Title")
+![Stakeholders analysis](Sources/Draw_io/Stakehodlers.png "Title")
 ```
 
 ## **External interfaces**
