@@ -2,14 +2,14 @@
 
 1. [Introduction](1_Introduction.md)
 2. [Specification](2_Specification.md)
-* [Stakeholders](*_Stakeholders.md)
-* [Services](*_Services.md)
-* [Constraints](*_Constraints.md)
-* [Requirements](*_Requirements.md)
+* Stakeholders
+* Services
+* Constraints
+* Requirements
 3. [Design](3_Design.md)
-* [Functional model](*_Functionalmodel.md)
-* [Behavioral model](*_Behavioralmodel.md)
-* [Structural model](*_Structuralmodel.md)
+* Functional model
+* Behavioral model
+* Structural model
 4. [Manufacturing](4_Manufacturing.md)
 5. [Assembly](5_Assembly.md)
 6. [Use](5_Use.md)
