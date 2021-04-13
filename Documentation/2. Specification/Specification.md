@@ -2,10 +2,10 @@
 
 The specification consists in describing the product with a "black box" external view to capture the intermediate technical objects (stakeholders, external interfaces, services, and constraints) that serve to, *in fine*, elucidate the product requirements. 
 
-## **Stakeholders:**
-
 *What entities influence the product throughout its life cycle ?*
 
+
+## **Stakeholders:**
 - **Comments:**
 
   - A stakeholder is not necessarily a person (e.g. considering airports as a stakeholder when designing a two-deck aircraft).
@@ -13,7 +13,7 @@ The specification consists in describing the product with a "black box" external
   - A stakeholder can indirectly be affected by the product (e.g. considering the local biodiversity when designing an airport).
 
   ```
-  **Metadata:**
+  Metadata:
   
   - Stakeholder name
   ```
