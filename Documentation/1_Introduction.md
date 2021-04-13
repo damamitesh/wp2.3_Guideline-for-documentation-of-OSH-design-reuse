@@ -1,6 +1,6 @@
 # Introduction
 
-The aime of introduction is to provide more detail about the project, goal and its context. Context is defined as “the interrelated conditions in which something exists or occurs”
+The introduction aims to provide more details about the project, goal, and its context. Context is defined as “the interrelated conditions in which something exists or occurs”
 
 ## Motivations
 
