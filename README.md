@@ -6,7 +6,7 @@
 
 
 
-This project is motivated by the poor documentation practices observed in web-based open source hardware projects. The lack of standardised open source hardware documentation guidelines make the reuse - with or without modification - of the solution cumbersome.
+This project is motivated by the poor documentation practices observed in web-based open source hardware projects. Indeed, the lack of standardised open source hardware documentation guidelines make the reuse - with or without modification - of the solution cumbersome.
 
 ## Goals
 
