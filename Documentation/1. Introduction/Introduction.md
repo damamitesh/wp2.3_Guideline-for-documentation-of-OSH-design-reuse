@@ -25,6 +25,17 @@ The project BCN3D Moveo will deliver an open surce robotic arm that everyone wil
 ```
 - Author of the original project
 - URL of the original project
+- URL of the related projecr
+```
+
+## Technical decomposition
+
+*What are the decomposition of this project?*
+
+```
+- Mechanical parts
+- Electronical parts
+- Etc.
 ```
 
 ## Required Background
@@ -40,6 +51,15 @@ To be completed
 *How a maker can contribute to your project?*
 
 ```
+- URL of the lastest modification
+- Version history 
+```
+
+## life of the documentation
+
+*What is the life of your documentation?*
+
+```
 - Code of conduct
 - Post on issues page and briefly outline the changes you plan to make
 - If you are looking for input on what to contribute, brows the issues with the Requests or Bug label
@@ -49,12 +69,15 @@ To be completed
 - Contributor license agreement
 ```
 
+
 ## Project team
 
 *Who are the leader of the project?*
 
 ```
 - Name {E-mail}
+- Contribution to the documentation
+- Brief description of relevant element of background
 ```
 
 ## License
