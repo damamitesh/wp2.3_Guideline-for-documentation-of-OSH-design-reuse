@@ -51,15 +51,6 @@ To be completed
 *How a maker can contribute to your project?*
 
 ```
-- URL of the lastest modification
-- Version history 
-```
-
-## life of the documentation
-
-*What is the life of your documentation?*
-
-```
 - Code of conduct
 - Post on issues page and briefly outline the changes you plan to make
 - If you are looking for input on what to contribute, brows the issues with the Requests or Bug label
@@ -67,6 +58,16 @@ To be completed
 - Describe what a Pull Request (PR) shall contain (detailed description of changes, summary of test, issue numbers that the PR resolves)
 - Specify code style 
 - Contributor license agreement
+
+```
+
+## life of the documentation
+
+*What is the life of your documentation?*
+
+```
+- URL of the lastest modification
+- Version history 
 ```
 
 
