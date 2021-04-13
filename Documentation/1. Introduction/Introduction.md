@@ -38,6 +38,13 @@ The project BCN3D Moveo will deliver an open surce robotic arm that everyone wil
 - Etc.
 ```
 
+## Technical introduction
+*What are the technical introductions to facilitate the understanding of the project?*
+
+```
+- Representing the basic knowledge for understanding the technical choices
+- References such as relevant bibliography 
+```
 ## Required Background
 
 *What are the specific knowledge a maker shall own to reuse - with or without modification - your product?*
@@ -61,7 +68,7 @@ To be completed
 
 ```
 
-## life of the documentation
+## Life of the documentation
 
 *What is the life of your documentation?*
 
