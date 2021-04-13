@@ -12,6 +12,6 @@
 * Structural model
 4. [Manufacturing](4_Manufacturing.md)
 5. [Assembly](5_Assembly.md)
-6. [Use](5_Use.md)
-7. [Maintenance](5_Maintenance.md)
+6. [Use](6_Use.md)
+7. [Maintenance](7_Maintenance.md)
 
