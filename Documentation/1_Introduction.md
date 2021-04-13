@@ -47,6 +47,14 @@ To be completed
 - Contributor license agreement
 ```
 
+## Project team
+
+*Who are the leader of the project?*
+
+```
+- Name {E-mail}
+```
+
 ## License
 
 *What open source hardware license your project complies with?*
