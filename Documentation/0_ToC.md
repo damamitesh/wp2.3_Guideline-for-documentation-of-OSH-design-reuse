@@ -1,6 +1,6 @@
 # Table of Content
 
-1. [Introduction](1_Introduction)(Introduction.md)
+1. [Introduction](1_Introduction.md)
 2. [Specification](2_Specification.md)
 * Stakeholders
 * Services
