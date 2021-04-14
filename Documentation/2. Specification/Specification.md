@@ -59,9 +59,12 @@ The specification consists in describing the product with a "black box" external
     - ...
  
   ```
-## **Constraint *(Synonyms: non function requirement)* ** 
+## Constraint *(Synonyms: non function requirement)*
+*What are the constraints that expose to the product by stakeholders?*
 
-- Definition: A constraint is a choice that makes certain designs "not allowed" or inappropriate for its intended use.
+- **Definition:**  A constraint is a choice that makes certain designs "not allowed" or inappropriate for its intended use.
+- **Comments:**
+  - 
 - Example
 - Metadata:
 
