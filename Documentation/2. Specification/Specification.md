@@ -23,6 +23,7 @@ The specification consists in describing the product with a "black box" external
 *What are the external entities interacting with the product?*
 
 - **Definition:**  External interfaces are interactions between the product and the stakeholders.
+
 - **Comments:**
   - An interface is made of a port (in, out, or in-out)
   - An interface is made of a flow (matter, energy, or signal)
@@ -44,6 +45,7 @@ The specification consists in describing the product with a "black box" external
 *What are the services that the product provides to stakeholders?*
 
 - **Definition:** A service is an effect intended by a stakeholder resulting from the interaction of the product with its environment (i.e. what the  product is for).
+
 - **Comments:**
   - Services provides users with and exchange value that can be included in an economic system (e.g. airlines buy flight hours).
   - Services are intended effects that can observed from outside the product ("back box" external view), but not from outside an internal component ("white box" internal view).
@@ -64,17 +66,19 @@ The specification consists in describing the product with a "black box" external
       - ...
     - ...
   ```
+  
 ## Constraint *(Synonyms: non function requirement)*
 *What are the constraints that expose to the product by stakeholders?*
 
 - **Definition:**  A constraint is a choice that makes certain designs "not allowed" or inappropriate for its intended use.
+
 - **Comments:**
   - Constraints provide the needs of stakeholders that shall impose in the design.
   - Constraints can be stated as follows: The [Stakeholder] shall enable [Action verb] [Product] (e.g. The user shall enable to dismantle the product with a maximum one wrench and one screwdriver).
   
    ```
   Metadata:
-  Action verb (we often reason in terms of action verbs to communicate expected behaviours, so it would be nice to be able to search designs with action verbs)
+  It would be good to express the constraints with an action verb to communicate expected needs in design.  
   
     - Exposed constraints by stakeholder 1
       - Constraint 1.1:...
@@ -87,9 +91,10 @@ The specification consists in describing the product with a "black box" external
     - ...
   ```
 
-## **Requirement () :**
+## Requirement *(Synonyms: performance specifications)*
 
 - **Definition:** A requirement is a formal statement that specifies when condition C is true, property P of object O is actual and its value shall belong  to domain D.
+
 - **Comments:**
 
 
