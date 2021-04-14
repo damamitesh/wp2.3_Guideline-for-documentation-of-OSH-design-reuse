@@ -19,4 +19,8 @@
 
 *The documentation of technical functions, which requires adopting an internal (white box) viewpoint on the product, consists in breaking down the service function into sub-functions. The decomposition process is no more solution neutral as it requires to make a decision at every indenture level. The functional decomposition requires two modelling approaches: function tree and functional graph.*
 
-#### **How to document a functional model?**
+#### **Functional tree?**
+
+*What are the top-down decomposition of a service function that helps to simplify the problem to solve?* 
+
+- **Definition:** *The functional tree is a top-down decomposition of function into sub-functions that helps to simplify the problem to solve. A top-down and bottom up reading of the functional tree provides insight on the “how” and “why”, respectively. The decomposition process should be stopped when technical function is sufficiently detailed to reuse, make, or buy a design solution.*
