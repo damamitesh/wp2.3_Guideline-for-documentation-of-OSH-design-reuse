@@ -5,7 +5,8 @@ The specification consists in describing the product with a "black box" external
 ## **Stakeholders:**
 *What entities influence the product throughout its life cycle ?*
 
-- **Definition:**
+- **Definition:** Stakeholders generally refer to all the actors (human or non-human) who have an interest in a product. Among the stakeholders, there are both internal players, such as users and participants of the project, and external players that are represented by the potential user of products or external entities.
+
 - **Comments:**
 
   - A stakeholder is not necessarily a person (e.g. considering airports as a stakeholder when designing a two-deck aircraft).
