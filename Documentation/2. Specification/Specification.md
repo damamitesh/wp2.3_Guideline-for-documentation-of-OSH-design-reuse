@@ -97,11 +97,11 @@ The specification consists in describing the product with a "black box" external
 
 - **Comments:**
   -  'What' we want to achieve a minimum set of requirements a system must satisfy.
-  -  Requirement can be stated as follows:The [stakeholder] need to [Action verb] [object] at [Condition] for [Property]   (e.g. The user need to  ). 
+  -  Requirement can be stated as follows:The [stakeholder] need to [Action verb] [object] at [Condition] for [Property]   (e.g. The user need to...  ). 
 
   ```
   Metadata:
-  It   
+  It...   
   
     - ...
       - ...
