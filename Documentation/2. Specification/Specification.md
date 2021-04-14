@@ -40,7 +40,8 @@ The specification consists in describing the product with a "black box" external
     - ...
   ```
 
-## **Service *(synonyms: external function, capability)* **
+## Service *(synonyms: external function, capability)* 
+*What are the services that the product provides to stakeholders?*
 
 - **Definition:** A service is an effect intended by a stakeholder resulting from the interaction of the product with its environment (i.e. what the  product is for).
 - **Comments:**
@@ -48,9 +49,16 @@ The specification consists in describing the product with a "black box" external
   - Services are intended effects that can observed from outside the product ("back box" external view), but not from outside an internal component ("white box" internal view).
   - Services are defined in a solution neutral way.
   - Services can be stated as follows : The [Product] shall enable [Stakeholder] [Action verb] (e.g. The product shall enable end-user to clean its teeths)
-- **Metadata:**
-  - Action verb (we often reason in terms of action verbs to communicate expected behaviours, so it would be nice to be able to search designs with action verbs)
-
+  
+ ```
+  Metadata:
+  Action verb (we often reason in terms of action verbs to communicate expected behaviours, so it would be nice to be able to search designs with action verbs)
+  
+    - Service 1:...
+    - Service 2:...
+    - ...
+ 
+  ```
 ## **Constraint *(Synonyms: non function requirement)* ** 
 
 - Definition: A constraint is a choice that makes certain designs "not allowed" or inappropriate for its intended use.
