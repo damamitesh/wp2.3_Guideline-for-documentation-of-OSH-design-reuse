@@ -64,7 +64,9 @@ The specification consists in describing the product with a "black box" external
 
 - **Definition:**  A constraint is a choice that makes certain designs "not allowed" or inappropriate for its intended use.
 - **Comments:**
-  - 
+  - Constraints provide the needs of stakeholders that shall impose in the design.
+  - Constraints can be stated as follows: The [Stakeholder] shalle enbale [Action verb] [Product] (e.g. The user shall enable to dismantle the product with a maximum one wrench and one screwdriver).
+  -  
 - Example
 - Metadata:
 
