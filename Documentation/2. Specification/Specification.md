@@ -5,7 +5,7 @@ The specification consists in describing the product with a "black box" external
 ## **Stakeholders:**
 *What entities influence the product throughout its life cycle ?*
 
-- **Definition:** Stakeholders generally refer to all the actors (human or non-human) who have an interest in a product. Among the stakeholders, there are both internal players, such as users and participants of the project, and external players that are represented by the potential user of products or external entities.
+- **Definition:** Stakeholders generally refer to all the actors (human and non-human) who have an interest in a product. Among the stakeholders, there are both internal players, such as users and participants of the project, and external players that are represented by the potential user of products or external entities.
 
 - **Comments:**
 
@@ -96,5 +96,21 @@ The specification consists in describing the product with a "black box" external
 - **Definition:** A requirement is a formal statement that specifies when condition C is true, property P of object O is actual and its value shall belong  to domain D.
 
 - **Comments:**
+  -  'What' we want to achieve a minimum set of requirements a system must satisfy.
+  -  Requirement can be stated as follows:The [stakeholder] need to [Action verb] [object] at [Condition] for [Property]   (e.g. The user need to  ). 
 
+  ```
+  Metadata:
+  It   
+  
+    - ...
+      - ...
+      - ...
+      - ...
+    - ...
+      - ...
+      - ...
+      - ...
+    - ...
+  ```
 
