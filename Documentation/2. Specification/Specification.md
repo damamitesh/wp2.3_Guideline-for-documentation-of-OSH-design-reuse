@@ -20,13 +20,25 @@ The specification consists in describing the product with a "black box" external
   ```
 
 ## **External interfaces**
+*What are the external entities interacting with the product?*
 
 - **Definition:**  External interfaces are interactions between the product and the stakeholders.
 - **Comments:**
   - An interface is made of a port (in, out, or in-out)
   - An interface is made of a flow (matter, energy, or signal)
-- **Metadata**:
-  - N/A
+  
+ ```
+  Metadata:
+  
+  - Stakeholder name 1
+    - Flow name 1
+    - Flow name 2
+    - ...
+  - Stakeholder name 2
+    - Flow name 1'
+    - Flow name 2'
+    - ...
+  ```
 
 ## **Service *(synonyms: external function, capability)* **
 
