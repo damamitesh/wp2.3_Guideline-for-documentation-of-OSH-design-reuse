@@ -19,7 +19,7 @@
 
 *The documentation of technical functions, which requires adopting an internal (white box) viewpoint on the product, consists in breaking down the service function into sub-functions. The decomposition process is no more solution neutral as it requires to make a decision at every indenture level. The functional decomposition requires two modelling approaches: function tree and functional graph.*
 
-#### **Functional tree**
+### **Functional tree**
 
 *What are the top-down decomposition of a service function that helps to simplify the problem to solve?* 
 
@@ -36,7 +36,7 @@
   - 
   ```
 
-#### **Functional graph**
+### **Functional graph**
 
 *What is the multi-level logical articulations of technical functions as input-output relationships transforming flows?* 
 
