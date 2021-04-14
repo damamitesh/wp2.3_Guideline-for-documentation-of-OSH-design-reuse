@@ -1,4 +1,4 @@
-# ** Functional model**
+# **Functional model**
 
 *
 
