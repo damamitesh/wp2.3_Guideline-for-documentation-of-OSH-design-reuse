@@ -68,7 +68,6 @@
   ```
 
 ### **3. Functional modelling language**
-*What is the functional modelling language to express the structure of functional model?* 
 
 ```
   Metadata:
@@ -81,7 +80,6 @@
   ```
   
   ### **4. Functional modelling environment**
-*What is the open-source functional modelling environment?* 
 
 ```
   Metadata:
