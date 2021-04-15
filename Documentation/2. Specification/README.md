@@ -97,7 +97,7 @@
 
 - **Comments:**
   -  *The minimum set of independent requirements can completely characterize the needs of the product.*
-  -  *Requirement can state as follows: The [stakeholder] need to [Action verb] [object] at [Condition] for [Property]   (e.g. The maker needs to do the machining of a cylindrical piece at 500rpm for 50°c of uniform temperature).* 
+  -  *Requirement can state as follows: The [stakeholder] need to [Action verb] [object] at [Condition] for [Property]   
   
   ```
   Metadata:
