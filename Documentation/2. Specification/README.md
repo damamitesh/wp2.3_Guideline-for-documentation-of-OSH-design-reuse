@@ -32,12 +32,12 @@
   Metadata:
   
   - Stakeholder name 1
-    - Flow name 1
-    - Flow name 2
+    - Flow 1
+    - Flow 2
     - ...
   - Stakeholder name 2
-    - Flow name 1'
-    - Flow name 2'
+    - Flow 1'
+    - Flow 2'
     - ...
   ```
 
