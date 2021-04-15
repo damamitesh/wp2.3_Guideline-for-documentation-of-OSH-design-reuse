@@ -29,11 +29,14 @@
 
   - *A top-down and bottom up reading of the functional tree provides insight on the “how” and “why”, respectively.*
   - *The decomposition process should be stopped when technical function is sufficiently detailed to reuse, make, or buy a design solution.*
+  - *The functional requirements should identify for decomposition of functions. The functional requirement includes: What we want to achieve a minimum set of requirements a system must satisfy.([Specification](https://github.com/OPEN-NEXT/wp2.3_template/tree/main/Documentation/2.%20Specification#specification))*
+  - *Design parameters are other main variables that should identify. Design parameters are the key physical variables in the physical domain that characterize the design to satisfies the specified functional requirements.*
 
   ```
   Metadata:
+  It includes the frunctional requirements and design parameters.
   
-  - 
+  - *Functional requirements. [Specification](https://github.com/OPEN-NEXT/wp2.3_template/tree/main/Documentation/2.%20Specification#specification)* 
   ```
 
 ### **2. Functional graph**
