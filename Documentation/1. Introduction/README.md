@@ -28,9 +28,9 @@ The project BCN3D Moveo will deliver an open surce robotic arm that everyone wil
 - URL of the related projecr
 ```
 
-## Technical decomposition
+## Documentation structure
 
-*What are the decomposition of this project?*
+*How the documentation is organized?*
 
 ```
 - Mechanical parts
@@ -38,19 +38,12 @@ The project BCN3D Moveo will deliver an open surce robotic arm that everyone wil
 - Etc.
 ```
 
-## Technical introduction
-*What are the technical introductions to facilitate the understanding of the project?*
-
-```
-- Representing the basic knowledge for understanding the technical choices
-- References such as relevant bibliography 
-```
-## Required Background
+## Required skills
 
 *What are the specific knowledge a maker shall own to reuse - with or without modification - your product?*
 
 ```
-To be completed
+- put the example
 ```
 
 ## Contribution Process
@@ -65,16 +58,14 @@ To be completed
 - Describe what a Pull Request (PR) shall contain (detailed description of changes, summary of test, issue numbers that the PR resolves)
 - Specify code style 
 - Contributor license agreement
-
 ```
 
-## Life of the documentation
+## Last updates 
 
-*What is the life of your documentation?*
+*What is the last update of your documentation?*
 
 ```
-- URL of the lastest modification
-- Version history 
+- Last modifiction (date, time, objet of modification, who,...) 
 ```
 
 
@@ -84,8 +75,6 @@ To be completed
 
 ```
 - Name {E-mail}
-- Contribution to the documentation
-- Brief description of relevant element of background
 ```
 
 ## License
