@@ -20,7 +20,6 @@
   ```
 
 ## **External interfaces**
-*What are the external entities interacting with the product?*
 
 - **Definition:**  *External interfaces are interactions between the product and the stakeholders.*
 
@@ -42,7 +41,6 @@
   ```
 
 ## Service *(synonyms: external function, capability)* 
-*What are the services that the product provides to stakeholders?*
 
 - **Definition:** *A service is an effect intended by a stakeholder resulting from the interaction of the product with its environment (i.e. what the  product is for).*
 
