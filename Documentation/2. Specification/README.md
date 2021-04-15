@@ -68,13 +68,11 @@
   ```
   
 ## Constraint *(Synonyms: non function requirement)*
-*What are the constraints that expose to the product by stakeholders?*
 
 - **Definition:**  *A constraint is a choice that makes certain designs "not allowed" or inappropriate for its intended use.*
 
 - **Comments:**
-  - *Constraints provide the needs of stakeholders that shall impose in the design.*
-  - *Constraints can be stated as follows: The [Stakeholder] shall enable [Action verb] [Product] (e.g. The user shall enable to dismantle the product with a maximum one wrench and one screwdriver).*
+  - *Constraints can be stated as follows: The [Stakeholder] shall enable [Action verb] [Product] (e.g. The user shall be able to dismantle the product with a maximum one wrench and one screwdriver).*
   
    ```
   Metadata:
@@ -97,7 +95,7 @@
 
 - **Comments:**
   -  *The minimum set of independent requirements can completely characterize the needs of the product.*
-  -  *Requirement can state as follows: The [stakeholder] need to [Action verb] [object] at [Condition] for [Property]   
+  -  *Requirement can state as follows: The [stakeholder] need to [Action verb] [object] at [Condition] for [Property]   (e.g. The maker needs to do the machining of a cylindrical piece at 500rpm for 50°c of uniform temperature).* 
   
   ```
   Metadata:
