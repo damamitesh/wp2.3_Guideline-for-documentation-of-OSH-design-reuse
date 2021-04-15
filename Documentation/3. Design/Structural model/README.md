@@ -1,6 +1,6 @@
 # **Structural model**
 
-*I would like to…enable makers to understand physical structure of the product and their components.* 
+*I would like to enable makers to understand physical structure of the product and their components.* 
 
 ## **What is a structural model?**
 
