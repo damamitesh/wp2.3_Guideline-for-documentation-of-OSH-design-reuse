@@ -46,6 +46,9 @@
     - ...
   ```
 
+![Image of functional tree](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Functional%20tree.jpg)
+
+> *Breaking down of a service function (root) into technical functions*
 ### **2. Functional graph**
 
 *What is the multi-level logical articulations of technical functions as input-output relationships transforming flows?* 
