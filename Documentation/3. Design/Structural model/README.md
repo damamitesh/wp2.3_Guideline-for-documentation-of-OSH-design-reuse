@@ -1,18 +1,20 @@
-# **Functional model**
+# **Structural model**
 
-*I would like to to enble makers to understand what the product and its parts are for.* 
+*I would like to…enable makers to understand physical structure of the product and their components.* 
 
-## **What is a functional model?**
+## **What is a structural model?**
 
-* A description of the functions performed by a product.
-* An opportunity to break down a product into smaller pieces that can be more easily understood.
-* At the highest level of a functional breakdown (black box view), service functions are the effects (intended by its stakeholders) of the interaction of the product with its environment.([Specification](https://github.com/OPEN-NEXT/wp2.3_template/tree/main/Documentation/2.%20Specification#specification))
-* At the intermediate and lowest levels of a functional breakdown (white box view), technical functions are input-output relationships transforming matter, energy or information flows. They are expressing in a non-solution neutral way and observable from inside the product. A set of technical function is necessary for the realization of a service function.
+* A structure is a description of the components (the combination of parts) of a product and their relationships.
+* An opportunity to specify the geometric elements, dimensions, topology, and other physical properties of the product.
+* The structures are the potential solutions (concepts) as the result of the conceptual design phase.
+* The structural model comprises the set of mechanics theories that obey physical laws required to study and predict the behavior of structures.
 
-## **Why should you define functional model?**
 
-* A functional model helps to break down a complicated problem into simple sub-problems.
-* A functional model helps to anticipate failures occurring when an intended effect of the product is no longer produced on its environment.
-* A function is the main input to derive the functional requirements required to define the conditions of use of the product as well as to provide objective evidences through the validation and verification activities. 
+## **Why should you define structural model?**
+
+* A structural model helps to describe the geometric elements (design feature, dimensions, constraints, etc.), topology (assembly constraint between components, tolerances, components mating conditions, etc.), and characteristics of the product.
+* A structural model helps to decide the physical form of the product and its components to ensure that the structure is fit for its intended purpose 
+* Structural model provides users with a physical model of the product, components, and characteristics of the material at design phase that enable the stakeholder to understand the geometry, material reaction to external factors, etc.
+* The structural model ensures that the structures are safe and fulfill the functions for which they were built.
 
 ## **How to document a functional model?**
