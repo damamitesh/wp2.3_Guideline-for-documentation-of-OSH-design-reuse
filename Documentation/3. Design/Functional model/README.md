@@ -79,10 +79,15 @@
   
   - Description of articulation of technical function as input-output relationships transforming flows by using the functional modeling language in the format of the graph
   ```
-#### *Example of functional Graph*:
+#### *Example 1 of functional Graph*:
 *Functional graph of the relationship between technical functions for maintaining of food quality by ADD-ONS of XYZ cargo*
 
 ![Image of functional tree](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Functional%20graph%20of%20XYZ%20cargo%20ADD-ONS.jpg)
+
+#### *Example 2 of functional Graph*:
+*This block diagram shows the flow and functions of the hardware and firmware of POCKET SCIENCE LAB(PSLab)*
+
+[Functional diagram of Hradware of PSLab](https://github.com/fossasia/pslab-hardware#block-diagram)
 
 ### **3. Functional modelling language**
 
