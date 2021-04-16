@@ -35,6 +35,7 @@ The project BCN3D Moveo will deliver an open surce robotic arm that everyone wil
 ```
 - Mechanical parts
 - Electronical parts
+- Software parts
 - Etc.
 ```
 
@@ -43,7 +44,7 @@ The project BCN3D Moveo will deliver an open surce robotic arm that everyone wil
 *What are the specific knowledge a maker shall own to reuse - with or without modification - your product?*
 
 ```
-- put the example
+- The project echopen need the basic knowledge about the medical ultrasound such as ultrasound imaging, a matter of acoustical impedance, etc.  
 ```
 
 ## Contribution Process
