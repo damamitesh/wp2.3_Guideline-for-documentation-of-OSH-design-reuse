@@ -44,11 +44,7 @@
     - ...
   ```
 
-![Image of functional tree](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Functional%20tree.jpg)
-
-
-
-##### *Example*:
+#### *Example of functional tree*:
 *Functional decomposition of service that ADD-ONS of  XYZ cargo provides for the food producern to perserve the quality of food* ![XYZ cargo ADD-ONS](https://projects.opennext.eu/@xyz-cargo-add-ons/xyz-cargo-add-ons)
 
   ```
@@ -66,7 +62,7 @@
     - S3: To start the cooling down cycle of the internal ambient of ADD-ONS, a compressor constrict the low-temperature refrigerant gas to raise its pressure
     - ...
   ```
-![Image of functional tree]()
+![Image of functional tree](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/XYZ%20Cargo%20ADD-ONS%20functional%20tree.jpg)
 
 ### **2. Functional graph**
 
