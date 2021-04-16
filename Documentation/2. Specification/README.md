@@ -70,21 +70,21 @@
 - **Definition:**  *A constraint is a choice that makes certain designs "not allowed" or inappropriate for its intended use.*
 
 - **Comments:**
-  - *Constraints can be stated as follows: The [Stakeholder] shall enable [Action verb] [Product] (e.g. The user shall be able to dismantle the product with a maximum one wrench and one screwdriver).*
-  
+
+  - *Constraint is a restriction, limit, or regulation imposed on a product.*
+  - *There are two kinds of constraints: input constraintsand system constraints.* 
+   - *Input constraints areimposed as part of the design specifications.*
+   - *Systemconstraints are constraints imposed by the system inwhich the design solution must function.*
+    
+ 
    ```
-  Metadata:
-  It would be good to express the constraints with an action verb to communicate expected needs in design.  
+  Metadata: 
   
-    - Exposed constraints by stakeholder 1
-      - Constraint 1.1:...
-      - Constraint 1.2:...
-      - ...
-    - Exposed constraints by stakeholder 2
-      - Constraint 2.1:...
-      - Constraint 2.2:...
-      - ...
-    - ...
+  - Imposed constraints on the product:
+     - Constraint 1:...
+     - Constraint 2:...
+     - Constraint 2:...
+     - ...
   ```
 
 ## Requirement *(Synonyms: performance specifications)*
@@ -92,7 +92,7 @@
 - **Definition:** *A requirement is a formal statement that specifies when condition C is true, property P of object O is actual and its value shall belong  to domain D.*
 
 - **Comments:**
-  -  *The minimum set of independent requirements can completely characterize the needs of the product.*
+  -  *The minimum set of independent requirements can completely characterize the needs of the product in the functional domain.*
   -  *Requirement can state as follows: The [stakeholder] need to [Action verb] [object] at [Condition] for [Property]   (e.g. The maker needs to do the machining of a cylindrical piece at 500rpm for 50°c of uniform temperature).* 
   
   ```
