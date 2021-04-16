@@ -45,7 +45,7 @@
   ```
 
 #### *Example of functional tree*:
-*Functional decomposition of service that ADD-ONS of  XYZ cargo provides for the food producern to perserve the quality of food* [XYZ cargo ADD-ONS](https://projects.opennext.eu/@xyz-cargo-add-ons/xyz-cargo-add-ons)
+*Functional decomposition of service that ADD-ONS of  XYZ cargo provides for the food producers to preserve the quality of food* [XYZ CARGO ADD-ONS](https://projects.opennext.eu/@xyz-cargo-add-ons/xyz-cargo-add-ons)
 
   ```
   Metadata:
