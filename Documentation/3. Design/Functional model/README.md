@@ -87,7 +87,7 @@
 #### *Example 2 of functional Graph*:
 *This block diagram shows the flow and functions of the hardware and firmware of POCKET SCIENCE LAB(PSLab)*
 
-[Functional diagram of Hradware of PSLab](https://github.com/fossasia/pslab-hardware#block-diagram)
+[Functional diagram of Hradware and firmware of PSLab](https://github.com/fossasia/pslab-hardware#block-diagram)
 
 ### **3. Functional modelling language**
 
