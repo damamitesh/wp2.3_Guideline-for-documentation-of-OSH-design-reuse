@@ -73,8 +73,8 @@
 
   - *Constraint is a restriction, limit, or regulation imposed on a product.*
   - *There are two kinds of constraints: input constraintsand system constraints.* 
-   - *Input constraints areimposed as part of the design specifications.*
-   - *Systemconstraints are constraints imposed by the system inwhich the design solution must function.*
+    - *Input constraints areimposed as part of the design specifications.*
+    - *Systemconstraints are constraints imposed by the system inwhich the design solution must function.*
     
  
    ```
