@@ -89,6 +89,8 @@
 
 [Functional diagram of Hradware and firmware of PSLab](https://github.com/fossasia/pslab-hardware#block-diagram)
 
+> Figure 2. Articulation of relationships between technical functions 
+
 ### **3. Functional modelling language**
 
 ```
