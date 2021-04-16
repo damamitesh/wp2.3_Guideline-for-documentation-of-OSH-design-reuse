@@ -72,9 +72,9 @@
 - **Comments:**
 
   - *Constraint is a restriction, limit, or regulation imposed on a product.*
-  - *There are two kinds of constraints: input constraintsand system constraints.* 
-    - *Input constraints areimposed as part of the design specifications.*
-    - *Systemconstraints are constraints imposed by the system inwhich the design solution must function.*
+  - *There are two kinds of constraints: input constraints and system constraints.* 
+    - *Input constraints are imposed as part of the design specifications.*
+    - *System constraints are constraints imposed by the system in which the design solution must function.*
     
  
    ```
@@ -83,29 +83,25 @@
   - Imposed constraints on the product:
      - Constraint 1:...
      - Constraint 2:...
-     - Constraint 2:...
+     - Constraint 3:...
      - ...
   ```
 
-## Requirement *(Synonyms: performance specifications)*
+## Requirement *(Synonyms: )*
 
 - **Definition:** *A requirement is a formal statement that specifies when condition C is true, property P of object O is actual and its value shall belong  to domain D.*
 
 - **Comments:**
   -  *The minimum set of independent requirements can completely characterize the needs of the product in the functional domain.*
-  -  *Requirement can state as follows: The [stakeholder] need to [Action verb] [object] at [Condition] for [Property]   (e.g. The maker needs to do the machining of a cylindrical piece at 500rpm for 50°c of uniform temperature).* 
+  -  *Functional requirement describe qualitatively the system functions or tasks to be performed in operation.* 
+  -  *Requirement can state as follows: The [stakeholder] need [Property] [object] [Action verb]  at [Condition]* 
   
   ```
   Metadata:
-  It includes: 'What' we want to achieve a minimum set of requirements a system must satisfy.
   
-    - Requirements for service 1
-      - Requirement 1.1:...
-      - Requirement 1.2:...
+    - Requirements:
+      - Requirement 1:...
+      - Requirement 2:...
+      - Requirement 3:...
       - ...
-    - Requirements for service 2
-      - Requirement 2.1:...
-      - Requirement 2.2:...
-      - ...
-    - ...
   ```
