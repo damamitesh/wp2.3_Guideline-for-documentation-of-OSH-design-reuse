@@ -44,7 +44,7 @@
 
 #### *Example of architectural structure:* [PSLab](https://pslab.io/) 
 
-![Image of Structural graph of PSLab](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Functional%20tree%20of%20XYZ%20Cargo%20ADD-ONS%20.jpg)
+![Image of Structural graph of PSLab](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Structural_graph.png)
 
 ### **2. Implementation of CAD file**
 
