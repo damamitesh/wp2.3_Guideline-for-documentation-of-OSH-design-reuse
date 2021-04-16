@@ -45,11 +45,9 @@
   ```
 
 #### *Example of functional tree*:
-*Functional decomposition of service that ADD-ONS of  XYZ cargo provides for the food producers to preserve the quality of food* [XYZ CARGO ADD-ONS](https://projects.opennext.eu/@xyz-cargo-add-ons/xyz-cargo-add-ons)
+*Functional decomposition of service that ADD-ONS of XYZ cargo provides for the food producers to preserve the quality of food* [XYZ CARGO ADD-ONS](https://projects.opennext.eu/@xyz-cargo-add-ons/xyz-cargo-add-ons)
 
   ```
-  Metadata:
-  
   - Functional requirements (FR)
     - FR1: To maintain the quality of food, food producer needs to main the material at cold temperature (between 3 °C and 10 °C) for short-term preservation (3h) or long-term preservation (24h).
     - FR2: ADD-ONS shall fix the internal ADD-ONS temperature for 7 °C.
@@ -79,8 +77,12 @@
   ```
   Metadata:
   
-  - 
+  - Description of articulation of technical function as input-output relationships transforming flows by using the functional modeling language in the format of the graph
   ```
+#### *Example of functional Graph*:
+*Functional graph of the relationship between technical functions for maintaining of food quality by ADD-ONS of XYZ cargo*
+
+![Image of functional tree]()
 
 ### **3. Functional modelling language**
 
