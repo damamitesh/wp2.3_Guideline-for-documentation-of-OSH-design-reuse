@@ -87,7 +87,7 @@
      - ...
   ```
 
-## Requirement *(Synonyms: )*
+## **Requirement**
 
 - **Definition:** *A requirement is a formal statement that specifies when condition C is true, property P of object O is actual and its value shall belong  to domain D.*
 
