@@ -17,38 +17,34 @@
 * Structural model provides users with a physical model of the product, components, and characteristics of the material at the design phase that enable the stakeholder to understand the geometry, material reaction to external factors, etc.
 * The structural model ensures that the structures are safe and fulfill the functions for which they were built.
 
-## **How to document a functional model?**
+## **How to document a Structural model?**
 
-*The documentation of technical functions, which requires adopting an internal (white box) viewpoint on the product, consists in breaking down the service function into sub-functions. The decomposition process is no more solution neutral as it requires to make a decision at every indenture level. The functional decomposition requires two modelling approaches: function tree and functional graph.*
 
- ### **1. Archtecture of structur**
+ ### **1. Architectural structure**
 
-*•	Specify the component of product such as mechanical component (motor shaft adapters, stepper motor, etc.), electrical component (DC motor, kit, resistor, etc.)*
-
-- **Definition:** *...*
+- **Definition:** *Architectural structure is a physical or logical layout of the components of a system design and their internal and external connections.*
 
 - **Comments:**
+ - *An architectural structure shall specify the component of product such as mechanical component (motor shaft adapters, stepper motor, etc.), electrical component (DC motor, kit, resistor, etc.)*
+ - *An architectural structure can represent in format a treeor graph by SysML or UML, etc.*
 
-  - 
 
   ```
   Metadata:
-  It includes 
   
-  - 
-    -  ...
-    -  ...
-    - ...
-  - 
-    -  ...
-    -  ...
-    - ...
+ It includes all of the components and their sub-components. Moreover, documentation of components of design should provide the information to answer the question such as:  
+  
+    -  how is possible to provide/make them (for example, kit, board, etc.)? 
+    -  Is it possible to buy them?  
+    -  How is possible to reproduce the device of electrical components? 
+    -  etc. 
   ```
 
 
 
-##### *Example* ...
+#### *Example of architectural structure:* [PSLab](https://pslab.io/) 
 
+![Image of Structural graph of PSLab](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Functional%20tree%20of%20XYZ%20Cargo%20ADD-ONS%20.jpg)
 
 ### **2. Implementation of CAD file**
 
