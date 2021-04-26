@@ -27,7 +27,7 @@
 - **Comments:**
 
   - *An architectural structure shall specify the component of product such as mechanical component (motor shaft adapters, stepper motor, etc.), electrical component (DC motor, kit, resistor, etc.)* 
- - *An architectural structure can represent in format a tree or graph by SysML or UML, etc.*
+  - *An architectural structure can represent in format a tree or graph by SysML or UML, etc.*
 
 
   ```
