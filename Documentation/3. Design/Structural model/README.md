@@ -71,8 +71,8 @@
 
 - **Comments:**
 
- - * Materials are chosen based on factors including working properties, aesthetics, environmental impact, function, manufacturing processes, etc. It is important to choose a material fit for the purpose.*
- - * A description of material characteristics will provide information that designers could consider in selecting materials for a given application.*
+  - *Materials are chosen based on factors including working properties, aesthetics, environmental impact, function, manufacturing processes, etc. It is important to choose a material fit for the purpose.*
+  - *A description of material characteristics will provide information that designers could consider in selecting materials for a given application.*
 
 ```
   Metadata:
