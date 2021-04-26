@@ -13,20 +13,20 @@
 
 * The behavioral model identifies the properties for understanding the calculation, simulation, component, and environment of the product.
 * Behavior model describes how the artifact implements its function and is managed by engineering principles and physical rules that are included in a behavioral model.  
-* Behavioral perspective gives a description of system dynamics. The main concepts in behavioral perspective are states and transitions between states.
-* Behavioral model provides the simulation of any given physical phenomenon using the numerical techniques.   
+* Behavioral perspective gives describes system dynamics. The main concepts in behavioral perspective are states and transitions between states.
+* The behavioral model could provide the simulation of any given physical phenomenon using numerical techniques.   
 
 ## **How to document a behavioral model?**
 
 
  ### **1. Modelling of virtual prototype**
 
-- **Definition:** 
+- **Definition:** *A virtual prototype enables the designers to test whether the design specifications are met by performing computer simulations rather than experiments on the physical prototype.*
 
 - **Comments:**
 
-  - 
-  -  
+  - *Analysis of the physical phenomenon of product such as e.g. structural, thermal, and thermos-mechanical analysis by finite element method support decision made at the latter stages of design.*
+  - *It promises a more comprehensive exploration of design alternatives and a better performing final design.* 
 
  ```
   Metadata:
