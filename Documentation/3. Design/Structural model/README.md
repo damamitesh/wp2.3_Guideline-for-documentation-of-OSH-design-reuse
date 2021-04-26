@@ -27,7 +27,7 @@
 - **Comments:**
 
   - *An architectural structure shall specify the component of product such as mechanical component (motor shaft adapters, stepper motor, etc.), electrical component (DC motor, kit, resistor, etc.)* 
- -*An architectural structure can represent in format a tree or graph by SysML or UML, etc.*
+ - *An architectural structure can represent in format a tree or graph by SysML or UML, etc.*
 
 
   ```
@@ -49,13 +49,12 @@
 
 ### **2. •	Modelling a design in native or standard file format**
 
-- **Definition:** *A file format is a standard way that information is encoded for storage in a computer file and it can. be reoresented in 2D or 3D.*
+- **Definition:** *A file format is a standard way that information is encoded for storage in a computer file and the mechanical or electrical designs can be represented in 2D or 3D.*
 
 - **Comments:**
 
-  - *The mechanical or electrical design can save in different types of file format. For example, the native file format (STEP) of mechanical 3D design allows makers to study, modify and make an OSH design according to its license. While standard file format (STL) supports rapid prototyping and 3D printing and it describes only the surface geometry of a 3D design without any possibility for modification.*
-  - *Use the original design file format (native file) to facilitate the modification and making the design of OSH reuse such as 3D designs that can be 3D printed (STEP format), 2D drawings, Circuit diagram and PCB of electronic projects.*
-  - *Use the standard file format to describe the geometry such as CAD files in interchange format (STL format), 2D drawings (SVG, cdr or JPEG), Manufacturing export formats (G-code, STEP-NC), Circuit board design formats (Gerber RS-274X, Excellon file)*
+  - *The native file format of design allows makers to study, modify and make an OSH design according to its license. For example, the nartive design file formats consist: 3D designs in STEP format, 2D drawings in .cdr, .svg, .ai formats, Circuit diagram in Tiny CAD file fomat, Printed Circuit Board (PCB) of electronic projects.*
+  - * The standard file formats support rapid prototyping, 3D printing, and  the surface geometry of a 3D design without the possibility for modification.for example, the standard design file formats include: CAD files in interchange format (STL format), 2D drawings (SVG or JPEG), Manufacturing export formats (G-code, STEP-NC), Circuit board design formats (Gerber RS-274X, Excellon file)*
 
 
   ```
