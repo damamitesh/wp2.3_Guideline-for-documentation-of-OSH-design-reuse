@@ -27,7 +27,7 @@
   - *Analysis of the physical phenomenon of product such as e.g. structural, thermal, and thermos-mechanical analysis by finite element method support decision made at the latter stages of design.*
   - *It promises a more comprehensive exploration of design alternatives and a better-performing final design.*
   
-  #### *Example of Virtual prototype: [Tensor Mechanics Module](https://mooseframework.inl.gov/modules/tensor_mechanics/index.html)*
+ #### *Example of Virtual prototype: [Tensor Mechanics Module](https://mooseframework.inl.gov/modules/tensor_mechanics/index.html)*
 
  ```
   Metadata:
@@ -43,7 +43,7 @@
 
   -  
 
- #### *Example of kinematic model: [Krab v1.0](https://projects.fablabs.io/@avishek/krab-v10)
+ #### *Example of kinematic model: [Krab v1.0](https://projects.fablabs.io/@avishek/krab-v10)*
 
 
 ```
