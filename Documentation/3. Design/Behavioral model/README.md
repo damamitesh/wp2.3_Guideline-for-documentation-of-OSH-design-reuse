@@ -1,6 +1,6 @@
 # **Behavioral model**
 
-*I would like to enable makers to understand the calculation and numerical description of the physical behavior of a product.* 
+*I would like to enable the makers to understand the analysis of the physical behavior of a product to support the decision made at the latter stages of design.* 
 
 ## **What is a behavioral model?**
 
