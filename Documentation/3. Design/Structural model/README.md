@@ -22,16 +22,16 @@
 
  ### **1. Architectural structure**
 
-- **Definition:** *Architectural structure is a physical or logical layout of the components of a system design and their internal and external connections.*
+- **Definition:** *The architectural structure is a physical or logical layout of the components of a system design and their internal and external connections.*
 
 - **Comments:**
 
-  - *An architectural structure shall specify the component of product such as mechanical component (motor shaft adapters, stepper motor, etc.), electrical component (DC motor, kit, resistor, etc.)*
-  - *An architectural structure can represent in format a tree or graph by SysML or UML, etc.*  
+  - *An architectural structure shall specify the component of the product such as mechanical component (motor shaft adapters, stepper motor, etc.), electrical component (DC motor, kit, resistor, etc.), etc.*
+  - *An architectural structure can represent in the format a tree or graph by SysML or UML, etc.*  
 
  ```
   Metadata:
- It includes all of the components and their sub-components. Moreover, documentation of components of design should provide the information to answer the question such as:  
+ It includes all of the components and their sub-components. Moreover, documentation of components of design should provide the information to answer the question that include:  
     -  how is possible to provide/make them (for example, kit, board, etc.)? 
     -  Is it possible to buy them?  
     -  How is possible to reproduce the device of electrical components? 
@@ -49,8 +49,8 @@
 
 - **Comments:**
 
-  - *The native file format of design allows makers to study, modify and make an OSH design according to its license. For example, the nartive design file formats consist: 3D designs in STEP format, 2D drawings in .cdr, .svg, .ai formats, Circuit diagram in Tiny CAD file fomat, Printed Circuit Board (PCB) of electronic projects.*
-  - *The standard file formats support rapid prototyping, 3D printing, and  the surface geometry of a 3D design without the possibility for modification.for example, the standard design file formats include: CAD files in interchange format (STL format), 2D drawings (SVG or JPEG), Manufacturing export formats (G-code, STEP-NC), Circuit board design formats (Gerber RS-274X, Excellon file)*
+  - *The native file format of design allows makers to study, modify and make an OSH design according to its license. For example, the native design file formats consist of 3D design in STEP format, 2D drawings in .cdr, .svg, .ai format, Circuit diagram in Tiny CAD file format, Printed Circuit Board (PCB) of electronic projects.*
+  - *The standard file formats support rapid prototyping, 3D printing, and the surface geometry of a 3D design without the possibility for modification. For example, the standard design file formats include: CAD files in an interchange format (STL format), 2D drawings (SVG or JPEG), Manufacturing export formats (G-code, STEP-NC), Circuit board design formats (Gerber RS-274X, Excellon file°.*
 
 #### *Example of design file formats:* 
 *1. [MIT Emergency Ventilator CAD files](https://e-vent.mit.edu/resources/downloads/)*
@@ -71,7 +71,7 @@
 
 - **Comments:**
 
- - * Material are chosen based on factors including working properties, aesthetics, environmental impact, function, manufacturing processes etc. It is important to choose a material fit for purpose.
+ - * Materials are chosen based on factors including working properties, aesthetics, environmental impact, function, manufacturing processes, etc. It is important to choose a material fit for the purpose.*
  - * A description of material characteristics will provide information that designers could consider in selecting materials for a given application.*
 
 ```
