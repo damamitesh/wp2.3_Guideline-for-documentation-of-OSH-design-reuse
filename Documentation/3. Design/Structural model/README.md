@@ -50,7 +50,7 @@
 - **Comments:**
 
   - *The native file format of design allows makers to study, modify and make an OSH design according to its license. For example, the native design file formats consist of 3D design in STEP format, 2D drawings in .cdr, .svg, .ai format, Circuit diagram in Tiny CAD file format, Printed Circuit Board (PCB) of electronic projects.*
-  - *The standard file formats support rapid prototyping, 3D printing, and the surface geometry of a 3D design without the possibility for modification. For example, the standard design file formats include: CAD files in an interchange format (STL format), 2D drawings (SVG or JPEG), Manufacturing export formats (G-code, STEP-NC), Circuit board design formats (Gerber RS-274X, Excellon file°.*
+  - *The standard file formats support rapid prototyping, 3D printing, and the surface geometry of a 3D design without the possibility for modification. For example, the standard design file formats include: CAD files in an interchange format (STL format), 2D drawings (SVG or JPEG), Manufacturing export formats (G-code, STEP-NC), Circuit board design formats (Gerber RS-274X, Excellon file.*
 
 #### *Example of design file formats:* 
 *1. [MIT Emergency Ventilator CAD files](https://e-vent.mit.edu/resources/downloads/)*
