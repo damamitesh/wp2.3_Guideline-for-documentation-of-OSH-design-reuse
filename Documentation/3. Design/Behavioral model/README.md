@@ -26,11 +26,36 @@
 - **Comments:**
 
   - *Analysis of the physical phenomenon of product such as e.g. structural, thermal, and thermos-mechanical analysis by finite element method support decision made at the latter stages of design.*
-  - *It promises a more comprehensive exploration of design alternatives and a better performing final design.* 
+  - *It promises a more comprehensive exploration of design alternatives and a better-performing final design.* 
 
  ```
   Metadata:
  
     -  
     -   
+  ```
+ ### **2. Kinematic models**
+ 
+ - **Definition:** **
+
+- **Comments:**
+
+  -  
+
+```
+  Metadata:
+  
+  - 
+  - 
+  ```
+
+ ### **3. Open-source behavioral modelling environment**
+
+```
+  Metadata:
+  
+  - Scilab
+  - Open Modelica
+  - ADINA
+  - Etc.
   ```
