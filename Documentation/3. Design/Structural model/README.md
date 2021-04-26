@@ -91,6 +91,8 @@
 *Figure below shows the material characteristics of two bars due to the contact force.*
 
 ![Image of material characteristics](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Material%20characteristics.jpg)
+
+> Source: Amr Assie, 2010.
   
   ### **4. Structural modelling environment**
 
