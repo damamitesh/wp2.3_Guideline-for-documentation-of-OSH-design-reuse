@@ -68,11 +68,12 @@
 
 ### **3. Characteristics of the materials**
 
-
 - **Definition:** *The characteristics of the materials are those that make the materials have different reactions to heat, electricity, light, force, etc.* 
 
 - **Comments:**
- - * It is necessary...*
+
+ - * Material are chosen based on factors including working properties, aesthetics, environmental impact, function, manufacturing processes etc. It is important to choose a material fit for purpose.
+ - * A description of material characteristics will provide information that designers could consider in selecting materials for a given application.*
 
 ```
   Metadata:
@@ -84,6 +85,12 @@
   - Chemical properties like corrosion resistance, surface tension, etc.
   - Etc.
   ```
+  
+  #### *Example of material characteristics*:
+  
+*Figure below shows the material characteristics of two bars due to the contact force.*
+
+![Image of material characteristics]()
   
   ### **4. Structural modelling environment**
 
