@@ -25,7 +25,8 @@
 - **Definition:** *Architectural structure is a physical or logical layout of the components of a system design and their internal and external connections.*
 
 - **Comments:**
- - *An architectural structure shall specify the component of product such as mechanical component (motor shaft adapters, stepper motor, etc.), electrical component (DC motor, kit, resistor, etc.)*
+
+  - *An architectural structure shall specify the component of product such as mechanical component (motor shaft adapters, stepper motor, etc.), electrical component (DC motor, kit, resistor, etc.)*  
  - *An architectural structure can represent in format a tree or graph by SysML or UML, etc.*
 
 
@@ -40,8 +41,6 @@
     -  etc. 
   ```
 
-
-
 #### *Example of architectural structure:* [PSLab](https://pslab.io/) 
 
 ![Image of Structural graph of PSLab](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Structural_graph.png)
@@ -52,9 +51,9 @@
 
 - **Comments:**
 
--
- - *Use the original design file format (native file) to facilitate the modification and making the design of OSH reuse such as 3D designs that can be 3D printed (STEP format), 2D drawings, Circuit diagram and PCB of electronic projects.*
-- *Use the standard file format to describe the geometry such as CAD files in interchange format (STL format), 2D drawings (SVG, cdr or JPEG), Manufacturing export formats (G-code, STEP-NC), Circuit board design formats (Gerber RS-274X, Excellon file)*
+  - *Use the original design file format (native file) to facilitate the modification and making the design of OSH reuse such as 3D designs that can be 3D printed (STEP format), 2D drawings, Circuit diagram and PCB of electronic projects.*
+  - *Use the standard file format to describe the geometry such as CAD files in interchange format (STL format), 2D drawings (SVG, cdr or JPEG), Manufacturing export formats (G-code, STEP-NC), Circuit board design formats (Gerber RS-274X, Excellon file)*
+
 
   ```
   Metadata:
