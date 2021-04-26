@@ -103,7 +103,7 @@
  
   ```
   
-  ### **4. Functional modelling environment**
+  ### **4. Open-source functional modelling environment**
 
 ```
   Metadata:
