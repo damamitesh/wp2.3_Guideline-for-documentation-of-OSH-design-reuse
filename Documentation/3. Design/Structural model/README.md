@@ -26,21 +26,17 @@
 
 - **Comments:**
 
-  - *An architectural structure shall specify the component of product such as mechanical component (motor shaft adapters, stepper motor, etc.), electrical component (DC motor, kit, resistor, etc.)* 
-  - *An architectural structure can represent in format a tree or graph by SysML or UML, etc.*
+  - *An architectural structure shall specify the component of product such as mechanical component (motor shaft adapters, stepper motor, etc.), electrical component (DC motor, kit, resistor, etc.)*
+  -*An architectural structure can represent in format a tree or graph by SysML or UML, etc.*  
 
-
-  ```
+ ```
   Metadata:
-  
  It includes all of the components and their sub-components. Moreover, documentation of components of design should provide the information to answer the question such as:  
-  
     -  how is possible to provide/make them (for example, kit, board, etc.)? 
     -  Is it possible to buy them?  
     -  How is possible to reproduce the device of electrical components? 
     -  etc. 
   ```
-
 
 #### *Example of architectural structure:* [PSLab](https://pslab.io/) 
 
