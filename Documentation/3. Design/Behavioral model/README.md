@@ -18,7 +18,6 @@
 
 ## **How to document a behavioral model?**
 
-
  ### **1. Modelling of virtual prototype**
 
 - **Definition:** *A virtual prototype enables the designers to test whether the design specifications are met by performing computer simulations rather than experiments on the physical prototype.*
@@ -26,7 +25,9 @@
 - **Comments:**
 
   - *Analysis of the physical phenomenon of product such as e.g. structural, thermal, and thermos-mechanical analysis by finite element method support decision made at the latter stages of design.*
-  - *It promises a more comprehensive exploration of design alternatives and a better-performing final design.* 
+  - *It promises a more comprehensive exploration of design alternatives and a better-performing final design.*
+  
+  #### *Example of Virtual prototype: *[Tensor Mechanics Module](https://mooseframework.inl.gov/modules/tensor_mechanics/index.html)*
 
  ```
   Metadata:
