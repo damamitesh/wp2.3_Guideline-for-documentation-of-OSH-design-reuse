@@ -77,9 +77,11 @@
 ```
   Metadata:
   
-  - Mechanical characteristics (plasticity, toughness, etc.)
-  - Electrical characteristics (electrical resistivity and conductibility, etc.)
-  - Thermal characteristics (melting point, etc.)
+  - Mechanical characteristics like hardness, elasticity, plasticity, toughness, etc. 
+  - Manufacturing properties like castability, machinability rating, etc.
+  - Electrical characteristics like electrical resistivity and conductibility, etc.
+  - Thermal characteristics like melting point,thermal conductivity, etc.
+  - Chemical properties like corrosion resistance, surface tension, etc.
   - Etc.
   ```
   
