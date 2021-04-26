@@ -37,14 +37,16 @@
   ```
  ### **2. Kinematic models**
  
- - **Definition:** **
+ - **Definition:** *The kinematic model studies the motion of a mechanism regardless of forces and torque that cause it.*
 
 - **Comments:**
 
-  -  
+  - * In design of robot, it allows to compute the position and orientation of robot manipulator's end-effector relative to the base of the manipulator as a function of the joint variables.*
+  -   
 
- #### *Example of kinematic model: [Krab v1.0](https://projects.fablabs.io/@avishek/krab-v10)*
+ #### *Example of kinematic model: [Arduino IoT Robotic Arm](https://www.hackster.io/aerdronix/arduino-iot-robotic-arm-5a4401)*
 
+ #### *Example of kinematic model: [Compas FAB](https://gramaziokohler.github.io/compas_fab/latest/examples/02_description_models/01_kinematic_model.html)*
 
 ```
   Metadata:
