@@ -46,16 +46,15 @@
 
 ![Image of Structural graph of PSLab](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Structural_graph.png)
 
-### **2. Implementation of CAD file**
+### **2. •	Modelling a design in native or standard file format**
 
-- *Use the original design file format (native file) to facilitate the modification and making the design of OSH reuse such as 3D designs that can be 3D printed (STEP format), 2D drawings, Circuit diagram and PCB of electronic projects.*
-- *Use the standard file format to describe the geometry such as CAD files in interchange format (STL format), 2D drawings (SVG, cdr or JPEG), Manufacturing export formats (G-code, STEP-NC), Circuit board design formats (Gerber RS-274X, Excellon file)* 
-
-- **Definition:** 
+- **Definition:** *A file format is a standard way that information is encoded for storage in a computer file and it can. be reoresented in 2D or 3D.*
 
 - **Comments:**
 
-  - 
+-
+ - *Use the original design file format (native file) to facilitate the modification and making the design of OSH reuse such as 3D designs that can be 3D printed (STEP format), 2D drawings, Circuit diagram and PCB of electronic projects.*
+- *Use the standard file format to describe the geometry such as CAD files in interchange format (STL format), 2D drawings (SVG, cdr or JPEG), Manufacturing export formats (G-code, STEP-NC), Circuit board design formats (Gerber RS-274X, Excellon file)*
 
   ```
   Metadata:
