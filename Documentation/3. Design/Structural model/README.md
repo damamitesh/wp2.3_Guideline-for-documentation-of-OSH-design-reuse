@@ -93,7 +93,7 @@
 
 > Source: Amr Assie, 2010.
   
-  ### **4. Structural modelling environment**
+  ### **4. Open-source structural modelling environment**
 
 ```
   Metadata:
