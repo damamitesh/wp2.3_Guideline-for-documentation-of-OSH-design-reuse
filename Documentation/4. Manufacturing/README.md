@@ -2,7 +2,7 @@
 
 *I would like to enable makers to understand the process by which raw materials transform into a final product.*
 
-## **How to document a Structural model?**
+## **How to document a manufacturing process?**
 
 ### **1. What manufacturing technology do you use?**
 
