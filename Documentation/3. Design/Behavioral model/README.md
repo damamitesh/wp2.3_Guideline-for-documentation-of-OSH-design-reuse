@@ -41,9 +41,11 @@
 
 - **Comments:**
 
-  - *In design of robot, it allows to compute the position and orientation of robot manipulator's end-effector relative to the base of the manipulator as a function of the joint variables.*
   - *The kinematic model can be represented as a tree structure. The tree describes the kinematic chain, i.e., the connection of links with joints, and the inter-dependendencies of these links.* 
-  -   
+  - *In classical mechanics "kinematics" generally refers to the study of properties of motion-- position, velocity, acceleration, etc.-- without any consideration of why those quantities have the values they do. "Dynamics" means a study of the rules governing the interactions of these particles, which allow you to determine why the quantities have the values they do.*
+  - *In design of robot, it allows to compute the position and orientation of robot manipulator's end-effector relative to the base of the manipulator as a function of the joint variables.*
+  
+ 
 
  #### *Example 1: [Arduino IoT Robotic Arm](https://www.hackster.io/aerdronix/arduino-iot-robotic-arm-5a4401)*
 
