@@ -87,7 +87,7 @@
 > Figure 2. Articulation of relationships between technical functions 
 
 #### *Example 2 of functional Graph*:
-*This block diagram shows the flow and functions of the hardware and firmware of POCKET SCIENCE LAB(PSLab)*
+*The block diagram in the link below shows the flow and functions of the hardware and firmware of POCKET SCIENCE LAB(PSLab)*
 
 [Functional diagram of Hradware and firmware of PSLab](https://github.com/fossasia/pslab-hardware#block-diagram)
 
