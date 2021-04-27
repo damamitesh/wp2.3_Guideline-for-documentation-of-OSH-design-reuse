@@ -31,10 +31,14 @@
 
  ```
   Metadata:
- 
-    -  
-    -   
+  It includes the analysis of simulation for a better understanding of design specifications. 
+    -  Results of vitural protoypes
+       - Mechanics simulations
+       - physics simulations
+       - Thermo-mechanical simulations
+       - Electronical simulations 
   ```
+  
  ### **2. Kinematic models**
  
  - **Definition:** *The kinematic model studies the motion of a mechanism regardless of forces and torque that cause it.*
