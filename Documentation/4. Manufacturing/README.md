@@ -2,26 +2,28 @@
 
 *I would like to enable makers to understand the process by which raw materials transform into a final product.*
 
-## **What manufacturing technology do you use?**
+## **How to document a Structural model?**
+
+### **1. What manufacturing technology do you use?**
 
 - **Definition:** *Manufacturing technology means all the machinery, equipment and processes that are used to manufacture products.*
 
 - **Comments:**
 
-  -   
+  - *One of the main advantages of manufacturing technology is quality enhancement.*
+  - *Manufacturing technologies help boost operational productivity in various ways. They remarkably increase flexibility by giving manufacturers the option to “have it their way”.*   
 
  ```
   Metadata:
  
-    -  
-  ```
-
 - 3D printing stereo lithography
 - Wire cutting 
 - Laser cutting
-- Etc.
+- Etc. 
+  ```
+#### *Example:* []() 
 
-## **What are the manufacturing instructions to make the product?**
+### **2. What are the manufacturing instructions to make the product?**
 
 - Manufacturing sequences
 - Tools for manufacturing process
@@ -36,7 +38,7 @@
   - Sanding after 3D printing, cold welding, gap filling, polishing, priming and painting, etc.  
 - Technical requirement such as performance, reliability, and availability
 
-## **How support the visualization of manufacturing process?**
+### **3. How support the visualization of manufacturing process?**
 
 - Photo 
 - Video 
