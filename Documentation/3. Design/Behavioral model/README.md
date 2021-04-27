@@ -42,7 +42,7 @@
 - **Comments:**
 
   - *The "kinematics" generally refers to the study of properties of motion-- position, velocity, acceleration, etc.-- without any consideration of why those quantities have the values they do. "Dynamics" is concerned with the relationship between the forces acting on a mechanism and the accelerations they produce. "Statics" means a study of forces in equilibrium without consideration of changes over time.*
-  - *The kinematic model can be represented as a tree structure. The tree describes the kinematic chain, i.e., the connection of links with joints, and the inter-dependendencies of these links.* 
+  - *The kinematic model can be represented as a tree structure. The tree describes the kinematic chain, i.e., the connection of links with joints, and the inter-dependencies of these links.* 
   - *In design of robot, kinematic model allows to compute the position and orientation of robot manipulator's end-effector relative to the base of the manipulator as a function of the joint variables.*
   
  #### *Example 1: [Arduino IoT Robotic Arm](https://www.hackster.io/aerdronix/arduino-iot-robotic-arm-5a4401)*
@@ -51,11 +51,11 @@
 
 ```
   Metadata:
-  It incudes the description of kinematic model in dynamic and statics form and represenation of structure of kinematic model (Refer to example 1 and 2).
+   It includes the description of the kinematic model in dynamic and statics form and representation of the structure of the kinematic model (Refer to example 1 and 2)
   
   - Represenation of kinematic model   
-    - dynamic model 
-    - Static model
+    - Description of dynamic model 
+    - Description of static model
   ```
 
  ### **3. Open-source behavioral modelling environment**
