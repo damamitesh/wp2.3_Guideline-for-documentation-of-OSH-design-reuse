@@ -1,6 +1,20 @@
 # **Manufacturing**
 
+*I would like to enable makers to understand the process by which raw materials transform into a final product.*
+
 ## **What manufacturing technology do you use?**
+
+- **Definition:** *Manufacturing technology means all the machinery, equipment and processes that are used to manufacture products.*
+
+- **Comments:**
+
+  -   
+
+ ```
+  Metadata:
+ 
+    -  
+  ```
 
 - 3D printing stereo lithography
 - Wire cutting 
