@@ -25,21 +25,37 @@
 
 ### **2. What are the manufacturing instructions to make the product?**
 
+- **Definition:** Manufacturing Instructions means full descriptions and instructions concerning Raw Materials usage, operating conditions, process and quality standards to be employed in the Manufacture of Products.*
+
+ ```
+  Metadata:
+ 
 - Manufacturing sequences
 - Tools for manufacturing process
-- Bill of material (BOM)
+- Bill of material (BOM) that consists:
   - Part number
   - Item name
   - Description
   - Quantity
   - Etc.
 - Reference of material selection
-- Post processing and its tool kit 
-  - Sanding after 3D printing, cold welding, gap filling, polishing, priming and painting, etc.  
-- Technical requirement such as performance, reliability, and availability
+- Post processing and its tool kit, include: 
+  - Sanding after 3D printing
+  - Cold welding
+  - Gap filling
+  - Polishing
+  - Priming and painting
+  - Etc.
+- Etc. 
+  ```
+  
+#### *Example:* [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Build_Sequence) 
 
 ### **3. How support the visualization of manufacturing process?**
-
+ ```
+  Metadata:
+ 
 - Photo 
 - Video 
 - Etc.
+ ```
