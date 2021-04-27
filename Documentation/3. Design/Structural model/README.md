@@ -19,7 +19,6 @@
 
 ## **How to document a Structural model?**
 
-
  ### **1. Architectural structure**
 
 - **Definition:** *The architectural structure is a physical or logical layout of the components of a system design and their internal and external connections.*
