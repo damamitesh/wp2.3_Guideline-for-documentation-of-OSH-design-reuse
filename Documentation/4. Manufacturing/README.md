@@ -21,7 +21,7 @@
 - Laser cutting
 - Etc. 
   ```
-#### *Example:* []() 
+#### *Example:* [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/mechanical/body_assembly#3-machiningfabrication) 
 
 ### **2. What are the manufacturing instructions to make the product?**
 
