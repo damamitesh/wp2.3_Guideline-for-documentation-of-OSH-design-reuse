@@ -84,12 +84,13 @@
 
 ![Image of functional tree](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Functional%20graph%20of%20XYZ%20cargo%20ADD-ONS.jpg)
 
+> Figure 2. Articulation of relationships between technical functions 
+
 #### *Example 2 of functional Graph*:
 *This block diagram shows the flow and functions of the hardware and firmware of POCKET SCIENCE LAB(PSLab)*
 
 [Functional diagram of Hradware and firmware of PSLab](https://github.com/fossasia/pslab-hardware#block-diagram)
 
-> Figure 2. Articulation of relationships between technical functions 
 
 ### **3. Functional modelling language**
 
