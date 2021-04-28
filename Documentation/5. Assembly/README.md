@@ -23,7 +23,6 @@
 - Description of machining and joining technology (drilling, screwing, bolting, etc.)
 - Etc.
   ```
-#### *Example:* [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/mechanical/body_assembly) 
 
 ### **2. Would you change anything to make the item easier to assemble?**
 
@@ -32,3 +31,7 @@
 - Images 
 - Videos 
 - Etc.
+
+#### *Example 1:* [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/mechanical/body_assembly)
+
+#### *Example 2:* [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Assembly) , [Assembly instructions](https://ohai.satnogs.org/project/satnogs-rotator-v3-mechanical-assembly/hardware/) 
