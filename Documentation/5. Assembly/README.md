@@ -15,6 +15,7 @@
  ```
   Metadata:
  
+- Assembly sequences
 - Part list
   - What parts are made?
   - What parts are bought?
@@ -26,7 +27,7 @@
 
 ### **2. Would you change anything to make the item easier to assemble?**
 
-### **3. How support the visualization of Assembly process?**
+### **3. How to support the visualization of the ssembly and disassembly process?**
 
 - Images 
 - Videos 
