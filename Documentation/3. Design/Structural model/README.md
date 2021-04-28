@@ -52,9 +52,13 @@
   - *The standard file formats support rapid prototyping, 3D printing, and the surface geometry of a 3D design without the possibility for modification. For example, the standard design file formats include: CAD files in an interchange format (STL format), 2D drawings (SVG or JPEG), Manufacturing export formats (G-code, STEP-NC), Circuit board design formats (Gerber RS-274X, Excellon file.*
 
 #### *Example of design file formats:* 
-*1. [MIT Emergency Ventilator CAD files](https://e-vent.mit.edu/resources/downloads/)*
+*1. [MIT Emergency Ventilator, Native CAD files (STEP format)](https://e-vent.mit.edu/resources/downloads/)*
 
-*2. [Farmbot CAD files](https://genesis.farm.bot/v1.5/Extras/cad)*
+*2. [Farmbot, Native CAD files](https://genesis.farm.bot/v1.5/Extras/cad)*
+
+*3. [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Specifications),[2D drawing file]((https://wiki.satnogs.org/File:C1001.png)*
+
+*4. [Automated Tea Infuser](https://wikifactory.com/+fablabbratislava/automated-tea-infuser/contributions/3f2c490)*
 
   ```
   Metadata:
