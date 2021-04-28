@@ -14,11 +14,7 @@
  ```
   Metadata:
  
-- 3D printing stereo lithography
-- Wire cutting 
-- Laser cutting
-- CNC
-- Etc. 
+-  
   ```
   
 - Part list
