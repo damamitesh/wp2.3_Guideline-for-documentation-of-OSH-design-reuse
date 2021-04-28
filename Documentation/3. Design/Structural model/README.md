@@ -30,11 +30,16 @@
 
  ```
   Metadata:
- It includes all of the components and their sub-components. Moreover, documentation of components of design should provide the information to answer the question that include:  
-    -  how is possible to provide/make them (for example, kit, board, etc.)? 
-    -  Is it possible to buy them?  
-    -  How is possible to reproduce the device of electrical components? 
-    -  etc. 
+ It includes all of the components and their sub-components.
+ 
+ - Architecttural representation of structure
+ 
+ Moreover, documentation of components of design should provide the information to answer the question that include:
+ 
+ -  How should provide/make the components (for example, kit, board, etc.)?  
+ -  Is it possible to buy the components?  
+ -  How to reproduce the device of electrical components?
+ -  etc. 
   ```
 
 #### *Example of architectural structure:* [PSLab](https://pslab.io/) 
