@@ -58,7 +58,7 @@
   
 #### *Example:* [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Build_Sequence) 
 
-### **3. How support the visualization of manufacturing process?**
+### **3. How to support the visualization of the manufacturing process?**
 
  ```
   Metadata:
