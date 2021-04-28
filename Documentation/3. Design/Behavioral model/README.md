@@ -36,7 +36,8 @@
        - Mechanics simulations
        - physics simulations
        - Thermo-mechanical simulations
-       - Electronical simulations 
+       - Electronical simulations
+       - Etc. 
   ```
   
  ### **2. Kinematic models**
