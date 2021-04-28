@@ -25,13 +25,26 @@
 - Etc.
   ```
 
-### **2. Would you change anything to make the item easier to assemble?**
+### **2. How does the disassembly instruction look like?**
 
-### **3. How to support the visualization of the ssembly and disassembly process?**
-
-- Images 
-- Videos 
+ ```
+  Metadata:
+ 
+- disassembly sequences
+- List of the tools for disassembly 
 - Etc.
+  ```
+### **3. Would you change anything to make the item easier to assemble?**
+
+### **4. How to support the visualization of the ssembly and disassembly process?**
+
+ ```
+  Metadata:
+ 
+- Images 
+- Videos
+- Etc.
+  ```
 
 #### *Example 1:* [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/mechanical/body_assembly)
 
