@@ -56,9 +56,10 @@
 
 *2. [Farmbot, Native CAD files](https://genesis.farm.bot/v1.5/Extras/cad)*
 
-*3. [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Specifications),[2D drawing file]((https://wiki.satnogs.org/File:C1001.png)*
+*3. [Automated Tea Infuser, Standard file (STL format)](https://wikifactory.com/+fablabbratislava/automated-tea-infuser/contributions/3f2c490)*
 
-*4. [Automated Tea Infuser](https://wikifactory.com/+fablabbratislava/automated-tea-infuser/contributions/3f2c490)*
+*4. [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Specifications),[2D drawing file](https://wiki.satnogs.org/File:C1001.png)*
+
 
   ```
   Metadata:
