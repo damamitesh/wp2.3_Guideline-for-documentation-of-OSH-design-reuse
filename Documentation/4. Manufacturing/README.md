@@ -38,7 +38,7 @@
   - Second process
   - Third process
   - ...
-  - Post processing and its tool kit. For example: 
+  - Post-processing and its tool kit. For example: 
     - Sanding after 3D printing
     - Cold welding
     - Gap filling
