@@ -17,7 +17,7 @@
 * Structural model provides users with a physical model of the product, components, and characteristics of the material at the design phase that enable the stakeholder to understand the geometry, material reaction to external factors, etc.
 * The structural model ensures that the structures are safe and fulfill the functions for which they were built.
 
-## **How to document a Structural model?**
+## **How to document a structural model?**
 
  ### **1. Architectural structure**
 
