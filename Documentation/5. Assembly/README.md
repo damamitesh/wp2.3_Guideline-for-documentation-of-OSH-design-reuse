@@ -6,11 +6,11 @@
 
 ### **1. How does the assembly instruction look like?**
 
-- **Definition:** *The instructions included with a product to show visually and with words and text how to assemble the product.*
+- **Definition:** *The instructions show visually and with words and text how to assemble the product.*
 
 - **Comments:**
 
-  - *Assembly instructions could illustrate assembling the hardware and using the hardware. It consists electronical and mechanical assembly.*
+  - *Assembly instructions could illustrate assembling the hardware and using the hardware. It consists of electrical and mechanical assembly.*
 
  ```
   Metadata:
@@ -20,10 +20,10 @@
   - What parts are bought?
 - Datasheet of components
 - List of the tools for assembly 
-- Casing layout
-- Description of joining technology (screwing, bolting, etc.)
+- Description of machining and joining technology (drilling, screwing, bolting, etc.)
 - Etc.
   ```
+#### *Example:* [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/mechanical/body_assembly) 
 
 ### **2. Would you change anything to make the item easier to assemble?**
 
