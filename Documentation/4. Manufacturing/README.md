@@ -19,43 +19,51 @@
 - 3D printing stereo lithography
 - Wire cutting 
 - Laser cutting
+- CNC
 - Etc. 
   ```
 #### *Example:* [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/mechanical/body_assembly#3-machiningfabrication) 
 
 ### **2. What are the manufacturing instructions to make the product?**
 
-- **Definition:** Manufacturing Instructions means full descriptions and instructions concerning Raw Materials usage, operating conditions, process and quality standards to be employed in the Manufacture of Products.*
+- **Definition:** Manufacturing Instructions means full descriptions and instructions concerning raw materials usage, operating conditions, process and quality standards to be employed in the manufacture of products.*
 
  ```
   Metadata:
  
-- Manufacturing sequences
-- Tools for manufacturing process
+- Manufacturing sequences and its tool kit.
+  - First process
+    - Process name
+    - Machine parameters (For example: Milling, Drilling, Tapping, etc.)
+  - Second process
+  - Third process
+  - ...
+  - Post processing and its tool kit. For example: 
+    - Sanding after 3D printing
+    - Cold welding
+    - Gap filling
+    - Polishing
+    - Priming and painting
+    - Etc.  
 - Bill of material (BOM) that consists:
   - Part number
   - Item name
   - Description
   - Quantity
+  - cost
   - Etc.
 - Reference of material selection
-- Post processing and its tool kit, include: 
-  - Sanding after 3D printing
-  - Cold welding
-  - Gap filling
-  - Polishing
-  - Priming and painting
-  - Etc.
 - Etc. 
   ```
   
 #### *Example:* [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Build_Sequence) 
 
 ### **3. How support the visualization of manufacturing process?**
+
  ```
   Metadata:
  
-- Photo 
-- Video 
+- Images 
+- Videos 
 - Etc.
  ```
