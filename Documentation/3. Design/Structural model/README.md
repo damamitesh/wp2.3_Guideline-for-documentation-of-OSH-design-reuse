@@ -29,7 +29,7 @@
   - *An architectural structure can represent in the format a tree or graph by SysML or UML, etc.*  
 
  ```
-  Metadata:
+ 
  It includes all of the components and their sub-components.
  
  - Architecttural representation of structure
@@ -67,7 +67,6 @@
 
 
   ```
-  Metadata:
   
   - CAD files
     - Native file format
@@ -84,7 +83,6 @@
   - *A description of material characteristics will provide information that designers could consider in selecting materials for a given application.*
 
 ```
-  Metadata:
   
   - Mechanical characteristics like hardness, elasticity, plasticity, toughness, etc. 
   - Manufacturing properties like castability, machinability rating, etc.
@@ -105,7 +103,6 @@
   ### **4. Open-source structural modelling environment**
 
 ```
-  Metadata:
   
   - OpensCAD
   - Inkscape
