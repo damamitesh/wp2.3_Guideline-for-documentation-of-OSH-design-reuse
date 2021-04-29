@@ -49,9 +49,7 @@
 
 #### *Tempalte of functional tree*:
 
-![Image of functional tree](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Functional%20tree%20of%20XYZ%20Cargo%20ADD-ONS%20.jpg)
 
-> Figure 1. Breaking down of a service function (root) into technical functions
 
 ### **2. Functional graph**
 
@@ -62,12 +60,8 @@
 
   - *Relationships between functions are in/out-going flows of matter, energy or information.*
   - *Logical AND/OR gates can be used to define concurrent or sequential functions.*
-
-  ```
-  Metadata:
+  - *Articulation of technical function can describe as input-output relationships transforming flows by using the functional modeling language in the format of the graph*
   
-  - Description of articulation of technical function as input-output relationships transforming flows by using the functional modeling language in the format of the graph
-  ```
 #### *Example 1 of functional Graph*:
 *Functional graph of the relationship between technical functions for maintaining of food quality by ADD-ONS of XYZ cargo*
 
