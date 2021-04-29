@@ -28,7 +28,6 @@
   - *A top-down and bottom up reading of the functional tree provides insight on the “how” and “why”, respectively.*
   - *The decomposition process should be stopped when technical function is sufficiently detailed to reuse, make, or buy a design solution.*
   - *The functional requirements should identify for decomposition of functions. The functional requirement includes: What we want to achieve a minimum set of requirements a system must satisfy.([Specification](https://github.com/OPEN-NEXT/wp2.3_template/tree/main/Documentation/2.%20Specification#specification))*
-  - *Conceptualize  the  solution  through  synthesis involves the task of satisfying several different functional requirements.*
 
   ```
   It includes the frunctional requirements and solution of functional requirement.
@@ -36,10 +35,6 @@
   - Functional requirements (FR)
     - FR1: ...
     - FR2: ...
-    - ...
-  - Solutions (S)
-    - S1: ...
-    - S2: ...
     - ...
   ```
 
@@ -51,12 +46,6 @@
     - FR1: To maintain the quality of food, food producer needs to main the material at cold temperature (between 3 °C and 10 °C) for short-term preservation (3h) or long-term preservation (24h).
     - FR2: ADD-ONS shall fix the internal ADD-ONS temperature for 7 °C.
     - FR3: to create a cold ambient in the cooling down system, the ADD-ONS shall compress the low temperature and pressured gas to start the cooling cycle.
-    - ...
-
-  - Solutions (S)
-    - S1: A refrigerator can maintain material at a cold temperature for short-term preservation (3h) or long-term preservation (24h).
-    - S2: A refrigerator can cool down and preserve the temperature of internal ADD-ONS temperature for 7 °C.
-    - S3: To start the cooling down cycle of the internal ambient of ADD-ONS, a compressor constrict the low-temperature refrigerant gas to raise its pressure
     - ...
   ```
 ![Image of functional tree](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Functional%20tree%20of%20XYZ%20Cargo%20ADD-ONS%20.jpg)
