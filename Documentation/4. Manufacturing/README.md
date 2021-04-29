@@ -52,7 +52,7 @@
 ### **3. How to support the visualization of the manufacturing process?**
 
  ```
-  Metadata:
+
  
 - Images 
 - Videos 
