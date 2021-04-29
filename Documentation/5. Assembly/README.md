@@ -35,18 +35,8 @@
 - List of the tools for disassembly 
 - Etc.
   ```
-### **3. Would you change anything to make the item easier to assemble?**
 
- ```
-  Metadata:
- 
-- 
-- 
--
-...
-  ```
-
-### **4. How to support the visualization of the ssembly and disassembly process?**
+### **3. How to support the visualization of the ssembly and disassembly process?**
 
  ```
 
