@@ -30,24 +30,25 @@
   - *The functional requirements should identify for decomposition of functions. The functional requirement includes: What we want to achieve a minimum set of requirements a system must satisfy.([Specification](https://github.com/OPEN-NEXT/wp2.3_template/tree/main/Documentation/2.%20Specification#specification))*
 
   ```
-  It includes the frunctional requirements and solution of functional requirement.
-  
   - Functional requirements (FR)
     - FR1: ...
     - FR2: ...
     - ...
   ```
 
-#### *Example of functional tree*:
+#### *Example of functional requirements*:
 *Functional decomposition of service that ADD-ONS of XYZ cargo provides for the food producers to preserve the quality of food in* [XYZ CARGO ADD-ONS](https://projects.opennext.eu/@xyz-cargo-add-ons/xyz-cargo-add-ons)
 
   ```
   - Functional requirements (FR)
     - FR1: To maintain the quality of food, food producer needs to main the material at cold temperature (between 3 °C and 10 °C) for short-term preservation (3h) or long-term preservation (24h).
     - FR2: ADD-ONS shall fix the internal ADD-ONS temperature for 7 °C.
-    - FR3: to create a cold ambient in the cooling down system, the ADD-ONS shall compress the low temperature and pressured gas to start the cooling cycle.
+    - FR3: To create a cold ambient in the cooling down system, the ADD-ONS shall compress the low temperature and pressured gas to start the cooling cycle.
     - ...
   ```
+
+#### *Tempalte of functional tree*:
+
 ![Image of functional tree](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Functional%20tree%20of%20XYZ%20Cargo%20ADD-ONS%20.jpg)
 
 > Figure 1. Breaking down of a service function (root) into technical functions
@@ -83,8 +84,6 @@
 ### **3. Functional modelling language**
 
 ```
-
-  
   - UML (Use Case diagram)
   - SysML (Block Definition, Activity, or Internal Block diagram)
   - SADT/IDEF0 
@@ -95,8 +94,7 @@
   ### **4. Open-source functional modelling environment**
 
 ```
-
-  
+ 
   - Papyrus
   - Modelio
   - Capella
