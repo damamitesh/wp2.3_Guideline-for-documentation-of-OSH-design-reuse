@@ -30,7 +30,7 @@
  #### *Example of Virtual prototype: [Tensor Mechanics Module](https://mooseframework.inl.gov/modules/tensor_mechanics/index.html)*
 
  ```
-  Metadata:
+
   It includes the analysis of simulation for a better understanding of design specifications. 
     -  Results of vitural protoypes
        - Mechanics simulations
@@ -55,7 +55,7 @@
  #### *Example 2: [Compas FAB](https://gramaziokohler.github.io/compas_fab/latest/examples/02_description_models/01_kinematic_model.html)*
 
 ```
-  Metadata:
+ 
    It includes the description of the kinematic model in dynamic and statics form and representation of the structure of the kinematic model (Refer to example 1 and 2)
   
   - Represenation of kinematic model   
@@ -66,7 +66,7 @@
  ### **3. Open-source behavioral modelling environment**
 
 ```
-  Metadata:
+
   
   - Scilab
   - Open Modelica
