@@ -13,15 +13,7 @@
   - *One of the main advantages of manufacturing technology is quality enhancement.*
   - *Manufacturing technologies help boost operational productivity in various ways. They remarkably increase flexibility by giving manufacturers the option to “have it their way”.*   
 
- ```
-  Metadata:
- 
-- 3D printing stereo lithography
-- Wire cutting 
-- Laser cutting
-- CNC
-- Etc. 
-  ```
+
 #### *Example:* [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/mechanical/body_assembly#3-machiningfabrication) 
 
 ### **2. What are the manufacturing instructions to make the product?**
