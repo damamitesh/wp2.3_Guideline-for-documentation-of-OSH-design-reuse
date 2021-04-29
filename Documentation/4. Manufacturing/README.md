@@ -29,14 +29,13 @@
 - **Definition:** Manufacturing Instructions means full descriptions and instructions concerning raw materials usage, operating conditions, process and quality standards to be employed in the manufacture of products.*
 
  ```
-  Metadata:
+
  
 - Manufacturing sequences and its tool kit.
-  - First process
-    - Process name
-    - Machine parameters (For example: Milling, Drilling, Tapping, etc.)
-  - Second process
-  - Third process
+  - Process
+    - Process name(For example: Milling, Drilling, Tapping, etc.)
+    - Machine name
+    - materials 
   - ...
   - Post-processing and its tool kit. For example: 
     - Sanding after 3D printing
