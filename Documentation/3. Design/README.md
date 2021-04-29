@@ -8,7 +8,7 @@
 
 ![Image of FBS](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/FBS.jpg)
 
-> *Figure 1. Same function, different behaviour, different structure* 
+> *Figure 1. Same function, different behaviour, different structure (Rosenman & Gero, 1998)* 
 
 
 *Moreover, it should describe the complexity of product via:* 
