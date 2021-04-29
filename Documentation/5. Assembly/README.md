@@ -13,7 +13,7 @@
   - *Assembly instructions could illustrate assembling the hardware and using the hardware. It consists of electrical and mechanical assembly.*
 
  ```
-  Metadata:
+
  
 - Assembly sequences
 - Part list
@@ -22,6 +22,7 @@
 - Datasheet of components
 - List of the tools for assembly 
 - Description of machining and joining technology (drilling, screwing, bolting, etc.)
+- Visulization ( images, videos, etc).
 - Etc.
   ```
 
@@ -48,7 +49,7 @@
 ### **4. How to support the visualization of the ssembly and disassembly process?**
 
  ```
-  Metadata:
+
  
 - Images 
 - Videos
