@@ -31,7 +31,6 @@
   - *Conceptualize  the  solution  through  synthesis involves the task of satisfying several different functional requirements.*
 
   ```
-
   It includes the frunctional requirements and solution of functional requirement.
   
   - Functional requirements (FR)
