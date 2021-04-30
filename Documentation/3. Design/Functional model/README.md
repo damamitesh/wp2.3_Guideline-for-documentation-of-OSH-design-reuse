@@ -47,9 +47,9 @@
 
 #### *Example and template of functional tree*:
 
-*The decomposition of technical functions creates a functional tree and, the technical functions are defined based on the functional requirements. Functional tree of mentioned example about the refrigerator on the ADD-ONS represented in the link below and, you can use it as a template to define the functional tree of your project/ product.*
+*The decomposition of technical functions creates a functional tree and, the technical functions are defined based on the functional requirements. Functional tree of mentioned example about the refrigerator on the ADD-ONS represented in the link below and, you can use it as a template to define the functional tree of your project/product.*
 
-#### *[Tempalte of functional tree](https://app.diagrams.net/#G1EqpAVkNAmx8KzblQqgSOSND7bq5UQ069)*
+#### *[Template of functional tree](https://app.diagrams.net/#G1EqpAVkNAmx8KzblQqgSOSND7bq5UQ069)*
 
 
 ### **2. Functional graph**
@@ -62,8 +62,8 @@
   - *Logical AND/OR gates can be used to define concurrent or sequential functions.*
   - *Articulation of technical function can describe as input-output relationships transforming flows by using the functional modeling language in the format of the graph*
   
-#### *Example 1 of functional Graph*:
-*Functional graph of the relationship between technical functions for maintaining of food quality by ADD-ONS of XYZ cargo based on the functional tree*
+#### *Example 1 and template of functional graph*:
+*Functional graph of the relationship between technical functions for maintaining food quality by ADD-ONS of XYZ cargo based on the functional tree. This template can be used as a template to define the technical graph of your project/product.*
 
 #### *[Template of functional graph](https://app.diagrams.net/?libs=general;er#G1Vu8S5Zbqh19NMXCAXzxuCz5O-CRGU6Mm)*
 
