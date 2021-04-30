@@ -57,7 +57,7 @@
 #### *Example 1 of functional Graph*:
 *Functional graph of the relationship between technical functions for maintaining of food quality by ADD-ONS of XYZ cargo based on the functional tree*
 
-![Template of functional graph](https://app.diagrams.net/?libs=general;er#G1Vu8S5Zbqh19NMXCAXzxuCz5O-CRGU6Mm)
+#### *[Template of functional graph](https://app.diagrams.net/?libs=general;er#G1Vu8S5Zbqh19NMXCAXzxuCz5O-CRGU6Mm)*
 
 
 #### *Example 2 of functional Graph*:
