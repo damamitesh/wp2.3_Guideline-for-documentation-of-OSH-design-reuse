@@ -49,7 +49,7 @@
     - ...
   ```
 
-#### *[Tempalte of functional tree*:https](https://app.diagrams.net/#G1EqpAVkNAmx8KzblQqgSOSND7bq5UQ069)
+#### *[Tempalte of functional tree](https://app.diagrams.net/#G1EqpAVkNAmx8KzblQqgSOSND7bq5UQ069)*
 
 
 
