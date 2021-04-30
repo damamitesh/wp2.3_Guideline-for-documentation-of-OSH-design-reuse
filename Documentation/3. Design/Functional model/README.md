@@ -39,6 +39,8 @@
 #### *Example of functional requirements*:
 *Functional decomposition of service that ADD-ONS of XYZ cargo provides for the food producers to preserve the quality of food in* [XYZ CARGO ADD-ONS](https://projects.opennext.eu/@xyz-cargo-add-ons/xyz-cargo-add-ons)
 
+*To maintain the quality of food, the physical requirement is a refrigerator that has two functions including cooling down and temperature preserving.*
+
   ```
   - Functional requirements (FR)
     - FR1: To maintain the quality of food, food producer needs to main the material at cold temperature (between 3 °C and 10 °C) for short-term preservation (3h) or long-term preservation (24h).
