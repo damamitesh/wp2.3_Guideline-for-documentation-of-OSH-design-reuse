@@ -74,7 +74,11 @@
 [Functional diagram of Hradware and firmware of PSLab](https://github.com/fossasia/pslab-hardware#block-diagram)
 
 
-### **3. Functional modelling language**
+## **How to draw a functional model?**
+
+### Functional modelling language**
+
+*Functional modelling languages is any artificial language that can be used to express information or knowledge or system in a structure that is defined by a consistent set of rules. These functional modeling languages help to represent the functional tree and graph.* 
 
 ```
   - UML (Use Case diagram)
@@ -84,10 +88,11 @@
  
   ```
   
-  ### **4. Open-source functional modelling environment**
+  ### Open-source functional modelling environment**
+
+*The open-source software can use to draw the functional models through the representation by using the functional modeling language.*
 
 ```
- 
   - Papyrus
   - Modelio
   - Capella
