@@ -29,13 +29,6 @@
   - *The decomposition process should be stopped when technical function is sufficiently detailed to reuse, make, or buy a design solution.*
   - *The functional requirements should identify for decomposition of functions. The functional requirement includes: What we want to achieve a minimum set of requirements a system must satisfy.([Specification](https://github.com/OPEN-NEXT/wp2.3_template/tree/main/Documentation/2.%20Specification#specification))*
 
-  ```
-  - Functional requirements (FR)
-    - FR1: ...
-    - FR2: ...
-    - ...
-  ```
-
 #### *Example of functional requirements*:
 *Functional decomposition of service that ADD-ONS of XYZ cargo provides for the food producers to preserve the quality of food in [XYZ CARGO ADD-ONS](https://projects.opennext.eu/@xyz-cargo-add-ons/xyz-cargo-add-ons) by a refrigerator including cooling down and temperature preserving.* 
 
@@ -51,9 +44,7 @@
 #### *[Tempalte of functional tree](https://app.diagrams.net/#G1EqpAVkNAmx8KzblQqgSOSND7bq5UQ069)*
 
 
-
 ### **2. Functional graph**
-
 
 - **Definition:** *The functional graph is a multi-level logical articulation of technical functions.*
 
@@ -66,9 +57,8 @@
 #### *Example 1 of functional Graph*:
 *Functional graph of the relationship between technical functions for maintaining of food quality by ADD-ONS of XYZ cargo based on the functional tree*
 
-![Image of functional tree](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Functional%20graph%20of%20XYZ%20cargo%20ADD-ONS.jpg)
+![Template of functional graph](https://app.diagrams.net/?libs=general;er#G1Vu8S5Zbqh19NMXCAXzxuCz5O-CRGU6Mm)
 
-> Figure 2. Articulation of relationships between technical functions 
 
 #### *Example 2 of functional Graph*:
 *The block diagram in the link below shows the flow and functions of the hardware and firmware of POCKET SCIENCE LAB(PSLab)*
