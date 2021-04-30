@@ -27,19 +27,24 @@
 
   - *A top-down and bottom up reading of the functional tree provides insight on the “how” and “why”, respectively.*
   - *The decomposition process should be stopped when technical function is sufficiently detailed to reuse, make, or buy a design solution.*
-  - *The functional requirements should identify for decomposition of functions. The functional requirement includes: What we want to achieve a minimum set of requirements a system must satisfy.([Specification](https://github.com/OPEN-NEXT/wp2.3_template/tree/main/Documentation/2.%20Specification#specification))*
+  - *The functional requirement describes the achievement of the minimum set of requirements a system must satisfy.([Specification](https://github.com/OPEN-NEXT/wp2.3_template/tree/main/Documentation/2.%20Specification#specification))*
 
 #### *Example of functional requirements*:
-*Functional decomposition of service that ADD-ONS of XYZ cargo provides for the food producers to preserve the quality of food in [XYZ CARGO ADD-ONS](https://projects.opennext.eu/@xyz-cargo-add-ons/xyz-cargo-add-ons) by a refrigerator including cooling down and temperature preserving.* 
+*In below, we describe the functional requirement that ADD-ONS of XYZ cargo provides for the food producers to preserve the quality of food [XYZ CARGO ADD-ONS](https://projects.opennext.eu/@xyz-cargo-add-ons/xyz-cargo-add-ons).
 
 
   ```
-  - Functional requirements (FR) consist:
+  - In this example, we assumed a refrigerator on the ADD-ONS could help the food producers to cool down and preserve the temperature of foods. So, we defined some functional requirements (FR) based on this assumption that consist:
+ 
     - FR1: To maintain the quality of food, food producer needs to main the material at cold temperature (between 3 °C and 10 °C) for short-term preservation (3h) or long-term preservation (24h).
     - FR2: ADD-ONS shall fix the internal ADD-ONS temperature for 7 °C.
     - FR3: To create a cold ambient in the cooling down system, the ADD-ONS shall compress the low temperature and pressured gas to start the cooling cycle.
+    - FR4: the cooling down system shall control the pressure of exit hot gas 
+    - FR5: the hot and pressured exit gas needs to meet the cooler external ambient temperature to become a liquid.
     - ...
+
   ```
+*The decomposition of technical functions creates a functional tree and, the technical functions are defined based on the functional requirements. Functional tree of mentioned example about the refrigerator on the ADD-ONS represented in the link below and, you can use it as a template to define the functional tree of your project/ product.*
 
 #### *[Tempalte of functional tree](https://app.diagrams.net/#G1EqpAVkNAmx8KzblQqgSOSND7bq5UQ069)*
 
