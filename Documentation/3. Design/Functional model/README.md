@@ -64,7 +64,7 @@
   - *Articulation of technical function can describe as input-output relationships transforming flows by using the functional modeling language in the format of the graph*
   
 #### *Example 1 of functional Graph*:
-*Functional graph of the relationship between technical functions for maintaining of food quality by ADD-ONS of XYZ cargo*
+*Functional graph of the relationship between technical functions for maintaining of food quality by ADD-ONS of XYZ cargo based on the functional tree*
 
 ![Image of functional tree](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Functional%20graph%20of%20XYZ%20cargo%20ADD-ONS.jpg)
 
