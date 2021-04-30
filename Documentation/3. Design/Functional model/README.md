@@ -84,8 +84,8 @@
   - UML (Use Case diagram)
   - SysML (Block Definition, Activity, or Internal Block diagram)
   - SADT/IDEF0 
-  - Functional flow block diagram.
- 
+  - Functional flow block diagram
+  -Etc.
   ```
   
   ### **Open-source functional modelling environment**
@@ -96,5 +96,5 @@
   - Papyrus
   - Modelio
   - Capella
-  - etc.
+  - Etc.
   ```
