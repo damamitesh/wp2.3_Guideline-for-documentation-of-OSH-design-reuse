@@ -69,9 +69,15 @@
 
 
 #### *Example 2 of functional Graph*:
-*The block diagram in the link below shows the flow and functions of the hardware and firmware of POCKET SCIENCE LAB(PSLab)*
+*The link below show some functional block diagrams of kinds of open-source projects*
 
-[Functional diagram of Hradware and firmware of PSLab](https://github.com/fossasia/pslab-hardware#block-diagram)
+* [Functional diagram of Renesas’ ventilator](https://www.rs-online.com/designspark/ventilator-design-solution-from-renesas-electronics)
+
+* [Functional diagram of GlasVent emergency ventilator](https://https://onlinelibrary.wiley.com/doi/10.1002/gch2.202000046)
+
+* [Functional diagram of MPS Open-Source Ventilator](https://www.monolithicpower.com/applications/medical/ventilator-open-source.html)
+
+* * [Functional diagram of Open-Source-Ventilator](https://github.com/ermtl/Open-Source-Ventilator/blob/master/hardware/datasheets/A4988.pdf)
 
 
 ## **How to draw a functional model?**
