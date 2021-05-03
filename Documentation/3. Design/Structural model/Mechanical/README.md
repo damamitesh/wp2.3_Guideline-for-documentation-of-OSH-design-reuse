@@ -95,9 +95,6 @@ Different types of open-source software can be used for modeling a new design or
 
   - OpensCAD
   - Inkscape
-  - Tiny CAD
-  - KiCAD
-  - ADINA
   - Etc.
   ```
 
