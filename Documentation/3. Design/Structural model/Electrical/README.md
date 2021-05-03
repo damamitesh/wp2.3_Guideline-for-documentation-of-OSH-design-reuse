@@ -30,9 +30,9 @@ Documentation of architectural component should provide the information to answe
  -  etc. 
   ```
 
-#### *Example of architectural structure:* [PSLab](https://pslab.io/) 
+#### *Example of architectural structure:*  
 
-![Image of Structural graph of PSLab](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Structural_graph.png)
+
 
 
 ### **2. Modelling a design in native or standard file format**
@@ -59,7 +59,7 @@ Documentation of architectural component should provide the information to answe
   
   - CAD files
     - Native file format
-    - Standard file format
+ 
   ```
 
 ### **3. Characteristics of the materials**
