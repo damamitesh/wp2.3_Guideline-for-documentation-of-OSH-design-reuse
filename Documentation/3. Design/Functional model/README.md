@@ -96,7 +96,7 @@
   
   ### **Open-source functional modelling environment**
 
-*The open-source software can use to draw the functional models through the representation by using the functional modeling language.*
+*The open-source software can be used to draw the functional models through the representation by using the functional modeling language.*
 
 ```
   - Papyrus
