@@ -100,7 +100,7 @@
 
 > Source: Amr Assie, 2010.
   
-  ### **4. Open-source structural modelling environment**
+  ### **Open-source structural modelling environment**
 
 ```
   
