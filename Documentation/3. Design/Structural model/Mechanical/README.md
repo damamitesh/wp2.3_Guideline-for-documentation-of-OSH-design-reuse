@@ -7,12 +7,12 @@
 - **Comments:**
 
   - *An architectural structure shall specify the mechnical components and their sub-components. For example, te mechanical component a robot consist:*
-   * Joint combinations
-   * Brackets
-   * Gear
-   * motor shaft adapters
-   * stepper motor
-   * Etc.
+    * Joint combinations
+    * Brackets
+    * Gear
+    * motor shaft adapters
+    * stepper motor
+    * Etc.
   - *An architectural structure can represent in the format a tree or graph by SysML or UML, etc.*  
 
  ```
