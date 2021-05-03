@@ -6,20 +6,21 @@
 
 - **Comments:**
 
-  - *An architectural structure shall specify the component of the product such as mechanical component (motor shaft adapters, stepper motor, etc.), electrical component (DC motor, kit, resistor, etc.), etc.*
+  - *An architectural structure shall specify the mechnical components and their sub-components. For example, te mechanical component a robot consist:*
+   * Joint combinations
+   * Brackets
+   * Gear
+   * motor shaft adapters
+   * stepper motor
+   * Etc.
   - *An architectural structure can represent in the format a tree or graph by SysML or UML, etc.*  
 
  ```
+Documentation of architectural component should provide the information to answer the question that include:
  
- It includes all of the components and their sub-components.
- 
- - Architecttural representation of structure
- 
- Moreover, documentation of components of design should provide the information to answer the question that include:
- 
- -  How should provide/make the components (for example, kit, board, etc.)?  
+ -  How should provide/make the components?  
  -  Is it possible to buy the components?  
- -  How to reproduce the device of electrical components?
+ -  How to reproduce the components?
  -  etc. 
   ```
 
