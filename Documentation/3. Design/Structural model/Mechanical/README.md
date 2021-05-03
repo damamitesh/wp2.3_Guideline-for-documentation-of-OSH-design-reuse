@@ -86,10 +86,13 @@ You can use this template to define the architectural structure of your project/
 
 > Source: Amr Assie, 2010.
   
-  ### **Open-source structural modelling environment**
+ ## **How to model or modify a native design  file?**
+ 
+ ### **Open-source structural modelling environment**
 
 ```
-  
+*Different types of open-source software can be used for modeling a new design or modifying a native design file including*
+
   - OpensCAD
   - Inkscape
   - Tiny CAD
