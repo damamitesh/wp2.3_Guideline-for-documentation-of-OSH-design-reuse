@@ -91,7 +91,7 @@ You can use this template to define the architectural structure of your project/
  ### **Open-source structural modelling environment**
 
 ```
-*Different types of open-source software can be used for modeling a new design or modifying a native design file including*
+Different types of open-source software can be used for modeling a new design or modifying a native design file including
 
   - OpensCAD
   - Inkscape
