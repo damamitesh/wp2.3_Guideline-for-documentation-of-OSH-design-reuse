@@ -6,16 +6,23 @@
 
 - **Comments:**
 
-  - *An architectural structure shall specify the component of the product such as mechanical component (motor shaft adapters, stepper motor, etc.), electrical component (DC motor, kit, resistor, etc.), etc.*
+   - *An architectural structure shall specify the electricak components and their sub-components. For example, the electricak components a robot consist:*
+     *  DC motor
+     *  A/D converter
+     *  DC converters  
+     * Rotor
+     * Sensor system
+     * Motherboard
+     * kit
+     * Resistor
+     * Transistors
+     * IC
+     * Sensors
+     * Etc.
   - *An architectural structure can represent in the format a tree or graph by SysML or UML, etc.*  
 
  ```
- 
- It includes all of the components and their sub-components.
- 
- - Architecttural representation of structure
- 
- Moreover, documentation of components of design should provide the information to answer the question that include:
+Documentation of architectural component should provide the information to answer the question that include:
  
  -  How should provide/make the components (for example, kit, board, etc.)?  
  -  Is it possible to buy the components?  
@@ -34,7 +41,8 @@
 
 - **Comments:**
 
-  - *The native file format of design allows makers to study, modify and make an OSH design according to its license. For example, the native design file formats consist of 3D design in STEP format, 2D drawings in .cdr, .svg, .ai format, Circuit diagram in Tiny CAD file format, Printed Circuit Board (PCB) of electronic projects.*
+  - *The native file format of design allows makers to study, modify and make an OSH design according to its license. For examplePrinted Circuit Board (PCB) of electronic projects.*
+  
   - *The standard file formats support rapid prototyping, 3D printing, and the surface geometry of a 3D design without the possibility for modification. For example, the standard design file formats include: CAD files in an interchange format (STL format), 2D drawings (SVG or JPEG), Manufacturing export formats (G-code, STEP-NC), Circuit board design formats (Gerber RS-274X, Excellon file.*
 
 #### *Example of design file formats:* 
@@ -64,13 +72,8 @@
   - *A description of material characteristics will provide information that designers could consider in selecting materials for a given application.*
 
 ```
-  
-  - Mechanical characteristics like hardness, elasticity, plasticity, toughness, etc. 
-  - Manufacturing properties like castability, machinability rating, etc.
   - Electrical characteristics like electrical resistivity and conductibility, etc.
-  - Thermal characteristics like melting point,thermal conductivity, etc.
-  - Chemical properties like corrosion resistance, surface tension, etc.
-  - Etc.
+ 
   ```
   
   #### *Example of material characteristics*:
@@ -84,9 +87,6 @@
   ### **Open-source structural modelling environment**
 
 ```
-  
-  - OpensCAD
-  - Inkscape
   - Tiny CAD
   - KiCAD
   - ADINA
