@@ -69,7 +69,7 @@
 
 
 #### *Example 2 of functional Graph*:
-*The link below show some functional block diagrams of kinds of open-source projects*
+*The links below show some functional block diagrams of kinds of open-source projects*
 
 * [Functional diagram of Renesas’ ventilator](https://www.rs-online.com/designspark/ventilator-design-solution-from-renesas-electronics)
 
@@ -80,7 +80,7 @@
 * [Functional diagram of Open-Source-Ventilator](https://github.com/ermtl/Open-Source-Ventilator/blob/master/hardware/datasheets/A4988.pdf)
 
 
-## **How to draw a functional model?**
+## **How to express and draw a functional model?**
 
 ### **Functional modelling language**
 
