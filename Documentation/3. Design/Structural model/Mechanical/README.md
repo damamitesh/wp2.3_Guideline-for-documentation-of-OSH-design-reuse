@@ -34,7 +34,7 @@ Documentation of architectural component should provide the information to answe
 
 You can use this template to define the architectural structure of your project/product.
 
-#### *[Template of architectural structure](https://www.monolithicpower.com/en/mps-open-source-ventilator)*
+#### *[Template of architectural structure](https://app.diagrams.net/#G1GCkQGQB4dYQCXf016Il42YpoE1dwrAtm)*
 
 
 ### **2. Modelling a design in native or standard file format**
