@@ -24,9 +24,17 @@ Documentation of architectural component should provide the information to answe
  -  etc. 
   ```
 
-#### *Example of architectural structure:* [PSLab](https://pslab.io/) 
+#### *Example 1: Architectural structure of* [PSLab](https://pslab.io/) 
 
 ![Image of Structural graph of PSLab](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Structural_graph.png)
+
+#### *Example 2: architectural structure of* [MPS ventilator](https://www.monolithicpower.com/en/mps-open-source-ventilator)
+
+![Image of Structural graph of PSLab](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Structural_graph.png)
+
+You can use this template to define the architectural structure of your project/product.
+
+#### *[Template of architectural structure](https://www.monolithicpower.com/en/mps-open-source-ventilator)*
 
 
 ### **2. Modelling a design in native or standard file format**
