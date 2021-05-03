@@ -77,7 +77,7 @@
 
 * [Functional diagram of MPS Open-Source Ventilator](https://www.monolithicpower.com/applications/medical/ventilator-open-source.html)
 
-* * [Functional diagram of Open-Source-Ventilator](https://github.com/ermtl/Open-Source-Ventilator/blob/master/hardware/datasheets/A4988.pdf)
+* [Functional diagram of Open-Source-Ventilator](https://github.com/ermtl/Open-Source-Ventilator/blob/master/hardware/datasheets/A4988.pdf)
 
 
 ## **How to draw a functional model?**
