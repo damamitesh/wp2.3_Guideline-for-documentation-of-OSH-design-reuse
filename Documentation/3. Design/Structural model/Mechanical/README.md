@@ -6,7 +6,7 @@
 
 - **Comments:**
 
-  - *An architectural structure shall specify the mechnical components and their sub-components. For example, te mechanical component a robot consist:*
+  - *An architectural structure shall specify the mechnical components and their sub-components. For example, the mechanical components a robot consist:*
     * Joint combinations
     * Brackets
     * Gear
