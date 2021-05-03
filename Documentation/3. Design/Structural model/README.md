@@ -19,6 +19,14 @@
 
 ## **How to document a structural model?**
 
+*Documentation of the structural model can do in different part for each project including*
+
+* [Mechanic](https://github.com/OPEN-NEXT/wp2.3_template/tree/main/Documentation/3.%20Design/Structural%20model/Mechanical)
+
+* [Electronic](https://github.com/OPEN-NEXT/wp2.3_template/tree/main/Documentation/3.%20Design/Structural%20model/Electrical)
+
+* [Software](https://github.com/OPEN-NEXT/wp2.3_template/tree/main/Documentation/3.%20Design/Structural%20model/Software)
+
  ### **1. Architectural structure**
 
 - **Definition:** *The architectural structure is a physical or logical layout of the components of a system design and their internal and external connections.*
