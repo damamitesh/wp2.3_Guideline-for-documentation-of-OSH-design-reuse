@@ -21,9 +21,9 @@
 
 *Documentation of the structural model can be done in different sections for each project including*
 
-* [Mechanic](https://github.com/OPEN-NEXT/wp2.3_template/tree/main/Documentation/3.%20Design/Structural%20model/Mechanical)
+* [Mechanics](https://github.com/OPEN-NEXT/wp2.3_template/tree/main/Documentation/3.%20Design/Structural%20model/Mechanical)
 
-* [Electronic](https://github.com/OPEN-NEXT/wp2.3_template/tree/main/Documentation/3.%20Design/Structural%20model/Electrical)
+* [Electronics](https://github.com/OPEN-NEXT/wp2.3_template/tree/main/Documentation/3.%20Design/Structural%20model/Electrical)
 
 * [Software](https://github.com/OPEN-NEXT/wp2.3_template/tree/main/Documentation/3.%20Design/Structural%20model/Software)
 
