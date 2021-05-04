@@ -11,10 +11,17 @@
 - **Comments:**
 
   - *One of the main advantages of manufacturing technology is quality enhancement.*
-  - *Manufacturing technologies help boost operational productivity in various ways. They remarkably increase flexibility by giving manufacturers the option to “have it their way”.*   
+  - *Manufacturing technologies help boost operational productivity in various ways. They remarkably increase flexibility by giving manufacturers the option to “have it their way”.* 
+  - *The standard file formats support rapid prototyping, 3D printing, and the surface geometry of a 3D design without the possibility for modification. For example, the standard design file formats include: CAD files in an interchange format (STL format), 2D drawings (SVG or JPEG), Manufacturing export formats (G-code, STEP-NC), Circuit board design formats (Gerber RS-274X, Excellon file.*  
 
 
 #### *Example:* [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/mechanical/body_assembly#3-machiningfabrication) 
+
+#### *Examples of design file formats:* 
+
+*1. [Automated Tea Infuser, Standard file (STL format)](https://wikifactory.com/+fablabbratislava/automated-tea-infuser/contributions/3f2c490)*
+
+*2. [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Specifications), [2D drawing file](https://wiki.satnogs.org/File:C1001.png)*
 
 ### **2. What are the manufacturing instructions to make the product?**
 
@@ -49,7 +56,7 @@
   
 #### *Example:* [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Build_Sequence) 
 
-### **3. How to support the visualization of the manufacturing process?**
+### **How to support the visualization of the manufacturing process?**
 
  ```
 
