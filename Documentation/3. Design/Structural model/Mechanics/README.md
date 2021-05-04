@@ -46,7 +46,7 @@ You can use this template to define the architectural structure of your project/
   - *The native file format of design allows makers to study, modify and make an OSH design according to its license.* 
     - *The native design file formats consist:* 
        * 3D design such as STEP format
-       * Etc.
+       * 2D drawings such as .cdr, .svg, .ai format
     
 
 #### *Example of design file formats:* 
