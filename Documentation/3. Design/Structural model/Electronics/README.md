@@ -41,7 +41,7 @@ You can use this template to define the architectural structure of your product.
 
 
 
-### **2. Modelling a design in native or standard file format**
+### **2. Modelling a design in native file format**
 
 - **Definition:** *A file format is a standard way that information is encoded for storage in a computer file and the mechanical or electrical designs can be represented in 2D or 3D.*
 
