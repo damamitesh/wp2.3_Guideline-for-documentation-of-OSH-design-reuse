@@ -72,6 +72,7 @@ You can use this template to define the architectural structure of your project/
 
 ```
   The material characteristics of the structural model of mechanical parts consist: 
+  
   - Mechanical characteristics like hardness, elasticity, plasticity, toughness, etc. 
   - Manufacturing properties like castability, machinability rating, etc.
   - Thermal characteristics like melting point,thermal conductivity, etc.
