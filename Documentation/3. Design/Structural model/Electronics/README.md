@@ -47,24 +47,24 @@ You can use this template to define the architectural structure of your product.
 
 - **Comments:**
 
-  - *The native file format of design allows makers to study, modify and make an OSH design according to its license. For examplePrinted Circuit Board (PCB) of electronic projects.*
+  - *The native file format of design allows makers to study, modify and make an OSH design according to its license. 
+    - *The native design file formats consist:* 
+       * Printed Circuit Board (PCB)such as .gbr, .lib format 
+       * Schematic diagram 
+       * Etc.
   
-  - *The standard file formats support rapid prototyping, 3D printing, and the surface geometry of a 3D design without the possibility for modification. For example, the standard design file formats include: CAD files in an interchange format (STL format), 2D drawings (SVG or JPEG), Manufacturing export formats (G-code, STEP-NC), Circuit board design formats (Gerber RS-274X, Excellon file.*
 
-#### *Example of design file formats:* 
-*1. [MIT Emergency Ventilator, Native CAD files (STEP format)](https://e-vent.mit.edu/resources/downloads/)*
+#### *Example of native design file formats:* 
 
-*2. [Farmbot, Native CAD files](https://genesis.farm.bot/v1.5/Extras/cad)*
+*1. [AmbovVent](https://github.com/AmboVent-1690-108/AmboVent/tree/master/1-Electronics)*
 
-*3. [Automated Tea Infuser, Standard file (STL format)](https://wikifactory.com/+fablabbratislava/automated-tea-infuser/contributions/3f2c490)*
-
-*4. [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Specifications), [2D drawing file](https://wiki.satnogs.org/File:C1001.png)*
+*2. [Nasa-JPL](https://github.com/nasa-jpl/open-source-rover/tree/master/electrical/pcb/arduino_uno_sheild/gerbers/rev_b)*
 
 
   ```
   
   - CAD files
-    - Native file format
+    - Native electronic file format
  
   ```
 
