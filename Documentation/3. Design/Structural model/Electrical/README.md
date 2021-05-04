@@ -1,4 +1,4 @@
-## **How to document a electronical structural model?**
+## **How to document a structural model of electrical products?**
 
  ### **1. Architectural structure**
 
@@ -30,7 +30,13 @@ Documentation of architectural component should provide the information to answe
  -  etc. 
   ```
 
-#### *Example of architectural structure:*  
+#### *Example of Architectural structure of* [PX4 Vision](https://wikifactory.com/+holybro/px4-vision) 
+
+![Image of architectural structure of PX4 Vision](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Architecture%20of%20electrical%20structural%20model.jpg)
+
+You can use this template to define the architectural structure of your product.
+
+#### *[Template of architectural structure of electrical products ](https://app.diagrams.net/#G1oI6ne1JC-2uzSOeJaEgVNyJSjEN41-Xh)*
 
 
 
