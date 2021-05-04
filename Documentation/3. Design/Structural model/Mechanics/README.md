@@ -56,7 +56,7 @@ You can use this template to define the architectural structure of your project/
 
 
   ```
-  The stuctural model consist the native file format that provide the modifying a design for designers
+  The stuctural model consist the native file format that provide the modifying a design for designers.
   - CAD files
     - Native file format
   ```
@@ -92,7 +92,7 @@ You can use this template to define the architectural structure of your project/
  ### **Open-source structural modelling environment**
 
 ```
-Different types of open-source software can be used for modeling a new design or modifying a native design file including
+Different types of open-source software can be used for modeling a mechanical design or modifying a native design file including
 
   - OpensCAD
   - Inkscape
