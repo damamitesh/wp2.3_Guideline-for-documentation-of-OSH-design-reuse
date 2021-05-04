@@ -63,6 +63,7 @@ You can use this template to define the architectural structure of your product.
 
   ```
   
+  The stuctural model of electronic products consist the native file format that provide the modifying for designers.
   - CAD files
     - Native electronic file format
  
@@ -72,27 +73,20 @@ You can use this template to define the architectural structure of your product.
 
 - **Definition:** *The characteristics of the materials are those that make the materials have different reactions to heat, electricity, light, force, etc.* 
 
-- **Comments:**
-
-  - *Materials are chosen based on factors including working properties, aesthetics, environmental impact, function, manufacturing processes, etc. It is important to choose a material fit for the purpose.*
-  - *A description of material characteristics will provide information that designers could consider in selecting materials for a given application.*
 
 ```
+  The material characteristics of the structural model of electrical parts consist
+  
   - Electrical characteristics like electrical resistivity and conductibility, etc.
  
   ```
   
-  #### *Example of material characteristics*:
-  
-*Figure below shows the material characteristics of two bars due to the contact force.*
-
-![Image of material characteristics](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Material%20characteristics.jpg)
-
-> Source: Amr Assie, 2010.
   
   ### **Open-source structural modelling environment**
 
 ```
+Different types of open-source software can be used for modeling a electrical design or modifying a native design file including
+
   - Tiny CAD
   - KiCAD
   - ADINA
