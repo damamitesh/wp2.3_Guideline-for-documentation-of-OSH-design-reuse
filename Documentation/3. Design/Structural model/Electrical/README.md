@@ -6,10 +6,10 @@
 
 - **Comments:**
 
-   - *An architectural structure shall specify the electricak components and their sub-components. For example, the electricak components a robot consist:*
-     *  DC motor
-     *  A/D converter
-     *  DC converters  
+   - *An architectural structure shall specify the electricam components and their sub-components. For example, the electrical components a robot consist:*
+     * DC motor
+     * A/D converter
+     * DC converters  
      * Rotor
      * Sensor system
      * Motherboard
