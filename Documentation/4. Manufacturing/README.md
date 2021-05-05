@@ -10,7 +10,6 @@
 
  ### **Manufacturing instructions could include:** 
  
-  ```
  #### *1. Manufacturing technology*
  
  *It means all the machinery, equipment and processes that are used to manufacture products. So,documentation of manufacturing technology consists*
@@ -106,4 +105,4 @@
 - Images 
 - Videos 
 - Etc.
- ```
+
