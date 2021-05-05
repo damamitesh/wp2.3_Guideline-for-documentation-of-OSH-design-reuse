@@ -6,9 +6,9 @@
 
 ### **What are the manufacturing instructions to make the product?**
 
-- **Definition:** Manufacturing Instructions means full descriptions and instructions concerning raw materials usage, operating conditions, process and quality standards to be employed in the manufacture of products.*
+**Definition:** Manufacturing Instructions means full descriptions and instructions concerning raw materials usage, operating conditions, process and quality standards to be employed in the manufacture of products.*
 
- ```
+
  Manufacturing instruction could include: 
  
 1. Manufacturing technology means all the machinery, equipment and processes that are used to manufacture products. So,documentation of manufacturing technology consists
@@ -45,15 +45,15 @@
     - Priming and painting
     - Etc.  
 7. Bill of material (BOM) that consists:
-  - Part number
-  - Item name
-  - Description
-  - Quantity
-  - cost
-  - Etc.
+   - Part number
+   - Item name
+   - Description
+   - Quantity
+   - cost
+   - Etc.
 
 - Etc. 
- ```
+
 
 
 
