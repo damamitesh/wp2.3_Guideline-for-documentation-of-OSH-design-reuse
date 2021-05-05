@@ -35,10 +35,11 @@
        - Grinding
      - etc.
    - Machining parameters are all those parameters that are inherent to any machining operation and should have a suitable finite value to smooth and efficient removal of materials.
-    - Cutting velocity
-    - Feed rate
-    - Depth of cut
-    - Etc.
+   
+     - Cutting velocity
+     - Feed rate
+     - Depth of cut
+     - Etc.
    
 2. The standard file formats support rapid prototyping, 3D printing, and the surface geometry of a design without the possibility for modification. The standard design file formats include:
  
@@ -47,7 +48,7 @@
   - Manufacturing export formats such as G-code, STEP-NC
   - Circuit board design formats such as Gerber RS-274X, excellon 
     
-3. Describe nominal geometry and its allowable variation by using symbolic language on drawing  such as Geometric dimensioning and tolerancing (GD&T). It cab define in [2D drawing native fils](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Documentation/3.%20Design/Structural%20model/Mechanics/README.md#2-modelling-a-design-in-native-file-format)
+3. Describe nominal geometry and its allowable variation by using symbolic language on drawing  such as Geometric dimensioning and tolerancing (GD&T). It cab define in [2D drawing native files](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Documentation/3.%20Design/Structural%20model/Mechanics/README.md#2-modelling-a-design-in-native-file-format)
 
 4. Material selection
  
