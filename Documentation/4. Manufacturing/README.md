@@ -4,7 +4,53 @@
 
 ## **How to document a manufacturing process?**
 
-### **1. What manufacturing technology do you use?**
+### **What are the manufacturing instructions to make the product?**
+
+- **Definition:** Manufacturing Instructions means full descriptions and instructions concerning raw materials usage, operating conditions, process and quality standards to be employed in the manufacture of products.*
+
+ Manufacturing instruction could include: 
+ 
+1. Manufacturing technology means all the machinery, equipment and processes that are used to manufacture products. So,documentation of manufacturing technology consists
+
+  - Manufacturing sequences and its tool kit.
+    - Machine name 
+      - 3D printer stereo lithography
+      - Laser cutting machine
+      - Wire cutting machine
+      - CNC Machines
+      - Milling machines
+      - Drilling machines
+      - Grinding machines
+      - etc.
+    - Machining operation and process 
+      - 3D printing stereo lithography
+      -  Wire cutting
+      - Laser cutting
+      - CNC machinig 
+      - Milling
+      - Drilling
+      - Tapping
+      - etc.
+ 
+     - materials 
+  - ...
+  - Post-processing and its tool kit. For example: 
+    - Sanding after 3D printing
+    - Cold welding
+    - Gap filling
+    - Polishing
+    - Priming and painting
+    - Etc.  
+- Bill of material (BOM) that consists:
+  - Part number
+  - Item name
+  - Description
+  - Quantity
+  - cost
+  - Etc.
+- Reference of material selection
+- Etc. 
+
 
 - **Definition:** *Manufacturing technology means all the machinery, equipment and processes that are used to manufacture products.*
 
