@@ -12,43 +12,43 @@
  
 1. Manufacturing technology means all the machinery, equipment and processes that are used to manufacture products. So,documentation of manufacturing technology consists
 
-  - Manufacturing sequences and its tool kit.
-    - Machine name 
-      - 3D printer stereo lithography
-      - Laser cutting machine
-      - Wire cutting machine
-      - CNC Machines
-      - Milling machines
-      - Drilling machines
-      - Grinding machines
-      - etc.
-    - Machining operation and process 
-      - 3D printing stereo lithography
-      -  Wire cutting
-      - Laser cutting
-      - CNC machinig 
-      - Milling
-      - Drilling
-      - Tapping
-      - etc.
+  - Manufacturing process and operation  
+     - 3D printing stereo lithography
+     - Wire cutting
+     - Laser cutting
+     - CNC machinig 
+     - Milling
+     - Drilling
+     - Grinding
+     - etc.
+   - Machine name
+   - Manufacturing tools 
+   - Machine parameters
+   
+2. The standard file formats support rapid prototyping, 3D printing, and the surface geometry of a 3D design without the possibility for modification. The standard design file formats include: 
+  - CAD files in an interchange format (STL format)
+  - 2D drawings (SVG or JPEG)
+  - Manufacturing export formats (G-code, STEP-NC)
+  - Circuit board design formats (Gerber RS-274X
+  - Excellon file
+    
+4. Reference of material selection
  
-     - materials 
-  - ...
-  - Post-processing and its tool kit. For example: 
+5. Post-processing and its tool kit. For example: 
     - Sanding after 3D printing
     - Cold welding
     - Gap filling
     - Polishing
     - Priming and painting
     - Etc.  
-- Bill of material (BOM) that consists:
+6. Bill of material (BOM) that consists:
   - Part number
   - Item name
   - Description
   - Quantity
   - cost
   - Etc.
-- Reference of material selection
+
 - Etc. 
 
 
@@ -56,8 +56,6 @@
 
 - **Comments:**
 
-  - *One of the main advantages of manufacturing technology is quality enhancement.*
-  - *Manufacturing technologies help boost operational productivity in various ways. They remarkably increase flexibility by giving manufacturers the option to “have it their way”.* 
   - *The standard file formats support rapid prototyping, 3D printing, and the surface geometry of a 3D design without the possibility for modification. For example, the standard design file formats include: CAD files in an interchange format (STL format), 2D drawings (SVG or JPEG), Manufacturing export formats (G-code, STEP-NC), Circuit board design formats (Gerber RS-274X, Excellon file.*  
 
 
