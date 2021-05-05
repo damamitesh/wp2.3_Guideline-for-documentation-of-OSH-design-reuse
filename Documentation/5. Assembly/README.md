@@ -10,14 +10,14 @@
 
  #### *1. Assembly sequences*
  
- - Mechanical/Structural Assembly
-  - workpiece
+ #### *2. Part list*
+  
+  *Part list should provide the information that consist:*
+  
+  - part name
   - Reference
   - quantity 
   - Image
- 
- #### *2. Part list*
-  
   - What parts are made?
   - What parts are bought?
   
@@ -44,6 +44,8 @@
 - Etc.
   
 
-#### *Example 1:* [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/mechanical/body_assembly)
+#### *Example 1:* [Poppy Robot](https://docs.poppy-project.org/en/assembly-guides/ergo-jr/mechanical-construction.html)
 
-#### *Example 2:* [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Assembly) , [Assembly instructions](https://ohai.satnogs.org/project/satnogs-rotator-v3-mechanical-assembly/hardware/) 
+#### *Example 2:* [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/mechanical/body_assembly)
+
+#### *Example 3:* [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Assembly) , [Assembly instructions](https://ohai.satnogs.org/project/satnogs-rotator-v3-mechanical-assembly/hardware/) 
