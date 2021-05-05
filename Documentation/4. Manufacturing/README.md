@@ -41,6 +41,10 @@
      - Depth of cut
      - Etc.
    
+   #### *Example 1:* [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/mechanical/body_assembly#3-machiningfabrication)
+   
+   #### *Example 2:* [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Build_Sequence) 
+   
 #### *2. Standard file formats*
 
 *Different types of standard file formats support rapid prototyping, 3D printing, and the surface geometry of a design without the possibility for modification. The standard design file formats include:*
@@ -49,10 +53,16 @@
   - 2D drawings like SVG or JPEG
   - Manufacturing export formats such as G-code, STEP-NC
   - Circuit board design formats such as Gerber RS-274X, excellon 
+
+#### *Example 1:* [Automated Tea Infuser, Standard file (STL format)](https://wikifactory.com/+fablabbratislava/automated-tea-infuser/contributions/3f2c490)*
+
+#### *Example 2:* [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Specifications), [2D drawing file](https://wiki.satnogs.org/File:C1001.png)*
+
     
 #### *3. Describe nominal geometry and its allowable variation by using symbolic language on drawing such as Geometric Dimensioning and Tolerancing (GD&T).*
 
  *It cab define in [2D drawing native files](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Documentation/3.%20Design/Structural%20model/Mechanics/README.md#2-modelling-a-design-in-native-file-format)*
+
 
 #### *4. Material selection*
 
@@ -73,7 +83,9 @@
    - Polishing
    - Priming and painting
    - Etc. 
-    
+   
+   #### *Example:* [post processing for FDM printed parts](https://www.3dhubs.com/knowledge-base/post-processing-fdm-printed-parts/#introduction)*
+   
 #### *7. Bill of material (BOM) that consists*
 
    - Part number
@@ -83,26 +95,13 @@
    - cost
    - Etc.
 
- 
+ #### *Example:* [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/bill_of_materials)*
 
 
+#### *8. Visualization of the manufacturing process*
 
+* It is possible to visualize each part of manufacturing instruction by providing*
 
-#### *Example:* [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/mechanical/body_assembly#3-machiningfabrication) 
-
-#### *Examples of design file formats:* 
-
-*1. [Automated Tea Infuser, Standard file (STL format)](https://wikifactory.com/+fablabbratislava/automated-tea-infuser/contributions/3f2c490)*
-
-*2. [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Specifications), [2D drawing file](https://wiki.satnogs.org/File:C1001.png)*
-  
-#### *Example:* [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Build_Sequence) 
-
-### **How to support the visualization of the manufacturing process?**
-
- ```
-
- 
 - Images 
 - Videos 
 - Etc.
