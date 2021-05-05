@@ -10,15 +10,17 @@
 
 #### *[Template of software architecture](https://app.diagrams.net/?libs=general;uml#G1MlfmgE-MK0jfELJd3EfE1epv03GCdpde)*
 
- ### **2. Description of  different part of software**
- 
-*This part based on the different product include*
+ ### **2. Documentation of different parts of software**
 
-- Description machine learning algorithm
+ ```
+*This part based on the different products could include*
+
+- Description of programming algorithm   
 - Basic information on how to install a software
-- The source code and advanced programming such as Arduino, C, C++, ...
-- Basic information on the software controler
+- The source code and advanced programming such as Arduino, C, Python,...
+- Basic information on the software controller
 - ...
+ ```
 
 ### *Examples:* 
 
