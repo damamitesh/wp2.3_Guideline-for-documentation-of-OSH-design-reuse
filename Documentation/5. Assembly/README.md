@@ -4,47 +4,35 @@
 
 ## **How to document a assembly process?**
 
-### **1. How does the assembly instruction look like?**
+*Assembly instruction could illustrate visually and with words and text how to assemble or disassemble the product and It consists of electrical and mechanical assembly.*
 
-- **Definition:** *The instructions show visually and with words and text how to assemble the product.*
+ ### **Assembly instruction can include:** 
 
-- **Comments:**
-
-  - *Assembly instructions could illustrate assembling the hardware and using the hardware. It consists of electrical and mechanical assembly.*
-
- ```
-
+ #### *1. Assembly sequences*
  
-- Assembly sequences
-- Part list
+ #### *2. Part list*
+  
   - What parts are made?
   - What parts are bought?
-- Datasheet of components
-- List of the tools for assembly 
-- Description of machining and joining technology (drilling, screwing, bolting, etc.)
-- Visulization ( images, videos, etc).
-- Etc.
-  ```
-
-### **2. How does the disassembly instruction look like?**
-
- ```
-  Metadata:
+  
+ #### *3. Datasheet of components*
  
-- Disassembly sequences
-- List of the tools for disassembly 
-- Etc.
-  ```
-
-### **3. How to support the visualization of the ssembly and disassembly process?**
-
- ```
-
+ #### *4. List of the tools for assembly or disassembely*
  
+ #### *5. Description of joining technology*
+ 
+  - screwing
+  - bolting
+  - -etc
+ 
+ #### *6. Visualization of the assembly process*
+ 
+ *It is possible to visualize each part of assembly instruction by providing*
+
 - Images 
-- Videos
+- Videos 
 - Etc.
-  ```
+  
 
 #### *Example 1:* [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/mechanical/body_assembly)
 
