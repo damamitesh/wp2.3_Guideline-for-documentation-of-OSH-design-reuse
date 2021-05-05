@@ -2,7 +2,7 @@
 
 *I would like to enable makers to understand the steps of constructing a finished product from components or partially-compiled units.*
 
-## **How to document a assembly process?**
+## **How to document a assembly or disassembly process?**
 
 *Assembly instruction could illustrate visually and with words and text how to assemble or disassemble the product and It consists of electrical and mechanical assembly.*
 
