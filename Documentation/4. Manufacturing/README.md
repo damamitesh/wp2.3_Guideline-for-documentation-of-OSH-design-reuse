@@ -56,21 +56,26 @@
 
 #### *4. Material selection*
 
- - Type of material
-    - Maetal
+ - Identifying the type of material
+    - Metal
     - Plastic
     - Composite
     - Ceramic
     - etc.
+- Identifying the [characteristics of the material](https://github.com/OPEN-NEXT/wp2.3_template/tree/main/Documentation/3.%20Design/Structural%20model/Mechanics#3-characteristics-of-the-materials) for manufacturing
+- Environmental impacts  
 
-6. Post-processing and its tool kit. For example: 
-    - Sanding after 3D printing
-    - Cold welding
-    - Gap filling
-    - Polishing
-    - Priming and painting
-    - Etc.  
-7. Bill of material (BOM) that consists:
+#### *6. Post-processing and its tool kit*
+ 
+   - Sanding after 3D printing
+   - Cold welding
+   - Gap filling
+   - Polishing
+   - Priming and painting
+   - Etc. 
+    
+#### *7. Bill of material (BOM) that consists*
+
    - Part number
    - Item name
    - Description
@@ -78,7 +83,7 @@
    - cost
    - Etc.
 
-- Etc. 
+ 
 
 
 
