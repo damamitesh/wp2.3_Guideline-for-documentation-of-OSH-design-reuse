@@ -33,7 +33,7 @@
  
   - screwing
   - bolting
-  - -etc
+  - etc
  
  #### *6. Visualization of the assembly process*
  
