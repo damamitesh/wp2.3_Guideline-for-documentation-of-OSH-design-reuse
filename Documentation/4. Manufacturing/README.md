@@ -84,7 +84,7 @@
    - Priming and painting
    - Etc. 
    
-   #### *Example:* [post processing for FDM printed parts](https://www.3dhubs.com/knowledge-base/post-processing-fdm-printed-parts/#introduction)*
+   #### *Example: [Post processing for FDM printed parts](https://www.3dhubs.com/knowledge-base/post-processing-fdm-printed-parts/#introduction)*
    
 #### *7. Bill of material (BOM) that consists*
 
