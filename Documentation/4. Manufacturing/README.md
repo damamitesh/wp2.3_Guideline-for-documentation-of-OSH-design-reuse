@@ -13,25 +13,36 @@
  
 1. Manufacturing technology means all the machinery, equipment and processes that are used to manufacture products. So,documentation of manufacturing technology consists
 
-  - Manufacturing process and operation  
+   - Machine tools
+     - Turning tools
+     - Milling tools
+     - Grinding tools
+     - Cutting tools
+     - Drilling tools
+     - Boring tools
+     - etc. 
+     -  
+  - Manufacturing process and its machine name  
      - 3D printing stereo lithography
      - Wire cutting
-     - Laser cutting
-     - CNC machinig 
-     - Milling
-     - Drilling
-     - Grinding
+     - Burning machining technology 
+       - Laser cutting
+       - Plasma cutting
+     - Computerized machining technology 
+       - CNC machinig 
+     - Machining process technology
+       - Milling
+       - Drilling
+       - Grinding
      - etc.
-   - Machine name
-   - Manufacturing tools 
+
    - Machine parameters
    
 2. The standard file formats support rapid prototyping, 3D printing, and the surface geometry of a 3D design without the possibility for modification. The standard design file formats include: 
   - CAD files in an interchange format such as STL format
   - 2D drawings like SVG or JPEG
   - Manufacturing export formats such as G-code, STEP-NC
-  - Circuit board design formats such as Gerber RS-274X
-  - Excellon file
+  - Circuit board design formats such as Gerber RS-274X, excellon 
     
 4.Describe nominal geometry and its allowable variation by using symbolic language such as Geometric dimensioning and tolerancing (GD&T)
 
