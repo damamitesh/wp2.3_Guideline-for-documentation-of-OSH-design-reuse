@@ -13,15 +13,14 @@
  
 1. Manufacturing technology means all the machinery, equipment and processes that are used to manufacture products. So,documentation of manufacturing technology consists
 
-   - Machine tools
-     - Turning tools
-     - Milling tools
-     - Grinding tools
-     - Cutting tools
-     - Drilling tools
-     - Boring tools
-     - etc. 
-     -  
+   - Machine tool is a machine for handling or machining metal or other rigid materials, usually by
+    - Turning tools
+    - Milling tools
+    - Grinding tools
+    - Cutting tools
+    - Drilling tools
+    - Boring tools
+    - etc. 
   - Manufacturing process and its machine name  
      - 3D printing stereo lithography
      - Wire cutting
@@ -35,18 +34,22 @@
        - Drilling
        - Grinding
      - etc.
-
-   - Machine parameters
+   - Machining parameters are all those parameters that are inherent to any machining operation and should have a suitable finite value to smooth and efficient removal of materials.
+    - Cutting velocity
+    - Feed rate
+    - Depth of cut
+    - Etc.
    
-2. The standard file formats support rapid prototyping, 3D printing, and the surface geometry of a 3D design without the possibility for modification. The standard design file formats include: 
-  - CAD files in an interchange format such as STL format
+2. The standard file formats support rapid prototyping, 3D printing, and the surface geometry of a design without the possibility for modification. The standard design file formats include:
+ 
+  - CAD files in an interchange format such as STL format that is suitable for 3D priniting 
   - 2D drawings like SVG or JPEG
   - Manufacturing export formats such as G-code, STEP-NC
   - Circuit board design formats such as Gerber RS-274X, excellon 
     
-4.Describe nominal geometry and its allowable variation by using symbolic language such as Geometric dimensioning and tolerancing (GD&T)
+3. Describe nominal geometry and its allowable variation by using symbolic language on drawing  such as Geometric dimensioning and tolerancing (GD&T). It cab define in [2D drawing native fils](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Documentation/3.%20Design/Structural%20model/Mechanics/README.md#2-modelling-a-design-in-native-file-format)
 
-5.  Reference of material selection
+4. Material selection
  
 6. Post-processing and its tool kit. For example: 
     - Sanding after 3D printing
