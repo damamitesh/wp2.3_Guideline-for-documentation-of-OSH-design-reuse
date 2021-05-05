@@ -10,6 +10,12 @@
 
  #### *1. Assembly sequences*
  
+ - Mechanical/Structural Assembly
+  - workpiece
+  - Reference
+  - quantity 
+  - Image
+ 
  #### *2. Part list*
   
   - What parts are made?
@@ -18,6 +24,10 @@
  #### *3. Datasheet of components*
  
  #### *4. List of the tools for assembly or disassembely*
+ 
+  - Allen Key set
+  - Imperial Wrench Set
+  - Etc.
  
  #### *5. Description of joining technology*
  
