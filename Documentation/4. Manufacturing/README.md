@@ -5,7 +5,7 @@
 ## **How to document a manufacturing process?**
 
 
-*We suggest to create a manufacturing instruction for a well documentaion of manufacruring process. Manufacturings instructions means full descriptions and instructions concerning raw materials usage, operating conditions, process and quality standards to be employed in the manufacture of products.*
+*Manufacturing instruction can guide the makers to follow a process for remanufacturing a product. Manufacturings instructions mean full descriptions and instructions concerning raw materials usage, operating conditions, process, and quality standards to be employed in the manufacture of products.*
 
 
  ### **Manufacturing instructions could include:** 
@@ -61,7 +61,7 @@
     
 #### *3. Describe nominal geometry and its allowable variation by using symbolic language on drawing such as Geometric Dimensioning and Tolerancing (GD&T).*
 
- *It cab define in [2D drawing native files](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Documentation/3.%20Design/Structural%20model/Mechanics/README.md#2-modelling-a-design-in-native-file-format)*
+ *It can define in [2D drawing native files](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Documentation/3.%20Design/Structural%20model/Mechanics/README.md#2-modelling-a-design-in-native-file-format)*
 
 
 #### *4. Material selection*
@@ -100,7 +100,7 @@
 
 #### *8. Visualization of the manufacturing process*
 
-* It is possible to visualize each part of manufacturing instruction by providing*
+*It is possible to visualize each part of manufacturing instruction by providing*
 
 - Images 
 - Videos 
