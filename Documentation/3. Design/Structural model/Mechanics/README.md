@@ -41,26 +41,28 @@ You can use this template to define the architectural structure of your project/
 #### *[Template of architectural structure of mechanical products](https://app.diagrams.net/#G1GCkQGQB4dYQCXf016Il42YpoE1dwrAtm)*
 
 
-### **2. Modelling a design in native file format**
+### **2. Modelling a design in an editable file format**
 
-- **Definition:** *A file format is a standard way that information is encoded for storage in a computer file and the mechanical designs can be represented in 2D or 3D.*
+- **Definition:** *An editable file format is a standard way that information is encoded for storage  and allow the modification of the geometry.*
+*The editable file format of design allows makers to study, modify and make an OSH design according to its license.* 
 
 - **Comments:**
 
-  - *The native file format of design allows makers to study, modify and make an OSH design according to its license.* 
-    - *The native design file formats consist:* 
-       * 3D design such as STEP format
-       * 2D drawings such as .cdr, .svg, .ai format
+ 1. *preferable file format*
+ 2. * preferable software* 
+      
+      * 3D design such as FreeCAD format
+      * 2D drawings such as .cdr, .svg, .ai format
     
 
 #### *Example of design file formats:* 
-*1. [MIT Emergency Ventilator, Native CAD files (STEP format)](https://e-vent.mit.edu/resources/downloads/)*
+*1. [MIT Emergency Ventilator, Standard CAD files (STEP format)](https://e-vent.mit.edu/resources/downloads/)*
 
 *2. [Farmbot, Native CAD files](https://genesis.farm.bot/v1.5/Extras/cad)*
 
 
   ```
-  The stuctural model consist the native file format that provide the modifying a design for designers.
+  The stuctural model consists of the editable file format that provides the possmodifying a design .
   - CAD files
     - Native file format
   ```
