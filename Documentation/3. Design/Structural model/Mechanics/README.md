@@ -32,7 +32,7 @@ Documentation of architectural component should provide the information to answe
 
 #### *Example 2: architectural structure of* [MPS ventilator](https://www.monolithicpower.com/en/mps-open-source-ventilator)
 
-![Image of Structural graph of PSLab](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Architecture%20of%20structural%20model.jpg)
+![Image of Structural graph of PSLab](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Architecture%20of%20mechanical%20structural%20model.jpg)
 
 #### *Example 3: architectural structure of* [GlasVent emergency ventilator in format of block diagram](https://onlinelibrary.wiley.com/doi/10.1002/gch2.202000046)
 
