@@ -66,21 +66,17 @@ You can use this template to define the fuctional tree of your project/product.
   - *Logical AND/OR gates can be used to define concurrent or sequential functions.*
   - *Articulation of technical function can describe as input-output relationships transforming flows by using the functional modeling language in the format of the graph*
   
-#### *Example 1 of functional graph*:
+#### *Example 1: functional graph XYZ Cargo-ADD ONS*:
 *Functional graph of the relationship between technical functions for maintaining food quality by ADD-ONS of XYZ cargo based on the functional tree.*
 
 ![Image of functional graph of XYZ cargo-ADD ONS](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Functional%20graph%20of%20XYZ%20cargo-ADD%20ONS.jpg)
 
-#### *Example 2 of functional Graph*:
-*The links below show some functional block diagrams of kinds of open-source projects*
+#### *Example 2*:
+*The links below show some kinds of functional block diagrams of open-source projects*
 
 * [Functional diagram of Renesas’ ventilator](https://www.rs-online.com/designspark/ventilator-design-solution-from-renesas-electronics)
 
 * [Functional diagram of GlasVent emergency ventilator](https://onlinelibrary.wiley.com/doi/10.1002/gch2.202000046)
-
-* [Functional diagram of MPS Open-Source Ventilator](https://www.monolithicpower.com/applications/medical/ventilator-open-source.html)
-
-* [Functional diagram of Open-Source-Ventilator](https://github.com/ermtl/Open-Source-Ventilator/blob/master/hardware/datasheets/A4988.pdf)
 
 *This template can be used to define the technical graph of your project/product.*
 
