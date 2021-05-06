@@ -69,6 +69,8 @@ You can use this template to define the fuctional tree of your project/product.
 #### *Example 1 and template of functional graph*:
 *Functional graph of the relationship between technical functions for maintaining food quality by ADD-ONS of XYZ cargo based on the functional tree. This template can be used as a template to define the technical graph of your project/product.*
 
+![Image of functional graph of XYZ cargo-ADD ONS](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Functional%20graph%20of%20XYZ%20cargo-ADD%20ONS.jpg)
+
 #### *[Template of functional graph](https://app.diagrams.net/?libs=general;er#G1Vu8S5Zbqh19NMXCAXzxuCz5O-CRGU6Mm)*
 
 
