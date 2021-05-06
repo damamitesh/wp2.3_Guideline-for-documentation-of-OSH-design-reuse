@@ -62,7 +62,7 @@ You can use this template to define the architectural structure of your product.
        * Etc.
   
 
-#### *Example of native design file formats:* 
+#### *Example of an editable design file formats:* 
 
 *1. [AmbovVent](https://github.com/AmboVent-1690-108/AmboVent/tree/master/1-Electronics)*
 
@@ -77,7 +77,7 @@ You can use this template to define the architectural structure of your product.
  
   ```
 
-### **3. Characteristics of the materials**
+### **3. Characteristics of the components**
 
 - **Definition:** *The characteristics of the materials are those that make the materials have different reactions to heat, electricity, light, force, etc.* 
 
