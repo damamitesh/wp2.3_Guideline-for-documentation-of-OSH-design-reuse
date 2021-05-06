@@ -30,7 +30,7 @@ Documentation of architectural component should provide the information to answe
  -  etc. 
   ```
 
-*The links below show some kinds of architectural structure*
+*The links below show some kinds of architectural structure.*
 
 #### *Example 1: Architectural structure of* [PSLab](https://pslab.io/) 
 
