@@ -24,9 +24,9 @@ Documentation of architectural component should provide the information to answe
  -  etc. 
   ```
 
-#### *Example 1: Architectural structure of* [PSLab](https://pslab.io/) 
+#### *Example 1: Architectural structure of* [Makair ventilator](https://github.com/makers-for-life/makair/blob/master/docs/Architecture/export/%5BPAB%5D%20Structure.jpg) 
 
-![Image of Structural graph of PSLab](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Structural_graph.png)
+![Image of Architectural structure of Makair ventilator](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Makair%20architectural%20structure.jpg)
 
 #### *Example 2: architectural structure of* [MPS ventilator](https://www.monolithicpower.com/en/mps-open-source-ventilator)
 
