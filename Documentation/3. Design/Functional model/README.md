@@ -47,7 +47,11 @@
 
 #### *Example and template of functional tree*:
 
-*The decomposition of technical functions creates a functional tree and, the technical functions are defined based on the functional requirements. Functional tree of mentioned example about the refrigerator on the ADD-ONS represented in the link below and, you can use it as a template to define the functional tree of your project/product.*
+*The decomposition of technical functions creates a functional tree and, the technical functions are defined based on the functional requirements. Functional tree of mentioned example about the refrigerator on the ADD-ONS represented in the figure below.*
+
+![Image of functional tree of XYZ cargo-ADD ONS](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Functional%20tree-%20XYZ%20cargo%20ADD-ONS.jpg)
+
+You can use this template to define the fuctional tree of your project/product.
 
 #### *[Template of functional tree](https://app.diagrams.net/#G1EqpAVkNAmx8KzblQqgSOSND7bq5UQ069)*
 
