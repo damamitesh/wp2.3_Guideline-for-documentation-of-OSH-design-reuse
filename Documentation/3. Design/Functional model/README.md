@@ -45,7 +45,7 @@
 
   ```
 
-#### *Example and template of functional tree*:
+#### *Example of functional tree*:
 
 *The decomposition of technical functions creates a functional tree and, the technical functions are defined based on the functional requirements. Functional tree of mentioned example about the refrigerator on the ADD-ONS represented in the figure below.*
 
@@ -66,13 +66,10 @@ You can use this template to define the fuctional tree of your project/product.
   - *Logical AND/OR gates can be used to define concurrent or sequential functions.*
   - *Articulation of technical function can describe as input-output relationships transforming flows by using the functional modeling language in the format of the graph*
   
-#### *Example 1 and template of functional graph*:
-*Functional graph of the relationship between technical functions for maintaining food quality by ADD-ONS of XYZ cargo based on the functional tree. This template can be used as a template to define the technical graph of your project/product.*
+#### *Example 1 of functional graph*:
+*Functional graph of the relationship between technical functions for maintaining food quality by ADD-ONS of XYZ cargo based on the functional tree.*
 
 ![Image of functional graph of XYZ cargo-ADD ONS](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Functional%20graph%20of%20XYZ%20cargo-ADD%20ONS.jpg)
-
-#### *[Template of functional graph](https://app.diagrams.net/?libs=general;er#G1Vu8S5Zbqh19NMXCAXzxuCz5O-CRGU6Mm)*
-
 
 #### *Example 2 of functional Graph*:
 *The links below show some functional block diagrams of kinds of open-source projects*
@@ -84,6 +81,10 @@ You can use this template to define the fuctional tree of your project/product.
 * [Functional diagram of MPS Open-Source Ventilator](https://www.monolithicpower.com/applications/medical/ventilator-open-source.html)
 
 * [Functional diagram of Open-Source-Ventilator](https://github.com/ermtl/Open-Source-Ventilator/blob/master/hardware/datasheets/A4988.pdf)
+
+*This template can be used to define the technical graph of your project/product.*
+
+#### *[Template of functional graph](https://app.diagrams.net/?libs=general;er#G1Vu8S5Zbqh19NMXCAXzxuCz5O-CRGU6Mm)*
 
 
 ## **How to express and draw a functional model?**
