@@ -30,6 +30,8 @@ Documentation of architectural component should provide the information to answe
  -  etc. 
   ```
 
+*The links below show some kinds of architectural structure*
+
 #### *Example 1: Architectural structure of* [PSLab](https://pslab.io/) 
 
 ![Image of Structural graph of PSLab](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Structural_graph.png)
@@ -37,6 +39,8 @@ Documentation of architectural component should provide the information to answe
 #### *Example 2: Architectural structure of* [PX4 Vision](https://wikifactory.com/+holybro/px4-vision) 
 
 ![Image of architectural structure of PX4 Vision](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Architecture%20of%20electrical%20structural%20model.jpg)
+
+#### *Example 3: Architectural structure of* [Open-Source-Ventilator](https://github.com/ermtl/Open-Source-Ventilator/blob/master/hardware/datasheets/A4988.pdf) 
 
 You can use this template to define the architectural structure of your product.
 
