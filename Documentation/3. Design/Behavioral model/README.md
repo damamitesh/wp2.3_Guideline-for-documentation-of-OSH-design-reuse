@@ -68,10 +68,12 @@
     - Description of static model
   ```
 
- ### **3. Open-source behavioral modelling environment**
+ ## **How to simulate the behavioral model of a product?**
+ 
+ ### **Open-source behavioral modelling environment**
 
 ```
-
+Different types of open-source software can be used for simulation of behavioral model a prodcut including
   
   - Scilab
   - Open Modelica
