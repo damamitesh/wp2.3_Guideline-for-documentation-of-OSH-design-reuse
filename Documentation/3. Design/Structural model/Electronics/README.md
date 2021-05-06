@@ -49,17 +49,18 @@ You can use this template to define the architectural structure of your product.
 
 
 
-### **2. Modelling a design in native file format**
+### **2. Modelling a design in an editable file format**
 
-- **Definition:** *A file format is a standard way that information is encoded for storage in a computer file and the mechanical or electrical designs can be represented in 2D or 3D.*
+- **Definition:** *An editable file format is a standard way that information is encoded for storage in a computer file.*  
+*The editable file format of design allows makers to study, modify and make an OSH design according to its license. 
 
 - **Comments:**
 
-  - *The native file format of design allows makers to study, modify and make an OSH design according to its license. 
-    - *The native design file formats consist:* 
+
+
        * Printed Circuit Board (PCB)such as .gbr, .lib format 
        * Schematic diagram 
-       * Etc.
+       
   
 
 #### *Example of an editable design file formats:* 
