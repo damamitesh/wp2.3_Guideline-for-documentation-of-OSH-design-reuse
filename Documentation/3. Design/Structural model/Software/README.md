@@ -16,10 +16,8 @@
 *This part based on the different products could include*
 
 - Description of programming algorithm   
-- Basic information on how to install a software
-- The source code and advanced programming such as Arduino, C, Python,...
-- Basic information on the software controller
-- ...
+- The source code. 
+- Version of software
  ```
 
 ### *Examples:* 
