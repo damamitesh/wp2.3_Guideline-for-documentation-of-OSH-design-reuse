@@ -30,7 +30,11 @@ Documentation of architectural component should provide the information to answe
  -  etc. 
   ```
 
-#### *Example of Architectural structure of* [PX4 Vision](https://wikifactory.com/+holybro/px4-vision) 
+#### *Example 1: Architectural structure of* [PSLab](https://pslab.io/) 
+
+![Image of Structural graph of PSLab](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Structural_graph.png)
+
+#### *Example 2: Architectural structure of* [PX4 Vision](https://wikifactory.com/+holybro/px4-vision) 
 
 ![Image of architectural structure of PX4 Vision](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Architecture%20of%20electrical%20structural%20model.jpg)
 
