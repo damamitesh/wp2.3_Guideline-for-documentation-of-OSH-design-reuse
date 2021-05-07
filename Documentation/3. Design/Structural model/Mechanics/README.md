@@ -40,29 +40,29 @@ You can use the files on GitHub as templates to define the architectural structu
 
 ### **2. Modelling a design in an editable file format**
 
-- **Definition:** *An editable file format is a standard way that information is encoded for storage  and allow the modification of the geometry.*
-*The editable file format of design allows makers to study, modify and make an OSH design according to its license.* 
+- **Definition:** *An editable file format is a standard way that information is encoded for storage and allow the makers to study, modify of the geometry of a model and reuse it.* 
 
-- **Comments:**
+ ```
+To reuse a design model, it should provide information consist of:
 
- 1. *preferable file format*
- 2. * preferable software* 
-      
-      * 3D design such as FreeCAD format
-      * 2D drawings such as .cdr, .svg, .ai format
-    
+ 1. Preferable file format
+   - 3D design such as FreeCAD format
+   - 2D drawings such as .cdr, .svg, .ai format
+ 2. Preferable software* 
+   - OpensCAD
+   - Inkscape
+   - FreeCAD
 
-#### *Example of design file formats:* 
+
+  ```
+
+#### *Example of editable file formats:* 
+
 *1. [MIT Emergency Ventilator, Standard CAD files (STEP format)](https://e-vent.mit.edu/resources/downloads/)*
 
 *2. [Farmbot, Native CAD files](https://genesis.farm.bot/v1.5/Extras/cad)*
 
 
-  ```
-  The stuctural model consists of the editable file format that provides the possmodifying a design .
-  - CAD files
-    - Native file format
-  ```
 
 ### **3. Characteristics of the materials**
 
@@ -90,14 +90,5 @@ You can use the files on GitHub as templates to define the architectural structu
 
 > Source: Amr Assie, 2010.
   
- ## **How to model or modify a native design  file?**
- 
- ### **Open-source structural modelling environment**
 
-```
-Different types of open-source software can be used for modeling a mechanical design or modifying a native design file including
-
-  - OpensCAD
-  - Inkscape
-  - Etc.
   ```
