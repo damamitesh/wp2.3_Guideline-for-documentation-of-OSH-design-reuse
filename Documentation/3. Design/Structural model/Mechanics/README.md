@@ -45,23 +45,18 @@ You can use the files on GitHub as templates to define the architectural structu
  ```
 To reuse a design model, it should provide information consist of:
 
- 1. Preferable file format
-   - 3D design such as FreeCAD format
-   - 2D drawings such as .cdr, .svg, .ai format
+ 1. Preferable 3D/2D file format
+   - Native file format
+   - Editable file format
  2. Preferable software* 
    - OpensCAD
    - Inkscape
    - FreeCAD
-
-
   ```
 
 #### *Example of editable file formats:* 
 
-*1. [MIT Emergency Ventilator, Standard CAD files (STEP format)](https://e-vent.mit.edu/resources/downloads/)*
-
-*2. [Farmbot, Native CAD files](https://genesis.farm.bot/v1.5/Extras/cad)*
-
+*1. [Farmbot, editable CAD files](https://genesis.farm.bot/v1.5/Extras/cad)*
 
 
 ### **3. Characteristics of the materials**
