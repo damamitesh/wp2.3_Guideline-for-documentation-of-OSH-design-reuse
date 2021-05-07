@@ -4,24 +4,19 @@
 
 - **Definition:** *The architectural structure is a physical or logical layout of the components of a system design and their internal and external connections.*
 
-- **Comments:**
-
-  - *An architectural structure shall specify the mechnical components and their sub-components. For example, the mechanical components a robot consist:*
-    * Joint combinations
-    * Brackets
-    * Gear
-    * motor shaft adapters
-    * stepper motor
-    * Etc.
-  - *An architectural structure can represent in the format a tree or graph by SysML or UML, etc.*  
 
  ```
-Documentation of architectural component should provide the information to answer the question that include:
+Documentation of architectural structure a mechnical product should provide the information include:
  
- -  How should provide/make the components?  
- -  Is it possible to buy the components?  
- -  How to reproduce the components?
- -  etc. 
+1. Specifying the kinds of components and their sub-components
+2. Represenation in the format a tree  or graph
+3. The name of functional modelling language 
+  - UML
+  - SysML
+4. The name of software for modelling the tree or graph
+  - Papyrus
+  - Modelio
+  - Capella  
   ```
 
 *The links below show some kinds of architectural structure of open-source projects*
