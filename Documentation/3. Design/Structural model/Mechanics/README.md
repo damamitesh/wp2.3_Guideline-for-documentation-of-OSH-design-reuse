@@ -12,7 +12,7 @@ Documentation of the architectural structure of a mechanical product should prov
 2. The name of modeling language for representation 
   - UML
   - SysML
-3. The name of software for modeling the tree or graph format
+3. The name of software for modeling the tree or graph representation
   - Papyrus
   - Modelio
   - Capella  
