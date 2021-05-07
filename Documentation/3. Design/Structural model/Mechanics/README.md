@@ -31,13 +31,11 @@ You can use the files on GitHub as templates to define the architectural structu
 
 #### *Example 2: Architectural structure of* [Makair ventilator](https://github.com/makers-for-life/makair) 
 
-![Image of Architectural structure of Makair ventilator](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Makair%20architectural%20structure.jpg)
+![Image of Architectural structure of Makair ventilator](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Architectural%20structure%20of%20makair%20ventilator.jpg)
+
+<a href="https://app.diagrams.net/#G1DN3jEDVI9DlEGjVZ8jHI2kTvyz1dFT_O" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#G1DN3jEDVI9DlEGjVZ8jHI2kTvyz1dFT_O">Edit in diagrams.net</a>
 
 #### *Example 3: architectural structure of* [GlasVent emergency ventilator in format of block diagram](https://onlinelibrary.wiley.com/doi/10.1002/gch2.202000046)
-
-You can use this template to define the architectural structure of your project/product.
-
-#### *[Template of architectural structure of mechanical products](https://app.diagrams.net/#G1GCkQGQB4dYQCXf016Il42YpoE1dwrAtm)*
 
 
 ### **2. Modelling a design in an editable file format**
