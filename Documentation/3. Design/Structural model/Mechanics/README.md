@@ -8,7 +8,7 @@
  ```
 Documentation of the architectural structure of a mechanical product should provide information including:
  
-1. Specifying the kinds of components and their sub-components in the format of a tree  or graph
+1. Specifying the kinds of components and their sub-components in the format of a tree  or graph (refer to example 1 and 2)
 2. The name of modeling language for representation 
   - UML
   - SysML
@@ -64,12 +64,9 @@ To reuse a design model, it should provide information consist of:
 
 ### **3. Characteristics of the materials**
 
-- **Definition:** *The characteristics of the materials are those that make the materials have different reactions to heat, electricity, light, force, etc.* 
+- **Definition:** *The characteristics of the materials are those that identify the reactions of materials reactions to heat, electricity, light, force, etc.* 
 
-- **Comments:**
-
-  - *Materials are chosen based on factors including working properties, aesthetics, environmental impact, function, manufacturing processes, etc. It is important to choose a material fit for the purpose.*
-  - *A description of material characteristics will provide information that designers could consider in selecting materials for a given application.*
+  - *Materials are chosen based on factors including properties for behaviral analysis, environmental impact, manufacturing processes in design reuse* 
 
 ```
   The material characteristics of the structural model of mechanical parts consist: 
