@@ -66,14 +66,15 @@ To reuse a design model, it should provide information consist of:
 
 - **Definition:** *The characteristics of the materials are those that identify the reactions of materials reactions to heat, electricity, light, force, etc.* 
 
-  - *Materials are chosen based on factors including properties for behaviral analysis, environmental impact, manufacturing processes in design reuse* 
+  - *Selection of materials  based on factors including properties for behavioral analysis, environmental impact, manufacturing processes in design reuse.* 
 
 ```
-  The material characteristics of the structural model of mechanical parts consist: 
+  The material characteristics of mechanical parts consist: 
   
   - Mechanical characteristics like hardness, elasticity, plasticity, toughness, etc. 
   - Manufacturing properties like castability, machinability rating, etc.
   - Thermal characteristics like melting point,thermal conductivity, etc.
+  - Electrical characteristics like electrical resistivity and conductibility, etc.
   - Chemical properties like corrosion resistance, surface tension, etc.
   ```
   
