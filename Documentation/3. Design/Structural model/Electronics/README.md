@@ -65,31 +65,8 @@ To reuse a electrical design, it should provide information consist of:
 
 #### *Example of an editable design file formats:* 
 
-*1. [AmbovVent](https://github.com/AmboVent-1690-108/AmboVent/tree/master/1-Electronics)*
+*1. [Nasa-JPL, source files](https://github.com/nasa-jpl/open-source-rover/tree/master/electrical/pcb/arduino_uno_sheild/gerbers/rev_b)*
 
-*2. [Nasa-JPL](https://github.com/nasa-jpl/open-source-rover/tree/master/electrical/pcb/arduino_uno_sheild/gerbers/rev_b)*
-
-
-### **3. Characteristics of the components**
-
-- **Definition:** *The characteristics of the materials are those that make the materials have different reactions to heat, electricity, light, force, etc.* 
+*2. [AmbovVent, Neutral files ](https://github.com/AmboVent-1690-108/AmboVent/tree/master/1-Electronics)*
 
 
-```
-  The material characteristics of the structural model of electrical parts consist
-  
-  - Electrical characteristics like electrical resistivity and conductibility, etc.
- 
-  ```
-  
-  
-  ### **Open-source structural modelling environment**
-
-```
-Different types of open-source software can be used for modeling a electrical design or modifying a native design file including
-
-  - Tiny CAD
-  - KiCAD
-  - ADINA
-  - Etc.
-  ```
