@@ -14,19 +14,36 @@
 * The behavioral model identifies the properties for understanding the calculation, simulation, component, and environment of the product.
 * Behavior model describes how the artifact implements its function and is managed by engineering principles and physical rules that are included in a behavioral model.  
 * The behavioral model could provide the simulation of any given physical phenomenon using numerical techniques.   
-* Behavioral perspective describes the states and transitions between states.
 
 ## **How to document a behavioral model?**
 
- ### **1. Modelling of virtual prototype**
+ ### **1. Simulation models**
 
-- **Definition:** *A virtual prototype enables the designers to test whether the design specifications are met by performing computer simulations rather than experiments on the physical prototype.*
+- **Definition:** *A simulation model enables the designers to test whether the design specifications are met by performing computer simulations rather than experiments on the physical prototype.It promises a more comprehensive exploration of design alternatives and a better-performing final design.*
 
-- **Comments:**
 
-  - *Analysis of the physical phenomenon of product such as e.g. structural, thermal, and thermos-mechanical analysis by finite element method support decision made at the latter stages of design and minimize the time*
-  - *It promises a more comprehensive exploration of design alternatives and a better-performing final design.*
+ ```
+Documentation of simulation model consists:
 
+1. Identify the type of simulation
+    - Mechanical simulation
+    - physical simulation
+    - Thermo-mechanical simulation
+    - Electronical simulations
+2. Specification of geometrical model (refer to editable file format in structural model)
+3. Material characteristics ( refer to structural model)
+4. Initial conditions such as initial stresses, temperatures, velocities, etc. 
+5. Boundary conditions (including symmetry conditions) can be imposed on individual solution variables such as displacements or rotations
+6. Kinematic constraints: equations involving several of the fundamental solution variables in the model or multi-point constraints  can be defined.
+7. Interactions:contact and other interactions between parts can be defined
+8. 
+9. The name of software
+  - Scilab
+  - Open Modelica
+  - ADINA
+10. 
+  
+  ```
  #### *Example of Virtual prototype:* 
  *Analysis of the physical phenomenon of product that allows showing a virtual representation or evaluation of the reality.*
  
@@ -34,16 +51,7 @@
  
  #### *Example of Virtual prototype: [Tensor Mechanics Module](https://mooseframework.inl.gov/modules/tensor_mechanics/index.html)*
 
- ```
 
-  It includes the analysis of simulation for a better understanding of design specifications. 
-    -  Results of vitural protoypes
-       - Mechanics simulations
-       - physics simulations
-       - Thermo-mechanical simulations
-       - Electronical simulations
-       - Etc. 
-  ```
   
  ### **2. Kinematic models**
  
@@ -68,15 +76,3 @@
     - Description of static model
   ```
 
- ## **How to simulate the behavioral model of a product?**
- 
- ### **Open-source behavioral modelling environment**
-
-```
-Different types of open-source software can be used for simulation of behavioral model a prodcut including
-  
-  - Scilab
-  - Open Modelica
-  - ADINA
-  - Etc.
-  ```
