@@ -9,8 +9,8 @@ Documentation of software architecture a project should provide the information 
  
 1. Specifying the kinds of components and their sub-components of software in the format of a tree  or graph (refer to the example below)
 2. The name of modeling language for representation 
+  - SysML (Block Definition, Activity, or Internal Block diagram)
   - UML
-  - SysML
 3. The name of software for modeling the tree or graph representation
   - Papyrus
   - Modelio
