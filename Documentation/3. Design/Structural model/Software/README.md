@@ -3,8 +3,20 @@
  ### **1. Software architecture**
 
 *The software architecture represents the repository details of all the software that is necessary for reusing and running the project.*
- 
 
+ ```
+Documentation of software architecture a project should provide the information including:
+ 
+1. Specifying the kinds of components and their sub-components of software in the format of a tree  or graph (refer to the example below)
+2. The name of modeling language for representation 
+  - UML
+  - SysML
+3. The name of software for modeling the tree or graph representation
+  - Papyrus
+  - Modelio
+  - Capella 
+  ```
+ 
 #### *Example of software architecture of* [PX4 Vision](https://docs.px4.io/master/en/concept/architecture.html#px4-architectural-overview) 
 
 
@@ -13,7 +25,7 @@
  ### **2. Documentation of different parts of software**
 
  ```
-*This part based on the different products could include*
+This part based on the different products could include
 
 - Description of programming algorithm   
 - The source code. 
