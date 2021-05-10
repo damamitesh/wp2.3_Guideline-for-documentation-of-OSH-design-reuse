@@ -21,8 +21,8 @@ Documentation of architectural structure of an electrical product  should provid
      - Sensors
      - Etc.
 2. The name of modeling language for representation 
+  - SysML (Block Definition, Activity, or Internal Block diagram)
   - UML
-  - SysML
 3. The name of software for modeling the tree or graph representation
   - Papyrus
   - Modelio
