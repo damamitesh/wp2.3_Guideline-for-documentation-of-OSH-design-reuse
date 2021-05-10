@@ -47,7 +47,7 @@ To reuse a design model, it should provide information consist of:
 
  1. Preferable 3D/2D file format
    - Editable file formats that could be:
-     - Native formats such as FreeCAD files
+     - Native formats such as .FCStd format of FreeCAD 
      - Neutral formats such as STEP files
  2. Preferable software* 
    - OpensCAD
