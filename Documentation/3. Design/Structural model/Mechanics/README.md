@@ -72,12 +72,14 @@ To reuse a design model, it should provide information consist of:
   The material characteristics of mechanical parts consist: 
   
   1- Identifying the kind of characteristics and its properties: 
+  
     - Mechanical characteristics like hardness, elasticity, plasticity, toughness, etc. 
     - Manufacturing properties like castability, machinability rating, etc.
     - Thermal characteristics like melting point,thermal conductivity, etc.
     - Electrical characteristics like electrical resistivity and conductibility, etc.
     - Chemical properties like corrosion resistance, surface tension, etc.
-   2- Clarifying the definition of each property and its unint  
+    
+  2- Clarifying the definition of each property and its unint  
   ```
   
   #### *Example of material characteristics*:
