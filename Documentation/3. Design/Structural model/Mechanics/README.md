@@ -79,7 +79,7 @@ To reuse a design model, it should provide information consist of:
     - Electrical characteristics like electrical resistivity and conductibility, etc.
     - Chemical properties like corrosion resistance, surface tension, etc.
     
-  2- Clarifying the definition of each property and its unint  
+  2- Clarifying the necessary definition of each property   
   ```
   
   #### *Example of material characteristics*:
