@@ -10,8 +10,8 @@ Documentation of the architectural structure of a mechanical product should prov
  
 1. Specifying the kinds of components and their sub-components in the format of a tree  or graph (refer to example 1 and 2)
 2. The name of modeling language for representation 
+  - SysML (Block Definition, Activity, or Internal Block diagram)
   - UML
-  - SysML
 3. The name of software for modeling the tree or graph representation
   - Papyrus
   - Modelio
