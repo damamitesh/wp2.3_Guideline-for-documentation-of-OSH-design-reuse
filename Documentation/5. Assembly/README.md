@@ -37,6 +37,8 @@ Contents of assembly instruction consists:
   - Videos 
 ```  
 
+*Some examples of open-source projects that show the assembly instruction.*
+
 #### *Example 1:* [Poppy Robot](https://docs.poppy-project.org/en/assembly-guides/ergo-jr/mechanical-construction.html)
 
 #### *Example 2:* [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/mechanical/body_assembly)
