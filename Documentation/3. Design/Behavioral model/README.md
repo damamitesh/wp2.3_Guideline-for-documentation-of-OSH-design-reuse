@@ -47,7 +47,7 @@ Documentation of simulation model consists:
    
   #### *Example 1: [FinEtools: Finite Element tools](https://github.com/PetrKryslUCSD/FinEtools.jl)*
  
- #### *Example 2:
+ #### *Example 2:*
  *Image below show the simulation of the torsion of the fixed part from below and its evaluation of the reality.*
  
  ![Image of Finite element analysis](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Finite%20element%20analysis%20image.gif)
