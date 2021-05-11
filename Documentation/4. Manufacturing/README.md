@@ -44,7 +44,10 @@
      - Feed rate (mm/sec)
      - Cutting force
      - Depth of cut
-     - Etc. 
+     - Etc.
+  4. Visualization of manufacturing technology via
+     - Images 
+     - Videos  
  ```
  
    #### *Example 1:* [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/mechanical/body_assembly#3-machiningfabrication)
@@ -93,14 +96,19 @@ For documentation of material selection should identify:
  - **Definition:** *To achieve the right properties such as surface quality, geometrical accuracy and mechanical properties, the post processing is essential.* 
  
    ```
-   Documentaion of post processing consist of
-   1. Sanding after 3D printing
-   2. Cold welding
-   3. Gap filling
-   4. blasting
-   5. Polishing
-   6. Priming and painting
-   Etc.
+   Documentaion of post-processing consist of
+   
+   1. The name of post-processes and their sequence including 
+      - Sanding after 3D printing
+      - Cold welding
+      - Gap filling
+      - blasting
+      - Polishing
+      - Priming and painting
+      - Etc.
+    2. Visualization of post-processing via
+      - Images 
+      - Videos  
    ```
    #### *Example: [Post processing for FDM printed parts](https://www.3dhubs.com/knowledge-base/post-processing-fdm-printed-parts/#introduction)*
    
@@ -124,11 +132,4 @@ Bill of material consists:
  #### *Example: [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/bill_of_materials)*
 
 
-#### *8. Visualization of the manufacturing process*
-
-*It is possible to visualize each part of manufacturing instruction by providing*
-
-- Images 
-- Videos 
-- Etc.
 
