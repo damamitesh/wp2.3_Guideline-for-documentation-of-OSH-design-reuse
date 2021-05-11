@@ -29,32 +29,45 @@
   - *The decomposition process should be stopped when technical function is sufficiently detailed to reuse, make, or buy a design solution.*
   - *The functional requirement describes the achievement of the minimum set of requirements a system must satisfy.([Specification](https://github.com/OPEN-NEXT/wp2.3_template/tree/main/Documentation/2.%20Specification#specification))*
 
-#### *Example of functional requirements*:
-*In below, we describe the functional requirement that ADD-ONS of XYZ cargo provides for the food producers to preserve the quality of food [XYZ CARGO ADD-ONS](https://projects.opennext.eu/@xyz-cargo-add-ons/xyz-cargo-add-ons).*
-
-
-  ```
-  - In this example, we assumed a refrigerator on the ADD-ONS could help the food producers to cool down and preserve the temperature of foods. So, we defined some functional requirements (FR) based on this assumption that consist:
+ ```
+Documentation of the Functional tree should provide information including:
  
-    - FR1: To maintain the quality of food, food producer needs to main the material at cold temperature (between 3 °C and 10 °C) for short-term preservation (3h) or long-term preservation (24h).
-    - FR2: ADD-ONS shall fix the internal ADD-ONS temperature for 7 °C.
-    - FR3: To create a cold ambient in the cooling down system, the ADD-ONS shall compress the low temperature and pressured gas to start the cooling cycle.
-    - FR4: the cooling down system shall control the pressure of exit hot gas 
-    - FR5: the hot and pressured exit gas needs to meet the cooler external ambient temperature to become a liquid.
-    - ...
-
+1. Specifying the kinds of technical functions and their sub-functions in the format of a tree   (refer to example 1)
+2. The name of modeling language for representation 
+  - UML (Use Case diagram)
+  - SysML (Block Definition, Activity, or Internal Block diagram)
+  - SADT/IDEF0 
+  - Functional flow block diagram
+3. The name of software for modeling the tree or graph representation
+  - Papyrus
+  - Modelio
+  - Capella  
   ```
 
-#### *Example of functional tree*:
+*We show some kinds of functional tree of open-source projects.*
+
+#### *Example 1: functional requirements [XYZ CARGO ADD-ONS](https://projects.opennext.eu/@xyz-cargo-add-ons/xyz-cargo-add-ons)*
+
+*In below, we describe the functional requirement that ADD-ONS of XYZ cargo provides for the food producers to preserve the quality of food.*
+
+ * In this example, we assumed a refrigerator on the ADD-ONS could help the food producers to cool down and preserve the temperature of foods. So, we defined some functional requirements (FR) based on this assumption that consist:
+ 
+    * FR1: To maintain the quality of food, food producer needs to main the material at cold temperature (between 3 °C and 10 °C) for short-term preservation (3h) or long-term preservation (24h).
+    * FR2: ADD-ONS shall fix the internal ADD-ONS temperature for 7 °C.
+    * FR3: To create a cold ambient in the cooling down system, the ADD-ONS shall compress the low temperature and pressured gas to start the cooling cycle.
+    * FR4: the cooling down system shall control the pressure of exit hot gas 
+    * FR5: the hot and pressured exit gas needs to meet the cooler external ambient temperature to become a liquid.
+    * ...
+
+#### *Example of functional tree of XYZ CARGO ADD-ONS*:
 
 *The decomposition of technical functions creates a functional tree and, the technical functions are defined based on the functional requirements. Functional tree of mentioned example about the refrigerator on the ADD-ONS represented in the figure below.*
 
 ![Image of functional tree of XYZ cargo-ADD ONS](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Functional%20tree-%20XYZ%20cargo%20ADD-ONS.jpg)
 
-You can use this template to define the fuctional tree of your project/product.
+<a href="https://app.diagrams.net/#G1EqpAVkNAmx8KzblQqgSOSND7bq5UQ069" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#G1EqpAVkNAmx8KzblQqgSOSND7bq5UQ069">Edit in diagrams.net</a>
 
-#### *[Template of functional tree](https://app.diagrams.net/#G1EqpAVkNAmx8KzblQqgSOSND7bq5UQ069)*
-
+You can use this template on GitHub to define the fuctional tree of your project/product.
 
 ### **2. Functional graph**
 
@@ -71,6 +84,10 @@ You can use this template to define the fuctional tree of your project/product.
 
 ![Image of functional graph of XYZ cargo-ADD ONS](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Functional%20graph%20of%20XYZ%20cargo-ADD%20ONS.jpg)
 
+<a href="https://app.diagrams.net/?libs=general;er#G1Vu8S5Zbqh19NMXCAXzxuCz5O-CRGU6Mm" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/?libs=general;er#G1Vu8S5Zbqh19NMXCAXzxuCz5O-CRGU6Mm">Edit in diagrams.net</a>
+
+*This template can be used to define the technical graph of your project/product.*
+
 #### *Example 2*:
 *The links below show some kinds of functional block diagrams of open-source projects*
 
@@ -78,32 +95,6 @@ You can use this template to define the fuctional tree of your project/product.
 
 * [Functional diagram of GlasVent emergency ventilator](https://onlinelibrary.wiley.com/doi/10.1002/gch2.202000046)
 
-*This template can be used to define the technical graph of your project/product.*
-
-#### *[Template of functional graph](https://app.diagrams.net/?libs=general;er#G1Vu8S5Zbqh19NMXCAXzxuCz5O-CRGU6Mm)*
 
 
-## **How to express and draw a functional model?**
 
-### **Functional modelling language**
-
-*Functional modelling languages is any artificial language that can be used to express information or knowledge or system in a structure that is defined by a consistent set of rules. These functional modeling languages help to represent the functional tree and graph.* 
-
-```
-  - UML (Use Case diagram)
-  - SysML (Block Definition, Activity, or Internal Block diagram)
-  - SADT/IDEF0 
-  - Functional flow block diagram
-  -Etc.
-  ```
-  
-  ### **Open-source functional modelling environment**
-
-*The open-source software can be used to draw the functional models through the representation by using the functional modeling language.*
-
-```
-  - Papyrus
-  - Modelio
-  - Capella
-  - Etc.
-  ```
