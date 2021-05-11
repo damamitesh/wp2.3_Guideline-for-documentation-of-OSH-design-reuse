@@ -69,37 +69,57 @@ Main information for documentation of standard file formats for the manufacturin
 #### *Example 2:* [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Specifications), [2D drawing file](https://wiki.satnogs.org/File:C1001.png)*
 
 
-#### *4. Material selection*
+#### *3. Material selection*
+
+ - **Definition:** *Material selection is a step in the process of designing any physical object. The main goal of material selection is to use the critical requirements of each part to define the performance requirement of the material.*
 
 ```
+For documentation of material selection should identify:
+
  1. Identifying the type of material
     - Metal
     - Plastic
     - Composite
     - Ceramic
     - etc.
-2. Identifying the [characteristics of the material](https://github.com/OPEN-NEXT/wp2.3_template/tree/main/Documentation/3.%20Design/Structural%20model/Mechanics#3-characteristics-of-the-materials) for manufacturing
-3. Environmental impacts  
+2. Identifying the characteristics of the material for manufacturing (refer to structural model)
+3. Environmental impacts
+   - recyclability
+   - Properties  
 ```
+
 #### *6. Post-processing and its tool kit*
  
-   - Sanding after 3D printing
-   - Cold welding
-   - Gap filling
-   - Polishing
-   - Priming and painting
-   - Etc. 
-   
+ - **Definition:** *To achieve the right properties such as surface quality, geometrical accuracy and mechanical properties, the post processing is essential.* 
+ 
+   ```
+   Documentaion of post processing consist of
+   1. Sanding after 3D printing
+   2. Cold welding
+   3. Gap filling
+   4. blasting
+   5. Polishing
+   6. Priming and painting
+   Etc.
+   ```
    #### *Example: [Post processing for FDM printed parts](https://www.3dhubs.com/knowledge-base/post-processing-fdm-printed-parts/#introduction)*
    
-#### *7. Bill of material (BOM) that consists*
+#### *7. Bill of material (BOM)*
 
-   - Part number
-   - Item name
-   - Description
-   - Quantity
-   - cost
-   - Etc.
+ - **Definition:** *A bill of materials (BOM) is a comprehensive list of parts, items, assemblies, and other materials required to create a product, as well as instructions required for gathering and using the required materials.*
+
+```
+Bill of material consists:
+
+   1. Part number
+   2. Item name
+   3. Description
+   4. Quantity
+   5. Unit of measure
+   6. Procurement type
+   7. Cost
+   8. BOM notes
+   ```
 
  #### *Example: [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/bill_of_materials)*
 
