@@ -43,14 +43,15 @@ Documentation of simulation model consists:
   - ADINA
  
   ```
- #### *Example of Virtual prototype:* 
- *Analysis of the physical phenomenon of product that allows showing a virtual representation or evaluation of the reality.*
+   #### *Example of simulation models:* 
+   
+  #### *Example 1:[FinEtools: Finite Element tools](https://github.com/PetrKryslUCSD/FinEtools.jl)*
+ 
+
+ *Analysis of the physical phenomenon of product that allows showing a simulation or evaluation of the reality.*
  
  ![Image of Finite element analysis](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Finite%20element%20analysis%20image.gif)
  
- #### *Example of Virtual prototype: [Tensor Mechanics Module](https://mooseframework.inl.gov/modules/tensor_mechanics/index.html)*
-
-
   
  ### **2. Kinematic models**
  
