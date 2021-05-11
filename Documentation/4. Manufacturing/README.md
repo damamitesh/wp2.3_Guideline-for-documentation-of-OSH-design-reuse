@@ -12,9 +12,13 @@
  
  #### *1. Manufacturing technology*
  
- *It means all the machinery, equipment and processes that are used to manufacture products. So,documentation of manufacturing technology consists*
+  - **Definition:** *It means all the machinery, equipment and processes that are used to manufacture products.*
 
-   - Machine tool is a machine for handling or machining metal or other rigid materials, usually by
+
+ ```
+ Documentation of manufacturing technology consists:
+ 
+ 1. Machine tool is a machine for handling or machining metal or other rigid materials, usually by
      - Turning tools
      - Milling tools
      - Grinding tools
@@ -22,7 +26,7 @@
      - Drilling tools
      - Boring tools
      - etc. 
-  - Manufacturing process and its machine name  
+ 2. Manufacturing process and its machine name  
      - 3D printing stereo lithography
      - Wire cutting
      - Burning machining technology 
@@ -35,46 +39,48 @@
        - Drilling
        - Grinding
      - etc.
-   - Machining parameters are all those parameters that are inherent to any machining operation and should have a suitable finite value to smooth and efficient removal of materials.
-     - Cutting velocity
-     - Feed rate
+  3. Machining parameters are all those parameters that are inherent to any machining operation and should have a suitable finite value to smooth and efficient removal of materials.
+     - Cutting speed
+     - Feed rate (mm/sec)
+     - Cutting force
      - Depth of cut
-     - Etc.
-   
+     - Etc. 
+ ```
+ 
    #### *Example 1:* [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/mechanical/body_assembly#3-machiningfabrication)
    
    #### *Example 2:* [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Build_Sequence) 
    
-#### *2. Standard file formats*
+#### *2. Identifying the geometry by standard file formats*
 
-*Different types of standard file formats support rapid prototyping, 3D printing, and the surface geometry of a design without the possibility for modification. The standard design file formats include:*
+  - **Definition:** *Standard file formats support some of the manufacturing processes and the surface geometry of a design without the possibility of modification.*
+
+```
+Main information for documentation of standard file formats for the manufacturing process include::
  
-  - CAD files in an interchange format such as STL format that is suitable for 3D priniting 
-  - 2D drawings like SVG or JPEG
-  - Manufacturing export formats such as G-code, STEP-NC
-  - Circuit board design formats such as Gerber RS-274X, excellon 
+  1. CAD files in an interchange format such as STL that is suitable for 3D priniting 
+  2. Nominal geometry and its allowable variation by using symbolic language on 2D drawings like SVG, JPEG and PDF format that is suitable for laser cutting
+  3. Manufacturing export formats such as G-code, STEP-NC is suitable for CNC machining
+  4. Circuit board design formats such as Gerber RS-274X, excellon that is suitable for vector photoplotters 2D mechanical NC machines
+  ``` 
 
 #### *Example 1:* [Automated Tea Infuser, Standard file (STL format)](https://wikifactory.com/+fablabbratislava/automated-tea-infuser/contributions/3f2c490)*
 
 #### *Example 2:* [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Specifications), [2D drawing file](https://wiki.satnogs.org/File:C1001.png)*
 
-    
-#### *3. Describe nominal geometry and its allowable variation by using symbolic language on drawing such as Geometric Dimensioning and Tolerancing (GD&T).*
-
- *It can define in [2D drawing native files](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Documentation/3.%20Design/Structural%20model/Mechanics/README.md#2-modelling-a-design-in-native-file-format)*
-
 
 #### *4. Material selection*
 
- - Identifying the type of material
+```
+ 1. Identifying the type of material
     - Metal
     - Plastic
     - Composite
     - Ceramic
     - etc.
-- Identifying the [characteristics of the material](https://github.com/OPEN-NEXT/wp2.3_template/tree/main/Documentation/3.%20Design/Structural%20model/Mechanics#3-characteristics-of-the-materials) for manufacturing
-- Environmental impacts  
-
+2. Identifying the [characteristics of the material](https://github.com/OPEN-NEXT/wp2.3_template/tree/main/Documentation/3.%20Design/Structural%20model/Mechanics#3-characteristics-of-the-materials) for manufacturing
+3. Environmental impacts  
+```
 #### *6. Post-processing and its tool kit*
  
    - Sanding after 3D printing
