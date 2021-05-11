@@ -4,45 +4,38 @@
 
 ## **How to document a assembly or disassembly process?**
 
-*Assembly instruction could illustrate visually and with words and text how to assemble or disassemble the product and It consists of electrical and mechanical assembly.*
+*Assembly instruction can guide the makers to follow the process of assembly or disassembly of components of a product.*
 
- ### **Assembly instruction can include:** 
+### **Assembly instruction can include:** 
 
- #### *1. Assembly sequences*
- 
- #### *2. Part list*
-  
-  *Part list should provide the information that consist:*
-  
+ - **Definition:** *Assembly instruction could illustrate visually and with words and text how to assemble or disassemble the mechanical and electrical components of the product.*
+
+
+ ```
+Contents of assembly instruction consists: 
+
+1. Assembly sequences that identify the different steps of assemblage 
+2. Part list consist of:*
   - part name
   - Reference
   - quantity 
-  - Image
-  - What parts are made?
-  - What parts are bought?
-  
- #### *3. Datasheet of components*
- 
- #### *4. List of the tools for assembly or disassembely*
- 
+  - Image of each part
+  - Providing procedure 
+    - What parts are made?
+    - What parts are bought?
+ 3. Datasheet of component
+ 4. List of the tools for assembly or disassembely
   - Allen Key set
   - Imperial Wrench Set
   - Etc.
- 
- #### *5. Description of joining technology*
- 
+ 5. Description of joining technology
   - screwing
   - bolting
   - etc
- 
- #### *6. Visualization of the assembly process*
- 
- *It is possible to visualize each part of assembly instruction by providing*
-
-- Images 
-- Videos 
-- Etc.
-  
+ 6. Visualization of the assembly or disasembly process via
+  - Images 
+  - Videos 
+```  
 
 #### *Example 1:* [Poppy Robot](https://docs.poppy-project.org/en/assembly-guides/ergo-jr/mechanical-construction.html)
 
