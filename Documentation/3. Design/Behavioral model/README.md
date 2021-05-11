@@ -26,23 +26,22 @@
 Documentation of simulation model consists:
 
 1. Identify the type of simulation
-    - Mechanical simulation
+    - Mechanical simulation 
     - physical simulation
     - Thermo-mechanical simulation
     - Electronical simulations
-2. Specification of geometrical model (refer to editable file format in structural model)
-3. Material characteristics ( refer to structural model)
-4. Initial conditions such as initial stresses, temperatures, velocities, etc. 
-5. Boundary conditions (including symmetry conditions) can be imposed on individual solution variables such as displacements or rotations
-6. Kinematic constraints: equations involving several of the fundamental solution variables in the model or multi-point constraints  can be defined.
-7. Interactions:contact and other interactions between parts can be defined
-8. 
-9. The name of software
+2.  Model definition consist of 
+    - Specification of geometrical model (refer to editable file format in structural model)
+    - Material characteristics ( refer to structural model)
+    - Initial conditions such as initial stresses, temperatures, velocities, etc. 
+    - Boundary conditions can be imposed on individual solution variables such as displacements or rotations.
+    - Kinematic constraints that are several of the fundamental solution variables in the model (Linear constraint equations) or multi-point constraints (General  multi-point constraints) can be defined. 
+    - Interactions that are contact and other interactions between parts can be defined
+3. The name of software
   - Scilab
   - Open Modelica
   - ADINA
-10. 
-  
+ 
   ```
  #### *Example of Virtual prototype:* 
  *Analysis of the physical phenomenon of product that allows showing a virtual representation or evaluation of the reality.*
