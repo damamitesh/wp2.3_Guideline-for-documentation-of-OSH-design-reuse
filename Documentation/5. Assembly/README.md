@@ -15,7 +15,7 @@
 Contents of assembly instruction consists: 
 
 1. Assembly sequences that identify the different steps of assemblage 
-2. Part list consist of:*
+2. Part list consist of:
   - part name
   - Reference
   - quantity 
