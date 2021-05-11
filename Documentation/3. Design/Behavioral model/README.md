@@ -45,34 +45,13 @@ Documentation of simulation model consists:
   ```
    #### *Example of simulation models:* 
    
-  #### *Example 1:[FinEtools: Finite Element tools](https://github.com/PetrKryslUCSD/FinEtools.jl)*
+  #### *Example 1: [FinEtools: Finite Element tools](https://github.com/PetrKryslUCSD/FinEtools.jl)*
  
-
- *Analysis of the physical phenomenon of product that allows showing a simulation or evaluation of the reality.*
+ #### *Example 2:
+ *Image below show the simulation of the torsion of the fixed part from below and its evaluation of the reality.*
  
  ![Image of Finite element analysis](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Finite%20element%20analysis%20image.gif)
  
   
- ### **2. Kinematic models**
  
- - **Definition:** *The kinematic model studies the motion of a mechanism regardless of forces and torque that cause it.*
-
-- **Comments:**
-
-  - *The "kinematics" generally refers to the study of properties of motion-- position, velocity, acceleration, etc.-- without any consideration of why those quantities have the values they do. "Dynamics" is concerned with the relationship between the forces acting on a mechanism and the accelerations they produce. "Statics" means a study of forces in equilibrium without consideration of changes over time.*
-  - *The kinematic model can be represented as a tree structure. The tree describes the kinematic chain, i.e., the connection of links with joints, and the inter-dependencies of these links.* 
-  - *In design of robot, kinematic model allows to compute the position and orientation of robot manipulator's end-effector relative to the base of the manipulator as a function of the joint variables.*
-  
- #### *Example 1: [Arduino IoT Robotic Arm](https://www.hackster.io/aerdronix/arduino-iot-robotic-arm-5a4401)*
-
- #### *Example 2: [Compas FAB](https://gramaziokohler.github.io/compas_fab/latest/examples/02_description_models/01_kinematic_model.html)*
-
-```
- 
-   It includes the description of the kinematic model in dynamic and statics form and representation of the structure of the kinematic model (Refer to example 1 and 2)
-  
-  - Represenation of kinematic model   
-    - Description of dynamic model 
-    - Description of static model
-  ```
 
