@@ -56,7 +56,7 @@ You can use the files on GitHub as templates to define the architectural structu
 To reuse a electrical design, it should provide information consist of:
 
  1. Preferable file format
-   - Editable file formats of Printed Circuit Board (PCB) and Schematic diagram that could be:
+   - Editable file formats for designing the layout of Printed Circuit Board (PCB) and Schematic diagram that could be:
      - Source formats such as .gbr, .lib format   
      - Neutral formats such as Kicad_mod, kicad_pcb
  2. Preferable software 
