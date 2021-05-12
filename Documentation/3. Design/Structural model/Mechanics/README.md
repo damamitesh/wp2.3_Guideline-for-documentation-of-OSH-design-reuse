@@ -6,13 +6,16 @@
 
 
  ```
-Documentation of the architectural structure of a mechanical product should provide information including:
+1. what mininmum documentation the architectural structure should provide includes
  
-1. Specifying the kinds of components and their sub-components in the format of a tree  or graph (refer to example 1 and 2)
-2. The name of modeling language for representation 
+- A model specifying the kind of components and their sub-components in the format of a tree  or a graph (refer to example 1 and 2)
+
+2. How to implement the architectural model?
+
+- The name of modeling language for representation 
   - SysML (Block Definition, Activity, or Internal Block diagram)
   - UML
-3. The name of software for modeling the tree or graph representation
+- The name of software for modeling the tree or graph representation
   - Papyrus
   - Modelio
   - Capella  
