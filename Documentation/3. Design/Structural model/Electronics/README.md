@@ -5,9 +5,9 @@
 - **Definition:** *The architectural structure is a physical or logical layout of the components of a system design and their internal and external connections.*
 
  ```
-Documentation of architectural structure of an electrical product  should provide the information including:
- 
-1. Specifying the kinds of components and their sub-components in the format of a tree  or graph such as:
+ 1. what mininmum documentation the architectural structure should provide includes
+
+  - A model specifying the kind of components and their sub-components in the format of a tree  or a graph (refer to example 1 and 2) such as
      - DC motor
      - A/D converter
      - DC converters  
@@ -20,13 +20,16 @@ Documentation of architectural structure of an electrical product  should provid
      - IC
      - Sensors
      - Etc.
-2. The name of modeling language for representation 
-  - SysML (Block Definition, Activity, or Internal Block diagram)
-  - UML
-3. The name of software for modeling the tree or graph representation
-  - Papyrus
-  - Modelio
-  - Capella 
+
+2. How to implement the architectural model?
+
+ - The name of modeling language for representation 
+   - SysML (Block Definition, Activity, or Internal Block diagram)
+   - UML
+ - The name of software for modeling the tree or graph representation
+   - Papyrus
+   - Modelio
+   - Capella 
   ```
 
 *The links below show some kinds of architectural structure of electrical products.*
