@@ -62,7 +62,7 @@ To reuse a design model, it should provide information consist of:
 
 *1. [Farmbot, Native CAD files](https://genesis.farm.bot/v1.5/Extras/cad)*
 
-*2. [MIT Emergency Ventilator, Standard CAD files](https://e-vent.mit.edu/resources/downloads/)*
+*2. [MIT Emergency Ventilator, Neutral CAD files](https://e-vent.mit.edu/resources/downloads/)*
 
 
 ### **3. Characteristics of the materials**
