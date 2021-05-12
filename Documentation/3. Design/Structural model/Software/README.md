@@ -6,12 +6,16 @@
 
  ```
 Documentation of software architecture a project should provide the information including:
+1. what mininmum documentation the architectural structure should provide includes
+
+- Specifying the kinds of components and their sub-components of software in the format of a tree  or graph (refer to the example below)
+
+2. How to implement the architectural model?
  
-1. Specifying the kinds of components and their sub-components of software in the format of a tree  or graph (refer to the example below)
-2. The name of modeling language for representation 
+- The name of modeling language for representation 
   - SysML (Block Definition, Activity, or Internal Block diagram)
   - UML
-3. The name of software for modeling the tree or graph representation
+- The name of software for modeling the tree or graph representation
   - Papyrus
   - Modelio
   - Capella 
