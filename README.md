@@ -39,15 +39,6 @@ To reuse this project, the maker should know how to:
 
 - [Edit a Markdown file](https://guides.github.com/features/mastering-markdown/)
 
-## Project team
-
-
-
-
-- Jean-François BOUJUT {Jean-francois.boujut@grenoble-inp.fr}
-- Amer EZOJI {amer.ezoji@grenoble-inp.fr}
-- Romain PINQUIE {romain.pinquie@grenoble-inp.fr}
-
 
 ## Contribution Process
 
@@ -60,6 +51,17 @@ To contribute to this project, you can:
 - Post on issues page and briefly outline the changes you plan to make
 - If you are looking for input on what to contribute, brows the issues with the Requests or Bug label
 - ...
+
+
+## Project team
+
+
+
+
+- Jean-François BOUJUT {Jean-francois.boujut@grenoble-inp.fr}
+- Amer EZOJI {amer.ezoji@grenoble-inp.fr}
+- Romain PINQUIE {romain.pinquie@grenoble-inp.fr}
+
 
 ## License
 
