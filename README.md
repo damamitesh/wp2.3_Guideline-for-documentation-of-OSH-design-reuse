@@ -24,8 +24,9 @@ This project delivers a template standing as a minimum viable documentation for 
 
 The documentation template reuses exemplary documentation practices borrowed from:
 
-- [NASA JPL Open Source Rover Project](https://github.com/nasa-jpl/open-source-rover) - section "Skills Necessary"
-- ...
+- [BCN3D Moveo Project](https://github.com/BCN3D/BCN3D-Moveo) - section "Motivation and goal in itroduction"
+- [NASA JPL Open Source Rover Project](https://github.com/nasa-jpl/open-source-rover) - section "Skills Necessary,Software description, Manufcaturing, Assembly"
+- [BCN3D Moveo Project](https://github.com/BCN3D/BCN3D-Moveo) - section "Motivation and goal in itroduction"
 
 ## Required Background
 
