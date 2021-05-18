@@ -25,8 +25,13 @@ This project delivers a template standing as a minimum viable documentation for 
 The documentation template reuses exemplary documentation practices borrowed from:
 
 - [BCN3D Moveo Project](https://github.com/BCN3D/BCN3D-Moveo) - section "Motivation and goal in itroduction"
-- [NASA JPL Open Source Rover Project](https://github.com/nasa-jpl/open-source-rover) - section "Skills Necessary,Software description, Manufcaturing, Assembly"
-- [BCN3D Moveo Project](https://github.com/BCN3D/BCN3D-Moveo) - section "Motivation and goal in itroduction"
+- [NASA JPL Open Source Rover Project](https://github.com/nasa-jpl/open-source-rover) - section "Skills Necessary, Software description, Manufcaturing, Assembly"
+- [Open-Source Ventilator Project](https://github.com/ermtl/Open-Source-Ventilator/blob/master/hardware/datasheets/A4988.pdf) - section "Functional Block Diagram"
+- [Renesas Electronics Ventilator Project](https://www.rs-online.com/designspark/ventilator-design-solution-from-renesas-electronics) - section "Functional Block Diagram"
+- [GlasVent Project](https://onlinelibrary.wiley.com/doi/10.1002/gch2.202000046) - section "Block Diagram of Architectural Structure"
+- [GMPS Open-Source Ventilator Project](https://www.monolithicpower.com/en/mps-open-source-ventilator) - section "Hardware overview"
+- [MakAir — Covid-19 Ventilator Project](https://github.com/makers-for-life/makair) - section "Archtecture"
+- ...
 
 ## Required Background
 
