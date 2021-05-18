@@ -77,5 +77,5 @@ CC-BY-SA 4.0
 
 The European research and innovation project [OPENNEXT](https://opennext.eu/) is sponsorised by the [EU’s Horizon 2020 program](https://ec.europa.eu/easme/en/section/horizon-2020-energy-efficiency/h2020-programme#:~:text=Horizon%202020%20is%20the%20EU's,leadership%20and%20tackling%20societal%20challenges.).
 
-![Image of European Commission](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/European%20commossion.png)
+![Image of European Commission](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/European%20commossion.png). ![Image of Open Next Project](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Open%20Next%20logo.png).
 
