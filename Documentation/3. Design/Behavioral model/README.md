@@ -17,6 +17,8 @@
 
 ## **How to document a behavioral model?**
 
+*Documentation of a behvioral model depends to each project. Beacuse there are diferent type of simulation to analyze the behavioral model of a product based on that is solid or fluid.
+
  ### **1. Simulation models**
 
 - **Definition:** *A simulation model enables the designers to test whether the design specifications are met by performing computer simulations rather than experiments on the physical prototype.It promises a more comprehensive exploration of design alternatives and a better-performing final design.*
