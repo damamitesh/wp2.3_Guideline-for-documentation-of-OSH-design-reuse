@@ -5,7 +5,7 @@
 *The software architecture represents the repository details of all the software that is necessary for reusing and running the project.*
 
  ```
-1. what mininmum documentation the architectural structure should provide includes
+1. what minimum documentation should the architectural structure provide?
 
 - Specifying the kinds of components and their sub-components of software in the format of a tree  or graph (refer to the example below)
 
