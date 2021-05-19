@@ -18,8 +18,18 @@
 - The name of software for modeling the tree or graph representation
   - Papyrus
   - Modelio
-  - Capella  
-  ```
+  - Capella 
+   ``` 
+  # A collapsible section with markdown
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
 
 *The links below show some kinds of architectural structure of open-source projects*
 
