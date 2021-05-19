@@ -15,7 +15,7 @@
   - Capella  
   ```
 
-Use the link in blew to define the architectural structure of your project/product
+Use the link in blew to define the architectural structure of your project/product.
 
 ![Image of Structural graph of PSLab](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Architecture%20of%20mechanical%20structural%20model.jpg)
 
