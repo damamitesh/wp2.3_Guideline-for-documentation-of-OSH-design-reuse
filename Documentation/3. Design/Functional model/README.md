@@ -49,11 +49,13 @@
 
 *We show some kinds of functional tree of open-source projects.*
 
-#### *Example 1: functional requirements [XYZ CARGO ADD-ONS](https://projects.opennext.eu/@xyz-cargo-add-ons/xyz-cargo-add-ons)*
+#### *Example 1:[project of XYZ CARGO ADD-ONS](https://projects.opennext.eu/@xyz-cargo-add-ons/xyz-cargo-add-ons)*
 
-*In below, we describe the functional requirement that ADD-ONS of XYZ cargo provides for the food producers to preserve the quality of food.*
+### *Functional requirements*
 
- * In this example, we assumed a refrigerator on the ADD-ONS could help the food producers to cool down and preserve the temperature of foods. So, we defined some functional requirements (FR) based on this assumption that consist:
+*In below, we describe the functional requirement that ADD-ONS of XYZ cargo provides for the food producers, as a stakeholder, to preserve the quality of food.*
+
+ * In this example, we assumed a refrigerator on the ADD-ONS could help the food producers to cool down and preserve the temperature of food. So, we defined some functional requirements (FR) based on this assumption that consist:
  
     * FR1: To maintain the quality of food, food producer needs to main the material at cold temperature (between 3 °C and 10 °C) for short-term preservation (3h) or long-term preservation (24h).
     * FR2: ADD-ONS shall fix the internal ADD-ONS temperature for 7 °C.
@@ -62,7 +64,7 @@
     * FR5: the hot and pressured exit gas needs to meet the cooler external ambient temperature to become a liquid.
     * ...
 
-#### *Example of functional tree of XYZ CARGO ADD-ONS*:
+#### *Functional tree*
 
 *The decomposition of technical functions creates a functional tree and, the technical functions are defined based on the functional requirements. Functional tree of mentioned example about the refrigerator on the ADD-ONS represented in the figure below.*
 
@@ -82,8 +84,8 @@ You can use this template on GitHub to define the fuctional tree of your project
   - *Logical AND/OR gates can be used to define concurrent or sequential functions.*
   - *Articulation of technical function can describe as input-output relationships transforming flows by using the functional modeling language in the format of the graph*
   
-#### *Example 1: functional graph XYZ Cargo-ADD ONS*:
-*Functional graph of the relationship between technical functions for maintaining food quality by ADD-ONS of XYZ cargo based on the functional tree.*
+#### *Functional graph of XYZ Cargo-ADD ONS*:
+*The image below shows the functional graph of the relationship between technical functions for maintaining food quality by ADD-ONS of XYZ cargo*
 
 ![Image of functional graph of XYZ cargo-ADD ONS](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Functional%20graph%20of%20XYZ%20cargo-ADD%20ONS.jpg)
 
