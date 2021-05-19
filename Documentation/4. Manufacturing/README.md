@@ -16,7 +16,7 @@
 
 
  ```
- Documentation of manufacturing technology consists:
+ Documentation of manufacturing technology consist of
  
  1. Machine tool is a machine for handling or machining metal or other rigid materials, usually by
      - Turning tools
@@ -59,7 +59,7 @@
   - **Definition:** *Standard file formats support some of the manufacturing processes and the surface geometry of a design without the possibility of modification.*
 
 ```
-Main information for documentation of standard file formats for the manufacturing process include::
+Main information for documentation of standard file formats for the manufacturing process include:
  
   1. CAD files in an interchange format such as STL that is suitable for 3D priniting 
   2. Nominal geometry and its allowable variation by using symbolic language on 2D drawings like SVG, JPEG and PDF format that is suitable for laser cutting
