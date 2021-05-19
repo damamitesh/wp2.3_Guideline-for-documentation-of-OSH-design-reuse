@@ -94,11 +94,11 @@ You can use this template on GitHub to define the fuctional tree of your project
 *This template can be used to define the technical graph of your project/product.*
 
 #### *Example 2*:
-*The links below show some kinds of functional block diagrams of open-source projects*
+*The link below shows an example of functional block diagrams of open-source project*
 
 * [Functional diagram of Renesas’ ventilator](https://www.rs-online.com/designspark/ventilator-design-solution-from-renesas-electronics)
 
-* [Functional diagram of GlasVent emergency ventilator](https://onlinelibrary.wiley.com/doi/10.1002/gch2.202000046)
+
 
 
 
