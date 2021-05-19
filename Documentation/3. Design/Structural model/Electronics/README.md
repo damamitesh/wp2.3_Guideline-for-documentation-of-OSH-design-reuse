@@ -5,7 +5,7 @@
 - **Definition:** *The architectural structure is a physical or logical layout of the components of a system design and their internal and external connections.*
 
  ```
- 1. what mininmum documentation the architectural structure should provide includes
+ 1. what minimum documentation should the architectural structure provide?
 
   - A model specifying the kind of components and their sub-components in the format of a tree  or a graph (refer to example 1 and 2) such as
      - DC motor
