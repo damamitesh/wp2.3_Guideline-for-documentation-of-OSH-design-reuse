@@ -48,20 +48,20 @@ You can use the files on GitHub as templates to define the architectural structu
 
 #### *Example 3: Architectural structure of* [Open-Source-Ventilator](https://github.com/ermtl/Open-Source-Ventilator/blob/master/hardware/datasheets/A4988.pdf)
 
-![Image of Structural graph of Open-Source-Ventilator](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Architectural%20stracture%20of%20open%20source%20ventilator.pnge)
+![Image of Structural graph of Open-Source-Ventilator](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Architectural%20stracture%20of%20open%20source%20ventilator.png)
 
-#### *Example 4: Architectural structure of* [ GlasVent emergency ventilator](https://onlinelibrary.wiley.com/doi/10.1002/gch2.202000046) (refer to figure 6 of link)
+#### *Example 4: Architectural structure of* [ GlasVent emergency ventilator](https://onlinelibrary.wiley.com/doi/10.1002/gch2.202000046) (refer to figure 6 of the link)
 
 
 ### **2. Modelling a electrical design in an editable file format**
 
-- **Definition:** *An editable file format is a standard way that information is encoded for storage and allow the makers to study, modify the circuit diagram  and reuse it.* 
+- **Definition:** *An editable file format is a standard way that information is encoded for storage and allow the makers to study, modify the layout of circuit diagram, Printed Circuit Board (PCB) and Schematic diagram.* 
 
  ```
 To reuse a electrical design, it should provide information consist of:
 
  1. Preferable file format
-   - Editable file formats for designing the layout of Printed Circuit Board (PCB) and Schematic diagram that could be:
+   - Editable file formats that could be:
      - Source formats such as .gbr, .lib format   
      - Neutral formats such as Kicad_mod, kicad_pcb
  2. Preferable software 
