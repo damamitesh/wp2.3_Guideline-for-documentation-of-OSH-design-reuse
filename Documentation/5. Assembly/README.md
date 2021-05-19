@@ -12,7 +12,7 @@
 
 
  ```
-Contents of assembly instruction consists: 
+Waht does include the content of assembly instruction? 
 
 1. Assembly sequences that identify the different steps of assemblage 
 2. Part list consist of:
@@ -24,6 +24,8 @@ Contents of assembly instruction consists:
     - What parts are made?
     - What parts are bought?
  3. Datasheet of component
+    - What a component does?
+    - How to use the component?
  4. List of the tools for assembly or disassembely
   - Allen Key set
   - Imperial Wrench Set
@@ -32,9 +34,11 @@ Contents of assembly instruction consists:
   - screwing
   - bolting
   - etc
- 6. Visualization of the assembly or disasembly process via
-  - Images 
-  - Videos 
+ 
+How to visualize of the assembly or disasembly process?
+  
+ 1. Images 
+ 2. Videos 
 ```  
 
 *Some examples of open-source projects that show the assembly instruction.*
