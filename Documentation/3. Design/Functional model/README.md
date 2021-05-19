@@ -49,9 +49,9 @@
 
 *We show some kinds of functional tree of open-source projects.*
 
-#### *Example 1:[project of XYZ CARGO ADD-ONS](https://projects.opennext.eu/@xyz-cargo-add-ons/xyz-cargo-add-ons)*
+#### *Example 1: [project of XYZ CARGO ADD-ONS](https://projects.opennext.eu/@xyz-cargo-add-ons/xyz-cargo-add-ons)*
 
-### *Functional requirements*
+#### *Functional requirements*
 
 *In below, we describe the functional requirement that ADD-ONS of XYZ cargo provides for the food producers, as a stakeholder, to preserve the quality of food.*
 
