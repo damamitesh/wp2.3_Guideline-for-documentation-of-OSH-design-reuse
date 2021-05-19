@@ -32,7 +32,7 @@
    - Capella 
   ```
 
-*The links below show some kinds of architectural structure of electrical products.*
+*The links below show some kinds of the architectural structure of the electrical product.*
 
 #### *Example 1: Architectural structure of* [PX4 Vision](https://wikifactory.com/+holybro/px4-vision) 
 
@@ -41,11 +41,16 @@
 <a href="https://app.diagrams.net/#G1oI6ne1JC-2uzSOeJaEgVNyJSjEN41-Xh" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#G1oI6ne1JC-2uzSOeJaEgVNyJSjEN41-Xh" target="_blank">Edit in diagrams.net</a>
 
 You can use the files on GitHub as templates to define the architectural structure of your project/product. (see Edit As New or Edit in diagram.net above).
+
 #### *Example 2: Architectural structure of* [PSLab](https://pslab.io/) 
 
 ![Image of Structural graph of PSLab](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Structural_graph.png)
 
-#### *Example 3: Architectural structure of* [Open-Source-Ventilator](https://github.com/ermtl/Open-Source-Ventilator/blob/master/hardware/datasheets/A4988.pdf) 
+#### *Example 3: Architectural structure of* [Open-Source-Ventilator](https://github.com/ermtl/Open-Source-Ventilator/blob/master/hardware/datasheets/A4988.pdf)
+
+![Image of Structural graph of Open-Source-Ventilator](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Structural_graph.png)
+
+Architectural structure of* [ GlasVent emergency ventilator](https://onlinelibrary.wiley.com/doi/10.1002/gch2.202000046)
 
 
 ### **2. Modelling a electrical design in an editable file format**
