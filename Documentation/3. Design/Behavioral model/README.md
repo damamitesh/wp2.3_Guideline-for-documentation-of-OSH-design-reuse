@@ -26,7 +26,7 @@
 
 
  ```
-1. what minimum documentation should the simulation model provide?
+1. What minimum documentation should the simulation model provide?
 
   - Identify the type of simulation
     - Mechanical simulation 
