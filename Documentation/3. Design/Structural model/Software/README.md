@@ -7,7 +7,7 @@
  ```
 1. what minimum documentation should the architectural structure provide?
 
-- Specifying the kinds of components and their sub-components of software in the format of a tree  or graph (refer to the example below)
+- A model specifying the kinds of components and their sub-components of software in the format of a tree  or graph (refer to the example below)
 
 2. How to implement the architectural model?
  
