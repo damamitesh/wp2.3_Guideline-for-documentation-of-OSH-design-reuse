@@ -16,7 +16,7 @@
 
 
  ```
- Documentation of manufacturing technology consist of
+ What does include the documentation of manufacturing technology?
  
  1. Machine tool is a machine for handling or machining metal or other rigid materials, usually by
      - Turning tools
@@ -26,7 +26,7 @@
      - Drilling tools
      - Boring tools
      - etc. 
- 2. Manufacturing process and its machine name  
+ 2. Manufacturing process   
      - 3D printing stereo lithography
      - Wire cutting
      - Burning machining technology 
@@ -45,9 +45,11 @@
      - Cutting force
      - Depth of cut
      - Etc.
-  4. Visualization of manufacturing technology via
-     - Images 
-     - Videos  
+     
+ How to visualize the manufacturing technology? 
+ 
+  1. Images 
+  2. Videos  
  ```
  
    #### *Example 1:* [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/mechanical/body_assembly#3-machiningfabrication)
@@ -59,7 +61,7 @@
   - **Definition:** *Standard file formats support some of the manufacturing processes and the surface geometry of a design without the possibility of modification.*
 
 ```
-Main information for documentation of standard file formats for the manufacturing process include:
+What does include the documentation of standard file formats for the manufacturing process?
  
   1. CAD files in an interchange format such as STL that is suitable for 3D priniting 
   2. Nominal geometry and its allowable variation by using symbolic language on 2D drawings like SVG, JPEG and PDF format that is suitable for laser cutting
@@ -77,7 +79,7 @@ Main information for documentation of standard file formats for the manufacturin
  - **Definition:** *Material selection is a step in the process of designing any physical object. The main goal of material selection is to use the critical requirements of each part to define the performance requirement of the material.*
 
 ```
-For documentation of material selection should identify:
+What does comprise teh documentation of material selection?
 
  1. Identifying the type of material
     - Metal
@@ -96,7 +98,7 @@ For documentation of material selection should identify:
  - **Definition:** *To achieve the right properties such as surface quality, geometrical accuracy and mechanical properties, the post processing is essential.* 
  
    ```
-   Documentaion of post-processing consist of
+   What does contain the documentaion of post-processing?
    
    1. The name of post-processes and their sequence including 
       - Sanding after 3D printing
@@ -106,9 +108,11 @@ For documentation of material selection should identify:
       - Polishing
       - Priming and painting
       - Etc.
-    2. Visualization of post-processing via
-      - Images 
-      - Videos  
+
+    How to visualize the post-processing?
+    
+    1. Images 
+    2. Videos  
    ```
    #### *Example: [Post processing for FDM printed parts](https://www.3dhubs.com/knowledge-base/post-processing-fdm-printed-parts/#introduction)*
    
@@ -117,7 +121,7 @@ For documentation of material selection should identify:
  - **Definition:** *A bill of materials (BOM) is a comprehensive list of parts, items, assemblies, and other materials required to create a product, as well as instructions required for gathering and using the required materials.*
 
 ```
-Bill of material consists:
+What does consist the bill of material?
 
    1. Part number
    2. Item name
