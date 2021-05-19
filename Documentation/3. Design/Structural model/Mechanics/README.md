@@ -6,7 +6,7 @@
 
 
  ```
-1. what minimum documentation should the architectural structure provide?
+1. What minimum documentation should the architectural structure provide?
  
 - A model specifying the kind of components and their sub-components in the format of a tree  or a graph (refer to example 1 and 2)
 
