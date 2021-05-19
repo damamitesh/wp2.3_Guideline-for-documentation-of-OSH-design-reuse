@@ -52,7 +52,7 @@ To reuse this project, the maker should know how to:
 
 
 
-To contribute to this project, you can:
+To contribute to this documentation project, you can:
 
 - Post on issues page and briefly outline the changes you plan to make
 - If you are looking for input on what to contribute, brows the issues with the Requests or Bug label
