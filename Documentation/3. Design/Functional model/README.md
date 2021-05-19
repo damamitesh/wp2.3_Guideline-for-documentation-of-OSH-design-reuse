@@ -30,15 +30,18 @@
   - *The functional requirement describes the achievement of the minimum set of requirements a system must satisfy.([Specification](https://github.com/OPEN-NEXT/wp2.3_template/tree/main/Documentation/2.%20Specification#specification))*
 
  ```
-Documentation of the Functional tree should provide information including:
+1. what minimum documentation should the functional tree provide?
  
-1. Specifying the kinds of technical functions and their sub-functions in the format of a tree   (refer to example 1)
-2. The name of modeling language for representation 
+- A model specifying the kinds of technical functions and their sub-functions in the format of a tree   (refer to example 1)
+
+2. How to implement the functional tree?
+
+- The name of modeling language for representation 
   - UML (Use Case diagram)
   - SysML (Block Definition, Activity, or Internal Block diagram)
   - SADT/IDEF0 
   - Functional flow block diagram
-3. The name of software for modeling the tree or graph representation
+- The name of software for modeling the tree or graph representation
   - Papyrus
   - Modelio
   - Capella  
