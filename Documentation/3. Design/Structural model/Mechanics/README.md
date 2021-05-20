@@ -1,4 +1,4 @@
-## **How to document a structural model of mechnical products?** [Template](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Template/3.%20Design/Structural%20model/Mechanic)
+## **How to document a structural model of mechnical products?** 
 
  ### **1. Architectural structure**
 
