@@ -1,3 +1,5 @@
+*This guideline helps to understand the necessities for manufacturing documentation. Also, there is a [template](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Documentation/3.%20Design/Structural%20model/Electronics/README.md#template) below that allows you to fill own manufacturing documentation according to content of guideline.*
+
 # **Manufacturing**
 
 *I would like to enable makers to understand the process by which raw materials transform into a final product.*
@@ -136,4 +138,26 @@ What does consist the bill of material?
  #### *Example: [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/bill_of_materials)*
 
 
+### Template
+<details>
+  <summary>Click to expand!</summary>
+ 
+  #### 1. Documentation of software architecture
+  1. A model specifying of components *([Template of software architecture](https://app.diagrams.net/?libs=general;uml#G1MlfmgE-MK0jfELJd3EfE1epv03GCdpde))*
+  2. Name of modeling language
+     * UML
+     * ...
+  3. Name of Software for modeloing the architecture
+     * Online app diagram
+     * ...
+ 
+ #### 2. Documentation of different parts of software
+  1. Description of programming algorithm 
+     * representation of algorithm 
+  2. The source code
+  3. Programming software
+     * Name
+     * Version
+ 
+</details>
 
