@@ -41,20 +41,6 @@ You can use the files on GitHub as templates to define the architectural structu
 
 #### *Example 3: architectural structure of* [GlasVent emergency ventilator in format of block diagram](https://onlinelibrary.wiley.com/doi/10.1002/gch2.202000046)
 
-### Template
-<details>
-  <summary>Click to expand!</summary>
-  
-  #### Architectural structure documentaion
-  1. A model specifying of components <a href="https://app.diagrams.net/#G1GCkQGQB4dYQCXf016Il42YpoE1dwrAtm" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#G1GCkQGQB4dYQCXf016Il42YpoE1dwrAtm" target="_blank">Edit in diagrams.net</a>
-  2. Name of modeling language
-     * UML
-     * ...
-  3. Name of Software
-     * Online app diagram
-     * ...
-</details>
-
 ### **2. Modelling a design in an editable file format**
 
 - **Definition:** *An editable file format is a standard way that information is encoded for storage and allow the makers to study, modify the geometry of a model and reuse it.* 
@@ -106,5 +92,33 @@ To reuse a design model, it should provide information consist of:
 
 > Source: Kutz, M. ed., 2002. Handbook of materials selection. John Wiley & Sons.
   
-
-  ```
+### Template
+<details>
+  <summary>Click to expand!</summary>
+  
+  #### 1. Architectural structure documentation
+  1. A model specifying of components <a href="https://app.diagrams.net/#G1GCkQGQB4dYQCXf016Il42YpoE1dwrAtm" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#G1GCkQGQB4dYQCXf016Il42YpoE1dwrAtm" target="_blank">Edit in diagrams.net</a>
+  2. Name of modeling language
+     * UML
+     * ...
+  3. Name of Software
+     * Online app diagram
+     * ...
+ 
+ #### 2. Documentation a design in an editable file format
+  1. 3D/2D file format
+     * Native formats
+     * Neutral formats
+  2. Name of Software
+     * FreeCAD
+     * ...
+ 
+  #### 2. Documentation a design in an editable file format
+  1. 3D/2D file format
+     * Native formats
+     * Neutral formats
+  2. Name of Software
+     * FreeCAD
+     * ...
+ 
+</details>
