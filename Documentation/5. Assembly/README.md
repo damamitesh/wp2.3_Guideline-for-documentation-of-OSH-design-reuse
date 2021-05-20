@@ -1,4 +1,4 @@
-*This guideline helps to understand the necessities for assembley documentation. Also, there is a [template](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Documentation/4.%20Manufacturing/README.md#template) below that allows you to fill own assembly documentation.*
+*This guideline helps to understand the necessities for assembley documentation. Also, there is a [template](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Documentation/5.%20Assembly/README.md#template) below that allows you to fill own assembly documentation.*
 
 # **Assembly**
 
@@ -55,26 +55,13 @@ How to visualize of the assembly or disasembly process?
 <details>
   <summary>Click to expand!</summary>
  
- ### Documentation of manufacturing instruction
+ ### Documentation of assembly instruction
  
-  #### 1. Manufacturing technology
-  1. Machine tool
-     * ...
-  2. Manufacturing process
-     * ...
-  3. Machining parameters
-     * ...
-  4. Vizualization via images and videos
-     
- #### 2. Identifying the geometry by standard file formats
-  1. 2D/3D files  
- #### 3. Material selection
-  1. Name of mterial
-  2. Characteristic
-  3. Environmental impacts
- #### 4. Post-processing     
-  1. Name of process
-  2. Description of Process
-  3. Vizualization via images and videos
- #### 5. Bill of material 
+ #### 1. Assembly sequences     
+ #### 2. Part list  
+ #### 3. Datasheet of component
+ #### 4. Assembly tools    
+ #### 5. Joining technology 
+ #### 6. Visualization of process via images and videos
+ 
 </details>
