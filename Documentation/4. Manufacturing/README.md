@@ -81,7 +81,7 @@ What does include the documentation of standard file formats for the manufacturi
  - **Definition:** *Material selection is a step in the process of designing any physical object. The main goal of material selection is to use the critical requirements of each part to define the performance requirement of the material.*
 
 ```
-What does comprise teh documentation of material selection?
+What does comprise the documentation of material selection?
 
  1. Identifying the type of material
     - Metal
@@ -106,7 +106,7 @@ What does comprise teh documentation of material selection?
       - Sanding after 3D printing
       - Cold welding
       - Gap filling
-      - blasting
+      - Blasting
       - Polishing
       - Priming and painting
       - Etc.
@@ -142,22 +142,27 @@ What does consist the bill of material?
 <details>
   <summary>Click to expand!</summary>
  
-  #### 1. Documentation of software architecture
-  1. A model specifying of components *([Template of software architecture](https://app.diagrams.net/?libs=general;uml#G1MlfmgE-MK0jfELJd3EfE1epv03GCdpde))*
-  2. Name of modeling language
-     * UML
-     * ...
-  3. Name of Software for modeloing the architecture
-     * Online app diagram
-     * ...
+ ### Documentation of manufacturing instruction
  
- #### 2. Documentation of different parts of software
-  1. Description of programming algorithm 
-     * representation of algorithm 
-  2. The source code
-  3. Programming software
-     * Name
-     * Version
- 
+  #### 1. Manufacturing technology
+  1. Machine tool
+     * ...
+  2. Manufacturing process
+     * ...
+  3. Machining parameters
+     * ...
+  4. Vizualization via images and videos
+     
+ #### 2. Identifying the geometry by standard file formats
+  1. 2D/3D files  
+ #### 3. Material selection
+  1. Name of mterial
+  2. Characteristic
+  3. Environmental impacts
+ #### 4. Post-processing     
+  1. Name of process
+  2. Description of Process
+  3. Vizualization via images and videos
+ #### 5. Bill of material 
 </details>
 
