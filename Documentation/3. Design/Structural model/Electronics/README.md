@@ -1,3 +1,5 @@
+*This guideline helps to understand the necessities for documentation. Also, there is a [template](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Documentation/3.%20Design/Structural%20model/Mechanics#template) below that allows you to fill youe project documentation according to content of guideline.*
+
 ## **How to document a structural model of electrical products?**
 
  ### **1. Architectural structure**
@@ -77,4 +79,32 @@ To reuse a electrical design, it should provide information consist of:
 
 *2. [AmbovVent, Neutral files ](https://github.com/AmboVent-1690-108/AmboVent/tree/master/1-Electronics)*
 
+### Template
+<details>
+  <summary>Click to expand!</summary>
+  
+  #### 1. Architectural structure documentation
+  1. A model specifying of components <a href="https://app.diagrams.net/#G1GCkQGQB4dYQCXf016Il42YpoE1dwrAtm" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#G1GCkQGQB4dYQCXf016Il42YpoE1dwrAtm" target="_blank">Edit in diagrams.net</a>
+  2. Name of modeling language
+     * UML
+     * ...
+  3. Name of Software
+     * Online app diagram
+     * ...
+ 
+ #### 2. Documentation a design in an editable file format
+  1. 3D/2D file format
+     * Native formats
+     * Neutral formats
+  2. Name of Software
+     * FreeCAD
+     * ...
+ 
+  #### 3. Documentation of material cgaracteristics
+  1. Name of material characteristice
+     * Properties
+     * Unit of property
+     * ...
+ 
+</details>
 
