@@ -162,7 +162,7 @@ What does consist the bill of material?
  #### 4. Post-processing     
   1. Name of process
   2. Description of Process
-  3. Vizualization via images and videos
+  3. Visualization via images and videos
  #### 5. Bill of material 
 </details>
 
