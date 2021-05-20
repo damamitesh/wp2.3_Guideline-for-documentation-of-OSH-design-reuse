@@ -50,7 +50,7 @@ You can use the files on GitHub as templates to define the architectural structu
   2. Name of modeling language
      * UML
      * ...
-  3. Name of Sofeware
+  3. Name of Software
      * Online app diagram
      * ...
 </details>
