@@ -1,4 +1,4 @@
-*This guideline helps to understand the necessities for manufacturing documentation. Also, there is a [template](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Documentation/3.%20Design/Structural%20model/Electronics/README.md#template) below that allows you to fill own manufacturing documentation according to content of guideline.*
+*This guideline helps to understand the necessities for manufacturing documentation. Also, there is a [template](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Documentation/4.%20Manufacturing/README.md#template) below that allows you to fill own manufacturing documentation according to content of guideline.*
 
 # **Manufacturing**
 
