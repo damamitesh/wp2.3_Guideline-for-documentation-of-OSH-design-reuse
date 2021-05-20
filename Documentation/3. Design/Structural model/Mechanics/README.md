@@ -20,15 +20,18 @@
   - Modelio
   - Capella 
    ``` 
-  # A collapsible section with markdown
+ ### Template
 <details>
   <summary>Click to expand!</summary>
   
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+  #### Architectural structure documentaion
+  1. A model specifying of components <a href="https://app.diagrams.net/#G1GCkQGQB4dYQCXf016Il42YpoE1dwrAtm" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#G1GCkQGQB4dYQCXf016Il42YpoE1dwrAtm" target="_blank">Edit in diagrams.net</a>
+  2. Name of modeling language
+     * UML
+     * ...
+  3. Name of Sofeware
+     * Online app digram
+     * ...
 </details>
 
 *The links below show some kinds of architectural structure of open-source projects*
