@@ -113,12 +113,10 @@ To reuse a design model, it should provide information consist of:
      * FreeCAD
      * ...
  
-  #### 2. Documentation a design in an editable file format
-  1. 3D/2D file format
-     * Native formats
-     * Neutral formats
-  2. Name of Software
-     * FreeCAD
+  #### 3. Documentation of material cgaracteristics
+  1. Name of material characteristice
+     * Properties
+     * Unit of property
      * ...
  
 </details>
