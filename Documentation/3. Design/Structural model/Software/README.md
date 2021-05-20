@@ -1,3 +1,5 @@
+*This guideline helps to understand the necessities for documentation. Also, there is a [template](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Documentation/3.%20Design/Structural%20model/Electronics/README.md#template) below that allows you to fill youe project documentation according to content of guideline.*
+
 ## **How to document the software section of a project?**
 
  ### **1. Software architecture**
@@ -41,4 +43,29 @@ This part based on the different products could include
 
 *2. [AmboVent](https://github.com/AmboVent-1690-108/AmboVent/tree/master/3-Software)*
 
-*2. [Poppy project](https://docs.poppy-project.org/en/installation/)*
+*3. [Poppy project](https://docs.poppy-project.org/en/installation/)*
+
+### Template
+<details>
+  <summary>Click to expand!</summary>
+ 
+  #### 1. Documentation of software architecture
+  1. A model specifying of components *([Template of software architecture](https://app.diagrams.net/?libs=general;uml#G1MlfmgE-MK0jfELJd3EfE1epv03GCdpde))*
+  2. Name of modeling language
+     * UML
+     * ...
+  3. Name of Software for modeloing the architecture
+     * Online app diagram
+     * ...
+ 
+ #### 2. Documentation of different parts of software
+  1. Description of programming algorithm 
+     * representation of algorithm 
+  2. The source code
+  3. Programming software
+     * Name
+     * Version
+ 
+</details>
+
+
