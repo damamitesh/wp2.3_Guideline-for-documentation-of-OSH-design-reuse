@@ -39,7 +39,7 @@ You can use the files on GitHub as templates to define the architectural structu
 
 ![Image of Architectural structure of Makair ventilator](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Architectural%20structure%20of%20makair%20ventilator.jpg)
 
-<a href="https://app.diagrams.net/#G1DN3jEDVI9DlEGjVZ8jHI2kTvyz1dFT_O" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#G1DN3jEDVI9DlEGjVZ8jHI2kTvyz1dFT_O">Edit in diagrams.net</a>
+<a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FArchitectural%20structure%20of%20makair%20ventilator.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FArchitectural%20structure%20of%20makair%20ventilator.png">Edit in diagrams.net</a>
 
 #### *Example 3: architectural structure of* [GlasVent emergency ventilator in format of block diagram](https://onlinelibrary.wiley.com/doi/10.1002/gch2.202000046)
 
@@ -99,7 +99,7 @@ To reuse a design model, it should provide information consist of:
   <summary>Click to expand!</summary>
   
   #### 1. Architectural structure documentation
-  1. A model specifying of components <a href="https://app.diagrams.net/#G1GCkQGQB4dYQCXf016Il42YpoE1dwrAtm" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#G1GCkQGQB4dYQCXf016Il42YpoE1dwrAtm" target="_blank">Edit in diagrams.net</a>
+  1. A model specifying of components <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FArchitecture%20of%20mechanical%20structural%20model.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FArchitecture%20of%20mechanical%20structural%20model.png" target="_blank">Edit in diagrams.net</a>
   2. Name of modeling language
      * UML
      * ...
