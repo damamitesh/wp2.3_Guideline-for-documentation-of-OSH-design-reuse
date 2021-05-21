@@ -99,6 +99,18 @@ You can use this template on GitHub to define the fuctional tree of your project
 * [Functional diagram of Renesas’ ventilator](https://www.rs-online.com/designspark/ventilator-design-solution-from-renesas-electronics)
 
 
+### Template
+<details>
+  <summary>Click to expand!</summary>
+  
+  #### 1. 
+ 
+ #### 2. 
+ 
+  #### 3. 
+  1. 
+ 
+</details>
 
 
 
