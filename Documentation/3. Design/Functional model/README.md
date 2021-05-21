@@ -89,7 +89,7 @@ You can use this template on GitHub to define the fuctional tree of your project
 
 ![Image of functional graph of XYZ cargo-ADD ONS](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Functional%20graph%20of%20XYZ%20cargo-ADD%20ONS.jpg)
 
-<a href="https://app.diagrams.net/?libs=general;er#G1Vu8S5Zbqh19NMXCAXzxuCz5O-CRGU6Mm" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/?libs=general;er#G1Vu8S5Zbqh19NMXCAXzxuCz5O-CRGU6Mm">Edit in diagrams.net</a>
+<a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20graph.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20graph.png">Edit in diagrams.net</a>
 
 *This template can be used to define the technical graph of your project/product.*
 
