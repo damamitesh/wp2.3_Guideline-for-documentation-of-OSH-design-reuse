@@ -70,7 +70,7 @@
 
 ![Image of functional tree of XYZ cargo-ADD ONS](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Functional%20tree-%20XYZ%20cargo%20ADD-ONS.jpg)
 
-<a href="https://app.diagrams.net/#G1EqpAVkNAmx8KzblQqgSOSND7bq5UQ069" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#G1EqpAVkNAmx8KzblQqgSOSND7bq5UQ069">Edit in diagrams.net</a>
+<a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20tree.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20tree.png">Edit in diagrams.net</a>
 
 You can use this template on GitHub to define the fuctional tree of your project/product.
 
