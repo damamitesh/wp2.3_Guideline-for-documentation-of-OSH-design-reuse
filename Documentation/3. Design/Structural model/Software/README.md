@@ -25,7 +25,7 @@
 #### *Example of software architecture of* [PX4 Vision](https://docs.px4.io/master/en/concept/architecture.html#px4-architectural-overview) 
 
 
-#### *[Template of software architecture](https://app.diagrams.net/?libs=general;uml#G1MlfmgE-MK0jfELJd3EfE1epv03GCdpde)*
+#### *[Template of software architecture](https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FTemplate%20of%20software%20architecture.drawio)*
 
  ### **2. Documentation of different parts of software**
 
@@ -50,7 +50,7 @@ This part based on the different products could include
   <summary>Click to expand!</summary>
  
   #### 1. Documentation of software architecture
-  1. A model specifying of components *([Template of software architecture](https://app.diagrams.net/?libs=general;uml#G1MlfmgE-MK0jfELJd3EfE1epv03GCdpde))*
+  1. A model specifying of components *([Template of software architecture](https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FTemplate%20of%20software%20architecture.drawio))*
   2. Name of modeling language
      * UML
      * ...
