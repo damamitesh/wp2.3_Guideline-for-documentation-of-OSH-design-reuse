@@ -1,5 +1,3 @@
-*This guideline helps to understand the necessities for documentation. Also, there is a [template](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Documentation/3.%20Design/Structural%20model/Software/README.md#template) below that allows you to fill own project documentation according to content of guideline.*
-
 ## **How to document the software section of a project?**
 
  ### **1. Software architecture**
