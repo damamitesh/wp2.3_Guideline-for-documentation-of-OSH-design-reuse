@@ -1,5 +1,3 @@
-*This guideline helps to understand the necessities for assembley documentation. Also, there is a [template](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Documentation/5.%20Assembly/README.md#template) below that allows you to fill own assembly documentation.*
-
 # **Assembly**
 
 *I would like to enable makers to understand the steps of constructing a finished product from components or partially-compiled units.*
