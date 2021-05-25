@@ -1,5 +1,3 @@
-*This guideline helps to understand the necessities for documentation. Also, there is a [template](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Documentation/3.%20Design/Structural%20model/Mechanics#template) below that allows you to fill own project documentation according to content of guideline.*
-
 ## **How to document a structural model of mechanical products?** 
 
  ### **1. Architectural structure**
