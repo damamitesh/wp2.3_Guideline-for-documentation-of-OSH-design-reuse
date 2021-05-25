@@ -1,5 +1,3 @@
-*This guideline helps to understand the necessities for manufacturing documentation. Also, there is a [template](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Documentation/4.%20Manufacturing/README.md#template) below that allows you to fill own manufacturing documentation according to content of guideline.*
-
 # **Manufacturing**
 
 *I would like to enable makers to understand the process by which raw materials transform into a final product.*
