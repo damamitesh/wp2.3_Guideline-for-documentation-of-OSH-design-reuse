@@ -1,8 +1,10 @@
 # **Specification**
 
-*The specification consists in describing the product with a "black box" external view to capture the intermediate technical objects (stakeholders, external interfaces, services, and constraints) that serve to, *in fine*, elucidate the product requirements.* 
+*The specification consists in describing the product with a "black box" external view to capture the intermediate technical objects (stakeholders, external interfaces, services, and constraints) that serve to, *in fine*, elucidate the product requirements.*
 
-## **Stakeholders:**
+## **How to document the specifications?** 
+
+## **1. Stakeholders:**
 *What entities influence the product throughout its life cycle ?*
 
 - **Definition:** *Stakeholders generally refer to all the actors (human and non-human) who have an interest in a product. Among the stakeholders, there are both internal players, such as users and participants of the project, and external players that are represented by the potential user of products or external entities.*
@@ -19,7 +21,7 @@
   - Stakeholder name
   ```
 
-## **External interfaces**
+## **2. External interfaces**
 
 - **Definition:**  *External interfaces are interactions between the product and the stakeholders.*
 
@@ -40,7 +42,7 @@
     - ...
   ```
 
-## Service *(synonyms: external function, capability)* 
+## 3. Service *(synonyms: external function, capability)* 
 
 - **Definition:** *A service is an effect intended by a stakeholder resulting from the interaction of the product with its environment (i.e. what the  product is for).*
 
@@ -65,7 +67,7 @@
     - ...
   ```
   
-## Constraint *(Synonyms: non function requirement)*
+## 4. Constraint *(Synonyms: non function requirement)*
 
 - **Definition:**  *A constraint is a choice that makes certain designs "not allowed" or inappropriate for its intended use.*
 
@@ -87,7 +89,7 @@
      - ...
   ```
 
-## **Requirement**
+## **5. Requirement**
 
 - **Definition:** *A requirement is a formal statement that specifies when condition C is true, property P of object O is actual and its value shall belong  to domain D.*
 
