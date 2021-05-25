@@ -121,9 +121,7 @@ You can use this template on GitHub to define the fuctional tree of your project
   3. Name of Software
      * Online app diagram
      * ...
- .
- .
- .
+ 
 </details>
 
 
