@@ -95,3 +95,20 @@ Who is sponsoring your project?
 - Name:
 - E-mail address:
 ```
+
+### Template
+<details>
+  <summary>Click to expand!</summary>
+  
+  #### 1. Motivation
+     * ...
+
+ #### 2. Goal
+     * ...
+   
+ #### 2. History
+     * ...
+ .
+ .
+ .
+</details>
