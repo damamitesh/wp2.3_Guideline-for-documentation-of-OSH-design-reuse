@@ -108,7 +108,7 @@ External interfaces consistits:
     - Requirement 3:...
       - ...
   ```
-[Metadat](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Metadata/2.%20Specification/README.md#metadata)
+[Metadata](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Metadata/2.%20Specification/README.md#metadata)
 
 ### Template
 <details>
