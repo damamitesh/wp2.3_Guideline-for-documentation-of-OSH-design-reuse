@@ -5,7 +5,6 @@
 ## **How to document the specifications?** 
 
 ## **1. Stakeholders:**
-*What entities influence the product throughout its life cycle ?*
 
 - **Definition:** *Stakeholders generally refer to all the actors (human and non-human) who have an interest in a product. Among the stakeholders, there are both internal players, such as users and participants of the project, and external players that are represented by the potential user of products or external entities.*
 
@@ -16,9 +15,12 @@
   - *A stakeholder can indirectly be affected by the product (e.g. considering the local biodiversity when designing an airport).*
 
   ```
-  Metadata:
+  1. What entities influence the product throughout its life cycle ?
   
-  - Stakeholder name
+  - Stakeholder name 1
+  - Stakeholder name 2
+   - ...
+  
   ```
 
 ## **2. External interfaces**
@@ -30,8 +32,8 @@
   - *An interface is made of a flow (matter, energy, or signal)*
   
  ```
-  Metadata:
-  
+External interfaces consisting of:
+
   - Stakeholder name 1
     - Flow 1
     - Flow 2
