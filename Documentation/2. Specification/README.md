@@ -32,7 +32,7 @@
   - *An interface is made of a flow (matter, energy, or signal)*
   
  ```
-External interfaces consisting of:
+External interfaces consistits:
 
   - Stakeholder name 1
     - Flow 1
@@ -55,8 +55,9 @@ External interfaces consisting of:
   - *Services can be stated as follows : The [Product] shall enable [Stakeholder] [Action verb] (e.g. The product shall enable end-user to clean its teeths)*
   
  ```
-  Metadata:
   Action verb (we often reason in terms of action verbs to communicate expected behaviours, so it would be nice to be able to search designs with action verbs)
+  
+  Services to stakeholders includs:
   
     - Services to stakeholder 1
       - Service 1.1:...
@@ -82,13 +83,12 @@ External interfaces consisting of:
     
  
    ```
-  Metadata: 
+  Documentation of imposed constraints on the productcontain:
   
-  - Imposed constraints on the product:
-     - Constraint 1:...
-     - Constraint 2:...
-     - Constraint 3:...
-     - ...
+   - Constraint 1:...
+   - Constraint 2:...
+   - Constraint 3:...
+   - ...
   ```
 
 ## **5. Requirement**
@@ -101,11 +101,10 @@ External interfaces consisting of:
   -  *Requirement can state as follows: The [stakeholder] need [Property] [object] [Action verb]  at [Condition]* 
   
   ```
-  Metadata:
+  Documebtaion of requirements include:
   
-    - Requirements:
-      - Requirement 1:...
-      - Requirement 2:...
-      - Requirement 3:...
+    - Requirement 1:...
+    - Requirement 2:...
+    - Requirement 3:...
       - ...
   ```
