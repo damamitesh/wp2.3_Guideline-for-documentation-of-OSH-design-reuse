@@ -7,20 +7,22 @@
 ### **1. What is the final product?** 
 
  ```
-  Metadata:
- 
 - Illustration of final product
-- Visualiztaion the final product by images and/or videos
+- Visualization the final product by images and/or videos
   ```
 ### **2. How to use it?** 
 
  ```
-  Metadata:
- 
+  
 - Materials required
+  - App
+  - Type of software
+  - ...
 - Procedure
-- Option setting
-- 
+  - Software installation 
+  - Option setting
+  - Visualization ofprocedure via imanges and videos
+  -...
   ```
   #### *Example:* [PSlab oscilloscope](https://docs.pslab.io/tutorials/oscilloscope.html#tutorials-oscilloscope--page-root) 
   
