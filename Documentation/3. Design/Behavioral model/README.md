@@ -17,7 +17,8 @@
 
 ## **How to document a behavioral model?**
 
-*Documentation of a behavioral model depends on each project and there is different type of simulation for analysis of the behavior of a product. For example, finite element analysis( FEA), computational fluid dynamics (CFD),etc. FEA uses mathematical models to understand and quantify the effects of real-world conditions on a part or assembly. Or, CFD is a branch of fluid mechanics that uses numerical analysis and data structures to analyze  the free-stream flow of the fluid, and the interaction of the fluid (liquids and gases) with surfaces defined by boundary conditions.*
+*Documentation of a behavioral model depends on each project and there is different type of simulation for analysis of the behavior of a product. For example, finite element analysis( FEA), computational fluid dynamics (CFD),etc.* 
+*FEA uses mathematical models to understand and quantify the effects of real-world conditions on a part or assembly. CFD is a branch of fluid mechanics that uses numerical analysis and data structures to analyze  the free-stream flow of the fluid, and the interaction of the fluid (liquids and gases) with surfaces defined by boundary conditions.*
 *Analysis of the behavior of a product depends on its components and its environment. So, we can not identify all types of behavioral models in this section. But, we provide a general vision of the simulation models and their implementation.* 
 
  ### **1. Simulation models**
