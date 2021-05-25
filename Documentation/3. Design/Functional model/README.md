@@ -30,7 +30,7 @@
   - *The functional requirement describes the achievement of the minimum set of requirements a system must satisfy.([Specification](https://github.com/OPEN-NEXT/wp2.3_template/tree/main/Documentation/2.%20Specification#specification))*
 
  ```
-1. what minimum documentation should the functional tree provide?
+1. What minimum documentation should the functional tree provide?
  
 - A model specifying the kinds of technical functions and their sub-functions in the format of a tree   (refer to example 1)
 - A model specifying a multi-level logic of relationships between technical functions (refer to example 2)
