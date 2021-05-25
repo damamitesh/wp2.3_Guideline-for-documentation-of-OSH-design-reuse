@@ -100,13 +100,15 @@ Who is sponsoring your project?
 <details>
   <summary>Click to expand!</summary>
   
-  #### 1. Motivation
+  #### 1. Introduction
+  1. Motivation
      * ...
 
- #### 2. Goal
+ 2. Goal
      * ...
-   
- #### 3. History
+
+  3. History
      * ...
+  ...
 
 </details>
