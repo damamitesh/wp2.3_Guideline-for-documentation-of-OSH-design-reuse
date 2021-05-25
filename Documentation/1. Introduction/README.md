@@ -106,9 +106,7 @@ Who is sponsoring your project?
  #### 2. Goal
      * ...
    
- #### 2. History
+ #### 3. History
      * ...
- .
- .
- .
+
 </details>
