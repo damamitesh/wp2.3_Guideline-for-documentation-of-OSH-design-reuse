@@ -120,13 +120,11 @@ External interfaces consistits:
      * Stakeholder name 1
        * Flow 1
        * ...
-     *...
- 
+    
   3. Service
      * Services to stakeholder 1
        * Service 1.1
        * ...
-     *...
   
   4. Constraint
      * Constraint 1
