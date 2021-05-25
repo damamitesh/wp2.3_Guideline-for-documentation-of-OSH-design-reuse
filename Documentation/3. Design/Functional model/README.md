@@ -33,6 +33,7 @@
 1. what minimum documentation should the functional tree provide?
  
 - A model specifying the kinds of technical functions and their sub-functions in the format of a tree   (refer to example 1)
+- A model specifying a multi-level logic of relationships between technical functions (refer to example 2)
 
 2. How to implement the functional tree?
 
@@ -103,12 +104,23 @@ You can use this template on GitHub to define the fuctional tree of your project
 <details>
   <summary>Click to expand!</summary>
   
-  #### 1. 
- 
- #### 2. 
- 
-  #### 3. 
-  1. 
+  #### 1. Functional tree
+  1. A model specifying the kinds of technical functions <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20tree.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20tree.png">Edit in diagrams.net</a>
+  2. Name of modeling language
+     * ...
+     * ...
+  3. Name of Software
+     * Online app diagram
+     * ...
+
+   #### 2. Functional graph
+  1. A model specifying the kinds of technical functions <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20tree.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20tree.png">Edit in diagrams.net</a>
+  2. Name of modeling language
+     * ...
+     * ...
+  3. Name of Software
+     * Online app diagram
+     * ...
  
 </details>
 
