@@ -6,7 +6,7 @@
 
 *Assembly instruction can guide the makers to follow the process of assembly or disassembly of components of a product.*
 
-### **Assembly instruction can include:** 
+### **Assembly instruction** 
 
  - **Definition:** *Assembly instruction could illustrate visually and with words and text how to assemble or disassemble the mechanical and electrical components of the product.*
 
