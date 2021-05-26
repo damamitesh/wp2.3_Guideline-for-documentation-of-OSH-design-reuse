@@ -47,4 +47,9 @@
   
  #### *Example 2:* [PX4 vision userguide](https://docs.px4.io/master/en/#how-do-i-get-started)
  
- #### *Example 3:* [Echopen](https://echopen.gitbooks.io/echopen_prototyping/content/introduction/new_introduction.html) 
+ #### *Example 3:* [Echopen project](https://echopen.gitbooks.io/echopen_prototyping/content/introduction/new_introduction.html) 
+ 
+ #### *Example 4:* [Poppy project ]( https://docs.poppy-project.org/en/)
+ 
+ #### *Example 5:* [FarmBot Genesis V1.5 ]( https://genesis.farm.bot/v1.5/Extras/troubleshooting)
+
