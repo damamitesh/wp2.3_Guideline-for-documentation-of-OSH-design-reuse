@@ -20,16 +20,21 @@
 - Materials required
   - App
   - Type of software
+  - device name
   - ...
 - Procedure
+  - Basic configuration (example of PX4 User Guide) 
   - Software installation (Installation instructions)
   - Option setting
-  - Visualization of procedure via imanges and videos
+  - Visualization of procedure via imanges and videos (video guide)
   -...
 - Troubleshooting section and instructions on how to solve problems
 - Repair information
 - Information on disposal of the product and packaging
-- Technical specifications
+- Technical specifications ( echopen example)
+- explains how to update your firmware to the latest version
+- Teach the essentials (example of PX4 User Guide)
+- Reporting problems and issues on the forums and chat
   ```
  
    ### **3.**
