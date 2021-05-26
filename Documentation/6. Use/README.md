@@ -30,8 +30,8 @@
   
 - Procedure
   - Basic configuration (example of PX4 User Guide) 
-  - Software installation (Installation instructions)
-  - Setup the software
+  - Install the needed software (Installation instructions) (example of poppy User Guide)
+  - Setup the software (example of poppy User Guide)
   - Option setting
   - Visualization of procedure via imanges and videos (video guide)
   -...
