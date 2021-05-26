@@ -6,51 +6,44 @@
 
 *Instruction of user guide consists the description of product (what) and use the of it (how). So,documentaion of user guide devide to two part as shown in below.* 
 
-### **1. Description of product ** 
+### **1. Description of product** 
 
   ```
-1. What is the final product?
+1. What should include the description of the final product?
 
   - Product name
   - Description of the main product elements
   - Model or type number
-  - Visualization the final product by images and/or videos
   - Teach the essentials and technical specifications ( echopen example)(example of PX4 User Guide)
+  - Visualization the final product by images and/or videos
 
 ```
-### **2. How to use it?** 
-
-### **3.**
-
-
+### **2. Use of product** 
 
  ```
-  - Product name
-- Model or type number
-- Description of the main product elements
-- Illustration of final product
-- Visualization the final product by images and/or videos
+ 1. How to use the product?
 
 - Materials required
   - App
-  - Type of software
-  - device name
+  - Software
+  - Device name
   - ...
-  
 - Procedure
-  - Basic configuration (example of PX4 User Guide) 
-  - Install the needed software (Installation instructions) (example of poppy User Guide)
-  - Setup the software (example of poppy User Guide)
+  - Installation instructions of (example of poppy User Guide)
+    - Firmware
+    - Software
+    - App
+  - Setup instruction of (example of poppy User Guide)
+    - Software
+    - Firmware
+    - App
   - Option setting
+  - Troubleshooting section and instructions on how to solve problems (example of Farmbot Troubleshooting)
+  - Repair information
+  - Information on disposal of the product and packaging
+  - explains how to update your firmware to the latest version
+  - Reporting problems and issues on the forums and chat
   - Visualization of procedure via imanges and videos (video guide)
-  -...
-- Troubleshooting section and instructions on how to solve problems (example of Farmbot Troubleshooting)
-- Repair information
-- Information on disposal of the product and packaging
-- Technical specifications ( echopen example)
-- explains how to update your firmware to the latest version
-- Teach the essentials (example of PX4 User Guide)
-- Reporting problems and issues on the forums and chat
   ```
  
 
