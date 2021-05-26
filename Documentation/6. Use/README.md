@@ -1,10 +1,10 @@
 # **Use**
 
-*The user guide consists in translating what’s not comprehensible to a plain language for everyone to understand and  it helps non-technical people pinpoint and solve problems without expert assistance.*
+*The user guide consists of translating what’s not comprehensible to a plain language for everyone to understand and it helps non-technical people pinpoint and solve problems without expert assistance.*
 
 ## **How to document the user guide?**
 
-*Instruction of user guide consists the description of product (what) and use the of it (how). So,documentaion of user guide devide to two part as shown in below.* 
+*Instruction of user guide consists the description of the product (what) and use the of it (how). So, the documentation of the user guide divides into two-part as shown below.* 
 
 ### **1. Description of product** 
 
@@ -70,6 +70,6 @@
   3. Setup instruction
   4. Troubleshooting
   5. Repair information
-  ...
+  6. ...
  
 </details>
