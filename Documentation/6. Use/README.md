@@ -12,9 +12,7 @@
 1. What should include the description of the final product?
 
   - Product name
-  - Description of the main product elements
-  - Model or type number
-  - Teach the essentials and technical specifications ( echopen example)(example of PX4 User Guide)
+  - Teach the essentials and technical specifications 
   - Visualization the final product by images and/or videos
 
 ```
@@ -26,28 +24,27 @@
 - Materials required
   - App
   - Software
-  - Device name
-  - ...
+  - Device 
+  - firmware
 - Procedure
-  - Installation instructions of (example of poppy User Guide)
+  - Installation instructions  (example of poppy User Guide)
     - Firmware
     - Software
     - App
-  - Setup instruction of (example of poppy User Guide)
+  - Setup instruction (example of poppy User Guide)
     - Software
     - Firmware
     - App
-  - Option setting
   - Troubleshooting section and instructions on how to solve problems (example of Farmbot Troubleshooting)
   - Repair information
   - Information on disposal of the product and packaging
   - explains how to update your firmware to the latest version
   - Reporting problems and issues on the forums and chat
-  - Visualization of procedure via imanges and videos (video guide)
+  - Visualization of procedure via imanges and/or videos 
   ```
- 
-
    
- #### *Example:* [PSlab oscilloscope](https://docs.pslab.io/tutorials/oscilloscope.html#tutorials-oscilloscope--page-root) 
+ #### *Example 1:* [PSlab oscilloscope](https://docs.pslab.io/tutorials/oscilloscope.html#tutorials-oscilloscope--page-root) 
   
-
+ #### *Example 2:* [PX4 vision userguide](https://docs.px4.io/master/en/#how-do-i-get-started)
+ 
+ #### *Example 3:* [Echopen](https://echopen.gitbooks.io/echopen_prototyping/content/introduction/new_introduction.html) 
