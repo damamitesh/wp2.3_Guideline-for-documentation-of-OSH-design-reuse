@@ -7,6 +7,9 @@
 ### **1. What is the final product?** 
 
  ```
+- Product name
+- Model or type number
+- Description of the main product elements
 - Illustration of final product
 - Visualization the final product by images and/or videos
   ```
@@ -19,11 +22,18 @@
   - Type of software
   - ...
 - Procedure
-  - Software installation 
+  - Software installation (Installation instructions)
   - Option setting
-  - Visualization ofprocedure via imanges and videos
+  - Visualization of procedure via imanges and videos
   -...
+- Troubleshooting section and instructions on how to solve problems
+- Repair information
+- Information on disposal of the product and packaging
+- Technical specifications
   ```
-  #### *Example:* [PSlab oscilloscope](https://docs.pslab.io/tutorials/oscilloscope.html#tutorials-oscilloscope--page-root) 
+ 
+   ### **3.**
+   
+ #### *Example:* [PSlab oscilloscope](https://docs.pslab.io/tutorials/oscilloscope.html#tutorials-oscilloscope--page-root) 
   
-  ### **3.**
+
