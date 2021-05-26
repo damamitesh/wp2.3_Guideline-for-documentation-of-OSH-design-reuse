@@ -16,7 +16,7 @@
 
 
  ```
- What does include the documentation of manufacturing technology?
+ What should include the documentation of manufacturing technology?
  
  1. Machine tool is a machine for handling or machining metal or other rigid materials, usually by
      - Turning tools
