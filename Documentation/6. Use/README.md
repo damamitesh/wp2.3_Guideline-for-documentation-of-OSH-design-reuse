@@ -27,15 +27,15 @@
   - Device 
   - firmware
 - Procedure
-  - Installation instructions  (example of poppy User Guide)
+  - Installation instructions  
     - Firmware
     - Software
     - App
-  - Setup instruction (example of poppy User Guide)
+  - Setup instruction 
     - Software
     - Firmware
     - App
-  - Troubleshooting section and instructions on how to solve problems (example of Farmbot Troubleshooting)
+  - Troubleshooting section and instructions on how to solve problems 
   - Repair information
   - Information on disposal of the product and packaging
   - explains how to update your firmware to the latest version
@@ -43,7 +43,7 @@
   - Visualization of procedure via imanges and/or videos 
   ```
    
- #### *Example 1:* [PSlab oscilloscope](https://docs.pslab.io/tutorials/oscilloscope.html#tutorials-oscilloscope--page-root) 
+ #### *Example 1:* [PSLab oscilloscope](https://docs.pslab.io/tutorials/oscilloscope.html#tutorials-oscilloscope--page-root) 
   
  #### *Example 2:* [PX4 vision userguide](https://docs.px4.io/master/en/#how-do-i-get-started)
  
@@ -53,3 +53,23 @@
  
  #### *Example 5:* [FarmBot Genesis V1.5 ]( https://genesis.farm.bot/v1.5/Extras/troubleshooting)
 
+### Template
+<details>
+  <summary>Click to expand!</summary>
+ 
+ ### Documentation of user guide
+ 
+  #### 1. Description of product
+  1. ...
+     
+ #### 2. Use of product
+  1. Materials required
+      * ...
+  2. Procedure
+      * ...
+  3. Setup instruction
+  4. Troubleshooting
+  5. Repair information
+  ...
+ 
+</details>
