@@ -7,21 +7,26 @@
 ### **1. What is the final product?** 
 
  ```
-- Product name
+
+  ```
+### **2. How to use it?** 
+
+### **3.**
+
+
+
+ ```
+  - Product name
 - Model or type number
 - Description of the main product elements
 - Illustration of final product
 - Visualization the final product by images and/or videos
-  ```
-### **2. How to use it?** 
-
- ```
-  
 - Materials required
   - App
   - Type of software
   - device name
   - ...
+  
 - Procedure
   - Basic configuration (example of PX4 User Guide) 
   - Software installation (Installation instructions)
@@ -37,7 +42,7 @@
 - Reporting problems and issues on the forums and chat
   ```
  
-   ### **3.**
+
    
  #### *Example:* [PSlab oscilloscope](https://docs.pslab.io/tutorials/oscilloscope.html#tutorials-oscilloscope--page-root) 
   
