@@ -21,6 +21,7 @@
 - Description of the main product elements
 - Illustration of final product
 - Visualization the final product by images and/or videos
+
 - Materials required
   - App
   - Type of software
@@ -30,6 +31,7 @@
 - Procedure
   - Basic configuration (example of PX4 User Guide) 
   - Software installation (Installation instructions)
+  - Setup the software
   - Option setting
   - Visualization of procedure via imanges and videos (video guide)
   -...
