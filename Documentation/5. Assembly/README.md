@@ -12,13 +12,13 @@
 
 
  ```
-Waht does include the content of assembly instruction? 
+What does include the content of assembly instruction? 
 
 1. Assembly sequences that identify the different steps of assemblage 
 2. Part list consist of:
   - part name
   - Reference
-  - quantity 
+  - Quantity 
   - Image of each part
   - Providing procedure 
     - What parts are made?
@@ -31,9 +31,9 @@ Waht does include the content of assembly instruction?
   - Imperial Wrench Set
   - Etc.
  5. Description of joining technology
-  - screwing
-  - bolting
-  - etc
+  - Screwing
+  - Bolting
+  - Etc.
  
 How to visualize of the assembly or disasembly process?
   
