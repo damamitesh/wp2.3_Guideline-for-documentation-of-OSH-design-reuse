@@ -5,7 +5,7 @@
 ## **How to document a manufacturing process?**
 
 
-*Manufacturing instruction can guide the makers to follow a process for remanufacturing a product. Manufacturings instructions mean full descriptions and instructions concerning raw materials usage, operating conditions, process, and quality standards to be employed in the manufacture of products.*
+*Manufacturing instructions can guide the makers to follow a process for remanufacturing a product. Manufacturings instructions mean full descriptions and instructions concerning raw materials usage, operating conditions, process, and quality standards to be employed in the manufacture of products.*
 
 
  ### **Manufacturing instructions can include:** 
