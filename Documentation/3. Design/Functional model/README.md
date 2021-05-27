@@ -32,19 +32,19 @@
  ```
 1. What minimum documentation should the functional tree provide?
  
-- A model specifying the kinds of technical functions and their sub-functions in the format of a tree   (refer to functional tree of XYZ Cargo-ADD ONS)
+ - A model specifying the kinds of technical functions and their sub-functions in the format of a tree   (refer to functional tree of XYZ Cargo-ADD ONS)
 
 2. How to implement the functional tree?
 
-- The name of modeling language for representation 
-  - UML (Use Case diagram)
-  - SysML (Block Definition, Activity, or Internal Block diagram)
-  - SADT/IDEF0 
-  - Functional flow block diagram
-- The name of software for modeling the tree representation
-  - Papyrus
-  - Modelio
-  - Capella  
+ - The name of modeling language for representation 
+   - UML (Use Case diagram)
+   - SysML (Block Definition, Activity, or Internal Block diagram)
+   - SADT/IDEF0 
+   - Functional flow block diagram
+ - The name of software for modeling the tree representation
+   - Papyrus
+   - Modelio
+   - Capella  
   ```
 
 *We show some kinds of functional tree of open-source projects.*
@@ -85,21 +85,21 @@ You can use this template on GitHub to define the fuctional tree of your project
   - *Articulation of technical function can describe as input-output relationships transforming flows by using the functional modeling language in the format of the graph*
   
    ```
-1. What minimum documentation should the functional greph provide?
+  1. What minimum documentation should the functional greph provide?
  
-- A model specifying a multi-level logic of relationships between technical functions (refer to functional graph of XYZ Cargo-ADD ONS)
+    - A model specifying a multi-level logic of relationships between technical functions (refer to functional graph of XYZ Cargo-ADD ONS)
 
-2. How to implement the functional tree?
+  2. How to implement the functional tree?
 
-- The name of modeling language for representation 
-  - UML (Use Case diagram)
-  - SysML (Block Definition, Activity, or Internal Block diagram)
-  - SADT/IDEF0 
-  - Functional flow block diagram
-- The name of software for modeling the  graph representation
-  - Papyrus
-  - Modelio
-  - Capella  
+   - The name of modeling language for representation 
+     - UML (Use Case diagram)
+     - SysML (Block Definition, Activity, or Internal Block diagram)
+     - SADT/IDEF0 
+     - Functional flow block diagram
+   - The name of software for modeling the  graph representation
+     - Papyrus
+     - Modelio
+     - Capella  
   ```
   
 #### *Functional graph of XYZ Cargo-ADD ONS*:
