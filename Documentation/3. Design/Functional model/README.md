@@ -32,8 +32,7 @@
  ```
 1. What minimum documentation should the functional tree provide?
  
-- A model specifying the kinds of technical functions and their sub-functions in the format of a tree   (refer to example 1)
-- A model specifying a multi-level logic of relationships between technical functions (refer to example 2)
+- A model specifying the kinds of technical functions and their sub-functions in the format of a tree   (refer to functional tree of XYZ Cargo-ADD ONS)
 
 2. How to implement the functional tree?
 
@@ -42,7 +41,7 @@
   - SysML (Block Definition, Activity, or Internal Block diagram)
   - SADT/IDEF0 
   - Functional flow block diagram
-- The name of software for modeling the tree or graph representation
+- The name of software for modeling the tree representation
   - Papyrus
   - Modelio
   - Capella  
@@ -65,7 +64,7 @@
     * FR5: the hot and pressured exit gas needs to meet the cooler external ambient temperature to become a liquid.
     * ...
 
-#### *Functional tree*
+#### *Functional tree of XYZ Cargo-ADD ONS*
 
 *The decomposition of technical functions creates a functional tree and, the technical functions are defined based on the functional requirements. Functional tree of mentioned example about the refrigerator on the ADD-ONS represented in the figure below.*
 
@@ -84,6 +83,24 @@ You can use this template on GitHub to define the fuctional tree of your project
   - *Relationships between functions are in/out-going flows of matter, energy or information.*
   - *Logical AND/OR gates can be used to define concurrent or sequential functions.*
   - *Articulation of technical function can describe as input-output relationships transforming flows by using the functional modeling language in the format of the graph*
+  
+   ```
+1. What minimum documentation should the functional greph provide?
+ 
+- A model specifying a multi-level logic of relationships between technical functions (refer to functional graph of XYZ Cargo-ADD ONS)
+
+2. How to implement the functional tree?
+
+- The name of modeling language for representation 
+  - UML (Use Case diagram)
+  - SysML (Block Definition, Activity, or Internal Block diagram)
+  - SADT/IDEF0 
+  - Functional flow block diagram
+- The name of software for modeling the  graph representation
+  - Papyrus
+  - Modelio
+  - Capella  
+  ```
   
 #### *Functional graph of XYZ Cargo-ADD ONS*:
 *The image below shows the functional graph of the relationship between technical functions for maintaining food quality by ADD-ONS of XYZ cargo*
