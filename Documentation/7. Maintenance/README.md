@@ -15,11 +15,11 @@
   ```
 What does include the maintenance instructions? 
 
-1.	Verification Procedures including:
+1. Verification Procedures including:
   - Requirements and procedures necessary to check the performance of the system following modification or maintenance of the system
   
 2. Error Conditions including:
-  - an explanation of the source(s) of each error and recommended methods to correct each error.
+  - An explanation of the source(s) of each error and recommended methods to correct each error.
   
 3. Maintenance Software
   - 
