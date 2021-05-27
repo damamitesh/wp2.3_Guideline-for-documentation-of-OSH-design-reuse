@@ -4,7 +4,9 @@
 
 ## **How to document the Maintenance?**
 
-*Maintenance instruction can guide the makers to consider the ability of an item, under stated conditions of use, to be retained in or restored to a state in which it can perform its required functions, using prescribed procedures and resources. A maintenance instruction is a technical communication document intended to give recommendations and information necessary to maintain the system effectively.*
+*Maintenance instructions can  provide the necessary information for makers to maintain the system effectively and additional information may provide to facilitate the modification of the system . A maintenance instruction is a technical communication document intended to give recommendations and information necessary to maintain the system effectively.*
+
+ ### **Maintenance instructions can include:** 
 
 ### 1.
 A maintenance manual may include a definition of the software support environment, roles, and responsibilities of the maintenance personnel, regular activities essential to the support, and so on.
