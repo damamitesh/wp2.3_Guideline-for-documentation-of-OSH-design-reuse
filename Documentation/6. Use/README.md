@@ -12,6 +12,9 @@
 1. What should include the description of the final product?
 
   - Product name
+  - Part number
+  - Item name
+  - Item description
   - Teach the essentials and technical specifications 
   - Visualization the final product by images and/or videos
 
@@ -38,7 +41,7 @@
   - Troubleshooting section and instructions on how to solve problems 
   - Repair information
   - Information on disposal of the product and packaging
-  - explains how to update your firmware to the latest version
+  - Explains how to update your firmware to the latest version
   - Reporting problems and issues on the forums and chat
   - Visualization of procedure via imanges and/or videos 
   ```
