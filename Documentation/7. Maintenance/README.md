@@ -32,7 +32,7 @@ How to visualize of the maintenance process?
  2. Videos 
 
 ```
-*Example of maintenance instruction*
+*Example of maintenance instructions*
 
 #### *Example 1:* [FarmBot Genesis V1.5](https://genesis.farm.bot/v1.5/Extras/maintenance)
 
