@@ -54,18 +54,16 @@ What does contain the minimum documentation of the external interfaces?
   - *Services are intended effects that can observed from outside the product ("back box" external view), but not from outside an internal component ("white box" internal view).*
   - *Services are defined in a solution neutral way.*
   - *Services can be stated as follows : The [Product] shall enable [Stakeholder] [Action verb] (e.g. The product shall enable end-user to clean its teeths)*
+  - *we often reason in terms of action verbs to communicate expected behaviours, so it would be nice to be able to search designs with action verbs*
   
  ```
-  Action verb (we often reason in terms of action verbs to communicate expected behaviours, so it would be nice to be able to search designs with action verbs)
-  
   What does contain the minimum documentation of the service?
-  Services to stakeholders includs:
   
-    - Services to stakeholder 1
+    - Defining the services to stakeholder 1
       - Service 1.1:...
       - Service 1.2:...
       - ...
-    - Services to stakeholder 2
+    - defining the services to stakeholder 2
       - Service 2.1:...
       - Service 2.2:...
       - ...
@@ -85,7 +83,9 @@ What does contain the minimum documentation of the external interfaces?
     
  
    ```
-  Documentation of imposed constraints on the productcontain:
+  What does contain the minimum documentation of the service?
+  Documentation of imposed constraints on the product
+  contain:
   
    - Constraint 1:...
    - Constraint 2:...
