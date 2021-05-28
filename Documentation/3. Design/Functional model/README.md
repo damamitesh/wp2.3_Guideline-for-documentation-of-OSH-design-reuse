@@ -116,7 +116,9 @@ You can use this template on GitHub to define the fuctional tree of your project
 ### Template
 <details>
   <summary>Click to expand!</summary>
-  
+   
+  ### Documentation of functional model 
+ 
   #### 1. Functional tree
   1. A model specifying the kinds of technical functions <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20tree.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20tree.png">Edit in diagrams.net</a>
   2. Name of modeling language
