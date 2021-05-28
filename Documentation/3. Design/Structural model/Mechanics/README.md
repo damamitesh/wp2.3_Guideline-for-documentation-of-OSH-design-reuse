@@ -96,6 +96,8 @@ To reuse a design model, it should provide information consist of:
 <details>
   <summary>Click to expand!</summary>
   
+  ### Documentation of structural model of mechanical products
+ 
   #### 1. Architectural structure documentation
   1. A model specifying of components <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FArchitecture%20of%20mechanical%20structural%20model.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FArchitecture%20of%20mechanical%20structural%20model.png" target="_blank">Edit in diagrams.net</a>
   2. Name of modeling language
