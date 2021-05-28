@@ -11,32 +11,31 @@
  - **Definition:** *The user guide consists of translating what’s not comprehensible to a plain language for everyone to understand and it helps non-technical people pinpoint and solve problems without expert assistance.*
 
   ```
-What should include the documentation of manufacturing technology?
-What should include the description of the final product?
+What should include the documentation of user guide?
 
- 1. Product name
- 2. Part number
- 3. Item name
- 4. Item description
- 5. Teach the essentials and technical specifications 
- 6. Visualization the final product by images and/or videos
+1. Description of the final product
+  - Product name
+  - Part number
+  - Item name
+  - Item description
+  - Teach the essentials and technical specifications 
+  - Visualization the final product by images and/or videos
 
-How to use the product?
-
- 1. Materials required
-   - App
-   - Software
-   - Device 
-   - firmware
- 2. Procedure
-   - Installation instructions  
-     - Firmware
-     - Software
-     - App
-   - Setup instruction 
-     - Software
-     - Firmware
-     - App
+2. Use of the product consist of
+  - Materials required
+    - App
+    - Software
+    - Device 
+    - Firmware
+  - Procedure
+    - Installation instructions  
+      - Firmware
+      - Software
+      - App
+    - Setup instruction 
+      - Software
+      - Firmware
+      - App
  3. Troubleshooting section and instructions on how to solve problems 
  4. Repair information
  5. Information on disposal of the product and packaging
