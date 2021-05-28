@@ -15,11 +15,11 @@
   - *A stakeholder can indirectly be affected by the product (e.g. considering the local biodiversity when designing an airport).*
 
   ```
-  1. What entities influence the product throughout its life cycle ?
+  What entities influence the product throughout its life cycle ?
   
   - Stakeholder name 1
   - Stakeholder name 2
-   - ...
+  - ...
   
   ```
 
@@ -32,16 +32,17 @@
   - *An interface is made of a flow (matter, energy, or signal)*
   
  ```
-External interfaces consistits:
+What does contain the minimum documentation of the external interfaces?
 
-  - Stakeholder name 1
+  - Identifying the interactions between stakeholder 1 and the product  
     - Flow 1
     - Flow 2
     - ...
-  - Stakeholder name 2
+  - Identifying the interactions between stakeholder 2 and the product
     - Flow 1'
     - Flow 2'
     - ...
+  - ...
   ```
 
 ## 3. Service *(synonyms: external function, capability)* 
