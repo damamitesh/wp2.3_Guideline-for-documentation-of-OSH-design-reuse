@@ -45,10 +45,9 @@
     
 2. How to implement the simulation model?
 
-  - The name of software
+  - Use open-source software
     - Open Modelica
     - ADINA
- 
   ```
    #### *Example of simulation models:* 
    
