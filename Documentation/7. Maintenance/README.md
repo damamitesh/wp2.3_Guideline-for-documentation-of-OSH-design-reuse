@@ -26,7 +26,7 @@ What does include the documentation of maintenance instructions?
    - Standards
    - Regulations
 
-How to visualize of the maintenance process?
+How to visualize the process of maintenance ?
   
  1. Images 
  2. Videos 
