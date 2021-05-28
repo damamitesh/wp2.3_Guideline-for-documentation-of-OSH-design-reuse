@@ -14,17 +14,17 @@
 What does include the maintenance instructions? 
 
 1. Verification Procedures including:
-  - Requirements and procedures necessary to check the performance of the system following modification or maintenance of the system
+   - Requirements and procedures necessary to check the performance of the system following modification or maintenance of the system
 2. Error Conditions including:
-  - An explanation of the source(s) of each error and recommended methods to correct each error.
+   - An explanation of the source(s) of each error and recommended methods to correct each error.
 3. Maintenance Software
 4. Test the components 
 5. Repairing/replacing the worn out components
 6. Level of repair
 7. Maintenance tool is designed for repairing assets.
-  - Various types of analyses are used to gather insights about why and when assets fail.
-  - Standards
-  - Regulations
+   - Various types of analyses are used to gather insights about why and when assets fail.
+   - Standards
+   - Regulations
 
 How to visualize of the maintenance process?
   
