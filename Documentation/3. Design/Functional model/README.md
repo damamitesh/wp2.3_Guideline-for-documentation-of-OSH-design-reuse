@@ -87,15 +87,15 @@ You can use this template on GitHub to define the fuctional tree of your project
     - A model specifying a multi-level logic of relationships between technical functions (refer to functional graph of XYZ Cargo-ADD ONS)
   
   2. How to implement the functional tree?
-    - The name of modeling language for representation 
+    - Use functional modeling language for representation, such as 
       - UML (Use Case diagram)
       - SysML (Block Definition, Activity, or Internal Block diagram)
       - SADT/IDEF0 
       - Functional flow block diagram
-    - The name of software for modeling the  graph representation
+    - Use open-source software for modeling the tree representation, such as
       - Papyrus
       - Modelio
-      - Capella  
+      - Capella   
   ```
   
 #### *Functional graph of XYZ Cargo-ADD ONS*:
