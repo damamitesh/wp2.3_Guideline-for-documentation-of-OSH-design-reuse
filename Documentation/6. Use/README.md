@@ -11,6 +11,7 @@
  - **Definition:** *The user guide consists of translating what’s not comprehensible to a plain language for everyone to understand and it helps non-technical people pinpoint and solve problems without expert assistance.*
 
   ```
+What should include the documentation of manufacturing technology?
 What should include the description of the final product?
 
  1. Product name
