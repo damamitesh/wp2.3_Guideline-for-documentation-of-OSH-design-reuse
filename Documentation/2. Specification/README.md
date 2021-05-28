@@ -34,11 +34,11 @@
  ```
 What does contain the minimum documentation of the external interfaces?
 
-  - Identifying the interactions between stakeholder 1 and the product  
+  - Identify the interactions between stakeholder 1 and the product
     - Flow 1
     - Flow 2
     - ...
-  - Identifying the interactions between stakeholder 2 and the product
+  - Identify the interactions between stakeholder 2 and the product 
     - Flow 1'
     - Flow 2'
     - ...
@@ -59,7 +59,7 @@ What does contain the minimum documentation of the external interfaces?
  ```
   What does contain the minimum documentation of the service?
   
-    - Defining the services to stakeholder 1
+    - Define the services to stakeholder 1
       - Service 1.1:...
       - Service 1.2:...
       - ...
@@ -83,10 +83,9 @@ What does contain the minimum documentation of the external interfaces?
     
  
    ```
-  What does contain the minimum documentation of the service?
-  Documentation of imposed constraints on the product
-  contain:
+  What does contain the minimum documentation of the constraints?
   
+  Illustrate the imposed constraints on the product
    - Constraint 1:...
    - Constraint 2:...
    - Constraint 3:...
@@ -103,7 +102,7 @@ What does contain the minimum documentation of the external interfaces?
   -  *Requirement can state as follows: The [stakeholder] need [Property] [object] [Action verb]  at [Condition]* 
   
   ```
-  Documebtaion of requirements include:
+  What are the minimum documentation of the requirements?
   
     - Requirement 1:...
     - Requirement 2:...
