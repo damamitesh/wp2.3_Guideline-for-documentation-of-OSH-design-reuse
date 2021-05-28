@@ -41,7 +41,7 @@ How to visualize of the maintenance process?
 <details>
   <summary>Click to expand!</summary>
  
- ### Documentation of Maintenance instruction
+ ### Documentation of maintenance instructions
  
  #### 1. Verification Procedures     
  #### 2. Error Conditions  
