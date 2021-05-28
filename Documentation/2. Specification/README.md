@@ -116,6 +116,8 @@ What does contain the minimum documentation of the external interfaces?
 <details>
   <summary>Click to expand!</summary>
   
+ ### Documentation of specification
+  
   1. Stakeholders
      * Stakeholder name 1
      * ...
