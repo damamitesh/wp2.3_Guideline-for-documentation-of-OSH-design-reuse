@@ -11,7 +11,7 @@
   - **Definition:** *A maintenance instruction is a technical communication document intended to give recommendations and necessary information to maintain the system effectively.*
 
   ```
-What does include the maintenance instructions? 
+What does include the documentation of maintenance instructions? 
 
 1. Verification Procedures including:
    - Requirements and procedures necessary to check the performance of the system following modification or maintenance of the system
