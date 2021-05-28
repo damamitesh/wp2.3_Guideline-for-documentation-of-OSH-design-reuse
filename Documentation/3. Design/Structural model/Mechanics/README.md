@@ -12,10 +12,10 @@
 
 2. How to implement the architectural model?
 
-- The name of modeling language for representation 
+- Use modeling language for representation, such as 
   - SysML (Block Definition, Activity, or Internal Block diagram)
   - UML
-- The name of software for modeling the tree or graph representation
+- Use open-source software for modeling the tree or graph representation, such as
   - Papyrus
   - Modelio
   - Capella 
@@ -52,7 +52,7 @@ To reuse a design model, it should provide information consist of:
    - Editable file formats that could be:
      - Native formats such as .FCStd format of FreeCAD 
      - Neutral formats such as STEP files
- 2. Preferable software 
+ 2. Preferable open-source software 
    - OpensCAD
    - Inkscape
    - FreeCAD
