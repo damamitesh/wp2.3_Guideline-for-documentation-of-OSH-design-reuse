@@ -18,8 +18,8 @@ What does include the maintenance instructions?
 2. Error Conditions including:
   - An explanation of the source(s) of each error and recommended methods to correct each error.
 3. Maintenance Software
-4. How to test the components 
-5. How to repaire/replace worn out components
+4. Test the components 
+5. Repairing/replacing the worn out components
 6. Level of repair
 7. Maintenance tool is designed for repairing assets.
   - Various types of analyses are used to gather insights about why and when assets fail.
