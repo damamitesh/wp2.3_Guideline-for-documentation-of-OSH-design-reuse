@@ -17,10 +17,10 @@
   ```
   What entities influence the product throughout its life cycle ?
   
-  - Stakeholder name 1
-  - Stakeholder name 2
-  - ...
-  
+  - Specify the name of stakeholdrs 
+    - Stakeholder name 1
+    - Stakeholder name 2
+    - ...
   ```
 
 ## **2. External interfaces**
@@ -34,11 +34,11 @@
  ```
 What does contain the minimum documentation of the external interfaces?
 
-  - Identify the interactions between stakeholder 1 and the product
+  - Identify the interactions between stakeholder 1 and the product including 
     - Flow 1
     - Flow 2
     - ...
-  - Identify the interactions between stakeholder 2 and the product 
+  - Identify the interactions between stakeholder 2 and the product inculding  
     - Flow 1'
     - Flow 2'
     - ...
