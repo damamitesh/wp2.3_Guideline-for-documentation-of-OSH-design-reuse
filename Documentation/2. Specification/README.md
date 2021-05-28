@@ -58,6 +58,7 @@ What does contain the minimum documentation of the external interfaces?
  ```
   Action verb (we often reason in terms of action verbs to communicate expected behaviours, so it would be nice to be able to search designs with action verbs)
   
+  What does contain the minimum documentation of the service?
   Services to stakeholders includs:
   
     - Services to stakeholder 1
