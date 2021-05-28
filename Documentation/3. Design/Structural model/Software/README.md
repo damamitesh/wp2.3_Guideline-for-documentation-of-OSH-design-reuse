@@ -5,16 +5,16 @@
 *The software architecture represents the repository details of all the software that is necessary for reusing and running the project.*
 
  ```
-1. what minimum documentation should the architectural structure provide?
+1. What minimum documentation should the architectural structure provide?
 
 - A model specifying the kinds of components and their sub-components of software in the format of a tree  or graph (refer to the example below)
 
 2. How to implement the architectural model?
  
-- The name of modeling language for representation 
+- Use modeling language for representation, such as 
   - SysML (Block Definition, Activity, or Internal Block diagram)
   - UML
-- The name of software for modeling the tree or graph representation
+- Use open-source software for modeling the tree or graph representation, such as
   - Papyrus
   - Modelio
   - Capella 
