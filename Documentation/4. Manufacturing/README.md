@@ -89,8 +89,8 @@ What does comprise the documentation of material selection?
     - etc.
 2. Identifying the characteristics of the material for manufacturing (refer to structural model)
 3. Environmental impacts
-   - recyclability
-   - Properties  
+   - recyclability of materials
+   - Material properties  
 ```
 
 #### *6. Post-processing and its tool kit*
