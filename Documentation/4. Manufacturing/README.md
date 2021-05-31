@@ -76,7 +76,7 @@ What does include the documentation of standard file formats for the manufacturi
 
 #### *3. Material selection*
 
- - **Definition:** *Material selection is a step in the process of designing any physical object. The main goal of material selection is to use the critical requirements of each part to define the performance requirement of the material.*
+ - **Definition:** *Material selection is a step in the process of designing and manufacturing any physical object. The main goal of material selection is to use the critical requirements of each part to define the performance requirement of the material.*
 
 ```
 What does comprise the documentation of material selection?
