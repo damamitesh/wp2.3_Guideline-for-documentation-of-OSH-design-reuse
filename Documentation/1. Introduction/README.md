@@ -4,29 +4,28 @@
 
 ## Motivations
 
-*Why are you starting this project?*
+*This section addresses the question: Why are you starting this project?*
 
 ```
-As an example, the project BCN3D [BCN3D](https://github.com/BCN3D/BCN3D-Moveo/) Moveo is motivated by the high cost of the materials that undergraduate students must use for learning how to engineer mechatronics systems.
-[Wikifactory](https://wikifactory.com/)
+As an example, the project BCN3D [BCN3D Moveo](https://github.com/BCN3D/BCN3D-Moveo/) is motivated by the high cost of the materials that undergraduate students must use for learning how to engineer mechatronics systems.
 ```
 
 ## Goals
 
-*What will you deliver in this project?*
+*This section addresses the question: What will be delivered in this project?* 
 
 ```
-The project BCN3D Moveo will deliver an open surce robotic arm that everyone will be able to replicate - with or without modification - at home without the need for highly technical knowledge and expensive materials. The robotic arm will support several of the existing training itineraries: mechanical design, automation, industrial programming, etc.
+As an example, the project [BCN3D Moveo](https://github.com/BCN3D/BCN3D-Moveo/) is an open source robotic arm that everyone should be able to replicate - with or without modification - at home without the need for highly technical knowledge and expensive materials. The robotic arm will support several of the existing training itineraries: mechanical design, automation, industrial programming, etc.
 ```
 
 ## History
 
-*What are the existing sources that you have reused in this project? Where did you find them?*
+*Here it is welcome to acknowledge the existing sources that have been used in this project with locations?*
 
 ```
-- Author of the original project
+- Initiators of the original project
 - URL of the original project
-- URL of the related projecr
+- URL of other related projects
 ```
 
 ## Documentation structure
@@ -34,10 +33,10 @@ The project BCN3D Moveo will deliver an open surce robotic arm that everyone wil
 *How the documentation is organized?*
 
 ```
-- Mechanical parts
-- Electronical parts
-- Software parts
-- Etc.
+These guidelines will provide you with a standard structure that is mainly following the product life cycle and the technological decomposition
+- Mechanical
+- Electronic 
+- Software 
 ```
 
 ## Required skills
