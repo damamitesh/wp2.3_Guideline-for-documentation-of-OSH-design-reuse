@@ -77,15 +77,15 @@ What does contain the minimum documentation of the external interfaces? example 
   - *we often reason in terms of action verbs to communicate expected behaviours, so it would be nice to be able to search designs with action verbs*
   
  ```
-  Example of services for Add  XYZ Cargo
+  Example of services for ADD-ONS of XYZ Cargo
   
-    - The addon shall enable the food producer to store food
+    - The ADD-ONS shall enable the food producer to store food
       - 1.1 solid (10 kilos)
       - 1.2 liquid (5 litres)
-    - The addon shall enable the food producer to heat up food
+    - The ADD-ONS shall enable the food producer to heat up food
       -  2.1solid (150 deg Celcius)
       - 2.2 liquid (80 deg Celcius)
-    - The addon shall enable the food producer to cool down food for 4 hours
+    - The ADD-ONS shall enable the food producer to cool down food for 4 hours
       - 3.1 solid (6 deg Celcius)
       - 3.2 liquid (6 deg Celcius)
       
