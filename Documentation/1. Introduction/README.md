@@ -15,7 +15,10 @@ As an example, the project BCN3D [BCN3D Moveo](https://github.com/BCN3D/BCN3D-Mo
 *This section addresses the question: What will be delivered in this project?* 
 
 ```
-As an example, the project [BCN3D Moveo](https://github.com/BCN3D/BCN3D-Moveo/) is an open source robotic arm that everyone should be able to replicate - with or without modification - at home without the need for highly technical knowledge and expensive materials. The robotic arm will support several of the existing training itineraries: mechanical design, automation, industrial programming, etc.
+As an example, the project [BCN3D Moveo](https://github.com/BCN3D/BCN3D-Moveo/) is an open source robotic arm 
+that everyone should be able to replicate - with or without modification - at home without the need for highly 
+technical knowledge and expensive materials. The robotic arm will support several of the existing training itineraries: 
+mechanical design, automation, industrial programming, etc.
 ```
 
 ## History
