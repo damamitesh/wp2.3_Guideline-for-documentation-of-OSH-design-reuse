@@ -67,16 +67,17 @@ a matter of acoustical impedance, etc.
 
 ## Contribution Process
 
-*How a maker can contribute to your project?*
+*Describe here how a maker can contribute to your own project*
 
 ```
-- Code of conduct
-- Post on issues page and briefly outline the changes you plan to make
-- If you are looking for input on what to contribute, brows the issues with the Requests or Bug label
-- Describe branches
-- Describe what a Pull Request (PR) shall contain (detailed description of changes, summary of test, issue numbers that the PR resolves)
-- Specify code style 
-- Contributor license agreement
+-  Example of a contribution process:
+  -  Post an [issue] and briefly outline the changes you plan to make
+  - If you are looking for input on what to contribute, brows the issues with the Requests or Bug label
+  - Describe branches
+  - Describe what a Pull Request (PR) shall contain (detailed description of changes, summary of test, 
+    issue numbers that the PR resolves)
+  - Specify code style 
+  - Contributor license agreement
 ```
 
 ## Last updates 
