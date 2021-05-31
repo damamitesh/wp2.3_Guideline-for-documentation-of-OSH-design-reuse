@@ -111,10 +111,12 @@ Example XYZ Cargo ADD-ONS
    ```
   What does contain the minimum documentation of the constraints?
   
-  Illustrate the imposed constraints on the product
-   - Constraint 1:...
-   - Constraint 2:...
-   - Constraint 3:...
+  Example XYZ Cargo ADD-ONS, contraints for maker of ADD-ONS
+  
+   - User should be able to dismantle ADD-ONS with a maximum one wrench and one screwdriver 
+   - Users should be able to customize the modules of ADD-ONS to fit their use. 
+   - The ADD-ONS should enable the users to do the assembly of components in a short time (10 minutes) and the maker shall select the resistance material for using ADD-ONS in different weather conditions. 
+   - ADD-ONS should be dismantled for recycling purposes.
    - ...
 
   ```
