@@ -52,11 +52,11 @@ To reuse this project, the maker should know how to:
 
 
 
-To contribute to this documentation project, you can:
+Getting started:
+To begin using this template, choose one of the following options to get started:
 
-- Post on issues page and briefly outline the changes you plan to make
-- If you are looking for input on what to contribute, brows the issues with the Requests or Bug label
-- ...
+- Clone the repo: git clone 
+- Fork the repositiry
 
 
 ## Project team
