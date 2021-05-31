@@ -22,6 +22,14 @@
     - Stakeholder name 2
     - ...
   ```
+#### *Example of stakeholders of [XYZ Cargo-ADD ONS]*:
+*The image below shows the stakeholders of  ADD-ONS of XYZ cargo*
+
+![Image of functional graph of XYZ cargo-ADD ONS]()
+
+<a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FStakeholders.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FStakeholders.png">Edit in diagrams.net</a>
+
+*This template can be used to define the stakeholders of your project/product.*
 
 ## **2. External interfaces**
 
