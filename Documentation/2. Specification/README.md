@@ -34,8 +34,6 @@
 
 <a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FStakeholders.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2Fstakeholders.png">Edit in diagrams.net</a>
 
-*This template can be used to define the stakeholders of your project/product.*
-
 ## **2. External interfaces**
 
 - **Definition:**  *External interfaces are interactions between the product and the stakeholders.*
@@ -158,12 +156,18 @@ Example XYZ Cargo ADD-ONS
   1. Stakeholders
      * Stakeholder name 1
      * ...
+  *This template can be used to define the stakeholders of your project/product.*
+  
+  <a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FStakeholders.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2Fstakeholders.png">Edit in diagrams.net</a>
   
   2. External interfaces
      * Stakeholder name 1
        * Flow 1
        * ...
-    
+     *This template can be used to define the external interfaces of your project/product.*
+  
+  <a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FExternal%20interfaces.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FExternal%20interfaces.png">Edit in diagrams.net</a>
+  
   3. Services
      * Services to stakeholder 1
        * Service 1.1
