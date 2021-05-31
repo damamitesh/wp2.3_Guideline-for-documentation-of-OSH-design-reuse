@@ -91,10 +91,12 @@ a matter of acoustical impedance, etc.
 
 ## Project team
 
-*Who are the leader of the project?*
+*Describe here who are the leader and main contributors of the project*
 
 ```
 - Name {E-mail}
+  - domain of expertise and role in the project
+  - link to personal web page
 ```
 
 ## License
@@ -102,7 +104,8 @@ a matter of acoustical impedance, etc.
 *What open source hardware license your project complies with?*
 
 ```
-- License file
+- https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licences
+- https://opensource.com/law/15/2/intro-open-hardware-licensing#:~:text=Open%20source%20hardware%20is%20hardware,on%20their%20hardware%20at%20all.
 ```
 
 ## Sponsors and Partners
