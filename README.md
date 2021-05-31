@@ -5,13 +5,11 @@
 *Why did we start this documentation for design reuse project?*
 
 
-
-This project is motivated by the poor documentation practices observed in web-based open source hardware projects. Indeed, the lack of standardised open source hardware documentation guidelines make the reuse - with or without modification - of the solution cumbersome.
+Open source promotes the openess and accessibility of all useful information for studying, modifying or repicating a piece of software or hardware. The *reuse* of existing designs is therefore a fundamental requirement for open source. This project is motivated by the poor documentation practices observed in web-based open source hardware projects. Indeed, the lack of standardised open source hardware documentation guidelines make the reuse of the solutions very problematic. We are closely working with the promoters of the [DIN SPEC 3105 standard](https://wiki.opensourceecology.org/wiki/DIN_SPEC_3105) to develop useful documetation guidelines and templates.
 
 ## Goals
 
 *What does this project provide?*
-
 
 
 This project delivers a template standing as a minimum viable documentation for open source hardware. By cloning this repository, any maker will be able to fill in the template provided in the folder entitled "Documentation".
