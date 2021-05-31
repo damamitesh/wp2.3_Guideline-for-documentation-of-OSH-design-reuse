@@ -15,6 +15,8 @@
   - *A stakeholder can indirectly be affected by the product (e.g. considering the local biodiversity when designing an airport).*
 
   ```
+  What does contain the minimum documentation of the stakeholders? 
+  
   Example of the ADD-ONS project of XYZ cargo
   
   - Specify the name of potential stakeholdrs 
@@ -27,8 +29,8 @@
     - Craftmen
     - Other potential user
   ```
-#### *Example of stakeholders of [XYZ Cargo-ADD ONS](https://projects.opennext.eu/@xyz-cargo-add-ons/xyz-cargo-add-ons)*:
-*The image below shows the stakeholders of  ADD-ONS of XYZ cargo*
+#### *Project of the [XYZ Cargo-ADD ONS](https://projects.opennext.eu/@xyz-cargo-add-ons/xyz-cargo-add-ons)*:
+*The image below shows the stakeholders of  ADD-ONS of XYZ cargo as a graph*
 
 ![Image of stakeholdes of XYZ cargo-ADD ONS](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Stakeholders%20of%20XYZ%20cargo%20ADD-ONS.jpg)
 
@@ -59,7 +61,7 @@ Example XYZ Cargo ADD-ONS
   - ...
   ```
 
-*The image below shows the external interfaces of  ADD-ONS of XYZ cargo*
+*The image below shows the external interfaces of  ADD-ONS of XYZ cargo as a graph*
 
 ![Image of External interfaces of XYZ cargo-ADD ONS](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/External%20interfaces%20of%20XYZ%20Cargo%20ADD-ONS.jpg)
 
@@ -156,7 +158,8 @@ Example XYZ Cargo ADD-ONS
   1. Stakeholders
      * Stakeholder name 1
      * ...
-  *This template can be used to define the stakeholders of your project/product.*
+  
+  *The link below can be used to define the stakeholders of your project/product.*
   
   <a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FStakeholders.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2Fstakeholders.png">Edit in diagrams.net</a>
   
@@ -164,7 +167,8 @@ Example XYZ Cargo ADD-ONS
      * Stakeholder name 1
        * Flow 1
        * ...
-     *This template can be used to define the external interfaces of your project/product.*
+  
+   *The link below can be used to define the external interfaces of your project/product.*
   
   <a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FExternal%20interfaces.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FExternal%20interfaces.png">Edit in diagrams.net</a>
   
