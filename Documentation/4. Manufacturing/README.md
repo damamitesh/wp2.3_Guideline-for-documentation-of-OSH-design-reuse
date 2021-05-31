@@ -107,6 +107,7 @@ What does comprise the documentation of material selection?
       - Blasting
       - Polishing
       - Priming and painting
+      - Heat treatments
       - Etc.
 
     How to visualize the post-processing?
