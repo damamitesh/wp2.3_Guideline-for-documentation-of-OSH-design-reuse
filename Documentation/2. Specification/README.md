@@ -22,7 +22,7 @@
     - Stakeholder name 2
     - ...
   ```
-#### *Example of stakeholders of [XYZ Cargo-ADD ONS]*:
+#### *Example of stakeholders of [XYZ Cargo-ADD ONS](https://projects.opennext.eu/@xyz-cargo-add-ons/xyz-cargo-add-ons)*:
 *The image below shows the stakeholders of  ADD-ONS of XYZ cargo*
 
 ![Image of functional graph of XYZ cargo-ADD ONS]()
