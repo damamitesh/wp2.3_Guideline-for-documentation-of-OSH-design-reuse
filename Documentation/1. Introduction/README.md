@@ -1,13 +1,13 @@
 # Introduction
 
-*The introduction aims to provide more details about the project, goal, and its context. Context is defined as “the interrelated conditions in which something exists or occurs”*
+*The introduction to the documentation aims to provide more details about the project goal, and context. This introduction should allow the reader to first understand the motivation of the project and also who is involved or has been involved in its creation. As this documaentation structure aims at fostering the reuse of the contents of the project, it is important to understand well the context.*
 
 ## Motivations
 
 *Why are you starting this project?*
 
 ```
-The project BCN3D Moveo is motivated by the high cost of the materials that undergraduate students must use for learning how to engineer mechatronics systems.
+As an example, the project BCN3D **[BCN3D](https://github.com/BCN3D/BCN3D-Moveo)** Moveo is motivated by the high cost of the materials that undergraduate students must use for learning how to engineer mechatronics systems.
 ```
 
 ## Goals
