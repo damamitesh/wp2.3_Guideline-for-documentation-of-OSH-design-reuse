@@ -12,8 +12,9 @@
 ## **Why should you define behavioral model?**
 
 * The behavioral model identifies the properties for understanding the calculation, simulation, and environment of the product.
+* The behavioral model could provide the simulation of any given physical phenomenon using numerical techniques.
 * Behavior model describes how the artifact implements its function and is managed by engineering principles and physical rules that are included in a behavioral model.  
-* The behavioral model could provide the simulation of any given physical phenomenon using numerical techniques.   
+   
 
 ## **How to document a behavioral model?**
 
