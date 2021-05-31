@@ -119,7 +119,7 @@ What does comprise the documentation of material selection?
    
 #### *7. Bill of material (BOM)*
 
- - **Definition:** *A bill of materials (BOM) is a comprehensive list of parts, items, assemblies, and other materials required to create a product, as well as instructions required for gathering and using the required materials.*
+ - **Definition:** *A bill of materials (BOM) is a comprehensive list of parts, items, and other materials required to create a product, as well as instructions required for gathering and using the required materials.*
 
 ```
 What does consist the bill of material?
