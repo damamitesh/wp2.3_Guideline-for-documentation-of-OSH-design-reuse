@@ -20,13 +20,14 @@ What does include the documentation of maintenance instructions?
    - Various types of analyses are used to gather insights about why and when assets fail.
    - Standards
    - Regulations 
-4. The roles and responsibilities of maintenance personnel
-5. Definition of the software support environment
-Verification procedures including
-   - Requirements and procedures necessary to check the performance of the system following modification or maintenance of the system
-6. Error Conditions consist of
-   - An explanation of the source(s) of each error and recommended methods to correct each error.
-7. Maintenance Software
+5. Definition of information on the procedures necessary for programmers to maintain the software, containing
+   - Verification procedures consist of 
+     - Requirements and procedures necessary to check the performance of the system following modification or maintenance of the system
+   - Error Conditions containing 
+     - An explanation of the source(s) of each error and recommended methods to correct each error.
+   - Maintenance Software
+     - Any special maintenance software and its supporting documentation used to maintain the system
+   - Describing step-by-step the procedures for setting up and sequencing inputs for testing
 
 
 How to visualize the process of maintenance ?
@@ -46,12 +47,10 @@ How to visualize the process of maintenance ?
  
  ### Documentation of maintenance instructions
  
- #### 1. Verification Procedures     
- #### 2. Error Conditions  
- #### 3. Maintenance Software
- #### 4. How to test the components     
- #### 5. How to repaire/replace worn out components
- #### 6. Level of repair
- #### 7. Maintenance tool 
+ #### 1. How to test the components
+ #### 2. How to repaire/replace worn out components
+ #### 3. Level of repair
+ #### 4. Maintenance tool
+ #### 5. Maintaining the software
  
 </details>
