@@ -33,10 +33,22 @@ As an example, the project [BCN3D Moveo](https://github.com/BCN3D/BCN3D-Moveo/) 
 *How the documentation is organized?*
 
 ```
-These guidelines will provide you with a standard structure that is mainly following the product life cycle and the technological decomposition
+These guidelines will provide you with a standard structure that is mainly following the product 
+life cycle and the technological decomposition. It is implemented in the documentation template available in this project.
+- Introduction
+- Specification
+- Design 
+- Manufacturing
+- Assembly
+- Use
+- Maintenance
+- Disposal
+
+And inside each of the sections, if required:
 - Mechanical
 - Electronic 
 - Software 
+
 ```
 
 ## Required skills
