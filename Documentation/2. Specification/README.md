@@ -15,12 +15,17 @@
   - *A stakeholder can indirectly be affected by the product (e.g. considering the local biodiversity when designing an airport).*
 
   ```
-  What entities influence the product throughout its life cycle ?
+  Example of the "addon project of XYZ cargo
   
-  - Specify the name of stakeholdrs 
-    - Stakeholder name 1
-    - Stakeholder name 2
-    - ...
+  - Specify the name of potential stakeholdrs 
+    - Environmental activit
+    - Repairman
+    - Food producer
+    - Transporter
+    - Health care (street medic, ...)
+    - Makers
+    - Crafmen
+    - other potential user
   ```
 #### *Example of stakeholders of [XYZ Cargo-ADD ONS](https://projects.opennext.eu/@xyz-cargo-add-ons/xyz-cargo-add-ons)*:
 *The image below shows the stakeholders of  ADD-ONS of XYZ cargo*
@@ -42,14 +47,23 @@
  ```
 What does contain the minimum documentation of the external interfaces?
 
-  - Identify the interactions between stakeholder 1 and the product including 
-    - Flow 1
-    - Flow 2
-    - ...
-  - Identify the interactions between stakeholder 2 and the product inculding  
-    - Flow 1'
-    - Flow 2'
-    - ...
+  - Identify the interactions between food producer and the product including 
+    - Specify needs
+    - Uses
+    - store food
+      - solid (10 kilos)
+      - liquid (5 litres)
+    - heat up food
+      - solid
+      - liquid
+    - cools down food
+      - solid
+      - liquid
+  - Identify the interactions between maker and the product inculding  
+    - repair
+      - unmount 
+    - make, reproduce
+    - modify
   - ...
   ```
 
