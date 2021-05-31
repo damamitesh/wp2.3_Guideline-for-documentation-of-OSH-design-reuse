@@ -31,6 +31,7 @@ The documentation template reuses exemplary documentation practices borrowed fro
 - [GlasVent Project](https://onlinelibrary.wiley.com/doi/10.1002/gch2.202000046) - section "Block Diagram of Architectural Structure"
 - [GMPS Open-Source Ventilator Project](https://www.monolithicpower.com/en/mps-open-source-ventilator) - section "Hardware overview"
 - [MakAir Covid-19 Ventilator Project](https://github.com/makers-for-life/makair) - section "Architecture"
+- [Echopen](https://github.com/echopen/) - project start kit or prototyping
 - ...
 
 ## Required Background
