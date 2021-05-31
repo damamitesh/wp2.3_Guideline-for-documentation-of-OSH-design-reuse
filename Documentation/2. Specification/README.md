@@ -45,20 +45,12 @@
   - *An interface is made of a flow (matter, energy, or signal)*
   
  ```
-What does contain the minimum documentation of the external interfaces?
+What does contain the minimum documentation of the external interfaces? example XYZ Cargo
 
   - Identify the interactions between food producer and the product including 
     - Specify needs
     - Uses
-    - store food
-      - solid (10 kilos)
-      - liquid (5 litres)
-    - heat up food
-      - solid
-      - liquid
-    - cools down food
-      - solid
-      - liquid
+    
   - Identify the interactions between maker and the product inculding  
     - repair
       - unmount 
@@ -79,16 +71,18 @@ What does contain the minimum documentation of the external interfaces?
   - *we often reason in terms of action verbs to communicate expected behaviours, so it would be nice to be able to search designs with action verbs*
   
  ```
-  What does contain the minimum documentation of the service?
+  Example of services for Add on XYZ Cargo
   
-    - Define the services to stakeholder 1
-      - Service 1.1:...
-      - Service 1.2:...
-      - ...
-    - Defining the services to stakeholder 2
-      - Service 2.1:...
-      - Service 2.2:...
-      - ...
+    - The addon shall enable the food producer to store food
+      - 1.1 solid (10 kilos)
+      - 1.2 liquid (5 litres)
+    - The addon shall enable the food producer to heat up food
+      -  2.1solid (150 deg Celcius)
+      - 2.2 liquid (80 deg Celcius)
+    - The addon shall enable the food producer to cool down food for 4 hours
+      - 3.1 solid (6 deg Celcius)
+      - 3.2 liquid (6 deg Celcius)
+      
     - ...
   ```
   
