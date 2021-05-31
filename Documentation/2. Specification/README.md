@@ -15,17 +15,17 @@
   - *A stakeholder can indirectly be affected by the product (e.g. considering the local biodiversity when designing an airport).*
 
   ```
-  Example of the "addon project of XYZ cargo
+  Example of the ADD-ONS project of XYZ cargo
   
   - Specify the name of potential stakeholdrs 
-    - Environmental activit
-    - Repairman
+    - Environmental activist
+    - Repairmen
     - Food producer
     - Transporter
     - Health care (street medic, ...)
     - Makers
-    - Crafmen
-    - other potential user
+    - Craftmen
+    - Other potential user
   ```
 #### *Example of stakeholders of [XYZ Cargo-ADD ONS](https://projects.opennext.eu/@xyz-cargo-add-ons/xyz-cargo-add-ons)*:
 *The image below shows the stakeholders of  ADD-ONS of XYZ cargo*
