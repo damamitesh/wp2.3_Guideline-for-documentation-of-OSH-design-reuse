@@ -29,7 +29,7 @@ mechanical design, automation, industrial programming, etc.
 ```
 - Initiators of the original project
 - URL of the original project
-- URL of other related projects
+- URL of other related projects 
 ```
 
 ## Documentation structure
