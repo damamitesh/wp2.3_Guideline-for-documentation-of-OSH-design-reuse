@@ -23,8 +23,6 @@
 #### *Example of software architecture of* [PX4 Vision](https://docs.px4.io/master/en/concept/architecture.html#px4-architectural-overview) 
 
 
-#### *[Template of software architecture](https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FTemplate%20of%20software%20architecture.drawio)*
-
  ### **2. Documentation of different parts of software**
 
  ```
