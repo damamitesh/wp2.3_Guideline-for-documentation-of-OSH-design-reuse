@@ -4,7 +4,7 @@
 
 ## **How to document the maintenance?**
 
-*Maintenance instructions can provide the necessary information for makers to maintain the system effectively and, additional information may provide to facilitate the modification of the system.*
+*Maintenance instructions can provide the necessary information to maintain the system effectively and, additional information may provide to facilitate the modification of the system.*
 
  ### **Maintenance instructions** 
 
