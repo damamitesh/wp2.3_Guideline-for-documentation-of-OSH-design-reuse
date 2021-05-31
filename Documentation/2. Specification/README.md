@@ -45,7 +45,9 @@
   - *An interface is made of a flow (matter, energy, or signal)*
   
  ```
-What does contain the minimum documentation of the external interfaces? example XYZ Cargo
+What does contain the minimum documentation of the external interfaces? 
+
+Example XYZ Cargo ADD-ONS
 
   - Identify the interactions between food producer and the product including 
     - Specify needs
@@ -77,6 +79,8 @@ What does contain the minimum documentation of the external interfaces? example 
   - *we often reason in terms of action verbs to communicate expected behaviours, so it would be nice to be able to search designs with action verbs*
   
  ```
+  What does contain the minimum documentation of the service to stakehokders?
+  
   Example of services for ADD-ONS of XYZ Cargo
   
     - The ADD-ONS shall enable the food producer to store food
