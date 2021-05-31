@@ -34,30 +34,25 @@ The documentation template reuses exemplary documentation practices borrowed fro
 - [Echopen](https://github.com/echopen/) - project start kit or prototyping
 - ...
 
-## Required Background
+## Getting started with your own documentation
 
 *What are the specific knowledge prerequisite a maker should have in order to create his own documentation based on this project?*
 
 <meta name="description" content="Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch.">
   
-  
-
-Getting started witht your own documentation choose one of the three options:
+To get started with your own documentation choose one of the three options:
 
 - [Clone a GIT repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 - [Edit a Markdown file](https://guides.github.com/features/mastering-markdown/)
 - Fork the repositiry
 
-## Bugg and issues
+## How to contribute to this documentation project
 
-*How to contribute*
+*Want to contribute, improve, modify the guidelmines and templates?*
 Any comment, request are welcome...
-Have an issue with this template or want to improve it? Open a new issue here on [GitHub](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/issues)
+Open a new issue here on [GitHub](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/issues)
 
 ## Project team
-
-
-
 
 - Jean-François BOUJUT {Jean-francois.boujut@grenoble-inp.fr}
 - Amer EZOJI {amer.ezoji@grenoble-inp.fr}
