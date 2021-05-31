@@ -39,25 +39,17 @@ The documentation template reuses exemplary documentation practices borrowed fro
 
 
 
-To reuse this project, the maker should know how to:
+Getting started witht your own documentation choose one of the three options:
 
 - [Clone a GIT repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
-
 - [Edit a Markdown file](https://guides.github.com/features/mastering-markdown/)
-
-
-## Contribution Process
-
-*How to contribute*
-
-
-
-Getting started:
-To begin using this template, choose one of the following options to get started:
-
-- Clone the repo: git clone 
 - Fork the repositiry
 
+## Bugg and issues
+
+*How to contribute*
+Any comment, request are welcome...
+Have an issue with this template or want to improve it? Open a new issue here on [GitHub](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/issues)
 
 ## Project team
 
