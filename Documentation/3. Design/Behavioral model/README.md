@@ -49,6 +49,7 @@
   - Use open-source software
     - Open Modelica
     - ADINA
+    - Etc.
   ```
    #### *Example of simulation models:* 
    
