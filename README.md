@@ -38,7 +38,9 @@ The documentation template reuses exemplary documentation practices borrowed fro
 
 *What are the specific knowledge prerequisite a maker should have in order to create his own documentation based on this project?*
 
-
+<meta name="description" content="Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch.">
+  
+  
 
 Getting started witht your own documentation choose one of the three options:
 
