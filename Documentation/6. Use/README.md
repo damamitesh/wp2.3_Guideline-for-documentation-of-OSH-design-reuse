@@ -13,29 +13,29 @@
   ```
 What should include the documentation of user guide?
 
-1. Description of the final product
-  - Product name
-  - Part number
-  - Item name
-  - Item description
-  - Teach the essentials and technical specifications 
-  - Visualization the final product by images and/or videos
+1. Description of the final product including
+   - Product name
+   - Part number
+   - Item name
+   - Item description
+   - Teach the essentials and technical specifications 
+   - Visualization the final product by images and/or videos
 
 2. Use of the product consist of
-  - Materials required
-    - App
-    - Software
-    - Device 
-    - Firmware
-  - Procedure
-    - Installation instructions  
-      - Firmware
-      - Software
-      - App
-    - Setup instruction 
-      - Software
-      - Firmware
-      - App
+   - Materials required
+     - App
+     - Software
+     - Device 
+     - Firmware
+   - Procedure
+     - Installation instructions including  
+       - Firmware
+       - Software
+       - App
+     - Setup instruction containing 
+       - Software
+       - Firmware
+       - App
 3. Troubleshooting section and instructions on how to solve problems 
 4. Repair information
 5. Information on disposal of the product and packaging
