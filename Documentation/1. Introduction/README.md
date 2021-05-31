@@ -7,7 +7,7 @@
 *Why are you starting this project?*
 
 ```
-As an example, the project BCN3D [BCN3D](https://github.com/BCN3D/BCN3D-Moveo) Moveo is motivated by the high cost of the materials that undergraduate students must use for learning how to engineer mechatronics systems.
+As an example, the project BCN3D [BCN3D](https://github.com/BCN3D/BCN3D-Moveo/) Moveo is motivated by the high cost of the materials that undergraduate students must use for learning how to engineer mechatronics systems.
 ```
 
 ## Goals
