@@ -77,7 +77,7 @@ What does contain the minimum documentation of the external interfaces? example 
   - *we often reason in terms of action verbs to communicate expected behaviours, so it would be nice to be able to search designs with action verbs*
   
  ```
-  Example of services for Add on XYZ Cargo
+  Example of services for Add  XYZ Cargo
   
     - The addon shall enable the food producer to store food
       - 1.1 solid (10 kilos)
@@ -112,6 +112,7 @@ What does contain the minimum documentation of the external interfaces? example 
    - Constraint 2:...
    - Constraint 3:...
    - ...
+
   ```
 
 ## **5. Requirement**
@@ -124,13 +125,16 @@ What does contain the minimum documentation of the external interfaces? example 
   -  *Requirement can state as follows: The [stakeholder] need [Property] [object] [Action verb]  at [Condition]* 
   
   ```
-  What are the minimum documentation of the requirements?
-  
-  Specify the needs of the product in function demain
-    - Requirement 1:...
-    - Requirement 2:...
-    - Requirement 3:...
-      - ...
+  Example of functional requirement that ADD-ONS of XYZ cargo provides for the food producers, as a stakeholder, to preserve the quality of food.
+  In this example, we assumed a refrigerator on the ADD-ONS could help the food producers to cool down and preserve the temperature of food. So, we defined some  functional requirements (FR) based on this assumption that consist:
+ 
+    - FR1: To maintain the quality of food, food producer needs to main the material at cold temperature (between 3 °C and 10 °C) for short-term preservation (3h) or long-term preservation (24h).
+    - FR2: ADD-ONS shall fix the internal ADD-ONS temperature for 7 °C.
+    - FR3: To create a cold ambient in the cooling down system, the ADD-ONS shall compress the low temperature and pressured gas to start the cooling cycle.
+    - FR4: the cooling down system shall control the pressure of exit hot gas 
+    - FR5: the hot and pressured exit gas needs to meet the cooler external ambient temperature to become a liquid.
+    - ...
+     ...
   ```
 ### [Metadata](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Metadata/2.%20Specification/README.md#metadata)
 
