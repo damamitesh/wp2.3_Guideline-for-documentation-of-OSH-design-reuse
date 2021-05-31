@@ -1,6 +1,6 @@
 # Introduction
 
-*The introduction to the documentation aims to provide more details about the project goal, and context. This introduction should allow the reader to first understand the motivation of the project and also who is involved or has been involved in its creation. As this documaentation structure aims at fostering the reuse of the contents of the project, it is important to understand well the context.*
+*The introduction to the documentation aims to provide more details about the project goal, and context. This introduction should allow the reader to first understand the motivation of the project and also who is involved or has been involved in its creation. As this documentation structure aims at fostering the reuse of the technical contents of the project, it is important to understand well the context.*
 
 ## Motivations
 
@@ -24,7 +24,7 @@ mechanical design, automation, industrial programming, etc.
 
 ## History
 
-*Here it is welcome to acknowledge the existing sources that have been used in this project with locations?*
+*Here it is welcome to acknowledge the existing sources that have been used in this project with locations*
 
 ```
 - Initiators of the original project
@@ -34,7 +34,7 @@ mechanical design, automation, industrial programming, etc.
 
 ## Documentation structure
 
-*How the documentation is organized?*
+*How is your documentation organized?*
 
 ```
 These guidelines will provide you with a standard structure that is mainly following the product 
@@ -71,7 +71,7 @@ a matter of acoustical impedance, etc.
 
 ```
 -  Example of a contribution process:
-  -  Post an [issue] and briefly outline the changes you plan to make
+  - Post an [issue] and briefly outline the changes you plan to make
   - If you are looking for input on what to contribute, brows the issues with the Requests or Bug label
   - Describe branches
   - Describe what a Pull Request (PR) shall contain (detailed description of changes, summary of test, 
@@ -88,10 +88,9 @@ a matter of acoustical impedance, etc.
 - Last modifiction (date, time, objet of modification, who,...) 
 ```
 
-
 ## Project team
 
-*Describe here who are the leader and main contributors of the project*
+*Describe here who are the leader and the main contributors of the project*
 
 ```
 - Name {E-mail}
@@ -131,7 +130,19 @@ Who is sponsoring your project?
 
   3. History
      * ...
-  
-     ...
+  4. Documentation structure
+     * ...
+  5. Required skills
+     * ...
+  6. Contribution process
+     * ...
+  7. Lasgt update
+     * ...
+  8. Project team
+     * ...
+  9. Licence
+     * ...
+  10. Sposors and partners
+     * ...  
 
 </details>
