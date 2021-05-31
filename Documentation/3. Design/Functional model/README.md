@@ -49,22 +49,9 @@
 
 #### *Example 1: [project of XYZ CARGO ADD-ONS](https://projects.opennext.eu/@xyz-cargo-add-ons/xyz-cargo-add-ons)*
 
-#### *Functional requirements*
-
-*In below, we describe the functional requirement that ADD-ONS of XYZ cargo provides for the food producers, as a stakeholder, to preserve the quality of food.*
-
- * In this example, we assumed a refrigerator on the ADD-ONS could help the food producers to cool down and preserve the temperature of food. So, we defined some functional requirements (FR) based on this assumption that consist:
- 
-    * FR1: To maintain the quality of food, food producer needs to main the material at cold temperature (between 3 °C and 10 °C) for short-term preservation (3h) or long-term preservation (24h).
-    * FR2: ADD-ONS shall fix the internal ADD-ONS temperature for 7 °C.
-    * FR3: To create a cold ambient in the cooling down system, the ADD-ONS shall compress the low temperature and pressured gas to start the cooling cycle.
-    * FR4: the cooling down system shall control the pressure of exit hot gas 
-    * FR5: the hot and pressured exit gas needs to meet the cooler external ambient temperature to become a liquid.
-    * ...
-
 #### *Functional tree of XYZ Cargo-ADD ONS*
 
-*The decomposition of technical functions creates a functional tree and, the technical functions are defined based on the functional requirements. Functional tree of mentioned example about the refrigerator on the ADD-ONS represented in the figure below.*
+*The decomposition of technical functions creates a functional tree and, the technical functions are defined based on the functional requirements. Functional tree of example about the refrigerator on the ADD-ONS for food producers represented in the figure below.*
 
 ![Image of functional tree of XYZ cargo-ADD ONS](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Functional%20tree-%20XYZ%20cargo%20ADD-ONS.jpg)
 
