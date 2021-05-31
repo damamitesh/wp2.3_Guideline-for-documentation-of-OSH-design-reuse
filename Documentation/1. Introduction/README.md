@@ -7,7 +7,8 @@
 *This section addresses the question: Why are you starting this project?*
 
 ```
-As an example, the project BCN3D [BCN3D Moveo](https://github.com/BCN3D/BCN3D-Moveo/) is motivated by the high cost of the materials that undergraduate students must use for learning how to engineer mechatronics systems.
+As an example, the project BCN3D [BCN3D Moveo](https://github.com/BCN3D/BCN3D-Moveo/) is motivated by the high cost 
+of the materials that undergraduate students must use for learning how to engineer mechatronics systems.
 ```
 
 ## Goals
@@ -37,7 +38,8 @@ mechanical design, automation, industrial programming, etc.
 
 ```
 These guidelines will provide you with a standard structure that is mainly following the product 
-life cycle and the technological decomposition. It is implemented in the documentation template available in this project.
+life cycle and the technological decomposition. It is implemented in the documentation template available in this project. 
+As for example:
 - Introduction
 - Specification
 - Design 
@@ -59,7 +61,8 @@ And inside each of the sections, if required:
 *What are the specific knowledge a maker shall own to reuse - with or without modification - your product?*
 
 ```
-- The project echopen need the basic knowledge about the medical ultrasound such as ultrasound imaging, a matter of acoustical impedance, etc.  
+- For example the project echopen need the basic knowledge about the medical ultrasound technology such as ultrasound imaging, 
+a matter of acoustical impedance, etc.  
 ```
 
 ## Contribution Process
