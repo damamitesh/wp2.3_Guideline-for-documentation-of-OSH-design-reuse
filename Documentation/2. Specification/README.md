@@ -152,7 +152,7 @@ Example XYZ Cargo ADD-ONS
 ### Template
 <details>
   <summary>Click to expand!</summary>
-  
+
  ### Documentation of specification
   
   1. Stakeholders
@@ -184,5 +184,5 @@ Example XYZ Cargo ADD-ONS
   5. Requirements
      * Requirement 1
      * ...
-  
+
 </details>
