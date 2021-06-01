@@ -14,7 +14,7 @@ Open source promotes the openess and accessibility of all useful information for
 
 This project delivers a template standing as a minimum viable documentation for open source hardware. By cloning this repository, any maker will be able to fill in the template provided in the folder entitled "Documentation".
 
-## History
+## Sources of inspiration
 
 *What are the existing sources that have inspired this project?*
 
