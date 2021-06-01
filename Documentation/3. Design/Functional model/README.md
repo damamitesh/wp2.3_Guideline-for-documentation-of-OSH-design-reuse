@@ -103,7 +103,7 @@ You can use this template on GitHub to define the fuctional tree of your project
 ### Template
 <details>
   <summary>Click to expand!</summary>
-   
+
   ### Documentation of functional model 
  
   #### 1. Functional tree
