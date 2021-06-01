@@ -27,7 +27,7 @@
 
   - *A top-down and bottom up reading of the functional tree provides insight on the “how” and “why”, respectively.*
   - *The decomposition process should be stopped when technical function is sufficiently detailed to reuse, make, or buy a design solution.*
-  - *The functional requirement describes the achievement of the minimum set of requirements a system must satisfy.([Specification](https://github.com/OPEN-NEXT/wp2.3_template/tree/main/Documentation/2.%20Specification#specification))*
+
 
  ```
 1. What minimum documentation should the functional tree provide?
