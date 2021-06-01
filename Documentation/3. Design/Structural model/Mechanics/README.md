@@ -7,18 +7,16 @@
 
  ```
 1. What minimum documentation should the architectural structure provide?
- 
-- A model specifying the kind of components and their sub-components in the format of a tree  or a graph (refer to example 1 and 2)
+  - A model specifying the kind of components and their sub-components in the format of a tree  or a graph (refer to example 1 and 2)
 
 2. How to implement the architectural model?
-
-- Use modeling language for representation, such as 
-  - SysML (Block Definition, Activity, or Internal Block diagram)
-  - UML
-- Use open-source software for modeling the tree or graph representation, such as
-  - Papyrus
-  - Modelio
-  - Capella 
+  - Use modeling language for representation, such as 
+    - SysML (Block Definition, Activity, or Internal Block diagram)
+    - UML
+  - Use open-source software for modeling the tree or graph representation, such as
+    - Papyrus
+    - Modelio
+    - Capella 
 
    ``` 
  
