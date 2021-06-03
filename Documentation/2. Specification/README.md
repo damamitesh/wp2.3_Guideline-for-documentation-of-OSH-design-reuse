@@ -170,7 +170,7 @@ Example XYZ Cargo ADD-ONS
        * Flow 1
        * ...
   
-    ![Image of stakeholder diagram for template](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/External%20interfaces%20for%20template.jpg)
+ ![Image of stakeholder diagram for template](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/External%20interfaces%20for%20template.jpg)
   
    *The link below can be used to define the external interfaces of your project/product.*
   
