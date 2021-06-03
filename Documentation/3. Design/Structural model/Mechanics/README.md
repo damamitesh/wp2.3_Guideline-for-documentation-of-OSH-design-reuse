@@ -28,8 +28,6 @@
 
 <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FArchitecture%20of%20mechanical%20structural%20model.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FArchitecture%20of%20mechanical%20structural%20model.png" target="_blank">Edit in diagrams.net</a>
 
-You can use the files on GitHub as templates to define the architectural structure of your project/product. (see Edit As New or Edit in diagram.net above).
-
 
 #### *Example 2: Architectural structure of* [Makair ventilator](https://github.com/makers-for-life/makair) 
 
@@ -97,7 +95,15 @@ To reuse a design model, it should provide information consist of:
   ### Documentation of structural model of mechanical products
  
   #### 1. Architectural structure documentation
-  1. A model specifying of components <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FArchitecture%20of%20mechanical%20structural%20model.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FArchitecture%20of%20mechanical%20structural%20model.png" target="_blank">Edit in diagrams.net</a>
+  1. A model specifying of components
+ 
+ ![Image of template for architectural structure ](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Architectural%20structure%20for%20template.jpg)
+ 
+  *You can use the below as a templates to define the architectural structure of your project/product.*
+ 
+ <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FArchitectural%20model%20of%20mechanical%20structure%20for%20template.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2F%20Architectural%20model%20of%20mechanical%20structure%20for%20template.png" target="_blank">Edit in diagrams.net</a>
+ 
+ 
   2. Name of modeling language
      * UML
      * ...
