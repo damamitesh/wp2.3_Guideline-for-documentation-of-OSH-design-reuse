@@ -111,7 +111,7 @@ You can use this template on GitHub to define the fuctional tree of your project
  
  ![Image of functional tree of XYZ cargo-ADD ONS](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Functional%20tree-%20XYZ%20cargo%20ADD-ONS.jpg)
 
- <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20tree.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20tree.png">Edit in diagrams.net</a>
+ <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20tree%20for%20template.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20tree.png">Edit in diagrams.net</a>
   
  2. Name of modeling language
      * ...
@@ -125,7 +125,7 @@ You can use this template on GitHub to define the fuctional tree of your project
  
  ![Image of functional graph of XYZ cargo-ADD ONS](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Functional%20graph%20of%20XYZ%20cargo-ADD%20ONS.jpg)
  
- <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20graph.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20graph.png">Edit in diagrams.net</a>
+ <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20graph.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20tree%20for%20template.png">Edit in diagrams.net</a>
   
  2. Name of modeling language
      * ...
