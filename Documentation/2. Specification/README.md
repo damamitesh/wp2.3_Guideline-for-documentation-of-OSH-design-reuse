@@ -159,9 +159,11 @@ Example XYZ Cargo ADD-ONS
      * Stakeholder name 1
      * ...
   
+  ![Image of stakeholder diagram for template](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/External%20interfaces%20of%20XYZ%20Cargo%20ADD-ONS.jpg)
+  
   *The link below can be used to define the stakeholders of your project/product.*
   
-  <a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FStakeholders.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2Fstakeholders.png">Edit in diagrams.net</a>
+  <a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FStakeholder%20diagram%20for%20template.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FStakeholder%20diagram%20for%20template.png">Edit in diagrams.net</a>
   
   2. External interfaces
      * Stakeholder name 1
