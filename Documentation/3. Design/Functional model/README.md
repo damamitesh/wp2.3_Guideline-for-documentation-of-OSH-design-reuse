@@ -57,8 +57,6 @@
 
 <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20tree.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20tree%20of%20XYZ%20cargo%20ADD-ONS.png">Edit in diagrams.net</a>
 
-You can use this template on GitHub to define the fuctional tree of your project/product.
-
 ### **2. Functional graph**
 
 - **Definition:** *The functional graph is a multi-level logical articulation of technical functions.*
@@ -111,6 +109,8 @@ You can use this template on GitHub to define the fuctional tree of your project
  
  ![Image of functional tree of template](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Functional%20tree%20for%20template.jpg)
 
+ You can use this template on GitHub to define the fuctional tree of your project/product.
+ 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20tree%20for%20template.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20tree.png">Edit in diagrams.net</a>
   
  2. Name of modeling language
