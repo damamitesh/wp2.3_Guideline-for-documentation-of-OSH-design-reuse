@@ -90,7 +90,6 @@
 
 <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20graph.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20graph%20of%20XYZ%20cargo%20ADD-ONS.png">Edit in diagrams.net</a>
 
-*This template can be used to define the technical graph of your project/product.*
 
 #### *Example 2*:
 *The link below shows an example of functional block diagrams of open-source project*
