@@ -107,7 +107,7 @@
   #### 1. Functional tree
   1. A model specifying the kinds of technical functions 
  
- ![Image of functional tree of template]()
+ ![Image of functional tree of template](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Functional%20tree%20for%20template.jpg)
 
 *You can use this template on the App diagram to define the functional tree of your project/product.*
  
@@ -123,7 +123,7 @@
    #### 2. Functional graph
   1. A model specifying the relationships between technical functions 
  
- ![Image of functional graph of XYZ cargo-ADD ONS]()
+ ![Image of functional graph of XYZ cargo-ADD ONS](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Functional%20graph%20for%20template.jpg)
  
  *You can use the link below  to define the functional graph of your project/product.*
  
