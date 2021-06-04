@@ -29,6 +29,10 @@ What does comprise the documentation of disposal instructions?
    - Negative consequences of the disposable products on the environment if sustainability isn't factored into disposal options.
 4. 
 
+How to visualize the process of disposal ?
+  
+ 1. Images 
+ 2. Videos 
 ```
  
 
