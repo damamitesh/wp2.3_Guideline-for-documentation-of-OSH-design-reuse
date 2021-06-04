@@ -9,7 +9,7 @@
 
  ### **Disposal instructions :** 
 
-  - **Definition:**
+  - **Definition:** *disposal instructuctins identify the process of removing a system or component, ensuring proper handling of any environmentally sensitive materials, and sending the remainder to surplus storage or sale.*
 
 ```
 What does comprise the documentation of disposal instructions?
@@ -21,11 +21,10 @@ What does comprise the documentation of disposal instructions?
     - Ceramic
     - etc
 2. Environmental impacts
-   - recyclability of materials
+   - Recyclability of materials
    - Material properties  
+3. Diposable product are designed for single use, which means they get discarded ("disposed of") immediately after use. Disposable products can have severely negative consequences on the environment if sustainability isn't factored into disposal options.
+
 ```
-#### *1. Material selection*
+ 
 
- - **Definition:** *Material selection is a step in the process of designing and manufacturing any physical object. The main goal of material selection is to use the critical requirements of each part to define the performance requirement of the material.*
-
-*Diposable product are designed for single use, which means they get discarded ("disposed of") immediately after use. Disposable products can have severely negative consequences on the environment if sustainability isn't factored into disposal options.*
