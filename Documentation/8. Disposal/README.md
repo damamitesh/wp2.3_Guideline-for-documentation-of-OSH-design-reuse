@@ -26,8 +26,7 @@ What does comprise the documentation of disposal instructions?
    - Recyclable
    - Non-recyclable
    - Conditionally recyclable: this tells you if any additional steps are required before recyclying the component or product.
-   - Material properties 
-   - Disposable products can have severely negative consequences on the environment if sustainability isn't factored into disposal options.
+   - Negative consequences of the disposable products on the environment if sustainability isn't factored into disposal options.
 4. 
 
 ```
