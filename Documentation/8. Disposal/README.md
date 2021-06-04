@@ -5,6 +5,7 @@
 ## **How to document a disposal process?**
 
 *An diposal instructions can guide the makers to privide the minimun documentation for diposal a product or its disposable compnents.*
+
 *The purpose of the disposal process is to remove a system element from the operation environment with the intent of permanently terminating its use; and to deal with any hazardous or toxic materials or waste products in accordance with the applicable guidance, policy, regulation, and statutes.*
 
  ### **Disposal instructions :** 
