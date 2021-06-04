@@ -46,7 +46,14 @@ This part based on the different products could include
   <summary>Click to expand!</summary>
  
   #### 1. Documentation of software architecture
-  1. A model specifying of components *([Template of software architecture](https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FTemplate%20of%20software%20architecture.drawio))*
+  1. A model specifying of components 
+ 
+ ![Image of template for architectural structure ]()
+ 
+  *You can use the link below as a templates to define the software architecture of your project/product.*
+ 
+ <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FTemplate%20of%20software%20architecture.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FTemplate%20of%20software%20architecture.png" target="_blank">Edit in diagrams.net</a>
+ 
   2. Name of modeling language
      * UML
      * ...
