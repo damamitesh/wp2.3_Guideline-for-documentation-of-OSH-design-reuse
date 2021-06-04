@@ -5,16 +5,14 @@
 ## **How to document a disposal process?**
 
 *An diposal instructions can guide the makers to privide the minimun documentation for diposal a product or its disposable compnents.*
-*Diposable product are designed for single use, which means they get discarded ("disposed of") immediately after use. Disposable products can have severely negative consequences on the environment if sustainability isn't factored into disposal options.*
 
- ### **Disposal instructions can include:** 
 
-#### *1. Material selection*
+ ### **Disposal instructions :** 
 
- - **Definition:** *Material selection is a step in the process of designing and manufacturing any physical object. The main goal of material selection is to use the critical requirements of each part to define the performance requirement of the material.*
+  - **Definition:**
 
 ```
-What does comprise the documentation of material selection?
+What does comprise the documentation of disposal instructions?
 
  1. Identifying the type of material
     - Metal
@@ -26,3 +24,8 @@ What does comprise the documentation of material selection?
    - recyclability of materials
    - Material properties  
 ```
+#### *1. Material selection*
+
+ - **Definition:** *Material selection is a step in the process of designing and manufacturing any physical object. The main goal of material selection is to use the critical requirements of each part to define the performance requirement of the material.*
+
+*Diposable product are designed for single use, which means they get discarded ("disposed of") immediately after use. Disposable products can have severely negative consequences on the environment if sustainability isn't factored into disposal options.*
