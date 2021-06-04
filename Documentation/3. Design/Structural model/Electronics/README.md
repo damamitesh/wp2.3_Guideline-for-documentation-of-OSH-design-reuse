@@ -84,6 +84,7 @@ To reuse a electrical design, it should provide information consist of:
   #### 1. Architectural structure documentation
   1. A model specifying of components
  
+  ![Image of template for architectural structure ](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Architectural%20structure%20for%20template.jpg)
  
 *You can use the link below to define the architectural structure of your project/product.*
  
