@@ -38,9 +38,7 @@
 
 ![Image of architectural structure of PX4 Vision](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Architecture%20of%20electrical%20structural%20model.jpg)
 
-<a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FArchitecture%20of%20electrical%20structural%20model.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FArchitecture%20of%20electrical%20structural%20model.png" target="_blank">Edit in diagrams.net</a>
-
-You can use the files on GitHub as templates to define the architectural structure of your project/product. (see Edit As New or Edit in diagram.net above).
+<a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FArchitecture%20of%20electrical%20structural%20model.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FArchitecture%20of%20electrical%20model.png">Edit in diagrams.net</a>
 
 #### *Example 2: Architectural structure of* [PSLab](https://pslab.io/) 
 
@@ -84,7 +82,13 @@ To reuse a electrical design, it should provide information consist of:
   ### Documentation of structural model of electrical products
  
   #### 1. Architectural structure documentation
-  1. A model specifying of components <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FArchitecture%20of%20electrical%20structural%20model.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FArchitecture%20of%20electrical%20structural%20model.png" target="_blank">Edit in diagrams.net</a>
+  1. A model specifying of components
+ 
+ 
+You can use the link below to define the architectural structure of your project/product.
+ 
+ <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FArchitecture%20of%20electrical%20structural%20model.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FArchitecture%20of%20electrical%20structural%20model.png" target="_blank">Edit in diagrams.net</a>
+ 
   2. Name of modeling language
      * UML
      * ...
