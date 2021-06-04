@@ -85,9 +85,9 @@ To reuse a electrical design, it should provide information consist of:
   1. A model specifying of components
  
  
-You can use the link below to define the architectural structure of your project/product.
+*You can use the link below to define the architectural structure of your project/product.*
  
- <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FArchitecture%20of%20electrical%20structural%20model.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FArchitecture%20of%20electrical%20structural%20model.png" target="_blank">Edit in diagrams.net</a>
+  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FArchitectural%20model%20of%20mechanical%20structure%20for%20template.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2F%20Architectural%20model%20of%20mechanical%20structure%20for%20template.png" target="_blank">Edit in diagrams.net</a>
  
   2. Name of modeling language
      * UML
