@@ -48,7 +48,7 @@ This part based on the different products could include
   #### 1. Documentation of software architecture
   1. A model specifying of components 
  
- ![Image of template for architectural structure ]()
+ ![Image of template for architectural structure ](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Template%20of%20software%20architecture.jpg)
  
   *You can use the link below as a templates to define the software architecture of your project/product.*
  
