@@ -16,16 +16,17 @@
 ```
 What does comprise the documentation of disposal instructions?
 
- 1. Identifying the type of material
-    - Metal
+ 1. Identifying the diposable component/ product that are designed for single use, which means they get discarded ("disposed of") immediately after use. 
+ 2. Identifying the material of disposable component/ product for recyclability
+    - Polystyrene 
     - Plastic
-    - Composite
-    - Ceramic
-    - etc
-2. Environmental impacts
+    - Cotton
+    - etc.
+3. Environmental impacts
    - Recyclability of materials
-   - Material properties  
-3. Diposable product are designed for single use, which means they get discarded ("disposed of") immediately after use. Disposable products can have severely negative consequences on the environment if sustainability isn't factored into disposal options.
+   - Material properties 
+   - Disposable products can have severely negative consequences on the environment if sustainability isn't factored into disposal options.
+4. 
 
 ```
  
