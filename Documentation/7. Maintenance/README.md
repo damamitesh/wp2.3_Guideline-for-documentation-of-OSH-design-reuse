@@ -4,7 +4,7 @@
 
 ## **How to document the maintenance?**
 
-*Maintenance instructions can provide the necessary information to maintain the system effectively and, additional information may provide to facilitate the modification of the system.*
+*Maintenance instructions provide the necessary information to maintain the system effectively and perform the required operations so that the system work properly in the long run. This include advise on the frequence of the maintenace and the risks of failure.*
 
  ### **Maintenance instructions** 
 
@@ -13,21 +13,14 @@
   ```
 What does include the documentation of maintenance instructions? 
 
-1. Test the components 
-2. Repairing/replacing the worn out components
-3. Level of repair
-4. Maintenance tool is designed for repairing assets.
-   - Various types of analyses are used to gather insights about why and when assets fail.
-   - Standards
-   - Regulations 
-5. Definition of information on the procedures necessary for programmers to maintain the software, containing
-   - Verification procedures consist of 
-     - Requirements and procedures necessary to check the performance of the system following modification or maintenance of the system
-   - Error Conditions containing 
-     - An explanation of the source(s) of each error and recommended methods to correct each error.
-   - Maintenance Software
-     - Any special maintenance software and its supporting documentation used to maintain the system
-   - Describing step-by-step the procedures for setting up and sequencing inputs for testing
+1. How too indentify the defective components 
+ - Outline the main troubleshoutings of the system components 
+ - Identify how to detect a defective component
+2. Repairing/replacing the defective components
+ - Step-by-step procedures describing the mantenance sequence (prefered video or photo sequence)
+ - reference to the 4. Manufacturing section where one can find the manufacturing instructions rebuild the defective parts
+3. Maintenance tools.
+   - Various tools necessary to perform the maintenance operation
 
 
 How to visualize the process of maintenance ?
@@ -47,10 +40,11 @@ How to visualize the process of maintenance ?
  
  ### Documentation of maintenance instructions
  
- #### 1. How to test the components
- #### 2. How to repaire/replace worn out components
- #### 3. Level of repair
- #### 4. Maintenance tool
- #### 5. Maintaining the software
+ #### 1. How too indentify the defective components 
+ ...
+ #### 2. Repairing/replacing the defective components
+ ...
+ #### 3. Maintenance tools
+ ...
  
 </details>
