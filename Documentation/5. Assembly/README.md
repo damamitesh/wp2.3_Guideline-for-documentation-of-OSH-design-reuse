@@ -22,11 +22,11 @@ What does include the content of assembly instruction?
   - Reference
   - Quantity 
   - Image of each part
-  - Refer to the BOm in section 4. Manufacturing
+  - Refer to the BOM in section 4. Manufacturing 
  3. Datasheet of component
     - What a component does?
     - How to use the component?
- 4. List of the tools for assembly or disassembely
+ 4. List of the tools for assemble or disassemble
   - Allen Key set
   - Imperial Wrench Set
   - Etc.
@@ -41,7 +41,7 @@ How to visualize of the assembly or disasembly process?
  2. Videos 
 ```  
 
-*Some examples of open-source projects that show the assembly instruction.*
+*Some examples of open-source projects that include assembly instructions.*
 
 #### *Example 1:* [Poppy Robot](https://docs.poppy-project.org/en/assembly-guides/ergo-jr/mechanical-construction.html)
 
