@@ -56,10 +56,12 @@ How to visualize of the assembly or disasembly process?
  ### Documentation of assembly instruction
  
  #### 1. Assembly sequences     
+ #### Visualization of process via images and videos
+
  #### 2. Part list  
  #### 3. Datasheet of component
  #### 4. Assembly tools    
  #### 5. Joining technology 
- #### 6. Visualization of process via images and videos
+ #### Visualization of process via images and videos
  
 </details>
