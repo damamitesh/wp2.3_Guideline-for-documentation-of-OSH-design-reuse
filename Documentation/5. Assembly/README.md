@@ -14,15 +14,15 @@
  ```
 What does include the content of assembly instruction? 
 
-1. Assembly sequences that identify the different steps of assemblage 
+1. Assembly sequence
+ - The set of steps necessary to properly assemblme the product, including troubleshoouting and potential mistakes
+ 
 2. Part list consist of:
   - part name
   - Reference
   - Quantity 
   - Image of each part
-  - Providing procedure 
-    - What parts are made?
-    - What parts are bought?
+  - Refer to the BOm in section 4. Manufacturing
  3. Datasheet of component
     - What a component does?
     - How to use the component?
@@ -55,13 +55,20 @@ How to visualize of the assembly or disasembly process?
  
  ### Documentation of assembly instruction
  
- #### 1. Assembly sequences     
- #### Visualization of process via images and videos
-
- #### 2. Part list  
+ #### 1. Assembly sequences (prefered Visualization via images and/or videos
+ ...
+ 
+ #### 2. Parts list  
+ ...
+ 
  #### 3. Datasheet of component
+ ...
+ 
  #### 4. Assembly tools    
+ ...
+ 
  #### 5. Joining technology 
- #### Visualization of process via images and videos
+ ...
+ 
  
 </details>
