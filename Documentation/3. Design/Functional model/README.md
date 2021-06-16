@@ -83,7 +83,7 @@
      * ...
 
  
-### **2. Functional graph**
+## **2. Functional graph**
 <details>
   <summary>Click to see the guideline!</summary>
  
