@@ -20,7 +20,9 @@
 *The documentation of technical functions, which requires adopting an internal (white box) viewpoint on the product, consists in breaking down the service function into sub-functions. The decomposition process is no more solution neutral as it requires to make a decision at every indenture level. The functional decomposition requires two modelling approaches: function tree and functional graph.*
 
  ### **1. Functional tree**
-
+<details>
+  <summary>Click to see the guideline!</summary>
+ 
 - **Definition:** *The functional tree is a top-down decomposition of function into sub-functions that helps to simplify the problem to solve.*
 
 - **Comments:**
@@ -44,7 +46,11 @@
     - Modelio
     - Capella  
   ```
+</details>
 
+<details>
+  <summary>Click to see the example!</summary>
+ 
 *We show some kinds of functional tree of open-source projects.*
 
 #### *Example 1: [project of XYZ CARGO ADD-ONS](https://projects.opennext.eu/@xyz-cargo-add-ons/xyz-cargo-add-ons)*
@@ -56,9 +62,12 @@
 ![Image of functional tree of XYZ cargo-ADD ONS](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Functional%20tree-%20XYZ%20cargo%20ADD-ONS.jpg)
 
 <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20tree.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20tree%20of%20XYZ%20cargo%20ADD-ONS.png">Edit in diagrams.net</a>
+</details>
 
 ### **2. Functional graph**
-
+<details>
+  <summary>Click to see the guideline!</summary>
+ 
 - **Definition:** *The functional graph is a multi-level logical articulation of technical functions.*
 
 - **Comments:**
@@ -82,7 +91,10 @@
       - Modelio
       - Capella   
   ```
-  
+</details>
+ 
+<details>
+  <summary>Click to see the example!</summary> 
 #### *Functional graph of XYZ Cargo-ADD ONS*:
 *The image below shows the functional graph of the relationship between technical functions for maintaining food quality by ADD-ONS of XYZ cargo*
 
@@ -95,11 +107,8 @@
 *The link below shows an example of functional block diagrams of open-source project*
 
 * [Functional diagram of Renesas’ ventilator](https://www.rs-online.com/designspark/ventilator-design-solution-from-renesas-electronics)
+</details>
 
-
-### Template
-<details>
-  <summary>Click to expand!</summary>
 
   ### Template for documentation of functional model 
  
@@ -135,7 +144,7 @@
      * Online app diagram
      * ...
  
-</details>
+
 
 
 
