@@ -6,7 +6,7 @@
   
 ## **1. Stakeholders:**
 <details>
-  <summary>Click to see the guideline and example!</summary>
+  <summary>Click to see the guideline!</summary>
   
 - **Definition:** *Stakeholders generally refer to all the actors (human and non-human) who have an interest in a product. Among the stakeholders, there are both internal players, such as users and participants of the project, and external players that are represented by the potential user of products or external entities.*
 
@@ -15,6 +15,10 @@
   - *A stakeholder is not necessarily a person (e.g. considering airports as a stakeholder when designing a two-deck aircraft).*
   - *A stakeholder can indirectly affect the product (e.g. considering neighborhood when designing a nuclear power plant).*
   - *A stakeholder can indirectly be affected by the product (e.g. considering the local biodiversity when designing an airport).*
+ </details>
+ 
+  <details>
+    <summary>Click to see the example!</summary>
   
   ```
   What does contain the minimum documentation of the stakeholders? 
@@ -53,14 +57,17 @@
   
 ## **2. External interfaces**
 <details>
-  <summary>Click to see the guideline and example!</summary>
+  <summary>Click to see the guideline!</summary>
   
 - **Definition:**  *External interfaces are interactions between the product and the stakeholders.*
 
 - **Comments:**
   - *An interface is made of a port (in, out, or in-out)*
   - *An interface is made of a flow (matter, energy, or signal)*
-  
+</details>
+ <details>
+  <summary>Click to expand!</summary>
+   
  ```
 What does contain the minimum documentation of the external interfaces? 
 
@@ -84,6 +91,22 @@ Example XYZ Cargo ADD-ONS
 
 <a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FExternal%20interfaces.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FExternal%20interfaces.png">Edit in diagrams.net</a>
 </details>
+
+### Template
+
+  
+ ### Documentation of specification
+  
+  2. External interfaces
+     * Stakeholder name 1
+       * Flow 1
+       * ...
+  
+ ![Image of stakeholder diagram for template](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/External%20interfaces%20for%20template.jpg)
+  
+   *The link below can be used to define the external interfaces of your project/product.*
+  
+  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FExternal%20interfaces%20for%20template.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FExternal%20interfaces%20for%20template.drawio">Edit in diagrams.net</a>
 
 ## 3. Service *(synonyms: external function, capability)* 
 
@@ -169,7 +192,8 @@ Example XYZ Cargo ADD-ONS
 
 ### Template
 
-  
+ <details>
+  <summary>Click to expand!</summary> 
  ### Documentation of specification
   
   1. Stakeholders
@@ -206,5 +230,5 @@ Example XYZ Cargo ADD-ONS
      * Requirement 1
      * ...
 
-
+</details>
 
