@@ -93,9 +93,6 @@ Example XYZ Cargo ADD-ONS
 </details>
 
 ### Template
-
-  
- ### Documentation of specification
   
   2. External interfaces
      * Stakeholder name 1
