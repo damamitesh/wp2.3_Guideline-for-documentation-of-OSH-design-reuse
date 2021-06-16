@@ -5,8 +5,6 @@
 ## **How to document the specifications?** 
   
 ## **1. Stakeholders:**
-<details>
-  <summary>Click to guideline!</summary>
 
 - **Definition:** *Stakeholders generally refer to all the actors (human and non-human) who have an interest in a product. Among the stakeholders, there are both internal players, such as users and participants of the project, and external players that are represented by the potential user of products or external entities.*
 
@@ -149,13 +147,15 @@ Example XYZ Cargo ADD-ONS
     - ...
     
   ```
-<details>
+
   
 ### [Metadata](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Metadata/2.%20Specification/README.md#metadata)
 
 ### Template
 
-
+<details>
+  <summary>Click to template!</summary>
+  
  ### Documentation of specification
   
   1. Stakeholders
@@ -192,4 +192,5 @@ Example XYZ Cargo ADD-ONS
      * Requirement 1
      * ...
 
- 
+ <details>
+
