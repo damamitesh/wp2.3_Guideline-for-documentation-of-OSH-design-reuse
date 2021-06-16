@@ -4,10 +4,10 @@
 
 ## **How to document the specifications?** 
 
+</details>
+  <summary>Click to see the guideline and example!</summary>
+  
 ## **1. Stakeholders:**
-
-<details>
-  <summary>Click to see the guideline!</summary>
   
 - **Definition:** *Stakeholders generally refer to all the actors (human and non-human) who have an interest in a product. Among the stakeholders, there are both internal players, such as users and participants of the project, and external players that are represented by the potential user of products or external entities.*
 
@@ -16,10 +16,6 @@
   - *A stakeholder is not necessarily a person (e.g. considering airports as a stakeholder when designing a two-deck aircraft).*
   - *A stakeholder can indirectly affect the product (e.g. considering neighborhood when designing a nuclear power plant).*
   - *A stakeholder can indirectly be affected by the product (e.g. considering the local biodiversity when designing an airport).*
-</details>
-
-<details>
-  <summary>Click to see the example!</summary>
   
   ```
   What does contain the minimum documentation of the stakeholders? 
@@ -42,7 +38,7 @@
 ![Image of stakeholdes of XYZ cargo-ADD ONS](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Stakeholders%20of%20XYZ%20cargo%20ADD-ONS.jpg)
 
 <a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FStakeholders.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2Fstakeholders.png">Edit in diagrams.net</a>
-  </details>
+
   
 ## **2. External interfaces**
   
@@ -154,7 +150,8 @@ Example XYZ Cargo ADD-ONS
     - ...
     
   ```
-  
+</details> 
+
 ### [Metadata](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Metadata/2.%20Specification/README.md#metadata)
 
 ### Template
