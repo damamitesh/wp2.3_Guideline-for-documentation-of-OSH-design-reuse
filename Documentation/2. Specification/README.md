@@ -6,6 +6,9 @@
 
 ## **1. Stakeholders:**
 
+<details>
+  <summary>Click to see the guidemine!</summary>
+  
 - **Definition:** *Stakeholders generally refer to all the actors (human and non-human) who have an interest in a product. Among the stakeholders, there are both internal players, such as users and participants of the project, and external players that are represented by the potential user of products or external entities.*
 
 - **Comments:**
@@ -13,7 +16,11 @@
   - *A stakeholder is not necessarily a person (e.g. considering airports as a stakeholder when designing a two-deck aircraft).*
   - *A stakeholder can indirectly affect the product (e.g. considering neighborhood when designing a nuclear power plant).*
   - *A stakeholder can indirectly be affected by the product (e.g. considering the local biodiversity when designing an airport).*
+</details>
 
+<details>
+  <summary>Click to see the example!</summary>
+  
   ```
   What does contain the minimum documentation of the stakeholders? 
   
@@ -36,6 +43,8 @@
 
 <a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FStakeholders.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2Fstakeholders.png">Edit in diagrams.net</a>
 
+  </details>
+  
 ## **2. External interfaces**
 
 - **Definition:**  *External interfaces are interactions between the product and the stakeholders.*
