@@ -66,7 +66,7 @@
   - *An interface is made of a flow (matter, energy, or signal)*
 </details>
  <details>
-  <summary>Click to expand!</summary>
+  <summary>Click to see the example!</summary>
    
  ```
 What does contain the minimum documentation of the external interfaces? 
@@ -106,7 +106,9 @@ Example XYZ Cargo ADD-ONS
   <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FExternal%20interfaces%20for%20template.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FExternal%20interfaces%20for%20template.drawio">Edit in diagrams.net</a>
 
 ## 3. Service *(synonyms: external function, capability)* 
-
+<details>
+  <summary>Click to see the guideline!</summary>
+  
 - **Definition:** *A service is an effect intended by a stakeholder resulting from the interaction of the product with its environment (i.e. what the  product is for).*
 
 - **Comments:**
@@ -115,6 +117,10 @@ Example XYZ Cargo ADD-ONS
   - *Services are defined in a solution neutral way.*
   - *Services can be stated as follows : The [Product] shall enable [Stakeholder] [Action verb] (e.g. The product shall enable end-user to clean its teeths)*
   - *we often reason in terms of action verbs to communicate expected behaviours, so it would be nice to be able to search designs with action verbs*
+</details>
+
+<details>
+  <summary>Click to see the example!</summary>
   
  ```
   What does contain the minimum documentation of the service to stakehokders?
@@ -133,9 +139,19 @@ Example XYZ Cargo ADD-ONS
       
     - ...
   ```
-  
-## 4. Constraint *(Synonyms: non function requirement)*
+ </details>
 
+### Template
+  
+  3. Services
+     * Services to stakeholder 1
+       * Service 1.1
+       * ...
+
+## 4. Constraint *(Synonyms: non function requirement)*
+<details>
+  <summary>Click to see the guideline!</summary>
+  
 - **Definition:**  *A constraint is a choice that makes certain designs "not allowed" or inappropriate for its intended use.*
 
 - **Comments:**
@@ -144,8 +160,11 @@ Example XYZ Cargo ADD-ONS
   - *There are two kinds of constraints: input constraints and system constraints.* 
     - *Input constraints are imposed as part of the design specifications.*
     - *System constraints are constraints imposed by the system in which the design solution must function.*
-    
+ </details> 
  
+ <details>
+  <summary>Click to see the example!</summary>
+  
    ```
   What does contain the minimum documentation of the constraints?
   
@@ -158,7 +177,17 @@ Example XYZ Cargo ADD-ONS
    - ...
 
   ```
+</details>
 
+### Template
+  
+  4. Constraints
+     * Constraint 1
+     * ...
+     
+<details>
+  <summary>Click to the guideline!</summary>
+  
 ## **5. Requirement**
 
 - **Definition:** *A requirement is a formal statement that specifies when condition C is true, property P of object O is actual and its value shall belong  to domain D.*
@@ -167,8 +196,11 @@ Example XYZ Cargo ADD-ONS
   -  *The minimum set of independent requirements can completely characterize the needs of the product in the functional domain.*
   -  *Functional requirement describe qualitatively the system functions or tasks to be performed in operation.* 
   -  *Requirement can state as follows: The [stakeholder] need [Property] [object] [Action verb]  at [Condition]* 
+ </details>
  
- 
+ <details>
+  <summary>Click to the example!</summary>
+  
   ```
   Example of functional requirement that ADD-ONS of XYZ cargo provides for the food producers, as a stakeholder, to preserve the quality of food.
  
@@ -184,7 +216,14 @@ Example XYZ Cargo ADD-ONS
     - ...
     
   ```
-  
+ </details>
+ 
+ ### Template
+    
+  5. Requirements
+     * Requirement 1
+     * ...
+ 
 ### [Metadata](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Metadata/2.%20Specification/README.md#metadata)
 
 ### Template
