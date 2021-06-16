@@ -5,7 +5,9 @@
 ## **How to document the specifications?** 
   
 ## **1. Stakeholders:**
-
+<details>
+  <summary>Click to see the guideline and example!</summary>
+  
 - **Definition:** *Stakeholders generally refer to all the actors (human and non-human) who have an interest in a product. Among the stakeholders, there are both internal players, such as users and participants of the project, and external players that are represented by the potential user of products or external entities.*
 
 - **Comments:**
@@ -35,9 +37,23 @@
 ![Image of stakeholdes of XYZ cargo-ADD ONS](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Stakeholders%20of%20XYZ%20cargo%20ADD-ONS.jpg)
 
 <a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FStakeholders.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2Fstakeholders.png">Edit in diagrams.net</a>
+</details>
 
+### Template
+  
+  1. Stakeholders
+     * Stakeholder name 1
+     * ...
+  
+  ![Image of stakeholder diagram for template](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Stakeholder%20diagram%20for%20template.jpg)
+  
+  *The link below can be used to define the stakeholders of your project/product.*
+  
+  <a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FStakeholder%20diagram%20for%20template.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FStakeholder%20diagram%20for%20template.png">Edit in diagrams.net</a>
   
 ## **2. External interfaces**
+<details>
+  <summary>Click to see the guideline and example!</summary>
   
 - **Definition:**  *External interfaces are interactions between the product and the stakeholders.*
 
@@ -67,7 +83,8 @@ Example XYZ Cargo ADD-ONS
 ![Image of External interfaces of XYZ cargo-ADD ONS](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/External%20interfaces%20of%20XYZ%20Cargo%20ADD-ONS.jpg)
 
 <a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FExternal%20interfaces.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FExternal%20interfaces.png">Edit in diagrams.net</a>
-  
+</details>
+
 ## 3. Service *(synonyms: external function, capability)* 
 
 - **Definition:** *A service is an effect intended by a stakeholder resulting from the interaction of the product with its environment (i.e. what the  product is for).*
@@ -147,14 +164,11 @@ Example XYZ Cargo ADD-ONS
     - ...
     
   ```
-
   
 ### [Metadata](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Metadata/2.%20Specification/README.md#metadata)
 
 ### Template
 
-<details>
-  <summary>Click to template!</summary>
   
  ### Documentation of specification
   
@@ -192,5 +206,5 @@ Example XYZ Cargo ADD-ONS
      * Requirement 1
      * ...
 
- <details>
+
 
