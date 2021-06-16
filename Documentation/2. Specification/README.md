@@ -158,8 +158,7 @@ Example XYZ Cargo ADD-ONS
 ### [Metadata](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Metadata/2.%20Specification/README.md#metadata)
 
 ### Template
-<details>
-  <summary>Click to expand!</summary>
+
 
  ### Documentation of specification
   
@@ -197,4 +196,4 @@ Example XYZ Cargo ADD-ONS
      * Requirement 1
      * ...
 
-</details>
+
