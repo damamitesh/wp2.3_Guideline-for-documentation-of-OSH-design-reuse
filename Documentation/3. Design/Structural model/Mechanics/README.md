@@ -129,6 +129,7 @@ To reuse a design model, it should provide information consist of:
   
   <details>
   <summary>Click to see the examples!</summary>
+ 
   #### *Example of material characteristics*:
   
 *Figure below shows some physical properties of superalloy base elements.*
