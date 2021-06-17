@@ -63,11 +63,11 @@
      * Online app diagram
      * ...
 
+ 
+### **2. Modelling a design in an editable file format**
 <details>
   <summary>Click to see the guideline!</summary>
  
-### **2. Modelling a design in an editable file format**
-
 - **Definition:** *An editable file format is a standard way that information is encoded for storage and allow the makers to study, modify the geometry of a model and reuse it.* 
 
  ```
