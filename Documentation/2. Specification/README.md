@@ -189,7 +189,7 @@ Example XYZ Cargo ADD-ONS
 ## **5. Requirement**
 
 <details>
-  <summary>Click to the guideline!</summary>
+  <summary>Click to see the guideline!</summary>
   
 - **Definition:** *A requirement is a formal statement that specifies when condition C is true, property P of object O is actual and its value shall belong  to domain D.*
 
@@ -200,7 +200,7 @@ Example XYZ Cargo ADD-ONS
  </details>
  
  <details>
-  <summary>Click to the example!</summary>
+  <summary>Click to see the example!</summary>
   
   ```
   Example of functional requirement that ADD-ONS of XYZ cargo provides for the food producers, as a stakeholder, to preserve the quality of food.
