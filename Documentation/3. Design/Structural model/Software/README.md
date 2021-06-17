@@ -1,7 +1,9 @@
 ## **How to document the software section of a project?**
 
  ### **1. Software architecture**
-
+<details>
+  <summary>Click to see the guideline!</summary>
+ 
 *The software architecture represents the repository details of all the software that is necessary for reusing and running the project.*
 
  ```
@@ -19,33 +21,17 @@
   - Modelio
   - Capella 
   ```
+ </details>
+ 
+ <details>
+  <summary>Click to see the example!</summary>
  
 #### *Example of software architecture of* [PX4 Vision](https://docs.px4.io/master/en/concept/architecture.html#px4-architectural-overview) 
+ </details>
 
-
- ### **2. Documentation of different parts of software**
-
- ```
-This part based on the different products could include
-
-- Description of programming algorithm   
-- The source code. 
-- Version of software
- ```
-
-### *Examples:* 
-
-*1. [Nasa-JPL](https://github.com/nasa-jpl/open-source-rover/tree/master/software)*
-
-*2. [AmboVent](https://github.com/AmboVent-1690-108/AmboVent/tree/master/3-Software)*
-
-*3. [Poppy project](https://docs.poppy-project.org/en/installation/)*
 
 ### Template
-<details>
-  <summary>Click to expand!</summary>
- 
-  #### 1. Documentation of software architecture
+
   1. A model specifying of components 
  
  ![Image of template for architectural structure ](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Template%20of%20software%20architecture.jpg)
@@ -60,7 +46,35 @@ This part based on the different products could include
   3. Name of Software for modeloing the architecture
      * Online app diagram
      * ...
+
+<details>
+  <summary>Click to see the guideline!</summary>
  
+ ### **2. Documentation of different parts of software**
+
+ ```
+This part based on the different products could include
+
+- Description of programming algorithm   
+- The source code. 
+- Version of software
+ ```
+</details>
+
+<details>
+  <summary>Click to see the examples!</summary>
+ 
+### *Examples:* 
+
+*1. [Nasa-JPL](https://github.com/nasa-jpl/open-source-rover/tree/master/software)*
+
+*2. [AmboVent](https://github.com/AmboVent-1690-108/AmboVent/tree/master/3-Software)*
+
+*3. [Poppy project](https://docs.poppy-project.org/en/installation/)*
+</details>
+
+### Template
+
  #### 2. Documentation of different parts of software
   1. Description of programming algorithm 
      * representation of algorithm 
@@ -69,6 +83,6 @@ This part based on the different products could include
      * Name
      * Version
  
-</details>
+
 
 
