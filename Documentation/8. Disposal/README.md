@@ -30,6 +30,7 @@ What does comprise the documentation of disposal instructions?
    - Conditionally recyclable: this tells you if any additional steps are required before recyclying the component or product.
    - Negative consequences of the disposable products on the environment if sustainability isn't factored into disposal options.
 4. End of life of product for disposing or recycling
+5. Determining what material can be recycled many times 
 
 How to visualize the process of disposal ?
   
@@ -40,11 +41,13 @@ How to visualize the process of disposal ?
 
 ### Template
  
- #### 1. 
+ #### 1.Identifying the diposable components 
  ...
- #### 2. 
+ #### 2.Identifying the material of disposable component 
  ...
- #### 3. 
- 
+ #### 3. Considering the environmental impacts
  ...
-
+ #### 4. End of life of product
+ ...
+ #### 5. Determining the material that can recycle several times
+ ...
