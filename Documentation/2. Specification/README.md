@@ -45,7 +45,7 @@
 
 ### Template
   
-  1. Stakeholders
+  Stakeholders
      * Stakeholder name 1
      * ...
   
@@ -94,7 +94,7 @@ Example XYZ Cargo ADD-ONS
 
 ### Template
   
-  2. External interfaces
+  External interfaces
      * Stakeholder name 1
        * Flow 1
        * ...
@@ -143,7 +143,7 @@ Example XYZ Cargo ADD-ONS
 
 ### Template
   
-  3. Services
+  Services
      * Services to stakeholder 1
        * Service 1.1
        * ...
@@ -181,7 +181,7 @@ Example XYZ Cargo ADD-ONS
 
 ### Template
   
-  4. Constraints
+  Constraints
      * Constraint 1
      * ...
      
@@ -221,7 +221,7 @@ Example XYZ Cargo ADD-ONS
  
  ### Template
     
-  5. Requirements
+  Requirements
      * Requirement 1
      * ...
  
