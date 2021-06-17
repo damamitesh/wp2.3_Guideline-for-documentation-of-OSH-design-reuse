@@ -70,16 +70,17 @@ How to visualize the process of user guide ?
 ### Template
 
   #### 1. Description of product
-  1. ...
+  * ...
      
  #### 2. Use of product
-  1. Materials required
+  * Materials required
       * ...
-  2. Procedure
-      * ...
-  3. Setup instruction
-  4. Troubleshooting
-  5. Repair information
-  6. ...
+  * Procedure
+      * Installation instructions
+      * Setup instruction
  
-
+#### 3. Troubleshooting
+#### 4. Repair information
+#### 5. Information on disposal
+#### 6. Update of firmware
+#### 7. Reporting problems
