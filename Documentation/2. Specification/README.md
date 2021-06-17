@@ -46,8 +46,9 @@
 ### Template
   
   Stakeholders
-     * Stakeholder name 1
-     * ...
+  
+   * Stakeholder name 1
+   * ...
   
   ![Image of stakeholder diagram for template](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Stakeholder%20diagram%20for%20template.jpg)
   
@@ -95,7 +96,8 @@ Example XYZ Cargo ADD-ONS
 ### Template
   
   External interfaces
-     * Stakeholder name 1
+     
+   * Stakeholder name 1
        * Flow 1
        * ...
   
@@ -144,7 +146,8 @@ Example XYZ Cargo ADD-ONS
 ### Template
   
   Services
-     * Services to stakeholder 1
+  
+   * Services to stakeholder 1
        * Service 1.1
        * ...
 
@@ -182,8 +185,9 @@ Example XYZ Cargo ADD-ONS
 ### Template
   
   Constraints
-     * Constraint 1
-     * ...
+  
+   * Constraint 1
+   * ...
      
   
 ## **5. Requirement**
@@ -222,8 +226,9 @@ Example XYZ Cargo ADD-ONS
  ### Template
     
   Requirements
-     * Requirement 1
-     * ...
+  
+   * Requirement 1
+   * ...
  
 ### [Metadata](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Metadata/2.%20Specification/README.md#metadata)
 
