@@ -46,7 +46,7 @@
 
 ### Template
  
-  #### 1. Architectural structure documentation
+  #### Architectural structure documentation
   1. A model specifying of components
  
  ![Image of template for architectural structure ](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Architectural%20structure%20for%20template.jpg)
@@ -64,7 +64,7 @@
      * ...
 
  
-### **2. Modelling a design in an editable file format**
+### **Modelling a design in an editable file format**
 <details>
   <summary>Click to see the guideline!</summary>
  
@@ -96,7 +96,7 @@ To reuse a design model, it should provide information consist of:
 
 ### Template
 
- #### 2. Documentation a design in an editable file format
+ #### Documentation a design in an editable file format
   1. 3D/2D file format
      * Native formats
      * Neutral formats
@@ -141,7 +141,7 @@ To reuse a design model, it should provide information consist of:
   
 ### Template
  
-  #### 3. Documentation of material cgaracteristics
+  #### Documentation of material cgaracteristics
   1. Name of material characteristice
      * Properties
      * Unit of property
