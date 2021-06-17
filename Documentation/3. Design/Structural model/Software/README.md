@@ -47,11 +47,11 @@
      * Online app diagram
      * ...
 
+ 
+ ### **2. Documentation of different parts of software**
 <details>
   <summary>Click to see the guideline!</summary>
  
- ### **2. Documentation of different parts of software**
-
  ```
 This part based on the different products could include
 
