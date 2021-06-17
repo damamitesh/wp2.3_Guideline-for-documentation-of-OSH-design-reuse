@@ -25,6 +25,7 @@
  
  <details>
   <summary>Click to the examples!</summary>
+ 
 *The links below show some kinds of architectural structure of open-source projects*
 
 #### *Example 1: architectural structure of* [MPS ventilator](https://www.monolithicpower.com/en/mps-open-source-ventilator)
