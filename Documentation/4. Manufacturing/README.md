@@ -11,6 +11,8 @@
  ### **Manufacturing instructions can include:** 
  
  #### *1. Manufacturing technology*
+  <details>
+  <summary>Click to see the guideline!</summary>
  
   - **Definition:** *It means all the machinery, equipment and processes that are used to manufacture products.*
 
@@ -51,11 +53,28 @@
   1. Images 
   2. Videos  
  ```
+ </details>
+ 
+ <details>
+  <summary>Click to see the examples!</summary>
  
    #### *Example 1:* [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/mechanical/body_assembly#3-machiningfabrication)
    
    #### *Example 2:* [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Build_Sequence) 
-   
+  </details>
+  
+  ### Template
+ 
+  #### 1. Manufacturing technology
+  1. Machine tool
+     * ...
+  2. Manufacturing process
+     * ...
+  3. Machining parameters
+     * ...
+  4. Vizualization via images and videos
+
+
 #### *2. Identifying the geometry by standard file formats*
 
   - **Definition:** *Standard file formats support some of the manufacturing processes and the surface geometry of a design without the possibility of modification.*
