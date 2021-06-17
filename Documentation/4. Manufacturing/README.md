@@ -73,10 +73,11 @@
   3. Machining parameters
      * ...
   4. Vizualization via images and videos
-
-
+ 
 #### *2. Identifying the geometry by standard file formats*
-
+<details>
+  <summary>Click to see the guideline!</summary>
+ 
   - **Definition:** *Standard file formats support some of the manufacturing processes and the surface geometry of a design without the possibility of modification.*
 
 ```
@@ -87,14 +88,25 @@ What does include the documentation of standard file formats for the manufacturi
   3. Manufacturing export formats such as G-code, STEP-NC is suitable for CNC machining
   4. Circuit board design formats such as Gerber RS-274X, excellon that is suitable for vector photoplotters 2D mechanical NC machines
   ``` 
+</details>
 
+<details>
+  <summary>Click to see the examples!</summary>
+ 
 #### *Example 1:* [Automated Tea Infuser, Standard file (STL format)](https://wikifactory.com/+fablabbratislava/automated-tea-infuser/contributions/3f2c490)
 
 #### *Example 2:* [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Specifications), [2D drawing file](https://wiki.satnogs.org/File:C1001.png)
+</details>
 
+### Template
+     
+ #### 2. Identifying the geometry by standard file formats
+  1. 2D/3D files  
 
 #### *3. Material selection*
-
+<details>
+  <summary>Click to see the guideline!</summary>
+ 
  - **Definition:** *Material selection is a step in the process of designing and manufacturing any physical object. The main goal of material selection is to use the critical requirements of each part to define the performance requirement of the material.*
 
 ```
@@ -106,11 +118,15 @@ What does comprise the documentation of material selection?
     - Composite
     - Ceramic
     - etc.
-2. Identifying the characteristics of the material for manufacturing (refer to structural model)
-3. Environmental impacts
-   - recyclability of materials
-   - Material properties  
+2. Identifying the characteristics of the material for manufacturing (refer to structural model) 
 ```
+</details>
+
+### Template
+
+ #### 3. Material selection
+  1. Name of mterial
+  2. Characteristic
 
 #### *6. Post-processing and its tool kit*
  
