@@ -24,7 +24,7 @@ What does include the content of assembly instruction?
   - Reference
   - Quantity 
   - Image of each part
-  - Refer to the BOM in section 4. Manufacturing 
+  - Refer to the BOM in section 4 (Manufacturing) 
  3. Datasheet of component
     - What a component does?
     - How to use the component?
