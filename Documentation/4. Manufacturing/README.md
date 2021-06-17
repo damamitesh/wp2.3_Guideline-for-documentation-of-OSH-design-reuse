@@ -128,7 +128,9 @@ What does comprise the documentation of material selection?
   1. Name of mterial
   2. Characteristic
 
-#### *6. Post-processing and its tool kit*
+#### *4. Post-processing and its tool kit*
+ <details>
+  <summary>Click to see the guideline!</summary>
  
  - **Definition:** *To achieve the right properties such as surface quality, geometrical accuracy and mechanical properties, the post processing is essential.* 
  
@@ -150,10 +152,24 @@ What does comprise the documentation of material selection?
     1. Images 
     2. Videos  
    ```
-   #### *Example: [Post processing for FDM printed parts](https://www.3dhubs.com/knowledge-base/post-processing-fdm-printed-parts/#introduction)*
-   
-#### *7. Bill of material (BOM)*
-
+ </details>
+ 
+ <details>
+  <summary>Click to see the example!</summary> 
+ 
+ #### *Example: [Post processing for FDM printed parts](https://www.3dhubs.com/knowledge-base/post-processing-fdm-printed-parts/#introduction)*
+ </details>
+ 
+ ### Template
+ #### 4. Post-processing     
+  1. Name of process
+  2. Description of Process
+  3. Visualization via images and videos
+ 
+#### *5. Bill of material (BOM)*
+<details>
+  <summary>Click to see the guideline</summary>
+ 
  - **Definition:** *A bill of materials (BOM) is a comprehensive list of parts, items, and other materials required to create a product, as well as instructions required for gathering and using the required materials.*
 
 ```
@@ -168,35 +184,23 @@ What does consist the bill of material?
    7. Cost
    8. BOM notes
    ```
+</details>
 
+<details>
+  <summary>Click to see the example</summary>
+ 
  #### *Example: [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/bill_of_materials)*
-
+</details>
 
 ### Template
-<details>
-  <summary>Click to expand!</summary>
- 
- ### Documentation of manufacturing instruction
- 
-  #### 1. Manufacturing technology
-  1. Machine tool
-     * ...
-  2. Manufacturing process
-     * ...
-  3. Machining parameters
-     * ...
-  4. Vizualization via images and videos
-     
- #### 2. Identifying the geometry by standard file formats
-  1. 2D/3D files  
- #### 3. Material selection
-  1. Name of mterial
-  2. Characteristic
-  3. Environmental impacts
- #### 4. Post-processing     
-  1. Name of process
-  2. Description of Process
-  3. Visualization via images and videos
+
  #### 5. Bill of material 
-</details>
+         1. Part number
+         2. Item name
+         3. Description
+         4. Quantity
+         5. Unit of measure
+         6. Procurement type
+         7. Cost
+         8. BOM notes
 
