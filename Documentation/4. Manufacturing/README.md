@@ -63,7 +63,7 @@
    #### *Example 2:* [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Build_Sequence) 
   </details>
   
-  #### Template
+  ### Template
  
   #### Manufacturing technology
   1. Machine tool
@@ -98,7 +98,7 @@ What does include the documentation of standard file formats for the manufacturi
 #### *Example 2:* [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Specifications), [2D drawing file](https://wiki.satnogs.org/File:C1001.png)
 </details>
 
-#### Template
+### Template
      
  #### Identifying the geometry by standard file formats
   1. 2D/3D files  
@@ -122,7 +122,7 @@ What does comprise the documentation of material selection?
 ```
 </details>
 
-#### Template
+### Template
 
  #### Material selection
   1. Name of mterial
@@ -160,7 +160,7 @@ What does comprise the documentation of material selection?
  #### *Example: [Post processing for FDM printed parts](https://www.3dhubs.com/knowledge-base/post-processing-fdm-printed-parts/#introduction)*
  </details>
  
- #### Template
+ ### Template
  
  #### Post-processing     
   1. Name of process
@@ -193,7 +193,7 @@ What does consist the bill of material?
  #### *Example: [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/bill_of_materials)*
 </details>
 
-#### Template
+### Template
 
  #### Bill of material
  
