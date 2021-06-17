@@ -32,7 +32,7 @@
 
 ### Template
 
- ### **Software architecture**
+ #### **Software architecture**
  
   1. A model specifying of components 
  
