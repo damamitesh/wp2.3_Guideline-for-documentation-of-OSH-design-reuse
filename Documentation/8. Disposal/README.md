@@ -41,9 +41,9 @@ How to visualize the process of disposal ?
 
 ### Template
  
- #### 1.Identifying the diposable components 
+ #### 1. Identifying the diposable components 
  ...
- #### 2.Identifying the material of disposable component 
+ #### 2. Identifying the material of disposable component 
  ...
  #### 3. Considering the environmental impacts
  ...
