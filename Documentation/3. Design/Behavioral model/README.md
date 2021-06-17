@@ -72,7 +72,7 @@
   
  ### Template
  
-  #### 1. simulation model
+  #### Simulation model
   1. Type of simulation
      * ...
   2. Model definition
