@@ -32,6 +32,8 @@
 
 ### Template
 
+ ### **Software architecture**
+ 
   1. A model specifying of components 
  
  ![Image of template for architectural structure ](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Template%20of%20software%20architecture.jpg)
@@ -75,7 +77,7 @@ This part based on the different products could include
 
 ### Template
 
- #### 2. Documentation of different parts of software
+ #### Documentation of different parts of software
   1. Description of programming algorithm 
      * representation of algorithm 
   2. The source code
