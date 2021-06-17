@@ -185,11 +185,12 @@ Example XYZ Cargo ADD-ONS
      * Constraint 1
      * ...
      
-<details>
-  <summary>Click to the guideline!</summary>
   
 ## **5. Requirement**
 
+<details>
+  <summary>Click to the guideline!</summary>
+  
 - **Definition:** *A requirement is a formal statement that specifies when condition C is true, property P of object O is actual and its value shall belong  to domain D.*
 
 - **Comments:**
@@ -226,45 +227,4 @@ Example XYZ Cargo ADD-ONS
  
 ### [Metadata](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Metadata/2.%20Specification/README.md#metadata)
 
-### Template
-
- <details>
-  <summary>Click to expand!</summary> 
- ### Documentation of specification
-  
-  1. Stakeholders
-     * Stakeholder name 1
-     * ...
-  
-  ![Image of stakeholder diagram for template](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Stakeholder%20diagram%20for%20template.jpg)
-  
-  *The link below can be used to define the stakeholders of your project/product.*
-  
-  <a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FStakeholder%20diagram%20for%20template.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FStakeholder%20diagram%20for%20template.png">Edit in diagrams.net</a>
-  
-  2. External interfaces
-     * Stakeholder name 1
-       * Flow 1
-       * ...
-  
- ![Image of stakeholder diagram for template](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/External%20interfaces%20for%20template.jpg)
-  
-   *The link below can be used to define the external interfaces of your project/product.*
-  
-  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FExternal%20interfaces%20for%20template.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FExternal%20interfaces%20for%20template.drawio">Edit in diagrams.net</a>
-  
-  3. Services
-     * Services to stakeholder 1
-       * Service 1.1
-       * ...
-  
-  4. Constraints
-     * Constraint 1
-     * ...
-       
-  5. Requirements
-     * Requirement 1
-     * ...
-
-</details>
 
