@@ -3,18 +3,22 @@
 *I would like to enable the makers to understand the analysis of the physical behavior of a product to support the decision made at the latter stages of design.* 
 
 ## **What is a behavioral model?**
-
+<details>
+  <summary>Click to expand!</summary>
+   
 * An opportunity to describe the behavior a product when it receives a stimulus.
 * The behavior model could be the mathematical description of the physical product.
 * The behavior model is the physical interactions between the components of a design as well as between the design and its environment. An artifact exhibits certain behaviors not only by the change or maintaining of its physical state but also by several interactions that take place inside the artifact, as well as with its environment.
-
+</details>
 
 ## **Why should you define behavioral model?**
-
+<details>
+  <summary>Click to expand!</summary>
+   
 * The behavioral model identifies the properties for understanding the calculation, simulation, and environment of the product.
 * The behavioral model could provide the simulation of any given physical phenomenon using numerical techniques.
 * Behavior model describes how the artifact implements its function and is managed by engineering principles and physical rules that are included in a behavioral model.  
-   
+</details>   
 
 ## **How to document a behavioral model?**
 
@@ -23,7 +27,9 @@
 *Analysis of the behavior of a product depends on its components and its environment and there are different types of simulation to consider the behavior of the product. So, we can not identify all types of behavioral models in this section. But, we provide a general vision of the simulation models and their implementation.* 
 
  ### **1. Simulation models**
-
+<details>
+  <summary>Click to see the guideline!</summary>
+   
 - **Definition:** *A simulation model enables the designers to test whether the design specifications are met by performing computer simulations rather than experiments on the physical prototype.It promises a more comprehensive exploration of design alternatives and a better-performing final design.*
 
 
@@ -51,6 +57,11 @@
     - ADINA
     - Etc.
   ```
+  </details>
+  
+  <details>
+  <summary>Click to see the examples!</summary>
+   
    #### *Example of simulation models:* 
    
  **Example 1: [FinEtools: Finite Element tools](https://github.com/PetrKryslUCSD/FinEtools.jl)**
@@ -58,13 +69,9 @@
  **Example 2:** *Image below shows the simulation of the torsion of the fixed part from below and its evaluation of the reality.*
  
  ![Image of Finite element analysis](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Finite%20element%20analysis%20image.gif)
- 
+ </details>
   
  ### Template
-<details>
-  <summary>Click to expand!</summary>
-  
-  ### Documentation of behavioral model
  
   #### 1. simulation model
   1. Type of simulation
@@ -75,5 +82,5 @@
   3. Name of Software
      * ...
  
-</details>
+
 
