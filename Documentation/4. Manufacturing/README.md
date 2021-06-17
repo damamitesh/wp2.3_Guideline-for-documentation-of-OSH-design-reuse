@@ -195,13 +195,14 @@ What does consist the bill of material?
 
 #### Template
 
- #### Bill of material 
-         1. Part number
-         2. Item name
-         3. Description
-         4. Quantity
-         5. Unit of measure
-         6. Procurement type
-         7. Cost
-         8. BOM notes
+ #### Bill of material
+ 
+  1. Part number
+  2. Item name
+  3. Description
+  4. Quantity
+  5. Unit of measure
+  6. Procurement type
+  7. Cost
+  8. BOM notes
 
