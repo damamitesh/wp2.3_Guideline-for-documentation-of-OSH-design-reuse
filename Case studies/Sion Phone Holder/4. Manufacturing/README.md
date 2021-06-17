@@ -19,19 +19,4 @@
    * N/A
  
  #### Bill of material
-
- Parts list:
-  * Clamp unit
-  * Soft sticky padding for clamp unit
-  * Joint unit
-  * Bolts and nuts – 2x - https://allegro.pl/oferta/zestaw-trzech-aluminiowych-srub-do-go-pro-sjcam-9481080079﻿
-  * Magnet housing:
-     * Rear cover
-     * Front cover
-     * Spacing plate
-     * Rubberized pad
-
-  * Manget - https://allegro.pl/oferta/magnes-neodymowy-walcowy-30mm-x-2mm-n38-9940795830﻿
-  * Glue for plastic parts
-  * Metal plate
-  * Adhesive tape
+   * N/A
