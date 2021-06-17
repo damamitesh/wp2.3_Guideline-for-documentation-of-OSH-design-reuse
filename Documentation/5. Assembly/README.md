@@ -17,7 +17,7 @@
 What does include the content of assembly instruction? 
 
 1. Assembly sequence
- - The set of steps necessary to properly assemblme the product, including troubleshoouting and potential mistakes
+ - The set of steps necessary to properly assemblme the product
  
 2. Part list consist of:
   - part name
