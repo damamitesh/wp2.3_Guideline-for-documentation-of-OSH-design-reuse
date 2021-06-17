@@ -7,7 +7,9 @@
 *Assembly instruction can guide the makers to follow the process of assembly or disassembly of components of a product.*
 
 ### **Assembly instruction** 
-
+<details>
+  <summary>Click to see the guideline!</summary>
+ 
  - **Definition:** *Assembly instruction could illustrate visually and with words and text how to assemble or disassemble the mechanical and electrical components of the product.*
 
 
@@ -40,7 +42,11 @@ How to visualize of the assembly or disasembly process?
  1. Images 
  2. Videos 
 ```  
+</details>
 
+<details>
+  <summary>Click to see the example!</summary>
+ 
 *Some examples of open-source projects that include assembly instructions.*
 
 #### *Example 1:* [Poppy Robot](https://docs.poppy-project.org/en/assembly-guides/ergo-jr/mechanical-construction.html)
@@ -48,12 +54,9 @@ How to visualize of the assembly or disasembly process?
 #### *Example 2:* [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/mechanical/body_assembly)
 
 #### *Example 3:* [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Assembly) , [Assembly instructions](https://ohai.satnogs.org/project/satnogs-rotator-v3-mechanical-assembly/hardware/) 
+</details>
 
 ### Template
-<details>
-  <summary>Click to expand!</summary>
- 
- ### Documentation of assembly instruction
  
  #### 1. Assembly sequences (prefered Visualization via images and/or videos
  ...
@@ -71,4 +74,3 @@ How to visualize of the assembly or disasembly process?
  ...
  
  
-</details>
