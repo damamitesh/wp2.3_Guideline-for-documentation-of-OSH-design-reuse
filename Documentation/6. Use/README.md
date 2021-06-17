@@ -7,7 +7,9 @@
 *User guide can help the maker with description of the product (what) and use the of it (how).* 
 
 ### **User guide** 
-
+<details>
+  <summary>Click to see the guideline!</summary>
+ 
  - **Definition:** *The user guide consists of translating what’s not comprehensible to a plain language for everyone to understand and it helps non-technical people pinpoint and solve problems without expert assistance.*
 
   ```
@@ -47,7 +49,11 @@ How to visualize the process of user guide ?
 1. Images 
 2. Videos 
   ```
-  
+ </details>
+ 
+ <details>
+  <summary>Click to see the example!</summary>
+ 
  *Some examples of open-source projects that show the user guide.*
   
  #### *Example 1:* [PSLab oscilloscope](https://docs.pslab.io/tutorials/oscilloscope.html#tutorials-oscilloscope--page-root) 
@@ -59,13 +65,10 @@ How to visualize the process of user guide ?
  #### *Example 4:* [Poppy project ]( https://docs.poppy-project.org/en/)
  
  #### *Example 5:* [FarmBot Genesis V1.5 ]( https://genesis.farm.bot/v1.5/Extras/troubleshooting)
+</details>
 
 ### Template
-<details>
-  <summary>Click to expand!</summary>
- 
- ### Documentation of user guide
- 
+
   #### 1. Description of product
   1. ...
      
@@ -79,4 +82,4 @@ How to visualize the process of user guide ?
   5. Repair information
   6. ...
  
-</details>
+
