@@ -104,11 +104,11 @@ To reuse a design model, it should provide information consist of:
      * FreeCAD
      * ...
 
+ 
+### **3. Characteristics of the materials**
 <details>
   <summary>Click to see the guideline!</summary>
  
-### **3. Characteristics of the materials**
-
 - **Definition:** *The characteristics of the materials are those that identify the reactions of materials reactions to heat, electricity, light, force, etc.* 
 
   - *Selection of materials  based on factors including properties for [behavioral](https://github.com/OPEN-NEXT/wp2.3_template/tree/main/Documentation/3.%20Design/Behavioral%20model) analysis, environmental impact, [manufacturing](https://github.com/OPEN-NEXT/wp2.3_template/tree/main/Documentation/4.%20Manufacturing) processes in design reuse.* 
@@ -128,8 +128,7 @@ To reuse a design model, it should provide information consist of:
   </details>
   
   <details>
-  <summary>Click to see the examples
-   !</summary>
+  <summary>Click to see the examples!</summary>
   #### *Example of material characteristics*:
   
 *Figure below shows some physical properties of superalloy base elements.*
