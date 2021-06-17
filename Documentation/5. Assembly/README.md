@@ -58,7 +58,7 @@ How to visualize of the assembly or disasembly process?
 
 ### Template
  
- #### 1. Assembly sequences (prefered Visualization via images and/or videos
+ #### 1. Assembly sequences (prefered Visualization via images and/or videos)
  ...
  
  #### 2. Parts list  
