@@ -59,7 +59,7 @@
 
 ### Template
  
-  #### 1. Architectural structure documentation
+  #### Architectural structure documentation
   1. A model specifying of components
  
   ![Image of template for architectural structure ](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Architectural%20structure%20for%20template.jpg)
@@ -107,7 +107,7 @@ To reuse a electrical design, it should provide information consist of:
 
 ### Template
  
- #### 2. Documentation a design in an editable file format
+ #### Documentation a design in an editable file format
   1. 3D/2D file format
      * Source formats
      * Neutral formats
