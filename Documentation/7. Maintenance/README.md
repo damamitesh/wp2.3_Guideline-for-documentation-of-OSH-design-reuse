@@ -7,7 +7,9 @@
 *Maintenance instructions provide the necessary information to maintain the system effectively and perform the required operations so that the system work properly in the long run. This include advise on the frequence of the maintenace and the risks of failure.*
 
  ### **Maintenance instructions** 
-
+<details>
+  <summary>Click to see the guideline!</summary>
+ 
   - **Definition:** *A maintenance instruction is a technical communication document intended to give recommendations and necessary information to maintain the system effectively.*
 
   ```
@@ -29,16 +31,15 @@ How to visualize the process of maintenance ?
  2. Videos 
 
 ```
-*Example of maintenance instructions*
+</details>
+
+<details>
+  <summary>Click to see the example!</summary>
 
 #### *Example 1:* [FarmBot Genesis V1.5](https://genesis.farm.bot/v1.5/Extras/maintenance)
-
+</details>
 
 ### Template
-<details>
-  <summary>Click to expand!</summary>
- 
- ### Documentation of maintenance instructions
  
  #### 1. How too indentify the defective components 
  ...
@@ -47,4 +48,3 @@ How to visualize the process of maintenance ?
  #### 3. Maintenance tools
  ...
  
-</details>
