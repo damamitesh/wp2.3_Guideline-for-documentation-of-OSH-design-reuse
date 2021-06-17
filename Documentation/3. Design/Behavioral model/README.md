@@ -62,7 +62,6 @@
   <details>
   <summary>Click to see the examples!</summary>
    
-   #### *Example of simulation models:* 
    
  **Example 1: [FinEtools: Finite Element tools](https://github.com/PetrKryslUCSD/FinEtools.jl)**
  
