@@ -2,7 +2,8 @@
 
 *Smart charging indicator for your home. The device can display the charging status of your electric car, wherever you need it. It can even remind you to plug in.
 The integrated plant fully offsets the CO2 needed to power the device.*
-A small introduction video (https://youtu.be/Zy9Xdhd5iKo)
+
+[A small introduction video](https://youtu.be/Zy9Xdhd5iKo)
 
 ## Motivations
 
