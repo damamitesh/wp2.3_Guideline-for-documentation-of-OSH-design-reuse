@@ -1,18 +1,21 @@
 # Introduction
 
-*SPH is tailor made phone holder for SONO Sion. Device will keep your phone conveniently positioned in the middle of your dashboard.*
+*Smart charging indicator for your home. The device can display the charging status of your electric car, wherever you need it. It can even remind you to plug in.
+The integrated plant fully offsets the CO2 needed to power the device.*
+A small introduction video (https://youtu.be/Zy9Xdhd5iKo)
 
 ## Motivations
 
 ```
-Sion Phone Holder (SPH) is tailor made phone holder for Sono Sion. Device will keep your phone conveniently positioned in the middle of your dashboard.Thanks to two axis adjustment, everyone can find a comfortable viewing angle. Magnetic head unit together with your mobile’s metal plate gives you freedom to set the position – horizontal or vertical and allows you to attach or detach your device with ease. 
+The idea was to build a device for your home (kitchen shelf, living room) that can display the status of your electric car. So you don't have to grab your phone and check an app. Sometimes people forget to plug in, or a charging error occurs and the car is not sufficiently charged the next morning. This does not need to happen. The PowerPlanter can show the status all the time. 
 ```
 
 ## Goals
 
 
 ```
-We have created SPH not only from our personal needs but also were listening customers wishes. Nowadays, 99% of automakers designs interior of their products, forgetting about mobile devices. If you are lucky and have a car with dedicated mobile’s place, it’s either for iPhone only or your device is too big to fit nicely. Not mentioning about the position – usually it’s somewhere in the bottom, not within eyes reach. We think it’s not right. We want to change that!
+The PowerPlanter is an innovative device created as part of the "Sion Parts for future" challenge. It can show you the state of charge of your Sion electric car (white: fully charged), any charging errors (red light), if its charging with grid energy (blue) or just with the integrated solar cells (yellow). It can even show if you Sion is providing energy via bidirectional charging (green). 
+The plant in the PowerPlanter will offset the CO2 emissions of the standby power requirements of the device to make it carbon neutral.
 ```
 
 ## History
