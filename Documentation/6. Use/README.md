@@ -38,11 +38,10 @@ What should include the documentation of user guide?
        - Software
        - Firmware
        - App
-3. Troubleshooting section and instructions on how to solve problems 
-4. Repair information
-5. Information on disposal of the product and packaging
-6. Explains how to update your firmware to the latest version
-7. Reporting problems and issues on the forums and chat
+3. Explains how to update your firmware to the latest version
+4. Troubleshooting section and instructions on how to solve problems 
+5. Repair information
+6. Reporting problems and issues on the forums and chat
 
 How to visualize the process of user guide ?
 
@@ -79,8 +78,7 @@ How to visualize the process of user guide ?
       * Installation instructions
       * Setup instruction
  
-#### 3. Troubleshooting
-#### 4. Repair information
-#### 5. Information on disposal
-#### 6. Update of firmware
-#### 7. Reporting problems
+#### 3. Update of firmware
+#### 4. Troubleshooting
+#### 5. Repair information
+#### 6. Reporting problems
