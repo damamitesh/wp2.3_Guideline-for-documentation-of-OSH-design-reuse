@@ -67,5 +67,5 @@ N/A
 ## Sponsors and Partners
 
 ```
-N/A
+This project was developed as a part of the Sion Parts for Future Open Call which has received funding from the European Union’s Horizon 2020 research and innovation program under grant agreement no. 869984.
 ```
