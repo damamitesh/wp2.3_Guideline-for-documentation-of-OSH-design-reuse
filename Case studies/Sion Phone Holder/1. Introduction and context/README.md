@@ -44,7 +44,7 @@ N/A
 
 
 ```
-- Last modifiction (date, time (N/A), objet of modification(N/A), who (N/A),...) 
+- Last modifiction (10 May 2021, time (N/A), objet of modification(N/A), who (N/A),...) 
 ```
 
 ## Project team
