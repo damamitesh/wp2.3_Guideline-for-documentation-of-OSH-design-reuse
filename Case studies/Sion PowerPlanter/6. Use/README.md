@@ -17,7 +17,8 @@ N/A
 https://github.com/munichseb/powerplant and open it in the Arduino IDE.
 
   Connect the ESP32 to your computer, and select the correct device in the "Tools" section. It should look like this:
-  https://wikifactory.com/files/RmlsZTo1NzE4NDc=
+  
+ [Selection of the correct device in the "Tools" section](https://wikifactory.com/files/RmlsZTo1NzE4NDc=)
 
 
     
