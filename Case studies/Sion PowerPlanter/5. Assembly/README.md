@@ -38,8 +38,9 @@ Next, solder the wires to the ESP32 D1 Mini:
    * a leftover charger (micro USB) to power the ESP32, 500mA or more (1A is best)
   
 #### 4. Joining technology 
-
-N/A
+  - Screwing
+  - Bolting
+  - Etc.
 
 
 ## Assembly of the device
