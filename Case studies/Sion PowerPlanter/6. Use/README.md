@@ -20,6 +20,9 @@ https://github.com/munichseb/powerplant and open it in the Arduino IDE.
   
  [Selection of the correct device in the "Tools" section](https://wikifactory.com/files/RmlsZTo1NzE4NDc=)
  
+ ![image](https://user-images.githubusercontent.com/59058909/122737358-3fec5880-d281-11eb-81fd-1ac220b75c09.png)
+
+ 
  If the "Wemos D1" is not avilable, go to "Board administation" in the same menu, and install the ESP32 set. Make sure the "Port" selection is pointing to the device (there is one selection in the list that looks weird, this is the one).
 
 Now comes a very important step: click on "Tools" / "Serial Monitor" and open the serial monitor. It will open a second window. Leave it like it is.
@@ -38,7 +41,12 @@ The 10 digit code it your unique device ID. Write it down. Copy it and send it t
 
 If you connect to it, it will present you a configuration interface:
 
-[Selection of the correct device in the "Tools" section](https://wikifactory-prod-uploads.oss-accelerate.aliyuncs.com/128858/bildschirmfoto-2021-04-02-um-230947.png?response-content-type=image%2Fpng&response-content-disposition=attachment%3B%20filename%3D%22Bildschirmfoto%202021-04-02%20um%2023.09.47.png%22&AWSAccessKeyId=LTAI4GK1mTcvu7wXYTXXtiy6&Signature=cjnjcDyWlOM6MZFxxxssfEdskqI%3D&Expires=1624014055)
+![image](https://user-images.githubusercontent.com/59058909/122736953-d8cea400-d280-11eb-9bfe-d77c418d32dd.png)
+
+Select "Configure Wifi (Auto Scan)" to get a list of all available WiFi-Networks the device can see.
+
+![image](https://user-images.githubusercontent.com/59058909/122737180-129faa80-d281-11eb-92ee-429594199952.png)
+
 #### 3. Update of firmware
 #### 4. Troubleshooting
 #### 5. Repair information
