@@ -56,19 +56,19 @@ Pick your WiFi, enter your credentials. The device should now get online immedia
 
 #### 3. Update of firmware
 
-N/A
+* ...
 
 #### 4. Troubleshooting
 
-N/A
+* ...
 
 #### 5. Repair information
 
-N/A
+* ...
 
 #### 6. Reporting problems
 
-N/A
+* ...
 
 
 ## User guide of the PowerPlanter Portal
@@ -111,16 +111,16 @@ The portal will now exchange the Device ID and Sion Data, and the device will st
 
 #### 3. Update of firmware
 
-N/A
+* ...
 
 #### 4. Troubleshooting
 
-N/A
+* ...
 
 #### 5. Repair information
 
-N/A
+* ...
 
 #### 6. Reporting problems
 
-N/A
+* ...
