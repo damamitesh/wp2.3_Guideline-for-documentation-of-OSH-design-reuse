@@ -74,6 +74,8 @@ Finally, grab the dariol metal form, and place it in the powerplanter. Done.
    * duct tape
   
 #### 4. Joining technology 
+  - Screwing
+  - Bolting
+  - Etc.
 
-N/A
 
