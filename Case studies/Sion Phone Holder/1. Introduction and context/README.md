@@ -45,20 +45,30 @@ It gave us idea about the size and most comfortable position in the car. So we p
 ## Documentation structure
 
 ```
-N/A
+For example:
+- Introduction
+- Specification
+- Design 
+- Manufacturing
+- Assembly
+- Use
+- Maintenance
+- Disposal
 ```
 
 ## Required skills
 
 
 ```
-N/A  
+Required skills consist...  
 ```
 
 ## Contribution Process
 
 ```
-N/A
+
+  - ...
+  -...
 ```
 
 ## Last updates 
@@ -72,8 +82,13 @@ N/A
 
 
 ```
-- Michal Kuźniar
-- Aleksander Henkel
+- Michal Kuźniar {E-mail}
+  - domain of expertise and role in the project
+  - link to personal web page
+  
+- Aleksander Henkel {E-mail}
+  - domain of expertise and role in the project
+  - link to personal web page
 
 ```
 
