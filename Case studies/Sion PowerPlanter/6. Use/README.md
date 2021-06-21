@@ -30,12 +30,15 @@ Now head to the serial monitor window. You should see a line like this:
 
 Device ID: SINSLRCR
 
-
 The 10 digit code it your unique device ID. Write it down. Copy it and send it to you via E-Mail. This is an important key to your device.
-
-
     
- 
+   * Setup instruction: 
+    
+ When the device is shining in magenta, it means that everything is fine, but it cannot connect to the internet. To get it online, use your smartphone or your tablet (Android, iOS, all fine) and look for a new wifi network you have not seen before. The new network is from your powerplanter device.
+
+If you connect to it, it will present you a configuration interface:
+
+[Selection of the correct device in the "Tools" section](https://wikifactory-prod-uploads.oss-accelerate.aliyuncs.com/128858/bildschirmfoto-2021-04-02-um-230947.png?response-content-type=image%2Fpng&response-content-disposition=attachment%3B%20filename%3D%22Bildschirmfoto%202021-04-02%20um%2023.09.47.png%22&AWSAccessKeyId=LTAI4GK1mTcvu7wXYTXXtiy6&Signature=cjnjcDyWlOM6MZFxxxssfEdskqI%3D&Expires=1624014055)
 #### 3. Update of firmware
 #### 4. Troubleshooting
 #### 5. Repair information
