@@ -1,6 +1,9 @@
  #### 1. Assembly sequences 
  
  [Explode view with parts description](https://wikifactory.com/+mkpro/sion-phone-holder)
+ 
+ ![image](https://user-images.githubusercontent.com/59058909/122747119-f6087000-d28a-11eb-8454-5cf746d54246.png)
+
 
  #### 2. Parts list 
  
