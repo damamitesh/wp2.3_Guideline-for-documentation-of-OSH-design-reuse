@@ -64,5 +64,16 @@ Finally, grab the dariol metal form, and place it in the powerplanter. Done.
 
 ![image](https://user-images.githubusercontent.com/59058909/122740287-1c76dd00-d284-11eb-886e-3855998ad42c.png)
 
+ #### 2. Parts list 
+ 
+  *  USB cable
+  *  ESP32 / Neopixel combo
 
+ #### 3. Assembly tools 
+   * glue gun
+   * duct tape
+  
+#### 4. Joining technology 
+
+N/A
 
