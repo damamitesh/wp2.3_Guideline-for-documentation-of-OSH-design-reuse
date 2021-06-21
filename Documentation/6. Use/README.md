@@ -1,19 +1,19 @@
 # **Use**
 
-*I would like to provide important information on 'how to use a product' to end-users.*
+*I would like to provide important information on 'how to use a product to end-users.*
 
 ## **How to document the user guide?**
 
-*User guide can help the maker with description of the product (what) and use the of it (how).* 
+*The user guide can help the maker with the description of the product (what) and use the of it (how).* 
 
 ### **User guide** 
 <details>
   <summary>Click to see the guideline!</summary>
  
- - **Definition:** *The user guide consists of translating what’s not comprehensible to a plain language for everyone to understand and it helps non-technical people pinpoint and solve problems without expert assistance.*
+ - **Definition:** *The user guide consists of translating what’s not comprehensible to a plain language for everyone to understand and, it helps non-technical people pinpoint and solve problems without expert assistance.*
 
   ```
-What should include the documentation of user guide?
+What should include the documentation of the user guide?
 
 1. Description of the final product including
    - Product name
@@ -21,7 +21,7 @@ What should include the documentation of user guide?
    - Item name
    - Item description
    - Teach the essentials and technical specifications 
-   - Visualization the final product by images and/or videos
+   - Visualization of the final product by images and/or videos
 
 2. Use of the product consist of
    - Materials required
