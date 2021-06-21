@@ -1,12 +1,17 @@
 #### Manufacturing technology
   1. Machine tool
-     * N/A
+     * ...
   2. Manufacturing process
      * 3D printing: The case can be printed by any 3D printer. You need about 75g of filament, less than 2 € of material. Printing time is 2-4 hours depending on quality. I desiged the case with very few details, so it can be printed in a low quality setting and still looks good.
   3. Machining parameters
-     * N/A
+     - Cutting speed
+     - Feed rate (mm/sec)
+     - Cutting force
+     - Depth of cut
+     - Etc.
   4. Vizualization via images and videos
-     * N/A
+      1. Images 
+      2. Videos
    
  #### Identifying the geometry by standard file formats
   1. [3D CAD files](https://wikifactory.com/@boettger/powerplanter/files/3D%20printer%20cad%20files) in an interchange format for 3D priniting
@@ -14,7 +19,7 @@
  #### Material selection
    * Name of material
        * white filament 
-   * Characteristic: N/A
+   * Characteristic: ...
   
  #### Post-processing
  
@@ -30,4 +35,11 @@ I use the hole in the bottom to hold the form in place while painting or sprayin
 
  
  #### Bill of material
-   * N/A
+  1. Part number:...
+  2. Item name:...
+  3. Description:...
+  4. Quantity:...
+  5. Unit of measure:...
+  6. Procurement type:...
+  7. Cost:...
+  8. BOM notes:...
