@@ -53,6 +53,17 @@ Pick your WiFi, enter your credentials. The device should now get online immedia
 
 
 #### 3. Update of firmware
+
+N/A
+
 #### 4. Troubleshooting
+
+N/A
+
 #### 5. Repair information
+
+N/A
+
 #### 6. Reporting problems
+
+N/A
