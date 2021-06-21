@@ -40,7 +40,7 @@ It all brought us to first rough 3D concept.
 
 ![image](https://user-images.githubusercontent.com/59058909/122758262-e09a4280-d298-11eb-8c18-deffc407ef3c.png)
 
-It gave us idea about the size and most comfortable position in the car. So we put into this a bit of engineering process and end up with a phone holder which have not only one but limitless position across Sion’s IP decorative bar. Thanks to that, it’s possible to put additional holder for your passenger or in the future, install some other appliances. [->](
+It gave us idea about the size and most comfortable position in the car. So we put into this a bit of engineering process and end up with a phone holder which have not only one but limitless position across Sion’s IP decorative bar. Thanks to that, it’s possible to put additional holder for your passenger or in the future, install some other appliances. [->](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Case%20studies/Sion%20Phone%20Holder/3.%20Design/Structural%20model)
 
 ## Documentation structure
 
