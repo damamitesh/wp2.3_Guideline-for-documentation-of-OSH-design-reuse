@@ -20,8 +20,15 @@ We have created SPH not only from our personal needs but also were listening cus
 ## History
 
 ```
-N/A 
+There is quite a story behind our product. It all started with simple idea.
 ```
+
+When it was initially accepted, we started with some ideas.
+Universal gopro mount implemented in phone holder.
+
+
+
+Magnet and metal plate solution together with phone cover.
 
 ## Documentation structure
 
