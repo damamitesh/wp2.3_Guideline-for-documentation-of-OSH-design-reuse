@@ -25,26 +25,38 @@ The plant in the PowerPlanter will offset the CO2 emissions of the standby power
 ## History
 
 ```
-N/A 
+- Initiators of the original project
+- URL of the original project
+- URL of other related projects 
 ```
 
 ## Documentation structure
 
 ```
-N/A
+As for example:
+- Introduction
+- Specification
+- Design 
+- Manufacturing
+- Assembly
+- Use
+- Maintenance
+- Disposal
+- etc.
 ```
 
 ## Required skills
 
 
 ```
-N/A  
+Required skills consist...   
 ```
 
 ## Contribution Process
 
 ```
-N/A
+ - ...
+ -...
 ```
 
 ## Last updates 
@@ -58,7 +70,9 @@ N/A
 
 
 ```
-- Sebastian Boettger
+- Sebastian Boettger {E-mail}
+  - domain of expertise and role in the project
+  - link to personal web page
 ```
 
 ## License
