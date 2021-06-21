@@ -1,4 +1,6 @@
- #### 1. Description of product
+## User guide of EPS32
+
+#### 1. Description of product
  
   * Name of product: EPS32
      
@@ -51,6 +53,61 @@ Pick your WiFi, enter your credentials. The device should now get online immedia
 
 ![image](https://user-images.githubusercontent.com/59058909/122737991-dfa9e680-d281-11eb-9938-0c07a54a3a42.png)
 
+
+#### 3. Update of firmware
+
+N/A
+
+#### 4. Troubleshooting
+
+N/A
+
+#### 5. Repair information
+
+N/A
+
+#### 6. Reporting problems
+
+N/A
+
+
+## User guide of the PowerPlanter Portal
+
+#### 1. Description of product
+ 
+  * Name of product: PowerPlanter Porta
+     
+ #### 2. Use of product
+ 
+  * Materials required
+      * device
+   
+  * Procedure
+  
+     * Setup instruction: 
+    
+ You don't need a Sion to use the device: it can also display some other status information. By default, it will show the amount of renewable energy in the german energy grid.
+
+https://www.sono.community/powerplanter/
+
+You need the Device ID from step #3 to log in. After loggin in, you will see some device data, such as the internal temperature sensor. Pro Tip: Write the code on a piece of paper and stick it into the powerplanter. So you have it at hand when you need it.
+
+![image](https://user-images.githubusercontent.com/59058909/122741587-614f4380-d285-11eb-9926-87c7fb7ff181.png)
+
+The most fun feature is to send color patterns to the device. It should work instantly.
+
+![image](https://user-images.githubusercontent.com/59058909/122741632-6c09d880-d285-11eb-8fc4-7c338a8ac326.png)
+
+There are some more functions. At the bottom, you will find a custom QR-Code. You can print it and place it somewhere (inside some kitchen door?).  You can scan it with your smartphone camera, and it will open the portal without logging in.
+
+To link the device to your Sion, you need to perform two steps:
+
+1) Log into the Sono Motors Customer Portal. There you will find an API key. Copy it to your clipboard.
+2) In the powerplanter portral, select "Sion Live Data" and enter the token.
+
+![image](https://user-images.githubusercontent.com/59058909/122741690-7d52e500-d285-11eb-886a-1186d3ebebf1.png)
+
+The portal will now exchange the Device ID and Sion Data, and the device will start to show your Sion live data!
 
 #### 3. Update of firmware
 
