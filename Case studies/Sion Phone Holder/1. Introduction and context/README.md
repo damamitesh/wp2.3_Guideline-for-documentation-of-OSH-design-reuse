@@ -2,6 +2,8 @@
 
 *SPH is tailor made phone holder for SONO Sion. Device will keep your phone conveniently positioned in the middle of your dashboard.*
 
+[Short video of introduction of Sion Phone Holder](https://youtu.be/FvjbazPFRPQ)
+
 ## Motivations
 
 ```
