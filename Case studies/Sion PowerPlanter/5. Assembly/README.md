@@ -10,9 +10,9 @@
   * 3 short wires to connect the ESP32 to the jewel (5V, about 5 cm each)
   * a leftover charger (micro USB) to power the ESP32, 500mA or more (1A is best)
 
- #### 4. Assembly tools 
+ #### 3. Assembly tools 
    * glue gun
    * a leftover charger (micro USB) to power the ESP32, 500mA or more (1A is best)
   
-#### 5. Joining technology 
+#### 4. Joining technology 
 
