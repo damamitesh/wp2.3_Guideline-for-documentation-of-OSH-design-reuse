@@ -108,11 +108,11 @@ To reuse a electrical design, it should provide information consist of:
 ### Template
  
  #### Documentation a design in an editable file format
-  1. 3D/2D file format
+  1. Editable file formats
      * Source formats
      * Neutral formats
   2. Name of Software
-     * FreeCAD
+     * Tiny CAD
      * ...
  
 
