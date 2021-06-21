@@ -1,6 +1,6 @@
  #### 1. Description of product
  
-N/A
+  * Name of product: EPS32
      
  #### 2. Use of product
  
