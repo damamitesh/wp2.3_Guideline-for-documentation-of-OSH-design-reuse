@@ -23,7 +23,8 @@
   * Adhesive tape
 
  #### 4. Assembly tools 
-   * N/A
+   * ...
+   * ...
   
 #### 5. Joining technology 
 
