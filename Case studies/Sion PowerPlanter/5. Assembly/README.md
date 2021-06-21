@@ -8,6 +8,14 @@ The neopixel has five connectors, you just need 5V, GND and "Data In":
 
 [Image of five connectors](https://wikifactory.com/files/RmlsZTo1NzE3NTk=)
 
+Next, solder the wires to the ESP32 D1 Mini:
+
+   * GND (Neopixel) to GND (ESP32)
+   * 5V (Neopixel) to VCC (ESP32)
+   * Data In (Neopixel) to IO33 (ESP32)
+
+[Image of ESP32 connection](https://wikifactory.com/files/RmlsZTo1NzE3NjI=)
+
  #### 2. Parts list 
  
   * ESP32 D1 Mini (6-9 €) : https://www.amazon.de/dp/B08BTRQNB3
