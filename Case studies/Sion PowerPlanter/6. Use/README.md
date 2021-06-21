@@ -1,20 +1,26 @@
  #### 1. Description of product
-   * Product name
-   * Part number
-   * Item name
-   - Item description
-   - Teach the essentials and technical specifications 
-   - Visualization the final product by images and/or videos
+ 
+N/A
      
  #### 2. Use of product
+ 
   * Materials required
-      * App
-     - Software
-     - Device 
-     - Firmware
+      * Software
+   
   * Procedure
-      * Installation instructions
-      * Setup instruction
+  
+     * Install the software:
+      
+  To install the software on the EPS32 you can use the free "Arduino IDE". If you don't have it, you can get it here for free: https://www.arduino.cc  /en/software
+
+  Load the code (powerplant.ino, version number may vary, higher is better) from GitHub:
+https://github.com/munichseb/powerplant and open it in the Arduino IDE.
+
+  Connect the ESP32 to your computer, and select the correct device in the "Tools" section. It should look like this:
+  https://wikifactory.com/files/RmlsZTo1NzE4NDc=
+
+
+    
  
 #### 3. Update of firmware
 #### 4. Troubleshooting
