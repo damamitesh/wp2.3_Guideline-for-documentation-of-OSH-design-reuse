@@ -31,3 +31,4 @@ Next, solder the wires to the ESP32 D1 Mini:
   
 #### 4. Joining technology 
 
+N/A
