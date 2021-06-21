@@ -10,7 +10,10 @@ The integrated plant fully offsets the CO2 needed to power the device.*
 ```
 The idea was to build a device for your home (kitchen shelf, living room) that can display the status of your electric car. So you don't have to grab your phone and check an app. Sometimes people forget to plug in, or a charging error occurs and the car is not sufficiently charged the next morning. This does not need to happen. The PowerPlanter can show the status all the time. 
 ```
-https://youtu.be/wfqEGrlyG4M 
+If you still need some motivation to build it, here is a small promo video of the device in action to give you an idea what it can do:
+
+[A small promo video of the device](https://youtu.be/wfqEGrlyG4M)
+
 ## Goals
 
 
