@@ -47,6 +47,11 @@ Select "Configure Wifi (Auto Scan)" to get a list of all available WiFi-Networks
 
 ![image](https://user-images.githubusercontent.com/59058909/122737180-129faa80-d281-11eb-92ee-429594199952.png)
 
+Pick your WiFi, enter your credentials. The device should now get online immediately. As soon as it online, the color will change from magenta to white. You are all set!
+
+![image](https://user-images.githubusercontent.com/59058909/122737991-dfa9e680-d281-11eb-9938-0c07a54a3a42.png)
+
+
 #### 3. Update of firmware
 #### 4. Troubleshooting
 #### 5. Repair information
