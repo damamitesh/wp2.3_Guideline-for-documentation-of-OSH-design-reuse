@@ -1,5 +1,6 @@
  #### 1. Assembly sequences 
- 
+ solder the neopixel to the ESP32. You just need to connect three wires to the pins GND, 5V and data input. Here is a small video to show you what needs to be done in this step:
+Combine the electronics https://www.youtube.com/watch?v=zs6iYs3ViG4
 
  #### 2. Parts list 
  
