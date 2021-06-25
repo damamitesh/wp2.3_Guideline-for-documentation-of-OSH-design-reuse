@@ -16,13 +16,23 @@
 What does include the documentation of maintenance instructions? 
 
 1. Introduction of general maintenance of the system
-2. How to identify the defective components?
-   - Outline the main troubleshooting of the system components 
-   - Identify how to detect a defective component
-2. Repairing the defective components
-    - Step-by-step procedures describing the maintenance sequence (preferred video or photo sequence)
+    - Cleaning
+    - Lubricating
+    - Regular inspections or service. These can be carried out on a time-based schedule or on a usage-based schedule.
+    - Regular adjusting machinery if it's necessary
+    - Environmental management
+       - Protection against the hot or cold weather conditions
+       - Cheking the tempreture
+       - Determining the acceptable temperature range
+       - ...
+2. Identify the defective components
+    - Outline the main troubleshooting of the system components 
+    - Identify how to detect a defective component
+3. Repairing the defective components
+    - Step-by-step procedures describing the repairing sequence 
     - Reference to the manufacturing section where one can find the manufacturing instructions to rebuild the defective parts
-3. Maintenance tools.
+4. Replacing equipment parts or components on a schedule
+5. Maintenance tools.
     - Various tools necessary to perform the maintenance operation
 
 
@@ -43,11 +53,13 @@ How to visualize the process of maintenance?
 ### Template
  
  #### 1. General maintenance of the system
-  ...
+ ...
  #### 2. How to identify the defective components? 
  ...
  #### 3. Repairing/replacing the defective components
  ...
- #### 4. Maintenance tools
+ #### 4.Replacing equipment parts or components on a schedule
+ ...
+ #### 5. Maintenance tools
  ...
  
