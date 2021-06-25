@@ -18,7 +18,7 @@ What does include the documentation of maintenance instructions?
 1. How to identify the defective components?
    - Outline the main troubleshooting of the system components 
    - Identify how to detect a defective component
-2. Repairing/replacing the defective components
+2. Repairing the defective components
     - Step-by-step procedures describing the maintenance sequence (preferred video or photo sequence)
     - Reference to the manufacturing section where one can find the manufacturing instructions to rebuild the defective parts
 3. Maintenance tools.
