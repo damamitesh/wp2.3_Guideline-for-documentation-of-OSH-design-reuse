@@ -26,7 +26,7 @@ What does include the documentation of maintenance instructions?
     - Environmental management
        - Protection against the hot or cold weather conditions
        - Determining the acceptable temperature range
-2. Identify the defective components
+2. Identifying the defective components
     - The equipment performance monitoring  
     - Outline the main troubleshooting of the system components 
     - How to detect a defective component
@@ -59,9 +59,9 @@ How to visualize the process of maintenance?
  
  #### 1. General maintenance of the system
  ...
- #### 2. How to identify the defective components? 
+ #### 2. Identifying the defective components 
  ...
- #### 3. Repairing/replacing the defective components
+ #### 3. Repairing the defective components
  ...
  #### 4.Replacing equipment parts or components on a schedule
  ...
