@@ -19,12 +19,15 @@ What does include the documentation of maintenance instructions?
     - Cleaning
     - Lubricating
     - Regular inspections or service. These can be carried out on a time-based schedule or on a usage-based schedule.
+       - Maintenance according tr predetermined intervals 
+       - Maintenance according to prescribed criteria
     - Regular adjusting machinery if it's necessary
     - Environmental management
        - Protection against the hot or cold weather conditions
-       - Cheking the tempreture
        - Determining the acceptable temperature range
-       - ...
+       - 
+       - 
+       - 
 2. Identify the defective components
     - Outline the main troubleshooting of the system components 
     - Identify how to detect a defective component
