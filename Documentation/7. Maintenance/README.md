@@ -29,10 +29,13 @@ What does include the documentation of maintenance instructions?
 2. Identify the defective components
     - The equipment performance monitoring  
     - Outline the main troubleshooting of the system components 
-    - Identify how to detect a defective component
+    - How to detect a defective component
+    - Fault elimination
+    - Verification of fault elimination
 3. Repairing the defective components
     - Step-by-step procedures describing the repairing sequence 
-    - Reference to the manufacturing section where one can find the manufacturing instructions to rebuild the defective parts
+    - Refere to the manufacturing section where one can find the manufacturing instructions to rebuild the defective parts
+    - Verifiction of repair
 4. Replacing equipment parts or components on a schedule
 5. Maintenance tools.
     - Various tools necessary to perform the maintenance operation
