@@ -18,9 +18,10 @@ What does include the documentation of maintenance instructions?
 1. Introduction of general maintenance of the system
     - Cleaning
     - Lubricating
-    - Regular inspections or service. These can be carried out on a time-based schedule or on a usage-based schedule.
+    - Regular inspections or services. These can be carried out on a time-based schedule or on a usage-based schedule.
        - Maintenance according to predetermined intervals 
        - Maintenance according to prescribed criteria
+       - Maintenance  by integrating analysis, measurement and periodic test activities 
     - Regular adjusting machinery if it's necessary
     - Environmental management
        - Protection against the hot or cold weather conditions
