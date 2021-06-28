@@ -18,7 +18,7 @@
 ```
 What does comprise the documentation of disposal instructions?
 
- 1. Identifying the disposable components/ products that are designed for single-use, which means they get discarded ("disposed of") immediately after use. 
+ 1. Identifying the disposable components/ products that are designed for single-use, which means they get discarded immediately after use. 
  2. Identifying the material of disposable component/ product. Disposable products are most often made from
     - Polystyrene 
     - Plastic
