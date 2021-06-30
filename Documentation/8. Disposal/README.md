@@ -25,7 +25,7 @@ What does comprise the documentation of disposal instructions?
     - Cotton
     - etc.
 3. Considering the environmental impacts including
-   - Recyclable
+   - Recyclable: a process of turning waste into another form of new and reusable materialsa process of turning waste into another form of new and reusable materials
    - Non-recyclable
    - Conditionally recyclable: this tells you if any additional steps are required before recycling  the component or product.
    - Negative consequences of the disposable products on the environment if sustainability isn't factored into disposal options.
