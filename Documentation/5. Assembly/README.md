@@ -19,9 +19,10 @@ What does include the content of assembly instruction?
 1. Assembly sequence
  - The set of steps necessary to properly assemblme the product
  
-2. Part list consist of:
-  - part name
-  - Reference
+2. Part list is a complete list of all parts needed to build the complete product and consist of:
+  - Item numbers are based on the assembly structure, that is, the order in which parts are displayed in assembly.
+  - Part number or drawing number which is a reference back to the detail drawing (Refer to the BOM) 
+  - Part name 
   - Quantity 
   - Image of each part
   - Refer to the BOM in section 4 (Manufacturing) 
