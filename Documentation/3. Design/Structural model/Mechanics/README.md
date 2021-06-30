@@ -111,7 +111,7 @@ To reuse a design model, it should provide information consist of:
  
 - **Definition:** *The characteristics of the materials are those that identify the reactions of materials reactions to heat, electricity, light, force, etc.* 
 
-  - *Selection of materials  based on factors including properties for [behavioral](https://github.com/OPEN-NEXT/wp2.3_template/tree/main/Documentation/3.%20Design/Behavioral%20model) analysis, environmental impact, [manufacturing](https://github.com/OPEN-NEXT/wp2.3_template/tree/main/Documentation/4.%20Manufacturing) processes in design reuse.* 
+  - *Selection of materials  based on factors including properties for [behavioral](https://github.com/OPEN-NEXT/wp2.3_template/tree/main/Documentation/3.%20Design/Behavioral%20model) analysis, [environmental impact](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Documentation/8.%20Disposal), [manufacturing](https://github.com/OPEN-NEXT/wp2.3_template/tree/main/Documentation/4.%20Manufacturing) processes in design reuse.* 
 
 ```
   The material characteristics of mechanical parts consist: 
