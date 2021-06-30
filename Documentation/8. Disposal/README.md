@@ -28,7 +28,7 @@ What does comprise the documentation of disposal instructions?
    - Recyclable: a process of turning waste into another form of new and reusable materialsa process of turning waste into another form of new and reusable materials
    - Non-recyclable
    - Conditionally recyclable: this tells you if any additional steps are required before recycling  the component or product.
-   - Negative consequences of the disposable products on the environment if sustainability isn't factored into disposal options.
+   - Describing the negative consequences of the disposable products on the environment if sustainability isn't factored into disposal options.
 4. End of life of the product for disposing or recycling
 5. Determining what material can be recycled many times 
 
