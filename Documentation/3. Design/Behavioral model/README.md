@@ -22,7 +22,7 @@
 
 ## **How to document a behavioral model?**
 
-*Documentation of a behavioral model depends on each project and there is different type of simulation for analysis of the behavior of a product.For example, finite element analysis( FEA) and computational fluid dynamics (CFD) are two types of mechanical simulation.* 
+*Documentation of a behavioral model depends on the  product and there is different type of simulation for analysis of the behavior of a product.For example, finite element analysis( FEA) and computational fluid dynamics (CFD) are two types of mechanical simulation.* 
 *FEA uses mathematical models to understand and quantify the effects of real-world conditions on a part or assembly. CFD is a branch of fluid mechanics that uses numerical analysis and data structures to analyze  the free-stream flow of the fluid, and the interaction of the fluid (liquids and gases) with surfaces defined by boundary conditions.*
 *Analysis of the behavior of a product depends on its components and its environment and there are different types of simulation to consider the behavior of the product. So, we can not identify all types of behavioral models in this section. But, we provide a general vision of the simulation models and their implementation.* 
 
@@ -30,7 +30,7 @@
 <details>
   <summary>Click to see the guideline!</summary>
    
-- **Definition:** *A simulation model enables the designers to test whether the design specifications are met by performing computer simulations rather than experiments on the physical prototype.It promises a more comprehensive exploration of design alternatives and a better-performing final design.*
+- **Definition:** *A simulation model enables the designers to test whether the design specifications are met by performing computer simulations rather than experiments on the physical prototype. It promises a more comprehensive exploration of design alternatives and a better-performing final design.*
 
 
  ```
@@ -41,6 +41,7 @@
     - physical simulation
     - Thermo-mechanical simulation
     - Electronical simulations
+    - Etc.
     
   - Model definition consist of 
     - Specification of geometrical model (refer to editable file format in structural model)
@@ -49,6 +50,7 @@
     - Boundary conditions can be imposed on individual solution variables such as displacements or rotations.
     - Kinematic constraints that are several of the fundamental solution variables in the model (Linear constraint equations) or multi-point constraints (General  multi-point constraints) can be defined. 
     - Interactions that are contact and other interactions between parts can be defined
+  - Modelling and results of simulations
     
 2. How to implement the simulation model?
 
@@ -78,7 +80,9 @@
   2. Model definition
      * ...
      * ...
-  3. Name of Software
+  3. Modelling and results of simulations
+     * ...
+  5. Name of Software
      * ...
  
 
