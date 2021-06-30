@@ -2,6 +2,9 @@
 
 *The introduction to the documentation aims to provide more details about the project goal, and context. This introduction should allow the reader to first understand the motivation of the project and also who is involved or has been involved in its creation. As this documentation structure aims at fostering the reuse of the technical contents of the project, it is important to understand well the context.*
 
+<details>
+  <summary>Click to see the guideline!</summary>
+  
 ## Motivations
 
 *This section addresses the question: Why are you starting this project?*
@@ -117,11 +120,11 @@ Who is sponsoring your project?
 - E-mail address:
 ```
 
-### Template
-<details>
-  <summary>Click to expand!</summary>
+  </details>
   
-  #### 1. Introduction
+### Template
+
+ 
   1. Motivation
      * ...
 
@@ -145,4 +148,4 @@ Who is sponsoring your project?
   
 10. Sponsors and partners
      * ... 
-</details>
+
