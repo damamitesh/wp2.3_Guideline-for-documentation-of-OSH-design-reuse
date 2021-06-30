@@ -18,19 +18,20 @@
 ```
 What does comprise the documentation of disposal instructions?
 
- 1. Identifying the disposable components/ products that are designed for single-use, which means they get discarded immediately after use. 
- 2. Identifying the material of disposable component/ product. Disposable products are most often made from
+ 1. Identifying the disposable components or products that are designed for single-use, which means they get discarded immediately after use. 
+ 2. Identifying the material of disposable component or product. Disposable products are most often made from
     - Polystyrene 
     - Plastic
     - Cotton
     - etc.
-3. Considering the environmental impacts including
+3. Distinguishing the disposal methods for each component or product including: 
    - Recyclable: a process of turning waste into another form of new and reusable materialsa process of turning waste into another form of new and reusable materials
    - Non-recyclable
    - Conditionally recyclable: this tells you if any additional steps are required before recycling  the component or product.
-   - Describing the negative consequences of the disposable products on the environment if sustainability isn't factored into disposal options.
-4. End of life of the product for disposing or recycling
-5. Determining what material can be recycled many times 
+4. Describing the environmental impacts
+   - The negative consequences of the disposable products on the environment if sustainability isn't factored into disposal options.
+5. End of life of the product for disposing or recycling
+6. Determining what material can be recycled many times 
 
 How to visualize the process of disposal?
   
@@ -45,9 +46,11 @@ How to visualize the process of disposal?
  ...
  #### 2. Identifying the material of the disposable  component 
  ...
- #### 3. Considering the environmental impacts
+ #### 3. Distinguishing the disposal methods
  ...
- #### 4. End of life of the product
+ #### 4. Considering the environmental impacts
  ...
- #### 5. Determining the material that can recycle several times
+ #### 5. End of life of the product
+ ...
+ #### 6. Determining the material that can recycle several times
  ...
