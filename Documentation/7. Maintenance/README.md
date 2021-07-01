@@ -40,7 +40,6 @@ What does include the documentation of maintenance instructions?
 6. Maintenance tools.
     - Various tools necessary to perform the maintenance operation
 
-
 How to visualize the process of maintenance?
  1. Images 
  2. Videos 
