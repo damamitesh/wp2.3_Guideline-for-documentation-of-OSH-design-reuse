@@ -49,7 +49,6 @@
      - Etc.
      
  How to visualize the manufacturing technology? 
- 
   1. Images 
   2. Videos  
  ```
