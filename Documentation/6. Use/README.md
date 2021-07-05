@@ -78,4 +78,4 @@ How to visualize the process of user guide ?
 #### 3. Update of firmware
 #### 4. Troubleshooting
 #### 5. Repair information
-#### 6. Reporting problems
+
