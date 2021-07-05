@@ -1,6 +1,6 @@
 # **Disposal**
 
-*I would like to enable makers to understand the process of discarding (getting rid of) something we no longer need or want.* 
+*I would like to enable makers to understand the process of discarding (getting rid of) something that we no longer need or want.* 
 
 ## **How to document a disposal process?**
 
