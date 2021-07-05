@@ -12,7 +12,7 @@
 <details>
   <summary>Click to see the guideline!</summary>
  
-  - **Definition:** *disposal instructions identify the process of removing a system or component, ensuring the proper handling of any environmentally sensitive materials, and sending the remainder to surplus storage or sale.*
+  - **Definition:** *disposal instructions identify the process of removing a system or its component, ensuring the proper handling of any environmentally sensitive materials, and sending the remainder to surplus storage or sale.*
 
 
 ```
