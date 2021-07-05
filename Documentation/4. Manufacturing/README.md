@@ -66,11 +66,11 @@
  
   #### Manufacturing technology
   1. Machine tool
-     * ...
+   * ...
   2. Manufacturing process
-     * ...
+   * ...
   3. Machining parameters
-     * ...
+   * ...
   4. Vizualization via images and videos
  
 #### *2. Identifying the geometry by standard file formats*
@@ -100,8 +100,7 @@ What does include the documentation of standard file formats for the manufacturi
 ### Template
      
  #### Identifying the geometry by standard file formats
-  1. 2D/3D files  
-
+  1. 2D/3D files
 #### *3. Material selection*
 <details>
   <summary>Click to see the guideline!</summary>
