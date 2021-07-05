@@ -35,7 +35,7 @@ What should include the documentation of the user guide?
          - App
 3. Illustrate how to update the device 
 4. Explains how to update the firmware to the latest version
-5. Troubleshooting section  instructions on how to solve problems 
+5. Troubleshooting section  
    - Instructions on how to solve problems
    - Reporting problems and issues on the forums and chat
 6. Repair information (refer to maintenance)
