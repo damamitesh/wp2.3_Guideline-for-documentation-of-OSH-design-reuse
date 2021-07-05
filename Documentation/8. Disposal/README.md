@@ -6,7 +6,7 @@
 
 *Disposal instructions can guide the makers to provide the minimum documentation for disposal of a product or its disposable components*
 
-*The purpose of the disposal process is to remove a system element from the operating environment with the intent of permanently terminating its use; and to deal with any hazardous or toxic materials or waste products following the applicable guidance, policy, regulation, and statutes.*
+*The purpose of the disposal process is to remove a system element from the operating environment with the intent of permanent termination of its use. This process can deal with any hazardous or toxic materials or waste products following the applicable guidance, policy, regulation, and statutes.*
 
  ### **Disposal instructions :** 
 <details>
