@@ -18,22 +18,23 @@
 ```
 What does comprise the documentation of disposal instructions?
 
- 1. Identifying the disposable components or products
-    - The components or products that are designed for single-use, which means they get discarded immediately after use. 
+ 1. Distinguishing the disposable and non-disposable components or products
+   - Recyclable: a process of turning waste into another form of new and reusable materials
+      - How to recycle the components or products? 
+   - Non-recyclable: the components or products that are designed for single-use, which means they get discarded immediately after use.
+      - How to dispose the non-recyclable components or products?
+   - Conditionally recyclable: this tells you if any additional steps are required before recycling  the component or product.
+       - How to conditionally recycle the components or products?
  2. Identifying the material of disposable component or product. 
     - Disposable products are most often made from
       - Polystyrene 
       - Plastic
       - Cotton
       - etc.
-3. Distinguishing the disposal methods for each component or product including: 
-   - Recyclable: a process of turning waste into another form of new and reusable materialsa process of turning waste into another form of new and reusable materials
-   - Non-recyclable
-   - Conditionally recyclable: this tells you if any additional steps are required before recycling  the component or product.
-4. Describing the environmental impacts
+3. Describing the environmental impacts
    - The negative consequences of the disposable products on the environment if sustainability isn't factored into disposal options.
-5. End of life of the product for disposing or recycling
-6. Determining what material can be recycled many times 
+4. End of life of the product for disposing or recycling
+5. Determining what material can be recycled many times 
 
 How to visualize the process of disposal? 
  1. Images 
@@ -43,11 +44,11 @@ How to visualize the process of disposal?
 
 ### Template
  
- #### 1. Identifying the disposable components 
+ #### 1. Distinguishing the disposable and non-disposable components or products
  ...
- #### 2. Identifying the material of the disposable  component 
+ #### 2. Explaining how to recycle, conditionally recycle or dispose the components or product 
  ...
- #### 3. Distinguishing the disposal methods
+ #### 3. Identifying the material of the disposable  component 
  ...
  #### 4. Considering the environmental impacts
  ...
