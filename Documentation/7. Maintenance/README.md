@@ -15,7 +15,7 @@
   ```
 What does include the documentation of maintenance instructions? 
 
-1. Introduction of general maintenance of the system
+1. Introduction of general maintenance of the product or system
     - Cleaning
     - Lubricating
     - Regular inspections or services. These can be carried out on a time-based schedule or on a usage-based schedule.
@@ -24,11 +24,10 @@ What does include the documentation of maintenance instructions?
        - Maintenance by integrating analysis, measurement and periodic test activities 
     - Regular adjusting machinery if it's necessary
 2. Environmental management
-       - Protection against the hot or cold weather conditions
-       - Determining the acceptable temperature range
+    - Protection against the hot or cold weather conditions
+    - Determining the acceptable temperature range
 3. Identifying the defective components
-    - The equipment performance monitoring  
-    - Outline the main troubleshooting of the system components 
+    - The equipment performance monitoring   
     - How to detect a defective component
     - Fault elimination
     - Verification of fault elimination
@@ -37,7 +36,7 @@ What does include the documentation of maintenance instructions?
     - Refere to the manufacturing section where one can find the manufacturing instructions to rebuild the defective parts
     - Verifiction of repair
 5. Replacing equipment parts or components on a schedule
-6. Maintenance tools.
+6. Maintenance tools
     - Various tools necessary to perform the maintenance operation
 
 How to visualize the process of maintenance?
@@ -63,7 +62,7 @@ How to visualize the process of maintenance?
  ...
  #### 4. Repairing the defective components
  ...
- #### 5.Replacing equipment parts or components on a schedule
+ #### 5. Replacing equipment parts or components on a schedule
  ...
  #### 6. Maintenance tools
  ...
