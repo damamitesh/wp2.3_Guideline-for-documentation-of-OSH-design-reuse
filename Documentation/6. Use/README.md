@@ -10,7 +10,7 @@
 <details>
   <summary>Click to see the guideline!</summary>
  
- - **Definition:** *The user guide consists of translating what’s not comprehensible to a plain language for everyone to understand and, it helps non-technical people pinpoint and solve problems without expert assistance.*
+ - **Definition:** *The user guide consists of information that allows end users to operate the product properly, it helps non-technical people pinpoint and solve simple problems without expert assistance.*
 
   ```
 What should include the documentation of the user guide?
