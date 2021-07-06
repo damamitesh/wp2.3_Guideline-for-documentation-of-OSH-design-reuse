@@ -1,6 +1,6 @@
 # **Use**
 
-*I would like to provide important information on 'how to use a product to end-users.*
+*I would like to provide important information to end-users on 'how to use my product'.*
 
 ## **How to document the user guide?**
 
