@@ -5,12 +5,52 @@
 ## **How to document a manufacturing process?**
 
 
-*Manufacturing instructions can guide the makers to follow a process for replicating a product. Manufacturings instructions mean full description and instructions concerning raw material, operating conditions, and process to be employed for the manufacture and assembly of the product.*
+*Manufacturing instructions can guide the makers to follow a process for replicating a product. Manufacturing instructions mean full description and instructions concerning raw material, operating conditions, and process to be employed for the manufacture and assembly of the product.
+The bill of marterial (BOM) is the document that describes all the components and there reference. If the component is to be purchased one should find all the information regired to buy the part. If the part is to be manufactured one should find all the description of the manufacturing instructions as described below.*
 
-
- ### **Manufacturing instructions can include:** 
+### *1. Bill of material (BOM)*
+<details>
+  <summary>Click to see the guideline</summary>
  
- #### *1. Manufacturing technology*
+ - **Definition:** *A bill of materials (BOM) is a comprehensive list of parts, items, and other materials required to create a product, as well as instructions required for gathering and using the required materials.*
+
+```
+What should includes the bill of material (not limited to...)?
+
+   1. Part number
+   2. Item name
+   3. Description
+   4. Quantity
+   5. Unit of measure
+   6. Procurement type
+   7. Cost
+   8. BOM notes
+   ```
+</details>
+
+<details>
+  <summary>Click to see the example</summary>
+ 
+ #### *Example: [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/bill_of_materials)*
+</details>
+
+### BOM Template
+
+ #### Bill of material
+ 
+  1. Part number: ...
+  2. Item name: ...
+  3. Description: ...
+  4. Quantity: ...
+  5. Unit of measure: ...
+  6. Procurement type: ...
+  7. Cost: ...
+  8. BOM notes: ...
+
+
+ ### *2. Manufacturing instructions should include:*
+ 
+ #### *2.1. Manufacturing technology*
   <details>
   <summary>Click to see the guideline!</summary>
  
@@ -20,50 +60,48 @@
  ```
  What should include the documentation of manufacturing technology?
  
- 1. Machine tool for handling or machining metal or other rigid materials
+ 1. machines and processes used
+
+   1. CNC machine tools for handling or machining metal or other rigid materials
      - Milling machines
      - Cutting, Drilling machines
     
- 2. Other common manufacturing tools
-     - [3D printing](https://en.wikipedia.org/wiki/3D_printing)(FDM, SLS...)
-     - Wire cutting
+   2. Other common manufacturing tools
+     - 3D printing (FDM, SLS...) (https://en.wikipedia.org/wiki/3D_printing)
      - Burning machining technology 
        - Laser cutting
        - Plasma cutting
-    
-  3. Machining parameters are all those parameters that are inherent to any machining operation and should have a suitable finite value to smooth and efficient removal of materials.
-     - Cutting speed
-     - Feed rate (mm/sec)
-     - Cutting force
-     - Depth of cut
-     - Etc.
-     
+     - Wire cutting (EDM)
+ 
+   3. finishing
+  
  How to visualize the manufacturing technology? 
   1. Images 
   2. Videos  
  ```
  </details>
  
+   #### *2.2. machining parameters for each process*
+Machining parameters are all those parameters that are inherent to any machining operation and should have a suitable finite value to smooth and efficient removal of materials. It is necessary to mention them in the documentation to allow an easy replication.
+     - Cutting speed
+     - Feed rate 
+     - Cutting force
+     - Depth of cut
+     - Etc.
+     
+ 
+ #### *2.3. Manufacturing sequences and instructions*
+ 
  <details>
   <summary>Click to see the examples!</summary>
+ 
  
    #### *Example 1:* [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/mechanical/body_assembly#3-machiningfabrication)
    
    #### *Example 2:* [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Build_Sequence) 
   </details>
-  
-  ### Template
  
-  #### Manufacturing technology
-  1. Machine tool
-   * ...
-  2. Manufacturing process
-   * ...
-  3. Machining parameters
-   * ...
-  4. Vizualization via images and videos
- 
-#### *2. Identifying the geometry by standard file formats*
+ #### *2.4. Manufacturing files (STL, svg or G-code, ...)*
 <details>
   <summary>Click to see the guideline!</summary>
  
@@ -91,6 +129,20 @@ What does include the documentation of standard file formats for the manufacturi
      
  #### Identifying the geometry by standard file formats
   1. 2D/3D files
+  
+  ### Template
+ 
+  #### Manufacturing technology
+  1. Machine tool
+   * ...
+  2. Manufacturing process
+   * ...
+  3. Machining parameters
+   * ...
+  4. Vizualization via images and videos
+ 
+
+
 #### *3. Material selection*
 <details>
   <summary>Click to see the guideline!</summary>
@@ -155,42 +207,3 @@ What does comprise the documentation of material selection?
   2. Description of Process
   3. Visualization via images and videos
  
-#### *5. Bill of material (BOM)*
-<details>
-  <summary>Click to see the guideline</summary>
- 
- - **Definition:** *A bill of materials (BOM) is a comprehensive list of parts, items, and other materials required to create a product, as well as instructions required for gathering and using the required materials.*
-
-```
-What does consist the bill of material?
-
-   1. Part number
-   2. Item name
-   3. Description
-   4. Quantity
-   5. Unit of measure
-   6. Procurement type
-   7. Cost
-   8. BOM notes
-   ```
-</details>
-
-<details>
-  <summary>Click to see the example</summary>
- 
- #### *Example: [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/bill_of_materials)*
-</details>
-
-### Template
-
- #### Bill of material
- 
-  1. Part number: ...
-  2. Item name: ...
-  3. Description: ...
-  4. Quantity: ...
-  5. Unit of measure: ...
-  6. Procurement type: ...
-  7. Cost: ...
-  8. BOM notes: ...
-
