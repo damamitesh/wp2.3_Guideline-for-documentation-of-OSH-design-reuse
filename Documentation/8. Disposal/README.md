@@ -25,16 +25,16 @@ What does comprise the documentation of disposal instructions?
       - How to dispose the non-recyclable components or products?
    - Conditionally recyclable: this tells you if any additional steps are required before recycling  the component or product.
        - How to conditionally recycle the components or products?
- 2. Identifying the material of disposable component or product. 
+ 2. End of life of the product for disposing or recycling
+ 3. Identifying the material of disposable component or product. 
     - Disposable products are most often made from
       - Polystyrene 
       - Plastic
       - Cotton
       - etc.
-3. Describing the environmental impacts
-   - The negative consequences of the disposable products on the environment if sustainability isn't factored into disposal options.
-4. End of life of the product for disposing or recycling
-5. Determining what material can be recycled many times 
+4. Determining what material can be recycled many times 
+5. Describing the environmental impacts
+   - The negative consequences of the disposable products on the environment if sustainability isn't factored into disposal options
 
 How to visualize the process of disposal? 
  1. Images 
@@ -48,11 +48,11 @@ How to visualize the process of disposal?
  ...
  #### 2. Explaining how to recycle, conditionally recycle or dispose the components or product 
  ...
- #### 3. Identifying the material of the disposable  component 
+ #### 3. End of life of the product
  ...
- #### 4. Considering the environmental impacts
+ #### 4. Identifying the material of the disposable  component 
  ...
- #### 5. End of life of the product
+ #### 5. Determining the material that can recycle several times
  ...
- #### 6. Determining the material that can recycle several times
+ #### 6. End of life of the product
  ...
