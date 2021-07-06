@@ -20,7 +20,7 @@ What should include the documentation of the user guide?
    - Teach the essentials and technical specifications 
 
 2. Use of the product and its device consist of 
-  - Materials required
+   - Materials required
       - App
       - Software
       - Firmware
