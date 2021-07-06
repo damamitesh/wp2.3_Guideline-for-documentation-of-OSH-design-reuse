@@ -4,7 +4,7 @@
 
 ## **How to document the user guide?**
 
-*The user guide can help the maker with the description of the product (what) and use the of it (how).* 
+*The user guide can help the maker to understand how to use a product.* 
 
 ### **User guide** 
 <details>
