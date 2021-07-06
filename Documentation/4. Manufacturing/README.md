@@ -5,7 +5,7 @@
 ## **How to document a manufacturing process?**
 
 
-*Manufacturing instructions can guide the makers to follow a process for remanufacturing a product. Manufacturings instructions mean full descriptions and instructions concerning raw materials usage, operating conditions,and process to be employed in the manufacture of products.*
+*Manufacturing instructions can guide the makers to follow a process for replicating a product. Manufacturings instructions mean full description and instructions concerning raw material, operating conditions, and process to be employed for the manufacture and assembly of the product.*
 
 
  ### **Manufacturing instructions can include:** 
@@ -20,27 +20,17 @@
  ```
  What should include the documentation of manufacturing technology?
  
- 1. Machine tool is a machine for handling or machining metal or other rigid materials, usually by
-     - Turning tools
-     - Milling tools
-     - Grinding tools
-     - Cutting tools
-     - Drilling tools
-     - Boring tools
-     - etc. 
- 2. Manufacturing process   
-     - 3D printing stereo lithography
+ 1. Machine tool for handling or machining metal or other rigid materials
+     - Milling machines
+     - Cutting, Drilling machines
+    
+ 2. Other common manufacturing tools
+     - [3D printing](https://en.wikipedia.org/wiki/3D_printing)(FDM, SLS...)
      - Wire cutting
      - Burning machining technology 
        - Laser cutting
        - Plasma cutting
-     - Computerized machining technology 
-       - CNC machinig 
-     - Machining process technology
-       - Milling
-       - Drilling
-       - Grinding
-     - etc.
+    
   3. Machining parameters are all those parameters that are inherent to any machining operation and should have a suitable finite value to smooth and efficient removal of materials.
      - Cutting speed
      - Feed rate (mm/sec)
