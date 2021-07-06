@@ -18,7 +18,6 @@ What should include the documentation of the user guide?
 1. Description of the device of the product including:
    - Device name and its defintion 
    - Teach the essentials and technical specifications 
-
 2. Use of the product and its device consist of 
    - Materials required
       - App
