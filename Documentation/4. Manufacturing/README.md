@@ -157,7 +157,21 @@ What should includes the bill of material (not limited to...)?
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FMachining%20parameters.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2Fmachnining%20paramters.png">Edit in diagrams.net</a>
 
  #### *2.3. Manufacturing sequences and instructions*
+ <details>
+  <summary>Click to see the guideline!</summary>
  
+  - **Definition:** *manufacturing sequences consist ....*
+
+```
+What does include the documentation of manufacturing sequences and instructions?
+ 
+  1. 
+  2. 
+  3. 
+  4. 
+  ``` 
+</details>
+
  <details>
   <summary>Click to see the examples!</summary>
  
@@ -190,72 +204,10 @@ What does include the documentation of standard file formats for the manufacturi
 #### *Example 2:* [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Specifications), [2D drawing file](https://wiki.satnogs.org/File:C1001.png)
 </details>
 
-### Template
+### Template of manufacturing files
      
  #### Identifying the geometry by standard file formats
-  1. 2D/3D files
+  1. Adequated 2D/3D files for each manufacturing process
  
-#### *3. Material selection*
-<details>
-  <summary>Click to see the guideline!</summary>
- 
- - **Definition:** *Material selection is a step in the process of designing and manufacturing any physical object. The main goal of material selection is to use the critical requirements of each part to define the performance requirement of the material.*
 
-```
-What does comprise the documentation of material selection?
-
- 1. Identifying the type of material
-    - Metal
-    - Plastic
-    - Composite
-    - Ceramic
-    - etc.
-2. Identifying the characteristics of the material for manufacturing (refer to structural model) 
-```
-</details>
-
-### Template
-
- #### Material selection
-  1. Name of mterial
-  2. Characteristic
-
-#### *4. Post-processing and its tool kit*
- <details>
-  <summary>Click to see the guideline!</summary>
- 
- - **Definition:** *To achieve the right properties such as surface quality, geometrical accuracy and mechanical properties, the post processing is essential.* 
- 
-   ```
-   What does contain the documentaion of post-processing?
-   
-   1. The name of post-processes and their sequence including 
-      - Sanding after 3D printing
-      - Cold welding
-      - Gap filling
-      - Blasting
-      - Polishing
-      - Priming and painting
-      - Heat treatments
-      - Etc.
-
-    How to visualize the post-processing?
-    
-    1. Images 
-    2. Videos  
-   ```
- </details>
- 
- <details>
-  <summary>Click to see the example!</summary> 
- 
- #### *Example: [Post processing for FDM printed parts](https://www.3dhubs.com/knowledge-base/post-processing-fdm-printed-parts/#introduction)*
- </details>
- 
- ### Template
- 
- #### Post-processing     
-  1. Name of process
-  2. Description of Process
-  3. Visualization via images and videos
  
