@@ -64,7 +64,7 @@ What should includes the bill of material (not limited to...)?
  ```
  What should include the documentation of manufacturing technology?
  
- 1. machines and processes used
+ Machines and processes used 
 
    1. CNC machine tools for handling or machining metal or other rigid materials
      - Milling machines
@@ -93,14 +93,44 @@ What should includes the bill of material (not limited to...)?
  ```
  </details>
  
+   #### Template of Manufacturing technology
+   
+  1. Machines and processes used
+   * CNC machine tools
+     * ...
+   * Other common manufacturing tool
+     * ...
+   * Finishing
+     * ...
+  2. Vizualization via images and videos
+ 
+ 
    #### *2.2. machining parameters for each process*
-Machining parameters are all those parameters that are inherent to any machining operation and should have a suitable finite value to smooth and efficient removal of materials. It is necessary to mention them in the documentation to allow an easy replication.
+   
+<details>
+  <summary>Click to see the guideline!</summary>
+ 
+  - **Definition:** *Machining parameters are all those parameters that are inherent to any machining operation and should have a suitable finite value to smooth and efficient removal of materials. It is necessary to mention them in the documentation to allow an easy replication.
+  
+   ```
+ What should include the documentation of machining parameters?
+
      - Cutting speed
      - Feed rate 
      - Cutting force
      - Depth of cut
      - Etc.
-     
+   ```    
+   </details>
+ 
+ <details>
+  <summary>Click to see the examples!</summary>
+ 
+ 
+   #### *Example 1:* 
+   
+  
+  </details>
  
  #### *2.3. Manufacturing sequences and instructions*
  
@@ -141,20 +171,7 @@ What does include the documentation of standard file formats for the manufacturi
      
  #### Identifying the geometry by standard file formats
   1. 2D/3D files
-  
-  ### Template
  
-  #### Manufacturing technology
-  1. Machine tool
-   * ...
-  2. Manufacturing process
-   * ...
-  3. Machining parameters
-   * ...
-  4. Vizualization via images and videos
- 
-
-
 #### *3. Material selection*
 <details>
   <summary>Click to see the guideline!</summary>
