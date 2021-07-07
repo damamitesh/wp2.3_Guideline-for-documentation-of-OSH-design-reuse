@@ -60,7 +60,6 @@ What should includes the bill of material (not limited to...)?
  
   - **Definition:** *It means all the machinery, equipment and processes that are used to manufacture products.*
 
-
  ```
  What should include the documentation of manufacturing technology?
  
@@ -123,23 +122,23 @@ What should includes the bill of material (not limited to...)?
    ```    
    </details>
  
- <details>
+ 
+<details>
   <summary>Click to see the examples!</summary>
  
- 
-   #### *Example of 3D printer parameters* 
-  
-     * Extruder setting 
-       * Extrusion multiplier
-       * Retraction distance 
-       * Retraction speed 
-       * Coasting
-     * Layer setting
-       * First layer height
-       * First layer speed
-     * Infill setting 
-       * Internal/Eternal fill pattern
-  </details>
+#### *Example of 3D printer parameters* 
+
+ * Extruder setting 
+     * Extrusion multiplier
+     * Retraction distance 
+     * Retraction speed 
+     * Coasting
+ * Layer setting
+     * First layer height
+     * First layer speed
+ * Infill setting
+     * Internal/Eternal fill pattern
+</details>
  
   #### Template of machining parameters
    
@@ -149,7 +148,6 @@ What should includes the bill of material (not limited to...)?
  
  <details>
   <summary>Click to see the examples!</summary>
- 
  
    #### *Example 1:* [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/mechanical/body_assembly#3-machiningfabrication)
    
