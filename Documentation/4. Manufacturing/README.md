@@ -22,9 +22,12 @@ What should includes the bill of material (not limited to...)?
    3. Description
    4. Quantity
    5. Unit of measure
-   6. Procurement type
-   7. Cost
-   8. BOM notes
+   6. Manufacturer name
+   7. Seller name
+   8. Procurement type
+   9. Cost
+   10. BOM notes
+   11. ...
    ```
 </details>
 
