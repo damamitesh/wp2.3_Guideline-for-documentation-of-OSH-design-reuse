@@ -38,7 +38,7 @@ What should includes the bill of material of the purchased workpiece(not limited
  
  *You can use this template on the App diagram to define bill of material of your project/product.*
  
- ![image](https://user-images.githubusercontent.com/59058909/124730192-69f47a80-df11-11eb-84ee-73d1ebbc0061.png)
+ ![image](https://user-images.githubusercontent.com/59058909/124768872-50ffbf80-df39-11eb-89d5-2048fc8cd178.png)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FBOM%20template.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FBOM%20template.png">Edit in diagrams.net</a>
  
