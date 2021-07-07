@@ -152,7 +152,7 @@ What should includes the bill of material (not limited to...)?
   
   *You can use this template on the App diagram to define bill of material of your project/product.*
  
-![image](https://user-images.githubusercontent.com/59058909/124744570-328cca80-df1f-11eb-8084-09704f7eb5a8.png)
+![image](https://user-images.githubusercontent.com/59058909/124744988-97482500-df1f-11eb-8a3a-0474185083b3.png)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FMachining%20parameters.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2Fmachnining%20paramters.png">Edit in diagrams.net</a>
  
