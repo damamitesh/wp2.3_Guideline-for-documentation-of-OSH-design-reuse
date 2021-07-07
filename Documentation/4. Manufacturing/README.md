@@ -77,7 +77,15 @@ What should includes the bill of material (not limited to...)?
        - Plasma cutting
      - Wire cutting (EDM)
  
-   3. finishing
+   3. Finishing and its tool kit: to achieve the right properties such as surface quality, geometrical accuracy and mechanical properties, the finishing is essential. 
+     - Sanding after 3D printing
+     - Cold welding
+     - Gap filling
+     - Blasting
+     - Polishing
+     - Priming and painting
+     - Heat treatments
+     - Etc.
   
  How to visualize the manufacturing technology? 
   1. Images 
