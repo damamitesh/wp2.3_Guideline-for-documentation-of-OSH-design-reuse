@@ -204,7 +204,7 @@ What does include the documentation of standard file formats for the manufacturi
 #### *Example 2:* [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Specifications), [2D drawing file](https://wiki.satnogs.org/File:C1001.png)
 </details>
 
-### Template of manufacturing files
+ #### Template of manufacturing files
      
  #### Identifying the geometry by standard file formats
   1. Adequated 2D/3D files for each manufacturing process
