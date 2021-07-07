@@ -14,14 +14,10 @@ What should includes the bill of material (not limited to...)?
    1. Part number
    2. Item name
    3. Description
-   4. Quantity
-   5. Unit of measure
-   6. Manufacturer name
-   7. Seller name
-   8. Procurement type
-   9. Cost
-   10. BOM notes
-   11. ...
+   4. Manufacturer name
+   5. Quantity
+   6. BOM notes
+   7. ...
    ```
 </details>
 
@@ -42,9 +38,9 @@ What should includes the bill of material (not limited to...)?
  
  *You can use this template on the App diagram to define bill of material of your project/product.*
  
- ![image](https://user-images.githubusercontent.com/59058909/124730192-69f47a80-df11-11eb-84ee-73d1ebbc0061.png)
+![image](https://user-images.githubusercontent.com/59058909/124770008-4265d800-df3a-11eb-9930-5b13c3765ac4.png)
 
- <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FBOM%20template.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FBOM%20template.png">Edit in diagrams.net</a>
+ <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FBOM%20template%20of%20manufactured%20workpiece.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FBOM%20template%20of%20manufactured%20workpiece.png">Edit in diagrams.net</a>
  
  ### *2. Manufacturing instructions should include:*
  
