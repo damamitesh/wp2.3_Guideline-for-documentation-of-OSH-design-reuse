@@ -110,7 +110,7 @@ What should includes the bill of material (not limited to...)?
 <details>
   <summary>Click to see the guideline!</summary>
  
-  - **Definition:** *Machining parameters are all those parameters that are inherent to any machining operation and should have a suitable finite value to smooth and efficient removal of materials. It is necessary to mention them in the documentation to allow an easy replication.
+  - **Definition:** *Machining parameters are all those parameters that are inherent to any machining operation and should have a suitable finite value to smooth and efficient removal of materials. It is necessary to mention them in the documentation to allow an easy replication.*
   
    ```
  What should include the documentation of machining parameters?
@@ -132,6 +132,10 @@ What should includes the bill of material (not limited to...)?
   
   </details>
  
+  #### Template of Manufacturing technology
+   
+  1. 
+
  #### *2.3. Manufacturing sequences and instructions*
  
  <details>
