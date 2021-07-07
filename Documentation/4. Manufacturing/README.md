@@ -105,7 +105,7 @@ What should includes the bill of material (not limited to...)?
   2. Vizualization via images and videos
  
  
-   #### *2.2. machining parameters for each process*
+   #### *2.2. Machining parameters for each process*
    
 <details>
   <summary>Click to see the guideline!</summary>
@@ -127,12 +127,21 @@ What should includes the bill of material (not limited to...)?
   <summary>Click to see the examples!</summary>
  
  
-   #### *Example 1:* 
-   
+   #### *Example of 3D printer parameters* 
   
+     * Extruder setting 
+       * Extrusion multiplier
+       * Retraction distance 
+       * Retraction speed 
+       * Coasting
+     * Layer setting
+       * First layer height
+       * First layer speed
+     * Infill setting 
+       * Internal/Eternal fill pattern
   </details>
  
-  #### Template of Manufacturing technology
+  #### Template of machining parameters
    
   1. 
 
