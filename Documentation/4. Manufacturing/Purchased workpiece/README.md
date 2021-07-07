@@ -9,17 +9,17 @@
  - **Definition:** *A bill of materials (BOM) is a comprehensive list of parts, items, and other materials required to create a product, as well as instructions required for gathering and using the required materials.*
 
 ```
-What should includes the bill of material (not limited to...)?
+What should includes the bill of material of the purchased workpiece(not limited to...)?
 
    1. Part number
    2. Item name
    3. Description
-   4. Quantity
-   5. Unit of measure
-   6. Manufacturer name
-   7. Seller name
-   8. Procurement type
-   9. Cost
+   4. Seller name
+   5. Quantity
+   6. Unit price
+   7. Extended price according to quantity
+   8. Manufacturing standard lead time
+   9. Packaging
    10. BOM notes
    11. ...
    ```
@@ -29,10 +29,6 @@ What should includes the bill of material (not limited to...)?
   <summary>Click to see the example</summary>
  
  #### *Example: [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/bill_of_materials)*
-  
-![image](https://user-images.githubusercontent.com/59058909/124725125-e8025280-df0c-11eb-9be0-67c3670dca17.png)
-
-*BOM of JPL open-source Rover*
 
 </details>
 
