@@ -8,6 +8,6 @@
 *Manufacturing instructions can guide the makers to follow a process for replicating a product. Manufacturing instructions mean full description and instructions concerning raw material, operating conditions, and process to be employed for the manufacture and assembly of the product.
 The bill of marterial (BOM) is the document that describes all the components and there reference. If the component is to be purchased one should find all the information regired to buy the part. If the part is to be manufactured one should find all the description of the manufacturing instructions as described below.*
 
-Manufactured workpiece (https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Documentation/4.%20Manufacturing/Manufactured%20workpiece)
+[Manufactured workpiece](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Documentation/4.%20Manufacturing/Manufactured%20workpiece)
 
-Purchased workpiece(https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Documentation/4.%20Manufacturing/Purchased%20workpiece)
+[Purchased workpiece](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Documentation/4.%20Manufacturing/Purchased%20workpiece)
