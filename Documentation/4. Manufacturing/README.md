@@ -206,7 +206,8 @@ What does include the documentation of standard file formats for the manufacturi
 
  #### Template of manufacturing files
      
- #### Identifying the geometry by standard file formats
+ Identifying the geometry by standard file formats
+ 
   1. Adequated 2D/3D files for each manufacturing process
  
 
