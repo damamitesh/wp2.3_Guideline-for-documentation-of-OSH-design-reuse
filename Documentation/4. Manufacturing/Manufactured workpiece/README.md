@@ -1,6 +1,6 @@
 ## **How to document a manufacturing process a workpiece?**
 
-*Documentation of manufactured workpieces consists of:*
+*If the part is to be manufactured one should find all the description of the manufacturing instructions as described below.*
 
 ### *1. Bill of material (BOM)*
 <details>
