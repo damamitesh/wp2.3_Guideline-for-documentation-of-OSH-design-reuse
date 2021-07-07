@@ -160,15 +160,18 @@ What should includes the bill of material (not limited to...)?
  <details>
   <summary>Click to see the guideline!</summary>
  
-  - **Definition:** *manufacturing sequences consist ....*
+  - **Definition:** *Manufacturing sequences refer to step-by-step machining and manufacturing processes in a target-oriented arrangement to enable highly efficient manufacturing.*
 
 ```
 What does include the documentation of manufacturing sequences and instructions?
  
-  1. 
-  2. 
-  3. 
-  4. 
+  1. Name of related machine of each each step
+  2. Describing the sequence of machining process of each step
+    - Drilling
+    - Cutting
+    - Milling
+    - etc.
+  3. Describing the needed shape on the workpiece according to standard file format( refer to manufacturing file format)
   ``` 
 </details>
 
@@ -176,9 +179,13 @@ What does include the documentation of manufacturing sequences and instructions?
   <summary>Click to see the examples!</summary>
  
    #### *Example 1:* [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/mechanical/body_assembly#3-machiningfabrication)
-   
-   #### *Example 2:* [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Build_Sequence) 
   </details>
+  
+   #### Template of manufacturing sequences
+ 
+  1. Machine name:...
+  2. Mahining process description:...
+  3. Geometrical description of the needed shape 
  
  #### *2.4. Manufacturing files (STL, svg or G-code, ...)*
 <details>
