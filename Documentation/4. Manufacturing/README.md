@@ -92,6 +92,14 @@ What should includes the bill of material (not limited to...)?
  ```
  </details>
  
+  <details>
+  <summary>Click to see the examples!</summary>
+ 
+   #### *Example 1:* [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/mechanical/body_assembly#3-machiningfabrication)
+   
+   #### *Example 2:* [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Build_Sequence) 
+  </details>
+ 
    #### Template of Manufacturing technology
    
   1. Machines and processes used
@@ -142,7 +150,21 @@ What should includes the bill of material (not limited to...)?
  
   #### Template of machining parameters
    
-  1. 
+  * Machine name 1: CNC Milling machine
+  * Parameters
+      * Cutting speed:...
+      * Feed rate: ... 
+      * Cutting force:...
+      * Depth of cut:...
+      * Etc.
+  * Machine name 2: 3D printer
+  * Parameters 
+      * Retraction distance:... 
+      * Retraction speed:...
+      * First layer height:...
+      * First layer speed:...
+      * Etc.
+  * ...
 
  #### *2.3. Manufacturing sequences and instructions*
  
