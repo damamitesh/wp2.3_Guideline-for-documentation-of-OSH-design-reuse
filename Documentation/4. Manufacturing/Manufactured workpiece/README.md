@@ -1,6 +1,6 @@
 ## **How to document a manufacturing process a workpiece?**
 
-*Documentation of manufactured workpieces consists of*
+*Documentation of manufactured workpieces consists of:*
 
 ### *1. Bill of material (BOM)*
 <details>
