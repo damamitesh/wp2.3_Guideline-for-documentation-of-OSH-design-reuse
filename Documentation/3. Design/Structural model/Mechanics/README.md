@@ -44,7 +44,7 @@
 #### *Example 3: architectural structure of* [GlasVent emergency ventilator in format of block diagram](https://onlinelibrary.wiley.com/doi/10.1002/gch2.202000046)
 </details>
 
-### Template
+### Template of architectural structure
  
   #### Architectural structure documentation
   1. A model specifying of components
@@ -92,9 +92,11 @@ To reuse a design model, it should provide information consist of:
 *1. [Farmbot, Native CAD files](https://genesis.farm.bot/v1.5/Extras/cad)*
 
 *2. [MIT Emergency Ventilator, Neutral CAD files](https://e-vent.mit.edu/resources/downloads/)*
+
+*3. Types of CAD format[transmagic](https://transmagic.com/cad-formats/)*
 </details>
 
-### Template
+### Template of file format
 
  #### Documentation a design in an editable file format
   1. 3D/2D file format
@@ -139,7 +141,7 @@ To reuse a design model, it should provide information consist of:
 > Source: Kutz, M. ed., 2002. Handbook of materials selection. John Wiley & Sons.
   </details>
   
-### Template
+### Template of material cgaracteristics
  
   #### Documentation of material cgaracteristics
   1. Name of material characteristice
