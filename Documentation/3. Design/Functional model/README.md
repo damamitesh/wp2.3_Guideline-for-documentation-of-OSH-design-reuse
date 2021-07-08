@@ -71,9 +71,8 @@
 <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20tree.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20tree%20of%20XYZ%20cargo%20ADD-ONS.png">Edit in diagrams.net</a>
 </details>
 
-### Template
+### Template of functional tree
  
-  #### Functional tree
   1. A model specifying the kinds of technical functions 
  
  ![Image of functional tree of template](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Functional%20tree%20for%20template.jpg)
@@ -135,9 +134,8 @@
 * [Functional diagram of Renesas’ ventilator](https://www.rs-online.com/designspark/ventilator-design-solution-from-renesas-electronics)
 </details>
 
-### Template
+### Template of functional graph
 
-   #### Functional graph
   1. A model specifying the relationships between technical functions 
  
  ![Image of functional graph of XYZ cargo-ADD ONS](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Functional%20graph%20for%20template.jpg)
