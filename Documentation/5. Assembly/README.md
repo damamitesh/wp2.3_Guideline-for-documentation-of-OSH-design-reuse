@@ -89,7 +89,12 @@ How to visualize of the assembly or disasembly process?
      * ...
  #### 4.Mechanical interfaces/atachements to main body
  #### 5.Describing the machining/ fabrication if it is necessary
+  
+  *You can use this template on the App diagram to define the machining/ fabrication.*
  
+![image](https://user-images.githubusercontent.com/59058909/124918376-40148400-dff5-11eb-8c14-ab685606dc89.png)
+
+ <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDescribing%20the%20machining%2F%20fabrication.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDescribing%20the%20machining%2Ffabrication.png">Edit in diagrams.net</a>
  
  #### 1. Assembly sequences 
    * Description of different steps: ... 
