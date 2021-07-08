@@ -57,7 +57,7 @@
 #### *Example 4: Architectural structure of* [ GlasVent emergency ventilator](https://onlinelibrary.wiley.com/doi/10.1002/gch2.202000046) (refer to figure 6 of the link)
 </details>
 
-### Template
+### Template of architectural structure
  
   #### Architectural structure documentation
   1. A model specifying of components
@@ -105,7 +105,7 @@ To reuse a electrical design, it should provide information consist of:
 *2. [AmbovVent, Neutral files ](https://github.com/AmboVent-1690-108/AmboVent/tree/master/1-Electronics)*
 </details> 
 
-### Template
+### Template of file formats
  
  #### Documentation a design in an editable file format
   1. Editable file formats
