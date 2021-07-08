@@ -87,6 +87,10 @@ How to visualize of the assembly or disasembly process?
      * ...
    * Optional
      * ...
+ #### 4.Mechanical interfaces/atachements to main body
+ #### 5.Describing the machining/ fabrication if it is necessary
+ 
+ 
  #### 1. Assembly sequences 
    * Description of different steps: ... 
    * Visualization of steps via the images and/or videos
