@@ -35,21 +35,29 @@ What does include the content of assembly instruction?
     - Machining process
     - Sequence of process
  6. Structral assembly sequence
-    - Part list: is a complete list of all parts needed to build the complete product(refer to the BOM at manufacturing section)
+    - Part list for mechanical parts: is a complete list of all parts needed to build the complete product(refer to the BOM at manufacturing section)
        - Item numbers: are based on the assembly structure, that is, the order in which parts are displayed in assembly.
        - Part number or drawing number: which is a reference back to the detail drawing (Refer to the BOM) 
        - Description: is usually a part name or a complete description of parts
        - Quantity: is the number of that particular part used on this assembly. 
        - Image of each part
+    - Datasheet of components for electronic parts
+       - Description of features
+          - Core
+          - Memeories
+          - Advenced connectivity
+          - etc.
+       - Device summry
+          - Reference
+          - Part number
+       - How to use the component?
     - The set of steps necessary to properly assemble the parts
     - Identifyin the joining technology in each step
        - Screwing
        - Bolting
+       - Soldering
        - Etc.
-  3. Datasheet of components
-    - What a component does?
-    - How to use the component?
- 
+  
 How to visualize of the assembly or disasembly process?
  1. Images 
  2. Videos 
