@@ -107,7 +107,11 @@ How to visualize of the assembly or disasembly process?
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FPart%20list%20or%20data%20sheet.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FPart%20list%20or%20data%20sheet.png">Edit in diagrams.net</a>
    
    * The set of steps necessary to properly assemble the parts
+     
+     *...
+     
    * Identifyin the joining technology in each step
- 
+    
+     *... 
 
  
