@@ -20,11 +20,11 @@ What does comprise the documentation of disposal instructions?
 
  1. Distinguishing the disposable and non-disposable components or products
    - Recyclable: a process of turning waste into another form of new and reusable materials
-      - How to recycle the components or products? 
+      - How to recycle the components or products and their type of materials? 
    - Non-recyclable: the components or products that are designed for single-use, which means they get discarded immediately after use.
-      - How to dispose the non-recyclable components or products?
+      - How to dispose the non-recyclable components or products and their type of materials?
    - Conditionally recyclable: this tells you if any additional steps are required before recycling  the component or product.
-       - How to conditionally recycle the components or products?
+       - How to conditionally recycle the components or products and their type of materials?
  2. End of life of the product for disposing or recycling
  3. Identifying the material of disposable component or product. 
     - Disposable products are most often made from
@@ -32,9 +32,12 @@ What does comprise the documentation of disposal instructions?
       - Plastic
       - Cotton
       - etc.
-4. Determining what material can be recycled many times 
-5. Describing the environmental impacts
+4. Determining what material can be recycled many times
+5. How to disassemble a product for recycling its components and type of materials?
+6. Describing the environmental impacts
    - The negative consequences of the disposable products on the environment if sustainability isn't factored into disposal options
+   - How to select the material, manufacturing process, etc. that have the less environmental impacts
+   - 
 
 How to visualize the process of disposal? 
  1. Images 
@@ -42,7 +45,7 @@ How to visualize the process of disposal?
 ```
 </details>
 
-### Template
+### Template of disposal
  
  #### 1. Distinguishing the disposable and non-disposable components or products
  ...
@@ -54,5 +57,7 @@ How to visualize the process of disposal?
  ...
  #### 5. Determining the material that can recycle several times
  ...
- #### 6. End of life of the product
+ #### 6. How to disassemble a product for recycling
+ ...
+ #### 7. End of life of the product
  ...
