@@ -23,20 +23,17 @@ What does include the documentation of maintenance instructions?
        - Maintenance according to prescribed criteria
        - Maintenance by integrating analysis, measurement and periodic test activities 
     - Regular adjusting machinery if it's necessary
-2. Environmental management
-    - Protection against the hot or cold weather conditions
-    - Determining the acceptable temperature range
-3. Identifying the defective components
+2. Identifying the defective components
     - The equipment performance monitoring   
     - How to detect a defective component
     - Fault elimination
     - Verification of fault elimination
-4. Repairing the defective components
+3. Repairing the defective components
     - Step-by-step procedures describing the repairing sequence 
     - Refere to the manufacturing section where you can find the manufacturing instructions to rebuild the defective parts
     - Verifiction of repair
-5. Replacing equipment parts or components on a schedule
-6. Maintenance tools
+4. Replacing equipment parts or components on a schedule
+5. Maintenance tools
     - Various tools necessary to perform the maintenance operation
 
 How to visualize the process of maintenance?
@@ -56,14 +53,12 @@ How to visualize the process of maintenance?
  
  #### 1. General maintenance of the system
  ...
- #### 2. Environmental management
+ #### 2. Identifying the defective components 
  ...
- #### 3. Identifying the defective components 
+ #### 3. Repairing the defective components
  ...
- #### 4. Repairing the defective components
+ #### 4. Replacing equipment parts or components on a schedule
  ...
- #### 5. Replacing equipment parts or components on a schedule
- ...
- #### 6. Maintenance tools
+ #### 5. Maintenance tools
  ...
  
