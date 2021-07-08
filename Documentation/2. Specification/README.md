@@ -43,9 +43,7 @@
 <a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FStakeholders.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2Fstakeholders.png">Edit in diagrams.net</a>
 </details>
 
-### Template
-  
-  Stakeholders
+### Template of stakeholders
   
    * Stakeholder name 1
    * ...
@@ -93,10 +91,8 @@ Example XYZ Cargo ADD-ONS
 <a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FExternal%20interfaces.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FExternal%20interfaces.png">Edit in diagrams.net</a>
 </details>
 
-### Template
-  
-  External interfaces
-     
+### Template of external interfaces
+   
    * Stakeholder name 1
        * Flow 1
        * ...
@@ -143,9 +139,7 @@ Example XYZ Cargo ADD-ONS
   ```
  </details>
 
-### Template
-  
-  Services
+### Template of services
   
    * Services to stakeholder 1
        * Service 1.1
@@ -182,9 +176,7 @@ Example XYZ Cargo ADD-ONS
   ```
 </details>
 
-### Template
-  
-  Constraints
+### Template of constraints
   
    * Constraint 1
    * ...
@@ -223,10 +215,8 @@ Example XYZ Cargo ADD-ONS
   ```
  </details>
  
- ### Template
+ ### Template of requirements
     
-  Requirements
-  
    * Requirement 1
    * ...
  
