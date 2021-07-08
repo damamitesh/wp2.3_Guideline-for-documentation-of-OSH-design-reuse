@@ -72,9 +72,8 @@
  ![Image of Finite element analysis](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Finite%20element%20analysis%20image.gif)
  </details>
   
- ### Template
+ ### Template of simulation model
  
-  #### Simulation model
   1. Type of simulation
      * ...
   2. Model definition
