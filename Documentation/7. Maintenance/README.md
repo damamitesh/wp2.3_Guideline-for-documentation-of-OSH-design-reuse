@@ -52,7 +52,7 @@ How to visualize the process of maintenance?
 #### *Example 1:* [FarmBot Genesis V1.5](https://genesis.farm.bot/v1.5/Extras/maintenance)
 </details>
 
-### Template
+### Template of maintenance
  
  #### 1. General maintenance of the system
  ...
