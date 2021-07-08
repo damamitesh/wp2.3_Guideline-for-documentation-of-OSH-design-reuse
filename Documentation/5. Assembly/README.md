@@ -80,15 +80,15 @@ How to visualize of the assembly or disasembly process?
  
  #### 1. Features
  ...
- #### 2.Needed skills for assembly
+ #### 2. Needed skills for assembly
  ...
  #### 3. List of the tools for assembly or disassembly
    * Modatory
      * ...
    * Optional
      * ...
- #### 4.Mechanical interfaces/atachements to main body
- #### 5.Describing the machining/ fabrication if it is necessary
+ #### 4. Mechanical interfaces/atachements to main body
+ #### 5. Describing the machining/ fabrication if it is necessary (Refer to [manufacturing](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Documentation/4.%20Manufacturing/Manufactured%20workpiece#2-manufacturing-instructions-should-include))
   
   *You can use this template on the App diagram to define the machining/ fabrication.*
  
@@ -96,7 +96,7 @@ How to visualize of the assembly or disasembly process?
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDescribing%20the%20machining%2F%20fabrication.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDescribing%20the%20machining%2Ffabrication.png">Edit in diagrams.net</a>
  
- #### 1. Assembly sequences 
+ #### 6. Structural assembly sequences 
    * Description of different steps: ... 
    * Visualization of steps via the images and/or videos
  
