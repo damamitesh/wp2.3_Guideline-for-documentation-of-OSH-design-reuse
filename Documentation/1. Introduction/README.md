@@ -122,7 +122,7 @@ Who is sponsoring your project?
 
   </details>
   
-### Template
+### Template of introduction
 
  #### 1. Motivation
    * ...
