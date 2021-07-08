@@ -16,12 +16,11 @@
  ```
 What does include the content of assembly instruction? 
 
-1. Part list: is a complete list of all parts needed to build the complete product.
-    - Item numbers: are based on the assembly structure, that is, the order in which parts are displayed in assembly.
-    - Part number or drawing number: which is a reference back to the detail drawing (Refer to the BOM) 
-    - Description: is usually a part name or a complete description of parts
-    - Quantity: is the number of that particular part used on this assembly. 
-    - Image of each part
+1. Features
+    - What does prepare the assembly of these parts for the final product?
+       - Easy attachment point for differential parts 
+       - provide the parts to facilitate ability to change, and add new components easily.
+       - Etc.
  2. Needed skills for assembly
  3. List of the tools for assembly or disassembly
     - Mandatory
@@ -31,10 +30,19 @@ What does include the content of assembly instruction?
     - Optional
        - Laser cutter
        - Etc. 
- 4. Identifying the mechanical interfaces/atachements to main body ( refer to example of JPL open-source rover)
- 2. Assembly sequence
+ 4. Identifying the mechanical interfaces/atachements to main body (refer to example of JPL open-source rover)
+ 5. Describing the machining/ fabrication if it is necessary during the assembly (refer to manufacturing)
+    - Machining process
+    - Sequence of process
+ 6. Structral assembly sequence
+    - Part list: is a complete list of all parts needed to build the complete product.
+       - Item numbers: are based on the assembly structure, that is, the order in which parts are displayed in assembly.
+       - Part number or drawing number: which is a reference back to the detail drawing (Refer to the BOM) 
+       - Description: is usually a part name or a complete description of parts
+       - Quantity: is the number of that particular part used on this assembly. 
+       - Image of each part
     - The set of steps necessary to properly assemblme the product
- 3. Datasheet of components
+  3. Datasheet of components
     - What a component does?
     - How to use the component?
  4. List of the tools for assemble or disassemble
