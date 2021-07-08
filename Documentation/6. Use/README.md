@@ -63,7 +63,7 @@ How to visualize the process of user guide ?
  #### *Example 5:* [FarmBot Genesis V1.5 ]( https://genesis.farm.bot/v1.5/Extras/troubleshooting)
 </details>
 
-### Template
+### Template of use
 
   #### 1. Description of product
   * ...
@@ -79,8 +79,8 @@ How to visualize the process of user guide ?
  * ...
 #### 4. Troubleshooting
  * ...
-#### 5.Environmental management
+#### 5. Environmental management
  * ...
-#### 6. Repair information (refer to [maintenance](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Documentation/7.%20Maintenance)
+#### 6. Repair information (refer to [maintenance](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Documentation/7.%20Maintenance))
  * ...
 
