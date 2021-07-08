@@ -97,7 +97,7 @@ How to visualize of the assembly or disasembly process?
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDescribing%20the%20machining%2F%20fabrication.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDescribing%20the%20machining%2Ffabrication.png">Edit in diagrams.net</a>
  
  #### 6. Structural assembly sequences 
-   * Part list
+   * Part list (refer to [Bill of Material](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Documentation/4.%20Manufacturing/Manufactured%20workpiece#bom-template))
    * Data sheet
   
    *You can use this template on the App diagram to define the part list and/or data sheet.*
