@@ -30,7 +30,7 @@
  </details>
 
 
-### Template
+### Template of software architecture
 
  #### **Software architecture**
  
@@ -75,7 +75,7 @@ This part based on the different products could include
 *3. [Poppy project](https://docs.poppy-project.org/en/installation/)*
 </details>
 
-### Template
+### Template of different parts of software
 
  #### Documentation of different parts of software
   1. Description of programming algorithm 
