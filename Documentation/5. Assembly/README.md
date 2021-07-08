@@ -76,8 +76,17 @@ How to visualize of the assembly or disasembly process?
 #### *Example 3:* [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Assembly) , [Assembly instructions](https://ohai.satnogs.org/project/satnogs-rotator-v3-mechanical-assembly/hardware/) 
 </details>
 
-### Template
+### Template of assembly
  
+ #### 1. Features
+ ...
+ #### 2.Needed skills for assembly
+ ...
+ #### 3. List of the tools for assembly or disassembly
+   * Modatory
+     * ...
+   * Optional
+     * ...
  #### 1. Assembly sequences 
    * Description of different steps: ... 
    * Visualization of steps via the images and/or videos
