@@ -88,9 +88,9 @@ How to visualize of the assembly or disasembly process?
    * Optional
      * ...
  #### 4. Mechanical interfaces/atachements to main body
- #### 5. Describing the machining/ fabrication if it is necessary (refer to [manufacturing](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Documentation/4.%20Manufacturing/Manufactured%20workpiece#2-manufacturing-instructions-should-include))
+ #### 5. Describing the machining/ fabrication of components if it is necessary (refer to [manufacturing](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Documentation/4.%20Manufacturing/Manufactured%20workpiece#2-manufacturing-instructions-should-include))
   
-  *You can use this template on the App diagram to define the machining/ fabrication.*
+  *You can use this template on the App diagram to define the component and then explain the process of machining/ fabrication.*
  
 ![image](https://user-images.githubusercontent.com/59058909/124918376-40148400-dff5-11eb-8c14-ab685606dc89.png)
 
