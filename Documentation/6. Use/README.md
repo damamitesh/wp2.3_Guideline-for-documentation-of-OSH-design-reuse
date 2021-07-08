@@ -32,12 +32,11 @@ What should include the documentation of the user guide?
          - Software
          - Firmware
          - App
-3. Illustrate how to update the device 
-4. Explains how to update the firmware to the latest version
-5. Troubleshooting section  
+3. Explains how to update the firmware to the latest version
+4. Troubleshooting section  
    - Instructions on how to solve problems
    - Reporting problems and issues on the forums and chat
-6. Repair information (refer to maintenance)
+5. Repair information (refer to maintenance)
 
 How to visualize the process of user guide ?
 1. Images 
@@ -73,12 +72,10 @@ How to visualize the process of user guide ?
       * Installation instructions
       * Setup instruction
  
-#### 3. Update of device
+#### 3. Update of firmware
  * ...
-#### 4. Update of firmware
+#### 4. Troubleshooting
  * ...
-#### 5. Troubleshooting
- * ...
-#### 6. Repair information
+#### 5. Repair information (refer to [maintenance](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Documentation/7.%20Maintenance)
  * ...
 
