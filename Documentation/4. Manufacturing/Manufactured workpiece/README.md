@@ -199,6 +199,8 @@ What does include the documentation of standard file formats for the manufacturi
 #### *Example 1:* [Automated Tea Infuser, Standard file (STL format)](https://wikifactory.com/+fablabbratislava/automated-tea-infuser/contributions/3f2c490)
 
 #### *Example 2:* [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Specifications), [2D drawing file](https://wiki.satnogs.org/File:C1001.png)
+  
+#### *Example 3: *Types of CAD format[transmagic](https://transmagic.com/cad-formats/)*
 </details>
 
  #### Template of manufacturing files
