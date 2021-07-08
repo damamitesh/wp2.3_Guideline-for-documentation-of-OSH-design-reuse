@@ -36,7 +36,10 @@ What should include the documentation of the user guide?
 4. Troubleshooting section  
    - Instructions on how to solve problems
    - Reporting problems and issues on the forums and chat
-5. Repair information (refer to maintenance)
+5. Environmental management
+   - Protection against the hot or cold weather conditions
+   - Determining the acceptable temperature range
+6. Repair information (refer to maintenance)
 
 How to visualize the process of user guide ?
 1. Images 
@@ -76,6 +79,8 @@ How to visualize the process of user guide ?
  * ...
 #### 4. Troubleshooting
  * ...
-#### 5. Repair information (refer to [maintenance](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Documentation/7.%20Maintenance)
+#### 5.Environmental management
+ * ...
+#### 6. Repair information (refer to [maintenance](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Documentation/7.%20Maintenance)
  * ...
 
