@@ -84,7 +84,7 @@
  2. Name of modeling language
      * ...
      * ...
-  3. Name of Software
+  3. Name of software
      * Online app diagram
      * ...
 
@@ -120,7 +120,9 @@
  
 <details>
   <summary>Click to see the example!</summary> 
-#### *Functional graph of XYZ Cargo-ADD ONS*:
+  
+#### *Example 2: Functional graph of XYZ Cargo-ADD ONS*:
+  
 *The image below shows the functional graph of the relationship between technical functions for maintaining food quality by ADD-ONS of XYZ cargo*
 
 ![Image of functional graph of XYZ cargo-ADD ONS](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Functional%20graph%20of%20XYZ%20cargo-ADD%20ONS.jpg)
@@ -129,9 +131,10 @@
 
 
 #### *Example 2*:
-*The link below shows an example of functional block diagrams of open-source project*
+  
+*The link below shows an example of functional block diagrams of an open-source project*
 
-* [Functional diagram of Renesas’ ventilator](https://www.rs-online.com/designspark/ventilator-design-solution-from-renesas-electronics)
+[Functional diagram of Renesas ventilator](https://www.rs-online.com/designspark/ventilator-design-solution-from-renesas-electronics)
 </details>
 
 ### Template of functional graph
