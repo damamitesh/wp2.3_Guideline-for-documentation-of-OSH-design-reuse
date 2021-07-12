@@ -90,14 +90,14 @@ How to visualize of the assembly or disasembly process?
  #### 4. Mechanical interfaces/atachements to main body
  #### 5. Describing the machining/ fabrication of components if it is necessary (refer to [manufacturing](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Documentation/4.%20Manufacturing/Manufactured%20workpiece#2-manufacturing-instructions-should-include))
   
-  *You can use this template on the App diagram to define the component and then explain the process of machining/ fabrication.*
+  *You can use this template on the App diagram to demonstrate the components and then explain the process of machining/ fabrication.*
  
 ![image](https://user-images.githubusercontent.com/59058909/124918376-40148400-dff5-11eb-8c14-ab685606dc89.png)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDescribing%20the%20machining%2F%20fabrication.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDescribing%20the%20machining%2Ffabrication.png">Edit in diagrams.net</a>
  
  #### 6. Structural assembly sequences 
-   * Part list (refer to [Bill of Material](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Documentation/4.%20Manufacturing/Manufactured%20workpiece#bom-template))
+   * Part list (refer to Bill of Material (BOM) of [manufactured workpieces](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Documentation/4.%20Manufacturing/Manufactured%20workpiece) or [purchased workpieces](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Documentation/4.%20Manufacturing/Purchased%20workpiece))
    * Data sheet
   
    *You can use this template on the App diagram to define the part list and/or data sheet.*
