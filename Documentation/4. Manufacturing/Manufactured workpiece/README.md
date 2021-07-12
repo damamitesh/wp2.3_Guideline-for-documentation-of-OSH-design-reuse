@@ -161,7 +161,10 @@ What does include the documentation of manufacturing sequences and instructions?
     - Cutting
     - Milling
     - etc.
-  3. Describing the needed shape on the workpiece according to standard file format( refer to manufacturing file format)
+  3. Describing the needed features on the workpiece according to standard file format( refer to manufacturing file format)
+    - Hole
+    - Square
+    - ...
   ``` 
 </details>
 
@@ -175,7 +178,7 @@ What does include the documentation of manufacturing sequences and instructions?
  
   1. Machine name:...
   2. Mahining process description:...
-  3. Geometrical description of the needed shape 
+  3. Geometrical description of the needed feature 
  
  #### *2.4. Manufacturing files (STL, svg or G-code, ...)*
 <details>
@@ -200,7 +203,7 @@ What does include the documentation of standard file formats for the manufacturi
 
 #### *Example 2:* [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Specifications), [2D drawing file](https://wiki.satnogs.org/File:C1001.png)
   
-#### *Example 3: *Types of CAD format[transmagic](https://transmagic.com/cad-formats/)*
+#### *Example 3:* Types of CAD format of[transmagic](https://transmagic.com/cad-formats/)*
 </details>
 
  #### Template of manufacturing files
