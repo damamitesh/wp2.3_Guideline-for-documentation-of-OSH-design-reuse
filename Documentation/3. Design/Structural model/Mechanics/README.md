@@ -141,7 +141,7 @@ To reuse a design model, it should provide information consist of:
 > Source: Kutz, M. ed., 2002. Handbook of materials selection. John Wiley & Sons.
   </details>
   
-### Template of material cgaracteristics
+### Template of material Characteristics
  
   #### Documentation of material cgaracteristics
   1. Name of material characteristice
