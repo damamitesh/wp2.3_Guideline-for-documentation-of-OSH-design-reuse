@@ -121,7 +121,7 @@
 <details>
   <summary>Click to see the example!</summary> 
   
-#### *Example 2: Functional graph of XYZ Cargo-ADD ONS*:
+#### *Example 1: Functional graph of XYZ Cargo-ADD ONS*:
   
 *The image below shows the functional graph of the relationship between technical functions for maintaining food quality by ADD-ONS of XYZ cargo*
 
