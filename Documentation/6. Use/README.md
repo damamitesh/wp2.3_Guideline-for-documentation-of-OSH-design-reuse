@@ -24,7 +24,7 @@ What should include the documentation of the user guide?
       - Software
       - Firmware
    - Procedure
-      - Installation instructions including:  
+      - Installation instructions including  
          - Firmware
          - Software
          - App
@@ -36,7 +36,7 @@ What should include the documentation of the user guide?
 4. Troubleshooting section  
    - Instructions on how to solve problems
    - Reporting problems and issues on the forums and chat
-   - Feedback of user
+   - Feedback of users
 5. Environmental management
    - Protection against the hot or cold weather conditions
    - Determining the acceptable temperature range
@@ -66,7 +66,7 @@ How to visualize the process of user guide ?
 
 ### Template of use
 
-  #### 1. Description of product
+  #### 1. Description of the device of the product
   * ...
      
  #### 2. Use of product
