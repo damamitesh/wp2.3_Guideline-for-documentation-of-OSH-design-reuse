@@ -9,7 +9,7 @@
  ```
  1. What minimum documentation should the architectural structure provide?
 
-    - A model specifying the kind of components and their sub-components in the format of a tree  or a graph (refer to example 1 and 2) such as
+    - A model specifying the kind of components and their sub-components in the format of a tree  or a graph including
       - DC motor
       - A/D converter
       - DC converters  
@@ -71,7 +71,7 @@
   2. Name of modeling language
      * UML
      * ...
-  3. Name of Software
+  3. Name of software
      * Online app diagram
      * ...
  
@@ -111,7 +111,7 @@ To reuse a electrical design, it should provide information consist of:
   1. Editable file formats
      * Source formats
      * Neutral formats
-  2. Name of Software
+  2. Name of software
      * Tiny CAD
      * ...
  
