@@ -9,7 +9,7 @@
  ```
 1. What minimum documentation should the architectural structure provide?
 
-- A model specifying the kinds of components and their sub-components of software in the format of a tree  or graph (refer to the example below)
+- A model specifying the kinds of components and their sub-components of software in the format of a tree  or graph 
 
 2. How to implement the architectural model?
  
@@ -58,7 +58,7 @@
 This part based on the different products could include
 
 - Description of programming algorithm   
-- The source code. 
+- The source code 
 - Version of software
  ```
 </details>
@@ -79,7 +79,7 @@ This part based on the different products could include
 
  #### Documentation of different parts of software
   1. Description of programming algorithm 
-     * representation of algorithm 
+     * Representation of algorithm 
   2. The source code
   3. Programming software
      * Name
