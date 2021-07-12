@@ -144,7 +144,7 @@ To reuse a design model, it should provide information consist of:
 ### Template of material Characteristics
  
   #### Documentation of material cgaracteristics
-  1. Name of material characteristice
+  1. Name of characteristice
      * Properties
      * Unit of property
      * ...
