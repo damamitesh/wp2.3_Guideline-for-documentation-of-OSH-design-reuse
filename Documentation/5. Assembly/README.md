@@ -17,7 +17,7 @@
 What does include the content of assembly instruction? 
 
 1. Features
-    - What does prepare the assembly of these parts for the final product?
+    - What does the assembly of these parts prepare for the final product?
        - Easy attachment point for differential parts 
        - provide the parts to facilitate ability to change, and add new components easily.
        - Etc.
