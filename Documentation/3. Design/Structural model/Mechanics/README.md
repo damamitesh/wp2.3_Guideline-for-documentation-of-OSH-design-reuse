@@ -9,7 +9,7 @@
 
  ```
 1. What minimum documentation should the architectural structure provide?
-  - A model specifying the kind of components and their sub-components in the format of a tree  or a graph (refer to example 1 and 2)
+  - A model specifying the kind of components and their sub-components in the format of a tree  or a graph  
 
 2. How to implement the architectural model?
   - Use modeling language for representation, such as 
@@ -93,7 +93,7 @@ To reuse a design model, it should provide information consist of:
 
 *2. [MIT Emergency Ventilator, Neutral CAD files](https://e-vent.mit.edu/resources/downloads/)*
 
-*3. Types of CAD format[transmagic](https://transmagic.com/cad-formats/)*
+*3. Types of CAD format of [transmagic](https://transmagic.com/cad-formats/)*
 </details>
 
 ### Template of file format
