@@ -92,7 +92,7 @@ How to visualize of the assembly or disasembly process?
   
   *You can use this template on the App diagram to demonstrate the components and then explain the process of machining/ fabrication.*
  
-![image](https://user-images.githubusercontent.com/59058909/124918376-40148400-dff5-11eb-8c14-ab685606dc89.png)
+![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Describing%20the%20machining_%20fabrication.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDescribing%20the%20machining%2F%20fabrication.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDescribing%20the%20machining%2Ffabrication.png">Edit in diagrams.net</a>
  
@@ -102,7 +102,7 @@ How to visualize of the assembly or disasembly process?
   
    *You can use this template on the App diagram to define the part list and/or data sheet.*
  
-![image](https://user-images.githubusercontent.com/59058909/124921581-d72f0b00-dff8-11eb-9eb7-359dd911d935.png)
+![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Part%20list%20or%20data%20sheet.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FPart%20list%20or%20data%20sheet.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FPart%20list%20or%20data%20sheet.png">Edit in diagrams.net</a>
    
