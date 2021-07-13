@@ -57,8 +57,16 @@ How to visualize the process of disposal?
   * Conditionally recyclable
      * Materials
      * How to conditionally recycle
+
+ *You can use this template on the App diagram to distinguish the disposable and non-disposable components or products their type of materials.*
+ 
+ ![image](https://user-images.githubusercontent.com/59058909/125427597-f2a556b7-97e2-4720-a215-305ac40fafe1.png)
+
+ <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDisposal.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDisposal.png">Edit in diagrams.net</a>
+ 
  #### 2. End of life of the product
  ...
  #### 3. How to disassemble a product for recycling
  ...
-
+ #### 4. Describing the environmental impacts
+ ...
