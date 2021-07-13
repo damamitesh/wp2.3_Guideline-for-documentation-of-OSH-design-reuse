@@ -38,7 +38,7 @@ What should includes the bill of material (not limited to...)?
  
  *You can use this template on the App diagram to define bill of material of your project/product.*
  
-![image](https://user-images.githubusercontent.com/59058909/124770008-4265d800-df3a-11eb-9930-5b13c3765ac4.png)
+![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/BOM%20template%20of%20manufactured%20workpiece.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FBOM%20template%20of%20manufactured%20workpiece.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FBOM%20template%20of%20manufactured%20workpiece.png">Edit in diagrams.net</a>
  
@@ -142,7 +142,7 @@ What should includes the bill of material (not limited to...)?
   
   *You can use this template on the App diagram to define bill of material of your project/product.*
  
-![image](https://user-images.githubusercontent.com/59058909/124744988-97482500-df1f-11eb-8a3a-0474185083b3.png)
+![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Machining%20parameters.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FMachining%20parameters.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2Fmachnining%20paramters.png">Edit in diagrams.net</a>
 
