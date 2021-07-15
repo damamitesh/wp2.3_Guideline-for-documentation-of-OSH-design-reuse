@@ -1,6 +1,6 @@
 # **Assembly**
 
-*I would like to enable makers to understand the steps of constructing a finished product from components or partially-compiled units.*
+*I would like to enable makers to understand the steps of constructing a finished product from components or partially-compiled units.* 
 
 ## **How to document a assembly or disassembly process?**
 
