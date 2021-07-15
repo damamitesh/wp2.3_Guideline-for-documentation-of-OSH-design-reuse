@@ -8,7 +8,7 @@
 
  ### **Maintenance instructions** 
 <details>
-  <summary>Click to see the guideline!</summary>
+  <summary>Click to see the guideline!</summary> 
  
   - **Definition:** *A maintenance instruction is a technical communication document intended to give recommendations and necessary information to maintain the system effectively.*
 
