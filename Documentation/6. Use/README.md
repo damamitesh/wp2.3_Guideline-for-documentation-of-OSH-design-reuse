@@ -13,7 +13,7 @@
  - **Definition:** *The user guide consists of information that allows end users to operate the product properly, it helps non-technical people pinpoint and solve simple problems without expert assistance.*
 
   ```
-What should include the documentation of the user guide?
+What should include the documentation of the user guide? 
 
 1. Description of the device of the product including:
    - Device name and its defintion 
