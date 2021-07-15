@@ -28,7 +28,7 @@ What should includes the bill of material of the purchased workpiece(not limited
 <details>
   <summary>Click to see the example</summary>
  
- #### *Example: [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/bill_of_materials)*
+ #### *Example: [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/bill_of_materials)* 
 
 </details>
 
