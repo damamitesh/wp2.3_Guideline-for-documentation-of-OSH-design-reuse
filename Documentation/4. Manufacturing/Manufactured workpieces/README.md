@@ -113,8 +113,8 @@ What should includes the bill of material (not limited to...)?
 
      - Cutting speed
      - Feed rate 
-     - Cutting force
      - Depth of cut
+     - Layer thickness
      - Etc.
    ```    
    </details>
@@ -155,15 +155,12 @@ What should includes the bill of material (not limited to...)?
 What does include the documentation of manufacturing sequences and instructions?
  
   1. Name of related machine of each each step
-  2. Describing the sequence of machining process of each step
-    - Drilling
-    - Cutting
-    - Milling
-    - etc.
-  3. Describing the needed features on the workpiece according to standard file format( refer to manufacturing file format)
-    - Hole
-    - Square
-    - ...
+  2. Describing step by step sequence of the machining process
+    - Machine
+    - Type of operation
+    - Tools description 
+    - Process parameters 
+    - Raw material
   ``` 
 </details>
 
@@ -174,6 +171,8 @@ What does include the documentation of manufacturing sequences and instructions?
   </details>
   
    #### Template of manufacturing sequences
+ 
+ put a table
  
   1. Machine name:...
   2. Mahining process description:...
