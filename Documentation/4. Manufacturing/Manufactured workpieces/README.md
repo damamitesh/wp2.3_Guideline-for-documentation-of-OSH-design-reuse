@@ -64,19 +64,15 @@ What should includes the bill of material (not limited to...)?
    2. Other common manufacturing tools
      - 3D printing (FDM, SLS...) (https://en.wikipedia.org/wiki/3D_printing)
      - Thermoforming
-     - Burning machining technology 
-       - Laser cutting
-       - Plasma cutting
-       - ...
- 
-   3. Finishing and its tool kit: to achieve the right properties such as surface quality, geometrical accuracy and mechanical properties, the finishing is essential. 
+     - Burning machining technology (laser cutting, Plasma cutting, ...) 
+     - Bonding technologies (Solder,cold welding,arc welding,adhesive bonding ...)  
+  
+   3. Finishing: to achieve the right properties such as surface quality, geometrical accuracy and mechanical properties, the finishing is essential. 
      - Sanding after 3D printing
-     - Cold welding
      - Gap filling
      - Blasting
      - Polishing
      - Priming and painting
-     - Heat treatments
      - Etc.
   
  How to visualize the manufacturing technology? 
