@@ -53,18 +53,21 @@ What should includes the bill of material (not limited to...)?
  ```
  What should include the documentation of manufacturing technology?
  
- Machines and processes used 
+ Type of machines used 
 
-   1. CNC machine tools for handling or machining metal or other rigid materials
+   1. CNC machine tools for machining metal or other rigid materials
      - Milling machines
-     - Cutting, Drilling machines
+     - Lathe
+     - Cutting, drilling machines
+     - Etc.
     
    2. Other common manufacturing tools
      - 3D printing (FDM, SLS...) (https://en.wikipedia.org/wiki/3D_printing)
+     - Thermoforming
      - Burning machining technology 
        - Laser cutting
        - Plasma cutting
-     - Wire cutting (EDM)
+       - ...
  
    3. Finishing and its tool kit: to achieve the right properties such as surface quality, geometrical accuracy and mechanical properties, the finishing is essential. 
      - Sanding after 3D printing
