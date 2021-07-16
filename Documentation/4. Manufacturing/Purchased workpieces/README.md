@@ -6,10 +6,10 @@
 <details>
   <summary>Click to see the guideline</summary>
  
- - **Definition:** *A bill of materials (BOM) is a comprehensive list of parts, items, and other materials required to create a product, as well as instructions required for gathering and using the required materials.*
+ - **Definition:** *A bill of materials (BOM) is a comprehensive list of parts, items, and other materials required to create a product, as well as instructions required for purchasing the required materials and parts.*
 
 ```
-What should includes the bill of material of the purchased workpiece(not limited to...)?
+What should includes the bill of material for the purchased parts(not limited to...)?
 
    1. Part number
    2. Item name
