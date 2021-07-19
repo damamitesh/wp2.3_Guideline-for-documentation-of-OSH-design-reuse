@@ -23,6 +23,7 @@ What should includes the bill of material (not limited to...)?
 
    1. Part number
    2. Item name
+   3. Raw material
    3. Description
    4. Reference to manufacturing instruction
    5. Quantity
