@@ -24,11 +24,17 @@ What should includes the bill of material (not limited to...)?
    1. Part number
    2. Item name
    3. Raw material
-   3. Description
-   4. Reference to manufacturing instruction
-   5. Quantity
-   6. BOM notes
-   7. ...
+   4. Manufacturer part number
+   5. Digi-Key part number
+   6. Description
+   7. Manufactured part (link to manufacturing instruction)
+   8. Purchased part (link to seller)
+   9. Quantity
+   10. Price
+   11. Manufacturing standard lead time
+   12. Packaging
+   13. BOM notes
+   14. ...
    ```
 </details>
 
