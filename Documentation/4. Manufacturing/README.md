@@ -69,7 +69,7 @@ What should includes the bill of material (not limited to...)?
   <details>
   <summary>Click to see the guideline!</summary>
  
-  - **Definition:** *It means all the machinery, equipment and processes that are used to manufacture products.*
+  - **Definition:** *It means all the machinery, equipment, and processes that are used to manufacture products.  Manufacturing technology guide for finding the type of necessary technology to produce the part. In that case, it should describe the most suitable technology according to the context.*
 
  ```
  What should include the documentation of manufacturing technology?
