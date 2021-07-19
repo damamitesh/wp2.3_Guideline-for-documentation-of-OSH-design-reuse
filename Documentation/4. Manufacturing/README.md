@@ -170,7 +170,7 @@ What should includes the bill of material (not limited to...)?
  <details>
   <summary>Click to see the guideline!</summary>
  
-  - **Definition:** *Manufacturing sequences refer to step-by-step machining and manufacturing processes in a target-oriented arrangement to enable highly efficient manufacturing.*
+  - **Definition:** *Manufacturing sequences refer to step-by-step machining and manufacturing processes in a target-oriented arrangement to enable manufacturing.*
 
 ```
 What does include the documentation of manufacturing sequences and instructions?
@@ -180,7 +180,12 @@ What does include the documentation of manufacturing sequences and instructions?
     - Machine
     - Type of operation
     - Tools description 
-    - Process parameters 
+    - Process parameters
+       - Cutting speed
+       - Feed rate 
+       - Depth of cut
+       - Layer thickness
+       - Etc.
     - Raw material
   ``` 
 </details>
