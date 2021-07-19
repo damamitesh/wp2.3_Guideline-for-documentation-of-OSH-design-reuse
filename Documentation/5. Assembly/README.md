@@ -74,6 +74,8 @@ How to visualize of the assembly or disasembly process?
 #### *Example 2:* [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/mechanical/body_assembly)
 
 #### *Example 3:* [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Assembly) , [Assembly instructions](https://ohai.satnogs.org/project/satnogs-rotator-v3-mechanical-assembly/hardware/) 
+  
+#### *Example 4:* [Open Source Powered Prosthetic Leg](https://www.hackster.io/open-source-bionics/open-source-powered-prosthetic-leg-56be8e#toc-electronics-assembly-4)
 </details>
 
 ### Template of assembly
