@@ -52,7 +52,7 @@ What should includes the bill of material (not limited to...)?
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FBOM%20template.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FBOM%20template%20of%20manufactured%20workpiece.png">Edit in diagrams.net</a>
  
- ### *2. Manufacturing instructions should include:*
+  ### *2. Manufacturing instructions should include:*
  
  #### *2.1. Manufacturing technology*
   <details>
@@ -63,27 +63,26 @@ What should includes the bill of material (not limited to...)?
  ```
  What should include the documentation of manufacturing technology?
  
- Machines and processes used 
+ Type of machines used 
 
-   1. CNC machine tools for handling or machining metal or other rigid materials
+   1. CNC machine tools for machining metal or other rigid materials
      - Milling machines
-     - Cutting, Drilling machines
+     - Lathe
+     - Cutting, drilling machines
+     - Etc.
     
    2. Other common manufacturing tools
      - 3D printing (FDM, SLS...) (https://en.wikipedia.org/wiki/3D_printing)
-     - Burning machining technology 
-       - Laser cutting
-       - Plasma cutting
-     - Wire cutting (EDM)
- 
-   3. Finishing and its tool kit: to achieve the right properties such as surface quality, geometrical accuracy and mechanical properties, the finishing is essential. 
+     - Thermoforming
+     - Burning machining technology (laser cutting, Plasma cutting, ...) 
+     - Bonding technologies (Solder,cold welding,arc welding,adhesive bonding ...)  
+  
+   3. Finishing: to achieve the right properties such as surface quality, geometrical accuracy and mechanical properties, the finishing is essential. 
      - Sanding after 3D printing
-     - Cold welding
      - Gap filling
      - Blasting
      - Polishing
      - Priming and painting
-     - Heat treatments
      - Etc.
   
  How to visualize the manufacturing technology? 
@@ -124,8 +123,8 @@ What should includes the bill of material (not limited to...)?
 
      - Cutting speed
      - Feed rate 
-     - Cutting force
      - Depth of cut
+     - Layer thickness
      - Etc.
    ```    
    </details>
@@ -166,15 +165,12 @@ What should includes the bill of material (not limited to...)?
 What does include the documentation of manufacturing sequences and instructions?
  
   1. Name of related machine of each each step
-  2. Describing the sequence of machining process of each step
-    - Drilling
-    - Cutting
-    - Milling
-    - etc.
-  3. Describing the needed features on the workpiece according to standard file format( refer to manufacturing file format)
-    - Hole
-    - Square
-    - ...
+  2. Describing step by step sequence of the machining process
+    - Machine
+    - Type of operation
+    - Tools description 
+    - Process parameters 
+    - Raw material
   ``` 
 </details>
 
@@ -185,6 +181,8 @@ What does include the documentation of manufacturing sequences and instructions?
   </details>
   
    #### Template of manufacturing sequences
+ 
+ put a table
  
   1. Machine name:...
   2. Mahining process description:...
@@ -222,8 +220,3 @@ What does include the documentation of standard file formats for the manufacturi
  
   1. Adequated 2D/3D files for each manufacturing process
  
-
- 
-
-
-
