@@ -41,11 +41,13 @@ What should includes the bill of material (not limited to...)?
 <details>
   <summary>Click to see the example</summary>
  
- #### *Example: [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/bill_of_materials)*
+ #### *Example 1: [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/bill_of_materials)*
   
 ![image](https://user-images.githubusercontent.com/59058909/124725125-e8025280-df0c-11eb-9be0-67c3670dca17.png)
 
 *BOM of JPL open-source Rover*
+  
+ #### *Example 2: [SatNOGS Rotator v3](https://gitlab.com/librespacefoundation/satnogs/satnogs-rotator/blob/master/rotator-bom.ods)
 
 </details>
 
