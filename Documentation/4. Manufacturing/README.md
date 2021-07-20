@@ -171,6 +171,11 @@ What should includes the bill of material (not limited to...)?
   <summary>Click to see the guideline!</summary>
  
   - **Definition:** *Manufacturing sequences refer to step-by-step machining and manufacturing processes in a target-oriented arrangement to enable manufacturing.*
+  
+  - **Comments:**
+  
+      * Machining sequence should define for the manufacturing of each part.
+      * Machining parameters are all those parameters that are inherent to any machining operation and should have a suitable finite value to smooth and efficient removal of materials. 
 
 ```
 What does include the documentation of manufacturing sequences and instructions?
@@ -194,6 +199,19 @@ What does include the documentation of manufacturing sequences and instructions?
   <summary>Click to see the examples!</summary>
  
    #### *Example 1:* [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/mechanical/body_assembly#3-machiningfabrication)
+  
+   #### *Example 2:* 3D printer parameters 
+
+   * Extruder setting 
+      * Extrusion multiplier
+      * Retraction distance 
+      * Retraction speed 
+      * Coasting
+   * Layer setting
+      * First layer height
+      * First layer speed
+   * Infill setting
+      * Internal/Eternal fill pattern
   </details>
   
    #### Template of manufacturing sequences
