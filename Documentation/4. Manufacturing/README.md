@@ -114,7 +114,7 @@ What should includes the bill of material (not limited to...)?
    
 *You can use this template on the App diagram to define manufacturing technology.*
  
-![image]()
+![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Manufacturing%20technology.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FManufacturing%20technology.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FManufacturing%20technology.png">Edit in diagrams.net</a>
 
