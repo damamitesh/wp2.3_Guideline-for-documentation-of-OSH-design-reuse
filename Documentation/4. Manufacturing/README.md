@@ -155,7 +155,9 @@ What does include the documentation of manufacturing sequences and instructions?
  
    #### *Example 1:* [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/mechanical/body_assembly#3-machiningfabrication)
   
-   #### *Example 2:* 3D printer parameters 
+   #### *Example 2:* [DIY Dremel CNC design and parts](https://www.thingiverse.com/thing:3004773) and [its CAM file for machining](https://www.estlcam.de/) 
+  
+   #### *Example 3:* 3D printer parameters 
 
    * Extruder setting 
       * Extrusion multiplier
@@ -168,7 +170,7 @@ What does include the documentation of manufacturing sequences and instructions?
    * Infill setting
       * Internal/Eternal fill pattern
   
-   #### *Example 3:* 
+   #### *Example 4:* This table shows an example of the manufacturing sequence.
   
   ![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Example%20of%20machining%20sequences.jpg)
   </details>
