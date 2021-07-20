@@ -120,53 +120,8 @@ What should includes the bill of material (not limited to...)?
    * Finishing
      * ...
   2. Vizualization via images and videos
- 
- 
-   #### *2.2. Machining parameters for each process*
-   
-<details>
-  <summary>Click to see the guideline!</summary>
- 
-  - **Definition:** *Machining parameters are all those parameters that are inherent to any machining operation and should have a suitable finite value to smooth and efficient removal of materials. It is necessary to mention them in the documentation to allow an easy replication.*
-  
-   ```
- What should include the documentation of machining parameters?
 
-     - Cutting speed
-     - Feed rate 
-     - Depth of cut
-     - Layer thickness
-     - Etc.
-   ```    
-   </details>
- 
- 
-<details>
-  <summary>Click to see the examples!</summary>
- 
-#### *Example of 3D printer parameters* 
-
- * Extruder setting 
-     * Extrusion multiplier
-     * Retraction distance 
-     * Retraction speed 
-     * Coasting
- * Layer setting
-     * First layer height
-     * First layer speed
- * Infill setting
-     * Internal/Eternal fill pattern
-</details>
- 
-  #### Template of machining parameters
-  
-  *You can use this template on the App diagram to define bill of material of your project/product.*
- 
-![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Machining%20parameters%201.jpg)
-
- <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FMachining%20parameters.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2Fmachnining%20paramters.png">Edit in diagrams.net</a>
-
- #### *2.3. Manufacturing sequences and instructions*
+ #### *2.2. Manufacturing sequences and instructions*
  <details>
   <summary>Click to see the guideline!</summary>
  
@@ -175,7 +130,7 @@ What should includes the bill of material (not limited to...)?
   - **Comments:**
   
       * Machining sequence should define for the manufacturing of each part.
-      * Machining parameters are all those parameters that are inherent to any machining operation and should have a suitable finite value to smooth and efficient removal of materials. 
+      * Process parameters are all those parameters that are inherent to any machining operation and should have a suitable finite value to smooth and efficient removal of materials. 
 
 ```
 What does include the documentation of manufacturing sequences and instructions?
@@ -214,15 +169,21 @@ What does include the documentation of manufacturing sequences and instructions?
       * Internal/Eternal fill pattern
   </details>
   
-   #### Template of manufacturing sequences
+  #### Template of manufacturing sequences
+   
+  #### Template of machining parameters
+  
+  *You can use this template on the App diagram to define bill of material of your project/product.*
  
- put a table
+![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Machining%20parameters%201.jpg)
+
+ <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FMachining%20parameters.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2Fmachnining%20paramters.png">Edit in diagrams.net</a>
  
   1. Machine name:...
   2. Mahining process description:...
   3. Geometrical description of the needed feature 
  
- #### *2.4. Manufacturing files (STL, svg or G-code, ...)*
+ #### *2.3. Manufacturing files (STL, svg or G-code, ...)*
 <details>
   <summary>Click to see the guideline!</summary>
  
