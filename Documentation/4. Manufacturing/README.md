@@ -167,6 +167,10 @@ What does include the documentation of manufacturing sequences and instructions?
       * First layer speed
    * Infill setting
       * Internal/Eternal fill pattern
+  
+   #### *Example 3:* 
+  
+  ![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Example%20of%20machining%20sequences.jpg)
   </details>
   
   #### Template of manufacturing sequences
