@@ -170,10 +170,8 @@ What does include the documentation of manufacturing sequences and instructions?
   </details>
   
   #### Template of manufacturing sequences
-   
-  #### Template of machining parameters
   
-  *You can use this template on the App diagram to define bill of material of your project/product.*
+  *You can use this template on the App diagram to define machining parameters of manufactured parts.*
  
 ![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Machining%20parameters%201.jpg)
 
