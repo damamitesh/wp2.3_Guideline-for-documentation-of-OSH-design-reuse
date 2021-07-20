@@ -170,7 +170,7 @@ What does include the documentation of manufacturing sequences and instructions?
    * Infill setting
       * Internal/Eternal fill pattern
   
-   #### *Example 4:* This table shows an example of the manufacturing sequence.
+   #### *Example 4:* This table shows an example of the manufacturing sequences.
   
   ![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Example%20of%20machining%20sequences.jpg)
   </details>
