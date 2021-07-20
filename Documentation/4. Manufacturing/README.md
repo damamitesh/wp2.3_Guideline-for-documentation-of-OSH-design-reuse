@@ -171,15 +171,12 @@ What does include the documentation of manufacturing sequences and instructions?
   
   #### Template of manufacturing sequences
   
-  *You can use this template on the App diagram to define machining parameters of manufactured parts.*
+  *You can use this template on the App diagram to define manufacturing sequences of each parts.*
  
-![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Machining%20parameters%201.jpg)
+![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Manufacturing%20sequences.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FMachining%20parameters.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2Fmachnining%20paramters.png">Edit in diagrams.net</a>
  
-  1. Machine name:...
-  2. Mahining process description:...
-  3. Geometrical description of the needed feature 
  
  #### *2.3. Manufacturing files (STL, svg or G-code, ...)*
 <details>
