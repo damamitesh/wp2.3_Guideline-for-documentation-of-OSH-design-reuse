@@ -112,14 +112,11 @@ What should includes the bill of material (not limited to...)?
  
    #### Template of Manufacturing technology
    
-  1. Machines and processes used
-   * CNC machine tools
-     * ...
-   * Other common manufacturing tool
-     * ...
-   * Finishing
-     * ...
-  2. Vizualization via images and videos
+*You can use this template on the App diagram to define manufacturing technology.*
+ 
+![image]()
+
+ <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FManufacturing%20technology.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FManufacturing%20technology.png">Edit in diagrams.net</a>
 
  #### *2.2. Manufacturing sequences and instructions*
  <details>
