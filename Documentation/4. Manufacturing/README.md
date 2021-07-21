@@ -132,7 +132,7 @@ What should includes the bill of material (not limited to...)?
 ```
 What does include the documentation of manufacturing sequences and instructions?
  
-  1. Name of related machine of each each step
+  1. Name of related machine of each step
   2. Describing step by step sequence of the machining process
     - Machine
     - Type of operation
