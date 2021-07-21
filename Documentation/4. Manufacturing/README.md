@@ -47,9 +47,9 @@ What should includes the bill of material (not limited to...)?
 
 *BOM of JPL open-source Rover*
   
- #### *Example 2: [SatNOGS Rotator v3](https://gitlab.com/librespacefoundation/satnogs/satnogs-rotator/blob/master/rotator-bom.ods)
+ #### *Example 2: [SatNOGS Rotator v3](https://gitlab.com/librespacefoundation/satnogs/satnogs-rotator/blob/master/rotator-bom.ods)*
   
- #### *Example 3: [Krab v1.0](https://projects.fablabs.io/@avishek/krab-v10)
+ #### *Example 3: [Krab v1.0](https://projects.fablabs.io/@avishek/krab-v10)*
 
 </details>
 
@@ -211,5 +211,5 @@ What does include the documentation of standard file formats for the manufacturi
      
  Identifying the geometry by standard file formats
  
-  1. Adequated 2D/3D files for each manufacturing process
+  1. Adequated 2D/3D files for each manufacturing process (link to manufacturing sequences)
  
