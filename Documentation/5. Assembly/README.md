@@ -17,9 +17,11 @@
 What does include the content of assembly instruction? 
 
 1. Features
-    - What does the assembly of these parts prepare for the final product?
-       - Easy attachment point for differential parts 
+    - What features the assembly of the parts provide?
+      For example:
        - provide the parts to facilitate ability to change, and add new components easily.
+       - Easy attachment point for differential parts 
+       - Uses turnbuckles to give multi-degree rotation about 2 separate points, allowing the geometry to be greatly simplified
        - Etc.
  2. Needed skills for assembly
  3. List of the tools for assembly or disassembly
