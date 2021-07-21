@@ -24,6 +24,9 @@ What does include the content of assembly instruction?
        - Uses turnbuckles to give multi-degree rotation about 2 separate points, allowing the geometry to be greatly simplified
        - Etc.
  2. Needed skills for assembly
+    - Drill Press/Hand Drill
+    - Band Saw/Dremel
+    - Etc.
  3. List of the tools for assembly or disassembly
     - Mandatory
        - Allen Key set
@@ -33,7 +36,7 @@ What does include the content of assembly instruction?
        - Laser cutter
        - Etc. 
  4. Identifying the mechanical interfaces/atachements to main body (refer to example of JPL open-source rover)
- 5. Describing the machining/ fabrication if it is necessary during the assembly (refer to manufacturing)
+ 5. Describing the machining/ fabrication if it is necessary during the assembly (refer to manufacturing and see the template)
     - Machining process
     - Sequence of process
  6. Structral assembly sequence
@@ -49,7 +52,7 @@ What does include the content of assembly instruction?
           - Memeories
           - Advenced connectivity
           - etc.
-       - Device summry
+       - Device summary
           - Reference
           - Part number
        - How to use the component?
@@ -83,17 +86,20 @@ How to visualize of the assembly or disasembly process?
 ### Template of assembly
  
  #### 1. Features
- ...
+   * ...
  #### 2. Needed skills for assembly
- ...
+   * ...
  #### 3. List of the tools for assembly or disassembly
    * Modatory
      * ...
    * Optional
      * ...
  #### 4. Mechanical interfaces/atachements to main body
+  * ...
+  * ...
  #### 5. Describing the machining/ fabrication of components if it is necessary (refer to [manufacturing](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Documentation/4.%20Manufacturing/Manufactured%20workpiece#2-manufacturing-instructions-should-include))
   
+  Note:...
   *You can use this template on the App diagram to demonstrate the components and then explain the process of machining/ fabrication.*
  
 ![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Describing%20the%20machining_%20fabrication.jpg)
