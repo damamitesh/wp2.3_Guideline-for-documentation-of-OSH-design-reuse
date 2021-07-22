@@ -110,7 +110,7 @@ What should includes the bill of material (not limited to...)?
    #### *Example 2:* [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Build_Sequence) 
   </details>
  
-   #### Template of Manufacturing technology
+   #### Template of Manufacturing tools
    
 *You can use this template on the App diagram to define manufacturing technology.*
  
