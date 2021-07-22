@@ -65,14 +65,14 @@ What should includes the bill of material (not limited to...)?
  
   ### *2. Manufacturing instructions should include:*
  
- #### *2.1. Manufacturing technology*
+ #### *2.1. Manufacturing tools*
   <details>
   <summary>Click to see the guideline!</summary>
  
   - **Definition:** *It means all the machinery, equipment, and processes that are used to manufacture products.  Manufacturing technology guide for finding the type of necessary technology to produce the part. In that case, it should describe the most suitable technology according to the context.*
 
  ```
- What should include the documentation of manufacturing technology?
+ What should include the documentation of manufacturing tools?
  
  Type of machines used 
 
@@ -96,7 +96,7 @@ What should includes the bill of material (not limited to...)?
      - Priming and painting
      - Etc.
   
- How to visualize the manufacturing technology? 
+ How to visualize the manufacturing tools? 
   1. Images 
   2. Videos  
  ```
