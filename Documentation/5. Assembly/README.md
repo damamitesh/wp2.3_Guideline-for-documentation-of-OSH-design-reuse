@@ -17,7 +17,7 @@
 What does include the content of assembly instruction? 
 
 1. Features
-    - What features the assembly of the parts provide?
+    - What are the features provided by the assembly of parts?
       For example:
        - provide the parts to facilitate ability to change, and add new components easily.
        - Easy attachment point for differential parts 
