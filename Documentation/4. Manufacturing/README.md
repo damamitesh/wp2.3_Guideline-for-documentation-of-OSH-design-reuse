@@ -83,7 +83,7 @@ What should includes the bill of material (not limited to...)?
      - Etc.
     
    2. Other common manufacturing tools
-     - 3D printing (FDM, SLS...) (https://en.wikipedia.org/wiki/3D_printing)
+     - 3D printing (FDM, SLS...) 
      - Thermoforming
      - Burning machining technology (laser cutting, Plasma cutting, ...) 
      - Bonding technologies (Solder,cold welding,arc welding,adhesive bonding ...)  
