@@ -25,22 +25,22 @@ What should include the documentation of the user guide?
       - Firmware
    - Procedure
       - Installation instructions including  
-         - Firmware
-         - Software
-         - App
+         - Firmware installation 
+         - Software installation
+         - Appinstallation
       - Setup instruction containing 
-         - Software
-         - Firmware
-         - App
-3. Explains how to update the firmware to the latest version
-4. Troubleshooting section  
+         - Software setup
+         - Firmware setup
+         - App setup
+      - Explains how to update the firmware to the latest version
+3. Troubleshooting section  
    - Instructions on how to solve problems
    - Reporting problems and issues on the forums and chat
    - Feedback of users
-5. Environmental management
+4. Environmental management
    - Protection against the hot or cold weather conditions
    - Determining the acceptable temperature range
-6. Repair information (refer to maintenance)
+5. Repair information (refer to maintenance)
 
 How to visualize the process of user guide ?
 1. Images 
@@ -75,13 +75,12 @@ How to visualize the process of user guide ?
   * Procedure
       * Installation instructions
       * Setup instruction
- 
-#### 3. Update of firmware
+  * How to update the firmware
+
+#### 3. Troubleshooting
  * ...
-#### 4. Troubleshooting
+#### 4. Environmental management
  * ...
-#### 5. Environmental management
- * ...
-#### 6. Repair information (refer to [maintenance](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Documentation/7.%20Maintenance))
+#### 5. Repair information (refer to [maintenance](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Documentation/7.%20Maintenance))
  * ...
 
