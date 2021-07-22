@@ -23,20 +23,19 @@ What does include the content of assembly instruction?
        - Easy attachment point for differential parts 
        - Uses turnbuckles to give multi-degree rotation about 2 separate points, allowing the geometry to be greatly simplified
        - Etc.
- 2. Needed skills for assembly
-    - Drill Press/Hand Drill
-    - Band Saw/Dremel
+ 2. Required skills for assembly
+    - Operate drilling machine
+    - Operate Band Saw/Dremel
     - Etc.
  3. List of the tools for assembly or disassembly
     - Mandatory
        - Allen Key set
-       - Imperial Wrench Set
+       - Imperial wrench set
        - Etc.
     - Optional
-       - Laser cutter
+       - Drill press
        - Etc. 
- 4. Identifying the mechanical interfaces/atachements to other parts(refer to example of JPL open-source rover)
- 5. Describing the machining/ fabrication if it is necessary during the assembly (refer to manufacturing and see the template below)
+ 4. Describing the machining/ fabrication if it is necessary during the assembly (refer to manufacturing and see the template below)
     - Machine used
     - Sequence of process
  6. Assembly sequence
@@ -56,6 +55,9 @@ What does include the content of assembly instruction?
           - Reference
           - Part number
        - How to use the component?
+    - Describing the machining/ fabrication if it is necessary during the assembly (refer to manufacturing and see the template below)
+      - Machine used
+      - Sequence of process 
     - The set of steps necessary to properly assemble the parts
     - Identifyin the joining technology in each step
        - Screwing
