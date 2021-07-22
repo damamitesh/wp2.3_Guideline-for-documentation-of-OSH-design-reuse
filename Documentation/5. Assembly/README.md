@@ -42,8 +42,8 @@ What does include the content of assembly instruction?
  6. Assembly sequence
     - Part list for mechanical parts: is a complete list of all parts needed to build the complete product(refer to the BOM at manufacturing section)
        - Item numbers: are based on the assembly structure, that is, the order in which parts are displayed in assembly.
-       - Part number or drawing number: which is a reference back to the detail drawing (Refer to the BOM) 
-       - Description: is usually a part name or a complete description of parts
+       - Part number or drawing number: which is a reference back to the detail drawing (refer to the BOM). 
+       - Description: is usually a part name or a complete description of parts.
        - Quantity: is the number of that particular part used on this assembly. 
        - Image of each part
     - Datasheet of components for electronic parts
