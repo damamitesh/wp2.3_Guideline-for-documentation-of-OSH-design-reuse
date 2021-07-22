@@ -35,11 +35,11 @@ What does include the content of assembly instruction?
     - Optional
        - Laser cutter
        - Etc. 
- 4. Identifying the mechanical interfaces/atachements to main body (refer to example of JPL open-source rover)
- 5. Describing the machining/ fabrication if it is necessary during the assembly (refer to manufacturing and see the template)
-    - Machining process
+ 4. Identifying the mechanical interfaces/atachements to other parts(refer to example of JPL open-source rover)
+ 5. Describing the machining/ fabrication if it is necessary during the assembly (refer to manufacturing and see the template below)
+    - Machine used
     - Sequence of process
- 6. Structral assembly sequence
+ 6. Assembly sequence
     - Part list for mechanical parts: is a complete list of all parts needed to build the complete product(refer to the BOM at manufacturing section)
        - Item numbers: are based on the assembly structure, that is, the order in which parts are displayed in assembly.
        - Part number or drawing number: which is a reference back to the detail drawing (Refer to the BOM) 
