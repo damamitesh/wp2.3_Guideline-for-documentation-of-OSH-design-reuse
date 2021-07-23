@@ -23,18 +23,17 @@ What should includes the bill of material (not limited to...)?
 
    1. Part number
    2. Item name
-   3. Raw material
-   4. Manufacturer part number
-   5. Digi-Key part number
-   6. Description
-   7. Manufactured part (link to manufacturing instruction)
-   8. Purchased part (link to seller)
-   9. Quantity
-   10. Price
-   11. Manufacturing standard lead time
-   12. Packaging
-   13. BOM notes
-   14. ...
+   3. Manufacturer part number
+   4. Digi-Key part number
+   5. Description
+   6. Manufactured part (link to manufacturing instruction)
+   7. Purchased part (link to seller website)
+   8. Quantity
+   9. Price
+   10. Manufacturing standard lead time
+   11. Packaging
+   12. BOM notes
+   13. ...
    ```
 </details>
 
@@ -112,7 +111,7 @@ What should includes the bill of material (not limited to...)?
  
    #### Template of Manufacturing tools
    
-*You can use this template on the App diagram to define manufacturing technology.*
+*You can use this template on the App diagram to define manufacturing tools.*
  
 ![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Manufacturing%20technology.jpg)
 
@@ -127,7 +126,8 @@ What should includes the bill of material (not limited to...)?
   - **Comments:**
   
       * Machining sequence should define for the manufacturing of each part.
-      * Process parameters are all those parameters that are inherent to any machining operation and should have a suitable finite value to smooth and efficient removal of materials. 
+      * Process parameters are all those parameters that are inherent to any machining operation and should have a suitable finite value to smooth and efficient removal of materials.
+      * Manufacturing standard file formats support some of the manufacturing processes and the surface geometry of a design without the possibility of modification.
 
 ```
 What does include the documentation of manufacturing sequences and instructions?
@@ -144,6 +144,11 @@ What does include the documentation of manufacturing sequences and instructions?
        - Layer thickness
        - Etc.
     - Raw material
+    -  Manufacturing files (STL, svg or G-code, ...)
+       - CAD files in an interchange format such as STL that is suitable for 3D priniting 
+       - Nominal geometry and its allowable variation by using symbolic language on 2D drawings like SVG, JPEG and PDF format that is suitable for laser cutting
+       - Manufacturing export formats such as G-code, STEP-NC is suitable for CNC machining
+       - Circuit board design formats such as Gerber RS-274X, excellon that is suitable for vector photoplotters 2D mechanical NC machines
   ``` 
 </details>
 
@@ -170,7 +175,11 @@ What does include the documentation of manufacturing sequences and instructions?
    #### *Example 4:* This table shows an example of the manufacturing sequences.
   
   ![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Example%20of%20machining%20sequences.jpg)
-  </details>
+  
+  #### *Example 5:* [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Specifications), [2D drawing file](https://wiki.satnogs.org/File:C1001.png)
+  
+  #### *Example 6:* Types of CAD format of [transmagic](https://transmagic.com/cad-formats/
+   </details>
   
   #### Template of manufacturing sequences
   
@@ -181,35 +190,4 @@ What does include the documentation of manufacturing sequences and instructions?
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FMachining%20parameters.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2Fmachnining%20paramters.png">Edit in diagrams.net</a>
  
  
- #### *2.3. Manufacturing files (STL, svg or G-code, ...)*
-<details>
-  <summary>Click to see the guideline!</summary>
- 
-  - **Definition:** *Standard file formats support some of the manufacturing processes and the surface geometry of a design without the possibility of modification.*
-
-```
-What does include the documentation of standard file formats for the manufacturing process?
- 
-  1. CAD files in an interchange format such as STL that is suitable for 3D priniting 
-  2. Nominal geometry and its allowable variation by using symbolic language on 2D drawings like SVG, JPEG and PDF format that is suitable for laser cutting
-  3. Manufacturing export formats such as G-code, STEP-NC is suitable for CNC machining
-  4. Circuit board design formats such as Gerber RS-274X, excellon that is suitable for vector photoplotters 2D mechanical NC machines
-  ``` 
-</details>
-
-<details>
-  <summary>Click to see the examples!</summary>
- 
-#### *Example 1:* [Automated Tea Infuser, Standard file (STL format)](https://wikifactory.com/+fablabbratislava/automated-tea-infuser/contributions/3f2c490)
-
-#### *Example 2:* [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Specifications), [2D drawing file](https://wiki.satnogs.org/File:C1001.png)
-  
-#### *Example 3:* Types of CAD format of [transmagic](https://transmagic.com/cad-formats/)
-</details>
-
- #### Template of manufacturing files
-     
- Identifying the geometry by standard file formats
- 
-  1. Adequated 2D/3D files for each manufacturing process (link to manufacturing sequences)
  
