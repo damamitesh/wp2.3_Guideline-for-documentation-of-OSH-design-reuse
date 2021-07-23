@@ -51,7 +51,7 @@ What does include the content of assembly instruction?
        - Device summary
           - Reference
           - Part number
-       - How to use the component?
+       - How to use the parts?
     - Describing the machining/ fabrication if it is necessary during the assembly (refer to manufacturing and see the template below)
       - Machine used
       - Sequence of process 
@@ -103,9 +103,9 @@ How to visualize of the assembly or disasembly process?
  
    *You can use this template on the App diagram to define the data sheet.*
  
-![image]()
+![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Data%20sheet.jpg)
 
- <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FPart%20list%20or%20data%20sheet.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FPart%20list%20or%20data%20sheet.png">Edit in diagrams.net</a>
+ <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FData%20sheet.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FData%20sheet.png">Edit in diagrams.net</a>
  
   * Describing the machining/ fabrication of parts if it is necessary (refer to [manufacturing](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Documentation/4.%20Manufacturing/Manufactured%20workpiece#2-manufacturing-instructions-should-include))
   
