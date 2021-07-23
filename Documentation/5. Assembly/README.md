@@ -35,10 +35,7 @@ What does include the content of assembly instruction?
     - Optional
        - Drill press
        - Etc. 
- 4. Describing the machining/ fabrication if it is necessary during the assembly (refer to manufacturing and see the template below)
-    - Machine used
-    - Sequence of process
- 6. Assembly sequence
+ 4. Assembly sequence
     - Part list for mechanical parts: is a complete list of all parts needed to build the complete product(refer to the BOM at manufacturing section)
        - Item numbers: are based on the assembly structure, that is, the order in which parts are displayed in assembly.
        - Part number or drawing number: which is a reference back to the detail drawing (refer to the BOM). 
@@ -87,29 +84,14 @@ How to visualize of the assembly or disasembly process?
 
 ### Template of assembly
  
- #### 1. Features
+ #### 1. Required skills for assembly
    * ...
- #### 2. Needed skills for assembly
-   * ...
- #### 3. List of the tools for assembly or disassembly
+ #### 2. List of the tools for assembly or disassembly
    * Modatory
      * ...
    * Optional
-     * ...
- #### 4. Mechanical interfaces/atachements to main body
-  * ...
-  * ...
- #### 5. Describing the machining/ fabrication of components if it is necessary (refer to [manufacturing](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Documentation/4.%20Manufacturing/Manufactured%20workpiece#2-manufacturing-instructions-should-include))
-  
-  Explain the process of machining/ fabrication: ...
-  
-  *You can use this template on the App diagram to demonstrate the components and the process of machining/ fabrication.*
- 
-![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Describing%20the%20machining_%20fabrication.jpg)
-
- <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDescribing%20the%20machining%2F%20fabrication.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDescribing%20the%20machining%2Ffabrication.png">Edit in diagrams.net</a>
- 
- #### 6. Assembly sequences 
+     * ... 
+ #### 3. Assembly sequences 
    * Part list (refer to [Bill of Material (BOM)](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Documentation/4.%20Manufacturing#1-bill-of-material-bom))
    * Data sheet
   
@@ -118,6 +100,17 @@ How to visualize of the assembly or disasembly process?
 ![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Part%20list%20or%20data%20sheet.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FPart%20list%20or%20data%20sheet.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FPart%20list%20or%20data%20sheet.png">Edit in diagrams.net</a>
+ 
+ 
+  * Describing the machining/ fabrication of parts if it is necessary (refer to [manufacturing](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Documentation/4.%20Manufacturing/Manufactured%20workpiece#2-manufacturing-instructions-should-include))
+  
+  Explain the process of machining/ fabrication: ...
+  
+  *You can use this template on the App diagram to demonstrate the components and the process of machining/ fabrication.*
+ 
+![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Describing%20the%20machining_%20fabrication.jpg)
+
+ <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDescribing%20the%20machining%2F%20fabrication.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDescribing%20the%20machining%2Ffabrication.png">Edit in diagrams.net</a>
    
    * The set of steps necessary to properly assemble the parts
      
