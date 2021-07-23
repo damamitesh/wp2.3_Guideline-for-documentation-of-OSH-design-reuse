@@ -42,7 +42,7 @@ What should includes the bill of material (not limited to...)?
  
  #### *Example 1: [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/bill_of_materials)*
   
-![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/BOM%20template-2.jpg)
+![image](https://user-images.githubusercontent.com/59058909/126754681-8afeaaa9-619e-49c5-94ca-962bd0d225c3.png)
 
 *BOM of JPL open-source Rover*
   
