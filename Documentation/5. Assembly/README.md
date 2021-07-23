@@ -16,18 +16,11 @@
  ```
 What does include the content of assembly instruction? 
 
-1. Features
-    - What are the features provided by the assembly of parts?
-      For example:
-       - provide the parts to facilitate ability to change, and add new components easily.
-       - Easy attachment point for differential parts 
-       - Uses turnbuckles to give multi-degree rotation about 2 separate points, allowing the geometry to be greatly simplified
-       - Etc.
- 2. Required skills for assembly
+ 1. Required skills for assembly
     - Operate drilling machine
     - Operate Band Saw/Dremel
     - Etc.
- 3. List of the tools for assembly or disassembly
+ 2. List of the tools for assembly or disassembly
     - Mandatory
        - Allen Key set
        - Imperial wrench set
@@ -35,7 +28,7 @@ What does include the content of assembly instruction?
     - Optional
        - Drill press
        - Etc. 
- 4. Assembly sequence
+ 3. Assembly sequence
     - Part list for mechanical parts: is a complete list of all parts needed to build the complete product(refer to the BOM at manufacturing section)
        - Item numbers: are based on the assembly structure, that is, the order in which parts are displayed in assembly.
        - Part number or drawing number: which is a reference back to the detail drawing (refer to the BOM). 
