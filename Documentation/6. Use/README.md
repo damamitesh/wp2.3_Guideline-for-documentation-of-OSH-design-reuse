@@ -48,7 +48,7 @@ How to visualize the process of user guide ?
   ```
  </details>
  
- <details>
+ <details> 
   <summary>Click to see the example!</summary>
  
  *Some examples of open-source projects that show the user guide.*
