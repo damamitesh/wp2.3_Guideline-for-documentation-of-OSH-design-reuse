@@ -64,7 +64,7 @@ How to visualize the process of disposal?
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDisposal.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDisposal.png">Edit in diagrams.net</a>
  
- #### 2. End of life of the product
+ #### 2. End of life of the product 
  ...
  #### 3. How to disassemble a product for recycling
  ...
