@@ -43,7 +43,7 @@ What does include the content of assembly instruction?
           - etc.
        - Device summary
           - Reference
-          - Part number
+          - Part number 
        - How to use the parts?
     - Describing the machining/ fabrication if it is necessary during the assembly (refer to manufacturing and see the template below)
       - Machine used
