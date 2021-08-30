@@ -2,7 +2,7 @@
 
 *I would like to enable makers to understand the process of modifying a system or component after delivery to correct faults, improve performance or other attributes, or adapt to a changing environment.*
 
-## **How to document the maintenance?**
+## **How to document the maintenance?** 
 
 *Maintenance instructions provide the necessary information to maintain the system effectively and perform the required operations to system works properly in the long run. This includes advice on the frequency of the maintenance and the risks of failure.*
 
