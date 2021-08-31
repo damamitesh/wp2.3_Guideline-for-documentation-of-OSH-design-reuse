@@ -4,7 +4,7 @@
 2. Bill of material 
 3. Manufacturing tools
 4. Manufacturing sequences
-  4.1. Machining 
-  4.2. Process parameters 
-  4.3. Manufacturing standard file formats 
+5. Machining 
+6. Process parameters 
+7. Manufacturing standard file formats 
 
