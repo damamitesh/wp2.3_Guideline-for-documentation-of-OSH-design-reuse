@@ -121,12 +121,9 @@ How to visualize of the assembly or disasembly process?
      
    *You can use this template on the App diagram to explain the set of stages for the assembly of the parts.*
  
-![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Steps%20to%20assemble%20the%20parts.jpg)
+![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Steps%20to%20assemble%20the%20parts%201.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FSteps%20to%20assemble%20the%20parts.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FSteps%20to%20assemble%20the%20parts.png">Edit in diagrams.net</a>
-     
-   * Identifyin the joining technology in each step
-    
-     * ... 
+
 
  
