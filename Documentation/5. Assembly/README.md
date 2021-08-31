@@ -102,9 +102,9 @@ How to visualize of the assembly or disasembly process?
  
   * Describing the machining/ fabrication of parts if it is necessary (refer to [manufacturing](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Documentation/4.%20Manufacturing/Manufactured%20workpiece#2-manufacturing-instructions-should-include))
   
- *You can use this template  on the App diagram to demonstrate the components and the process of machining/ fabrication and .*
+ *You can use this template  on the App diagram to demonstrate the components and the process of machining/ fabrication.*
  
-![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Describing%20the%20machining_%20fabrication.jpg)
+![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Describing%20the%20machining_%20fabrication%201.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDescribing%20the%20machining%2F%20fabrication.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDescribing%20the%20machining%2Ffabrication.png">Edit in diagrams.net</a>
    
