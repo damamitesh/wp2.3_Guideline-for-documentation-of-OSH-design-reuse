@@ -144,7 +144,7 @@ What does include the documentation of manufacturing sequences and instructions?
        - Layer thickness
        - Etc.
     - Raw material
-    -  Manufacturing files (STL, svg or G-code, ...)
+    - Manufacturing files (STL, svg or G-code, ...)
        - CAD files in an interchange format such as STL that is suitable for 3D priniting 
        - Nominal geometry and its allowable variation by using symbolic language on 2D drawings like SVG, JPEG and PDF format that is suitable for laser cutting
        - Manufacturing export formats such as G-code, STEP-NC is suitable for CNC machining
