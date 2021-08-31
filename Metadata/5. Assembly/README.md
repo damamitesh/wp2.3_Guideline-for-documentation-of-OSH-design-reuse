@@ -3,5 +3,5 @@
 1. Assembly instruction
 2. Assembly tools
 3. Assembly sequences
-4. Machining
+4. joining technology of assembly
 
