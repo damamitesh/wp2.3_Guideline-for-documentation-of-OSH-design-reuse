@@ -117,6 +117,8 @@ How to visualize of the assembly or disasembly process?
    * The set of steps necessary to properly assemble the parts
      
    *You can use this template on the App diagram to explain the set of stages for the assembly of the parts.*
+   
+   *See the example 1 and 2.*
  
 ![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Steps%20to%20assemble%20the%20parts.jpg)
 
