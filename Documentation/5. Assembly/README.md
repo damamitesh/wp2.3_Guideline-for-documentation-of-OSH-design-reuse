@@ -78,7 +78,13 @@ How to visualize of the assembly or disasembly process?
 ### Template of assembly
  
  #### 1. Required skills for assembly
-   * ...
+ 
+ *You can use this template on the App diagram to define the required skills for assembly.*
+ 
+![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Required%20skills.jpg)
+
+ <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FRequired%20skills.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FRequired%20skills.png">Edit in diagrams.net</a>
+
  #### 2. List of the tools for assembly or disassembly
    * Modatory
      * ...
