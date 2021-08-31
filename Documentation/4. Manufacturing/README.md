@@ -178,7 +178,7 @@ What does include the documentation of manufacturing sequences and instructions?
   
   #### *Example 5:* [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Specifications), [2D drawing file](https://wiki.satnogs.org/File:C1001.png)
   
-  #### *Example 6:* Types of CAD format of [transmagic](https://transmagic.com/cad-formats/
+  #### *Example 6:* Types of CAD format of [transmagic](https://transmagic.com/cad-formats/)
    </details>
   
   #### Template of manufacturing sequences
