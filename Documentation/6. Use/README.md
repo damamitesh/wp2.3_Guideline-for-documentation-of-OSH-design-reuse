@@ -38,7 +38,7 @@ What should include the documentation of the user guide?
    - Reporting problems and issues on the forums and chat
    - Feedback of users
 4. Environmental management
-   - Protection against the hot or cold weather conditions
+   - Protection against hot or cold weather conditions
    - Determining the acceptable temperature range
 5. Repair information (refer to maintenance)
 
