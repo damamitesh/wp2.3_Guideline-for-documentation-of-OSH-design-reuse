@@ -80,7 +80,7 @@ How to visualize the process of user guide ?
  
 ![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Use%20the%20product%20and%20device.jpg)
 
- <a href="https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Description%20of%20the%20device%20of%20the%20product.jpg">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDescription%20of%20the%20device%20of%20the%20product.png">Edit in diagrams.net</a> 
+ <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDescription%20of%20the%20device%20of%20the%20product.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDescription%20of%20the%20device%20of%20the%20product.png">Edit in diagrams.net</a> 
 
 #### 3. Troubleshooting
  * ...
