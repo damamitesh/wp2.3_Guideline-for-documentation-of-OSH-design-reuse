@@ -83,7 +83,13 @@ How to visualize the process of user guide ?
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDescription%20of%20the%20device%20of%20the%20product.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDescription%20of%20the%20device%20of%20the%20product.png">Edit in diagrams.net</a> 
 
 #### 3. Troubleshooting
- * ...
+
+  *You can use this template  on the App diagram to explain the use of product*
+ 
+![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Troubleshooting.jpg)
+
+ <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FTroubleshooting.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2Ftroubleshooting.png">Edit in diagrams.net</a>
+ 
 #### 4. Environmental management
  * ...
 #### 5. Repair information (refer to [maintenance](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Documentation/7.%20Maintenance))
