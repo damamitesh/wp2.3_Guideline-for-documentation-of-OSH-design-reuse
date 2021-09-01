@@ -84,7 +84,7 @@ How to visualize the process of user guide ?
 
 #### 3. Troubleshooting
 
-  *You can use this template  on the App diagram to explain the use of product*
+  *You can use this template  on the App diagram to explain the troubleshooting.*
  
 ![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Troubleshooting.jpg)
 
