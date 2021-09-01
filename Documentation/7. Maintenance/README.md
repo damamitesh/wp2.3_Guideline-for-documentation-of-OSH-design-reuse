@@ -51,8 +51,14 @@ How to visualize the process of maintenance?
 
 ### Template of maintenance
  
- #### 1. General maintenance of the system
- ...
+ #### 1. General maintenance of the product or system
+ 
+   *You can use this template on the App diagram to explain the general maintenance.*
+ 
+![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/General%20maintenance.jpg)
+
+ <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FGeneral%20maintenance.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FGeneral%20maintenance.png">Edit in diagrams.net</a> 
+ 
  #### 2. Identifying the defective components 
  ...
  #### 3. Repairing the defective components
