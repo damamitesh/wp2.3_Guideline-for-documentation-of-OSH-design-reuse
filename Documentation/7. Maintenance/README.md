@@ -61,7 +61,7 @@ How to visualize the process of maintenance?
  
  #### 2. Identifying the defective components 
  
-    *You can use this template on the App diagram to identify the defective components.*
+ *You can use this template on the App diagram to identify the defective components.*
  
 ![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Identifying%20the%20defective%20components.jpg)
 
