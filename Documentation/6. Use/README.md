@@ -69,13 +69,13 @@ How to visualize the process of user guide ?
   #### 1. Description of the device of the product
   * ...
      
- #### 2. Use of product
-  * Materials required
-      * ...
-  * Procedure
-      * Installation instructions
-      * Setup instruction
-  * How to update the firmware
+ #### 2. Use of product and its device
+ 
+  *You can use this template  on the App diagram to explain the use of product*
+ 
+![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Use%20the%20product%20and%20device.jpg)
+
+ <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FUse%20the%20product%20and%20device.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FUse%20the%20product%20and%20device.png">Edit in diagrams.net</a> 
 
 #### 3. Troubleshooting
  * ...
