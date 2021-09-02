@@ -32,7 +32,7 @@ What does include the documentation of maintenance instructions?
     - Step-by-step procedures describing the repairing sequence 
     - Refere to the manufacturing section where you can find the manufacturing instructions to rebuild the defective components
     - Verifiction of repair
-4. Replacing equipment parts or components on a schedule
+4. Replacing equipment parts or components according to the schedule
 5. Maintenance tools
     - Various tools necessary to perform the maintenance operation
 
