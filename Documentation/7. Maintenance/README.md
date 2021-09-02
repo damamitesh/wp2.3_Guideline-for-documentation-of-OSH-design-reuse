@@ -74,7 +74,7 @@ How to visualize the process of maintenance?
 
   *You can use this template on the App diagram to describe the repairing process of defective components.*
  
-![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Repairing%20the%20defective%20components.jpg)
+![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Repairing%20the%20defective%20components%201.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FRepairing%20the%20defective%20components.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FRepairing%20the%20defective%20components.drawio.png">Edit in diagrams.net</a>
  
