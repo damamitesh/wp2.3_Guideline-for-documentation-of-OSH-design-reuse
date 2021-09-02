@@ -35,9 +35,9 @@ What does include the documentation of maintenance instructions?
     - Refere to the manufacturing section where you can find the manufacturing instructions to rebuild the defective components
     - Verifiction of repair
     - Required tools for repairing
-4. Replacing equipment parts or components according to the schedule
+4. Replacing equipment components according to the schedule
     - Step-by-step procedures describing the replacing sequence
-    - Required tools for replacing the parts ot components
+    - Required tools for replacing the components
 
 How to visualize the process of maintenance?
  1. Images 
@@ -78,8 +78,10 @@ How to visualize the process of maintenance?
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FRepairing%20the%20defective%20components.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FRepairing%20the%20defective%20components.drawio.png">Edit in diagrams.net</a>
  
- #### 4. Replacing equipment parts or components on a schedule
- ...
- #### 5. Maintenance tools
- ...
+ #### 4. Replacing equipment components on a schedule
+
+  *You can use this template on the App diagram to describe the replacing procedure of components.*
  
+![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Replacing%20the%20parts%20or%20components.jpg)
+
+ <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FReplacing%20the%20parts%20or%20components.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FReplacing%20the%20parts%20or%20components.drawio.png">Edit in diagrams.net</a>
