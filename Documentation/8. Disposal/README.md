@@ -36,7 +36,7 @@ What does comprise the documentation of disposal instructions?
  2. End of life of the product for disposing or recycling
  3. How to disassemble the components a product for recycling/disposing?
  4. Describing the environmental impacts
-   - The negative consequences of the disposable products on the environment if sustainability isn't factored into disposal options
+   - The negative consequences of disposable products on the environment if sustainability isn't factored into disposal options
    - How to select the materials, manufacturing process, etc. to have the less environmental impacts?
  
 How to visualize the process of disposal? 
