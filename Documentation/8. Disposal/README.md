@@ -81,4 +81,10 @@ How to visualize the process of disposal?
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDisassemble%20for%20recycling%20or%20disposing.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDisassembly%20for%20recycling%20or%20disposing%20.drawio.png">Edit in diagrams.net</a>
  ...
  #### 4. Describing the environmental impacts 
- ...
+ 
+  
+   *You can use this template on the App diagram to describe the enviromental impacts.*
+ 
+ ![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Environmental%20impact.jpg)
+
+ <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FEnvironmental%20impact.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FEnvironmental%20impact.drawio.png">Edit in diagrams.net</a>
