@@ -27,17 +27,17 @@ What does comprise the documentation of disposal instructions?
             - Cotton
             - etc.
      - Determining what material can be recycled many times
-     - How to recycle the components or products and their type of materials
+     - How to recycle the components or products and their type of materials?
    - Non-recyclable: the components or products that are designed for single-use, which means they get discarded immediately after use.
-      - How to dispose the non-recyclable components or products and their type of materials
+      - How to dispose the non-recyclable components or products and their type of materials?
    - Conditionally recyclable: this tells you if any additional steps are required before recycling  the component or product.
       - Identifying the conditional recyclable materials 
-      - How to conditionally recycle the components or products and their type of materials
+      - How to conditionally recycle the components or products and their type of materials?
  2. End of life of the product for disposing or recycling
- 3. How to disassemble a product for recycling its components and type of materials
+ 3. How to disassemble a product for recycling of its components and type of materials?
  4. Describing the environmental impacts
    - The negative consequences of the disposable products on the environment if sustainability isn't factored into disposal options
-   - How to select the materials, manufacturing process, etc. to have the less environmental impacts
+   - How to select the materials, manufacturing process, etc. to have the less environmental impacts?
  
 How to visualize the process of disposal? 
  1. Images 
