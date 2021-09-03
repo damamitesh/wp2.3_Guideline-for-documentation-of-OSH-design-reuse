@@ -64,8 +64,14 @@ How to visualize the process of disposal?
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDisposal.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDisposal.png">Edit in diagrams.net</a>
  
- #### 2. End of life of the product 
- ...
+ #### 2. Describing the end of life of the components and product 
+ 
+  *You can use this template on the App diagram to describe the end of life.*
+ 
+ ![image]()
+
+ <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FEnd%20of%20life%20of%20product%20and%20components%20.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDisposal.png">Edit in diagrams.net</a>
+
  #### 3. How to disassemble a product for recycling
  ...
  #### 4. Describing the environmental impacts 
