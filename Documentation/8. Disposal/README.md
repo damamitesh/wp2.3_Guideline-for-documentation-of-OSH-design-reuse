@@ -68,9 +68,9 @@ How to visualize the process of disposal?
  
   *You can use this template on the App diagram to describe the end of life.*
  
- ![image]()
+ ![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/End%20of%20life%20of%20product%20and%20components%20.jpg)
 
- <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FEnd%20of%20life%20of%20product%20and%20components%20.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDisposal.png">Edit in diagrams.net</a>
+ <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FEnd%20of%20life%20of%20product%20and%20components%20.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2F%20End%20of%20life%20of%20product%20and%20components%20.png">Edit in diagrams.net</a>
 
  #### 3. How to disassemble a product for recycling
  ...
