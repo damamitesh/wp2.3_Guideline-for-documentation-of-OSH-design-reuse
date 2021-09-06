@@ -15,6 +15,17 @@
    
 #### *2. Defective components*
 
+ - Detection of defective component 
+ - Fault elimination
+ - verification of fault elimination
+ 
 #### *3. Repair of defective components*
 
+ - Repairing sequence
+ - Verification of repair
+ - Repairing tools
+  
 #### *4. Replacement of defective components*
+
+ - Replacing sequence
+ - Replacing tools
