@@ -1,7 +1,7 @@
 ### Metadata
 
 #### *1. Manufacturing process name:* 
-*It means all the machinery, equipment, and processes that are used to manufacture products. Manufacturing technology guide for finding the type of necessary technology to produce the part.*
+- **Definition:** *It means all the machinery, equipment, and processes that are used to manufacture products. Manufacturing technology guide for finding the type of necessary technology to produce the part.*
    - 3D printing
       - FDM
       - SLS
@@ -18,7 +18,7 @@
       - Adhesive bonding 
       - ...
 #### *2. Bill of material:*
-*A bill of materials (BOM) is a comprehensive list of parts, items, and other materials required to create a product, as well as instructions required for gathering and using the required materials.* 
+- **Definition:** *A bill of materials (BOM) is a comprehensive list of parts, items, and other materials required to create a product, as well as instructions required for gathering and using the required materials.* 
    - Part number
    - Item name
    - Manufacturer part number
@@ -33,14 +33,14 @@
    - BOM notes
 
 #### *3. Machining  parametersare*
-*all those parameters that are inherent to any machining operation and should have a suitable finite value to smooth and efficient removal of materials.*
+- **Definition:** *all those parameters that are inherent to any machining operation and should have a suitable finite value to smooth and efficient removal of materials.*
    - Cutting speed
    - Feed rate 
    - Depth of cut
    - Layer thickness
    - Etc. 
 #### *Manufacturing standard file formats*
-*Support some of the manufacturing processes and the surface geometry of a design without the possibility of modification.* 
+- **Definition:** *Support some of the manufacturing processes and the surface geometry of a design without the possibility of modification.* 
 
    - CAD files
       - STL
