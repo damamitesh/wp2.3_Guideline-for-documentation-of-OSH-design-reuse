@@ -39,6 +39,19 @@
    - Depth of cut
    - Layer thickness
    - Etc. 
-#### * Manufacturing standard file formats*
+#### *Manufacturing standard file formats*
 *Support some of the manufacturing processes and the surface geometry of a design without the possibility of modification.* 
 
+   - CAD files
+      - STL
+   - 2D drawings 
+      - SVG
+      - JPEG 
+      - PDF 
+   - Manufacturing export formats 
+      - G-code
+      - STEP-NC
+   - Circuit board design formats
+      - Gerber RS-274X
+      - Excellon
+  
