@@ -7,7 +7,7 @@
    - Drill press
      
 #### *2.Assembly sequences* 
-Assembly sequences describe the set of steps to assemble the different parts of a product.
+- **Definition:** *Assembly sequences describe the set of steps to assemble the different parts of a product.*
   - Part list: is a complete list of all parts needed to build the complete product ( it is detailed in BOM)
   - Datasheet of components for electronic parts
     - Description of features
