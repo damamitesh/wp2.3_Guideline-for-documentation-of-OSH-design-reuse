@@ -15,9 +15,12 @@
    - Software installation
    - App installation
    
-3. Setup instruction
-4. App
-5. software
-6. Firmware
-7. Troubleshooting
-8. Environmental management 
+#### 3. Setup instruction
+ - **Definition:** * Setup instruction is a group of commands for setting a software, firmware and, app.
+   - Firmware setup 
+   - Software setup 
+   - App setup 
+
+
+8. Troubleshooting
+9. Environmental management 
