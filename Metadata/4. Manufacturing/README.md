@@ -1,6 +1,6 @@
 ### Metadata
 
-1. Manufacturing process name
+1. Manufacturing process name: It means all the machinery, equipment, and processes that are used to manufacture products. Manufacturing technology guide for finding the type of necessary technology to produce the part.
    - 3D printing
       - FDM, SLS... 
    - Thermoforming
@@ -8,7 +8,7 @@
       - laser cutting, Plasma cutting, ... 
    - Bonding technologies 
       - Solder,cold welding,arc welding,adhesive bonding ...
-3. Bill of material 
+2. Bill of material: A bill of materials (BOM) is a comprehensive list of parts, items, and other materials required to create a product, as well as instructions required for gathering and using the required materials. 
    - Part number
    - Item name
    - Manufacturer part number
@@ -21,14 +21,13 @@
    - Manufacturing standard lead time
    - Packaging
    - BOM notes
-5. Manufacturing tools
-6. Manufacturing sequences
-7. Machining 
-8. Machining  parameters
+3. Manufacturing sequences
+4. Machining 
+5. Machining  parameters
    - Cutting speed
    - Feed rate 
    - Depth of cut
    - Layer thickness
    - Etc. 
-9. Manufacturing standard file formats 
+6. Manufacturing standard file formats 
 
