@@ -27,7 +27,7 @@ What should include the documentation of the user guide?
       - Installation instructions including  
          - Firmware installation 
          - Software installation
-         - Appinstallation
+         - App installation
       - Setup instruction containing 
          - Software setup
          - Firmware setup
