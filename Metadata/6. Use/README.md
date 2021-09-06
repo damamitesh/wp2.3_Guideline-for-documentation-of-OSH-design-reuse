@@ -23,9 +23,10 @@
  
 #### 4. Troubleshooting
 - **Definition:** *Troubleshooting instructions is for when the product does not work as expected.*
-   - Firmware setup 
-   - Software setup 
-   - App setup 
+   - Problem solving 
 
-
-9. Environmental management 
+#### 4. Environmental management 
+- **Definition:** *environmental management provide information to protect your product in different weather conditions.*
+  - Hot or cold waether
+  - acceptable temprature
+  - etc.
