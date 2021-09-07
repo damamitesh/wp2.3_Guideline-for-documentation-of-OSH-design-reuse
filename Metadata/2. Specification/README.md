@@ -25,10 +25,24 @@
       - Heat up foods
       - cool down foods
       - Etc.
-
+   - Value
+      - Solid (150 deg Celcius)
+      - Liquid (80 deg Celcius)
+      - Etc.
 #### *4. Constraint* 
 - **Definition:** *A constraint is a choice that makes certain designs "not allowed" or inappropriate for its intended use.*
+   - Input constraints: are imposed as part of the design specifications.
+      - Dismantling 
+      - Customizing
+      - Etc.
+  - System constraints: are constraints imposed by the system in which the design solution must function.
+      - Recyclying purpose
+      - Etc.
 
-
-4. Constraint
-5. Requirement 
+#### *4. Requirement* 
+- **Definition:** *A requirement is a formal statement that specifies when condition C is true, property P of object O is actual and its value shall belong to domain D.*
+  - Characterization of needs: are the minimum set of independent characterization to demonstrate the requirements of the product in the functional domain.
+      - Cold temperature (between 3 °C and 10 °C)
+      - Short-term preservation (3h) 
+      - Long-term preservation (24h)
+      - Etc.
