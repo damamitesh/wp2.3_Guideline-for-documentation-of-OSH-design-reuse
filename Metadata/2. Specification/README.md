@@ -1,7 +1,9 @@
 ### Metadata
 
 1. Stakeholder name
-2. Flow property
-3. Service 
-4. Constraint
-5. Requirement 
+ - Human 
+ - Non-human
+3. Flow property
+4. Service 
+5. Constraint
+6. Requirement 
