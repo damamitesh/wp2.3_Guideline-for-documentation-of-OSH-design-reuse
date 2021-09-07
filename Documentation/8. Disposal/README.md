@@ -28,7 +28,13 @@ What does comprise the documentation of disposal instructions?
      - Determining what material can be recycled many times
      - How to recycle the components or products and their type of materials?
    - Non-recyclable: the components or products that are designed for single-use, which means they get discarded immediately after use.
+      - Identifying the material of components or products.
+         - Textiles
+         - Ceramics
+         - Etc.
       - How to dispose the non-recyclable components or products and their type of materials?
+         - Incineration: This type of waste disposal involves the dumping off method where you eliminate waste materials via combustion.
+         - Landfill: It involves collecting, transporting, dumping, and burying waste in a designated land.
    - Conditionally recyclable: this tells you if any additional steps are required before recycling  the component or product.
       - Identifying the conditional recyclable materials 
       - How to conditionally recycle the components or products and their type of materials?
