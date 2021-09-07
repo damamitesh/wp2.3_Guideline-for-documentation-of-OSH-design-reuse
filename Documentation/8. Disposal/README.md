@@ -23,7 +23,6 @@ What does comprise the documentation of disposal instructions?
       - Identifying the material of disposable components or products.
          - Disposable products are most often made from
             - Polystyrene 
-            - Plastic
             - Cotton
             - etc.
      - Determining what material can be recycled many times
