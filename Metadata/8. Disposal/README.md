@@ -3,12 +3,19 @@
 #### 1.  Disposable product 
 - **Definition:** *disposable product is a product designed for a single use after which it is recycled or is disposed as solid waste.*
    - Recyclable: a process of turning waste into another form of new and reusable materials 
-      - Recyclable material
+      - Recyclable materials
         - Plastic
         - Metal
         - Copper
         - Glass
       - Number of recycling times
-      - Recycling process
+      - Recycling process name
    - Non-recyclable: the components or products that are designed for single-use, which means they get discarded immediately after use.
-   
+     - Non-Recyclable materials
+        - Textiles
+        - Ceramic
+     - Disposal process name
+        - Incineration: This type of waste disposal involves the dumping off method where you eliminate waste materials via combustion.
+        - Landfill: It involves collecting, transporting, dumping, and burying waste in a designated land.
+   - Conditionally recyclable: this tells you if any additional steps are required before recycling the component or product. 
+     - Conditionally recyclable materials   
