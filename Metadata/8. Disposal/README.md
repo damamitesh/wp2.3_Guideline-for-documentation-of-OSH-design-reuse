@@ -21,4 +21,13 @@
      - Conditionally recyclable materials
      - Conditionally recyclable process name 
    - End of life
-#### 2.  Environmental impact
+#### 2.  Environmental assessment
+- **Definition:** *Environmental assessment is the assessment of the environmental consequences of disposing or recycling a product before the decision to move forward with the proposed action.
+    - Negative consequnce 
+      - Toxic substances
+      - Etc.
+    - Reducing the enviromental impact
+      - Material selection
+      - Manufacturing process name
+      - Machining parameters
+      - Etc.  
