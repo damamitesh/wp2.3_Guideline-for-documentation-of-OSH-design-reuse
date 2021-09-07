@@ -12,7 +12,14 @@
       - Nuclear power plant
       - Etc.
 
-3. Flow property
+#### *2. External interfaces* 
+- **Definition:** *External interfaces are interactions between the product and the stakeholders.*
+   - Port interface: it can be in different kinds such as matter, energy or signal
+      - Thermal energy 
+      - Mechnical containment
+      - Etc.
+
+2. Flow property
 4. Service 
 5. Constraint
 6. Requirement 
