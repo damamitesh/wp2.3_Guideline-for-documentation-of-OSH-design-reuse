@@ -17,7 +17,7 @@
 
  - Detection of defective component 
  - Fault elimination
- - verification of fault elimination
+ - Verification of fault elimination
  
 #### *3. Repair of defective components*
 
