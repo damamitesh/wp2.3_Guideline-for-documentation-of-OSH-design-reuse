@@ -18,4 +18,7 @@
         - Incineration: This type of waste disposal involves the dumping off method where you eliminate waste materials via combustion.
         - Landfill: It involves collecting, transporting, dumping, and burying waste in a designated land.
    - Conditionally recyclable: this tells you if any additional steps are required before recycling the component or product. 
-     - Conditionally recyclable materials   
+     - Conditionally recyclable materials
+     - Conditionally recyclable process name 
+   - End of life
+#### 2.  Environmental impact
