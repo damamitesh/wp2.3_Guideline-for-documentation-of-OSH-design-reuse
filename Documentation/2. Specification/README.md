@@ -79,7 +79,8 @@ Example XYZ Cargo ADD-ONS
   - Identify the interactions between maker and the product inculding  
     - repair
       - unmount 
-    - make, reproduce
+    - make
+    - reproduce
     - modify
   - ...
   ```
