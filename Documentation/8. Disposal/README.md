@@ -52,7 +52,8 @@ How to visualize the process of disposal?
      * How many tims the materials can be recycled
      * How to recycle 
   * Non- Recyclable
-      * How to dipose
+      * Materials
+      * How to dispose
   * Conditionally recyclable
      * Materials
      * How to conditionally recycle
