@@ -6,8 +6,17 @@
 
 #### *2. Functional graph* 
 - **Definition:** *The functional graph is a multi-level logical articulation of technical functions.*
-   - 
-
+   - In/out-going flows
+     - Matter
+       - High pressure liquid
+       - etc.
+     - Energy
+       - Electrical
+       - etc.
+     - Information
+       - Signal
+       - Measure temperature  
+   
 #### *3. Name of modeling language*
 - **Definition:** *It is a language for the representation of technical functions and their multi-level logical articulations as a tree or a graph.*
    - UML
