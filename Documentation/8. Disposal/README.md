@@ -40,7 +40,7 @@ What does comprise the documentation of disposal instructions?
       - How to conditionally recycle the components or products and their type of materials?
  2. End of life of the product for disposing or recycling
  3. How to disassemble the components a product for recycling/disposing?
- 4. Describing the environmental impacts
+ 4. Describing the environmental assessment
    - The negative consequences of disposable products on the environment if sustainability isn't factored into disposal options
    - How to select the materials, manufacturing process, etc. to have the less environmental impacts?
  
@@ -86,7 +86,7 @@ How to visualize the process of disposal?
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDisassemble%20for%20recycling%20or%20disposing.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDisassembly%20for%20recycling%20or%20disposing%20.drawio.png">Edit in diagrams.net</a>
  ...
- #### 4. Describing the environmental impacts 
+ #### 4. Describing the environmental assessment 
  
   
    *You can use this template on the App diagram to describe the enviromental impacts.*
