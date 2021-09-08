@@ -45,7 +45,7 @@
   2. Name of modeling language
      * UML
      * ...
-  3. Name of Software for modeloing the architecture
+  3. Name of Software for modeling the architecture
      * Online app diagram
      * ...
 
