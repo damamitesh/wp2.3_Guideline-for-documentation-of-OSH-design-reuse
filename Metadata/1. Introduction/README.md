@@ -43,7 +43,7 @@
   - CC-BY-SA
   - Etc.
 
-#### *9. Sponsors and Partners* 
+#### *10. Sponsors and Partners* 
 *This section addresses the question: Who is sponsoring your project?*
   - URL 
   - Name
