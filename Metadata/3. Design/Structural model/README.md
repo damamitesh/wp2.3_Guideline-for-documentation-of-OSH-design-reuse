@@ -2,10 +2,23 @@
 
 #### *1. Architectural structure* 
 - **Definition:** *The architectural structure is a physical or logical layout of the components of a system design and their internal and external connections.*
-   - Components name 
-     - Power switch
-     - Motor controller 
-     - USB port
+   - Mechanical architecture structure 
+     - Mechnical components name 
+       - Pressure valve
+       - Flow sensor connector
+       - Etc. 
+   - Electerical architecture structure  
+     - Electrical components name 
+       - Carrier Board
+       - Sensors 
+       - Transistors
+       - Etc.
+    - Software architectural structure  
+      - Software components name 
+        - IMU drivers
+        - Position controller
+        - Position and attitude estimator
+        - Etc.
      
 #### *2. File format of design model*  
  - **Definition:** *An editable file format is a standard way that information is encoded for storage and allow the makers to study, modify the geometry of a model and reuse it.*
