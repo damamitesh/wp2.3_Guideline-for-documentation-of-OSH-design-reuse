@@ -55,7 +55,7 @@
     - SADT
     - Etc.
   
-#### *5. Name of open-source software*
+#### *5. Name of software*
  - **Definition:** *IIt consists of two types of open-source software. The first one consists of the software to draw architectural structures. The second one consists of the software to model a design in editable file format.*
     - Name of modeling language software
       - Papyrus
@@ -70,9 +70,9 @@
       - KiCAD
       - ADINA
       - Etc.
-
-
-
-
-
+    - Name of Programming software 
+      - Arduino
+      - Python
+      - Etc.
+    - Version of software 
 
