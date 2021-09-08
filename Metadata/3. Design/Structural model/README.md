@@ -25,11 +25,13 @@
     - Native formats
       - .FCStd format
       - .gbr format
-      - .lib format  
+      - .lib format 
+      - Etc. 
     - Neutral formats 
       - STEP format
       - Kicad_mod format
       - kicad_pcb format
+      - Etc.
   
 #### *3. Material characteristics*  
  - **Definition:** *the characteristics of the materials are those that identify the reactions of materials reactions to heat, electricity, light, force, etc.*   
@@ -56,7 +58,7 @@
     - Etc.
   
 #### *5. Name of software*
- - **Definition:** *IIt consists of two types of open-source software. The first one consists of the software to draw architectural structures. The second one consists of the software to model a design in editable file format.*
+ - **Definition:** *There are three types of software. The first one is the software to draw architectural structures. The second one is modeling a design in editable file format. The third one includes the software for programming.*
     - Name of modeling language software
       - Papyrus
       - App diagram
