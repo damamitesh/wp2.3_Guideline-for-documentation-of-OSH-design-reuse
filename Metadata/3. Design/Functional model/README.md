@@ -9,9 +9,11 @@
    - In/out-going flows
      - Matter
        - High pressure liquid
+       - Low pressure gaz
        - etc.
      - Energy
        - Electrical
+       - Thermal
        - etc.
      - Information
        - Signal
