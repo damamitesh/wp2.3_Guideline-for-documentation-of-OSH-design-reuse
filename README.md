@@ -36,7 +36,7 @@ The documentation template reuses exemplary documentation practices borrowed fro
 
 *This guideline and its template is available for you and your team to follow as reference in the process of developing your project.*
 
-*To reference this guideline, you can follow the guideline and then fill the tempalte in each section in your own Project's readme.* 
+*To reference this guideline, you can follow the guideline and then fill the template in each section in your own Project's readme.* 
 
 *You can even download this template and upload it on the platform of your choice. This can be used as a base for your documentation.*
 
