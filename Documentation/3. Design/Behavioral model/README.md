@@ -88,5 +88,5 @@
   5. Name of software
      * ...
  
-
+### [Metadata](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Metadata/3.%20Design/Behavioral%20model)
 
