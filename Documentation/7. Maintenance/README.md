@@ -85,3 +85,5 @@ How to visualize the process of maintenance?
 ![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Replacing%20the%20parts%20or%20components.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FReplacing%20the%20parts%20or%20components.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FReplacing%20the%20parts%20or%20components.drawio.png">Edit in diagrams.net</a>
+
+### [Metadata](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Metadata/7.%20Maintenance)
