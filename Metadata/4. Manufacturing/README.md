@@ -39,7 +39,7 @@
    - Depth of cut
    - Layer thickness
    - Etc. 
-#### *Manufacturing standard file formats*
+#### *4. Manufacturing standard file formats*
 - **Definition:** *Support some of the manufacturing processes and the surface geometry of a design without the possibility of modification.* 
 
    - CAD files
