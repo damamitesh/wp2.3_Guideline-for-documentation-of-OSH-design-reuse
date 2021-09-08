@@ -29,3 +29,29 @@
          - Corrosion resistance
          - Surface tension
          - Etc.
+  - Initial conditions 
+       - Initial stresses
+       - Temperature
+       - Velocities
+       - Etc.
+  - Boundary conditions: can be imposed on individual solution variables   
+       - Displacements
+       - Rotations
+       - Etc.
+  - Kinematic constraints: are several of the fundamental solution variables in the model
+       - Linear constraint equations
+       - Multi-point constraints
+       - Etc.
+  - Interactions: that are contact and other interactions between parts can be defined
+
+#### *3. Name of open-source software*
+- **Definition:** *It consists the type of open-source software to simulate a gemotrical model.*
+   - Open Modelica
+   - ADINA
+   - Etc.
+
+
+
+
+
+
