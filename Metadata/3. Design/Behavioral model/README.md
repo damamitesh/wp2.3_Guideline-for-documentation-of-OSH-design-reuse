@@ -8,7 +8,7 @@
    - Electronical simulations
    - Etc.
  
- #### *2.Model definition* 
+ #### *2. Model definition* 
    - Geometrical model: An editable file format is a standard way that information is encoded for storage and allow the makers to study, modify the geometry of a model and reuse it.
        - Native formats
           - .FCStd format 
