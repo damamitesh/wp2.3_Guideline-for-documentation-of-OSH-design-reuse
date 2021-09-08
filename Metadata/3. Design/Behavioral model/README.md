@@ -9,8 +9,9 @@
    - Etc.
  
  #### *2.Model definition* 
-   - Mechanical simulation
-   - Physical simulation
-   - Thermo-mechanical simulation
-   - Electronical simulations
-   - Etc.
+   - Geometrical model
+       - Native formats
+          - .FCStd format 
+       - Neutral formats 
+          - STEP formats
+ 
