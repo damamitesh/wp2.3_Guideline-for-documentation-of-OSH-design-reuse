@@ -38,9 +38,9 @@ The documentation template reuses exemplary documentation practices borrowed fro
 
 *To reference this guideline, you can follow the guideline and then fill the template in each section in your own Project's readme.* 
 
-*You can even download this template and upload it on the platform of your choice. This can be used as a base for your documentation.*
+<meta You can even download this template and upload it on the platform of your choice. This can be used as a base for your documentation.>
 
-*What are the specific knowledge prerequisite a maker should have in order to create his own documentation based on this project?*
+*A maker should have the specific knowledge in order to create his own documentation based on this project.
 
 <meta name="description" content="Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch.">
   
