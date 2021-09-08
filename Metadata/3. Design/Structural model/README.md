@@ -19,8 +19,8 @@
       - kicad_pcb format
   
 #### *3. Material characteristics*  
- - **Definition:** *the characteristics of the materials are those that identify the reactions of materials reactions to heat, electricity, light, force, etc.   
-     - Mechanical characteristics*
+ - **Definition:** *the characteristics of the materials are those that identify the reactions of materials reactions to heat, electricity, light, force, etc.*   
+     - Mechanical characteristics.
        - Hardness
        - Elasticity 
        - Plasticity
@@ -43,7 +43,7 @@
     - Etc.
   
 #### *5. Name of open-source software*
- - **Definition:** *It consists two type of open-source software. Fist one consists the the software to draw architectural structure. Second one consists the software to model a design in editable file format *
+ - **Definition:** *IIt consists of two types of open-source software. The first one consists of the software to draw architectural structures. The second one consists of the software to model a design in editable file format.*
     - Name of modeling language software
       - Papyrus
       - App diagram
