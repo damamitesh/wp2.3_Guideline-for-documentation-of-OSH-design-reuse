@@ -36,8 +36,6 @@ The documentation template reuses exemplary documentation practices borrowed fro
 
 *This guideline and its template is available for you and your team to follow as reference in the process of developing your project.*
 
-*To reference this guideline, you can follow the guideline and then fill the template in each section in your own Project's readme.* 
-
 <meta You can even download this template and upload it on the platform of your choice. This can be used as a base for your documentation.>
 
 *A maker should have the specific knowledge in order to create his own documentation based on this project.*
@@ -49,6 +47,14 @@ To get started with your own documentation choose one of the three options:
 - [Clone a GIT repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 - [Edit a Markdown file](https://guides.github.com/features/mastering-markdown/)
 - Fork the repositiry
+
+*Then, to reference this guideline, you can follow the guideline and then fill the template in each section in your own Project's readme.*
+
+*It is possible to use the link of App diagram in tempalte and fill the inofrmatin of your product in the tables or create your represantaions as a graph or tree.*
+
+*To refernce this link of App diagarm, tou can follow these steps to create your own project's table, graph or, tree.*
+
+ - At first,    
 
 ## How to contribute to this documentation project
 
