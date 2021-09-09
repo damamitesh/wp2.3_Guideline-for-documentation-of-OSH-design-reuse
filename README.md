@@ -52,9 +52,19 @@ To get started with your own documentation choose one of the three options:
 
 *It is possible to use the link of App diagram in tempalte and fill the inofrmatin of your product in the tables or create your represantaions as a graph or tree.*
 
-*To refernce this link of App diagarm, tou can follow these steps to create your own project's table, graph or, tree.*
+*To refernce this link of App diagarm, you can follow these steps to create your own project's table, graph or, tree.*
 
- - At first,    
+ - At first, use the link "Edit As New" or "Edit in diagrams.net" to go to App diagram
+ - Then, you can modify the text, table, tree or graph
+ 
+![image](https://user-images.githubusercontent.com/59058909/132663234-720fc3a1-381e-4a00-97ea-844a1212fa43.png)
+
+- After modifying, you can save the changes
+- Finally, it is possible to export the file in different forms ( PNG,JPEG, PDF, HTML, URL,...) and import it in readme.
+
+![image](https://user-images.githubusercontent.com/59058909/132664321-95a2b5d0-ae50-44d7-9133-b4c92d3a30cc.png)
+
+  
 
 ## How to contribute to this documentation project
 
