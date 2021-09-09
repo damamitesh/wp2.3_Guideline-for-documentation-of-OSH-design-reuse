@@ -68,7 +68,7 @@ To get started with your own documentation choose one of the three options:
 
 ## How to contribute to this documentation project
 
-*Want to contribute, improve, modify the guidelmines and templates?*
+*Want to contribute, improve, modify the guidelines and templates?*
 Any comment, request are welcome...
 Open a new issue here on [GitHub](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/issues)
 
