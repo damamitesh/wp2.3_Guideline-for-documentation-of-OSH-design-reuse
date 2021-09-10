@@ -158,7 +158,18 @@ What does include the documentation of manufacturing sequences and instructions?
   
    #### *Example 2:* [DIY Dremel CNC design and parts](https://www.thingiverse.com/thing:3004773) and [its CAM file for machining](https://www.estlcam.de/) 
   
-   #### *Example 3:* 3D printer parameters 
+   #### *Example 3:* This table shows an example of the manufacturing sequences.
+  
+  ![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Example%20of%20machining%20sequences.jpg)
+  
+  #### *Example 4:* [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Specifications), [2D drawing file](https://wiki.satnogs.org/File:C1001.png)
+  
+  #### *Example 5:* Types of CAD format of [transmagic](https://transmagic.com/cad-formats/)
+   </details>
+  
+  #### Template of manufacturing sequences
+  
+    #### 3D printer parameters 
 
    * Extruder setting 
       * Extrusion multiplier
@@ -170,18 +181,6 @@ What does include the documentation of manufacturing sequences and instructions?
       * First layer speed
    * Infill setting
       * Internal/Eternal fill pattern
-  
-   #### *Example 4:* This table shows an example of the manufacturing sequences.
-  
-  ![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Example%20of%20machining%20sequences.jpg)
-  
-  #### *Example 5:* [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Specifications), [2D drawing file](https://wiki.satnogs.org/File:C1001.png)
-  
-  #### *Example 6:* Types of CAD format of [transmagic](https://transmagic.com/cad-formats/)
-   </details>
-  
-  #### Template of manufacturing sequences
-  
   *You can use this template on the App diagram to define manufacturing sequences of each parts.*
  
 ![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Manufacturing%20sequences.jpg)
