@@ -19,18 +19,9 @@
       - ...
 #### *2. Bill of material:*
 - **Definition:** *A bill of materials (BOM) is a comprehensive list of parts, items, and other materials required to create a product, as well as instructions required for gathering and using the required materials.* 
-   - Part number
    - Item name
    - Manufacturer part number
-   - Digi-Key part number
-   - Description
-   - Manufactured part 
-   - Purchased part 
-   - Quantity
-   - Price
-   - Manufacturing standard lead time
-   - Packaging
-   - BOM notes
+   - Digi-Key part number   
 
 #### *3. Machining  parametersare*
 - **Definition:** *all those parameters that are inherent to any machining operation and should have a suitable finite value to smooth and efficient removal of materials.*
