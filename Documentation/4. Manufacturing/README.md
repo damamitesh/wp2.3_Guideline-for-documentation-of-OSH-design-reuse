@@ -192,7 +192,11 @@ What does include the documentation of manufacturing sequences and instructions?
   
    * Cutting speed
    * Feed rate
-   * Deth of cute
+   * Cutting depth
+   * Cutting width
+   * Cutting force
+   * Cutting temperature
+   * cooling
    * ...
  
 ![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Manufacturing%20sequences%201.jpg)
