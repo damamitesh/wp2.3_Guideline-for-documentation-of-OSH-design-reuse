@@ -138,7 +138,7 @@ What does include the documentation of manufacturing sequences and instructions?
     - Type of operation
     - Tools description 
     - Process parameters of each machining operation ( refer to template of manufacturing sequences below)
-       - Process parameters of 3D printinh
+       - Process parameters of 3D printing
        - Process parameters of Laser cutting
        - Process parameters of CNC machine such as Lathe, Milling , etc.
        - Process parameters of welding
