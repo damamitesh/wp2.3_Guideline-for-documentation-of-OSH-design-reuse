@@ -169,7 +169,7 @@ What does include the documentation of manufacturing sequences and instructions?
   
   #### Template of manufacturing sequences
   
-    #### 3D printer parameters 
+  #### 3D printer parameters 
 
    * Extruder setting 
       * Extrusion multiplier
