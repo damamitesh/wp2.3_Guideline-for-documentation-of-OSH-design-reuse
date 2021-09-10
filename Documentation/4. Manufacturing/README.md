@@ -140,7 +140,7 @@ What does include the documentation of manufacturing sequences and instructions?
     - Process parameters of each machining operation ( refer to template of manufacturing sequences below)
        - Process parameters of 3D printing
        - Process parameters of Laser cutting
-       - Process parameters of CNC machine such as Lathe, Milling , etc.
+       - Process parameters of CNC machines such as Lathe, Milling , etc.
        - Process parameters of welding
     - Raw material
     - Manufacturing files (STL, svg or G-code, ...)
@@ -169,7 +169,9 @@ What does include the documentation of manufacturing sequences and instructions?
   
   #### Template of manufacturing sequences
   
-  #### 3D printer parameters 
+   *You can use these paramters for each machining operation to compelet the manufacturing sequences on the App diagram.*
+  
+  #### 1. 3D printer parameters 
 
    * Extruder setting 
       * Extrusion multiplier
@@ -179,19 +181,19 @@ What does include the documentation of manufacturing sequences and instructions?
    * Layer setting
       * First layer height
       * First layer speed
+   * Laver height
+   * Printing bed temperature
    * Infill setting
       * Internal/Eternal fill pattern
-    
-    Extruder setting -- Extrusion multiplier -- Retraction distance -- Retraction speed -- Coasting
-    Layer setting -- First layer height -- First layer speed
-    Laver height
-    Printing bed temperature
-    Infill setting -- Internal/Eternal fill pattern
-    Temperature setting
-    Cooling setting
-
-    
-  *You can use this template on the App diagram to define manufacturing sequences of each parts.*
+   * Temperature setting
+   * Cooling setting
+     
+  #### 2. CNC machines such as Lathe, Milling , etc. parameters 
+  
+   * Cutting speed
+   * Feed rate
+   * Deth of cute
+   * ...
  
 ![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Manufacturing%20sequences.jpg)
 
