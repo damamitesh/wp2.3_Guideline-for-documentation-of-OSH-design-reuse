@@ -219,9 +219,15 @@ What does include the documentation of manufacturing sequences and instructions?
 
   #### 4. Bonding technologies parameters such as welding
     
-   * 
-      *
-   * 
+   * Welding current
+   * Welding voltage
+   * Arc travel speed
+   * Torch angle
+      * Longitudinal
+      * Transverse
+   * Electrode force
+   * Electrode diameters
+   * Length of arc
    
 ![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Manufacturing%20sequences%201.jpg)
 
