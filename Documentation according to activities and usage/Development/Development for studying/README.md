@@ -79,3 +79,11 @@
  </details>
  
  
+# 2. Design
+
+ <details>
+  <summary>Click to see the design!</summary>
+ 
+  ## 2.1 Fonctional model
+  
+   </details>
