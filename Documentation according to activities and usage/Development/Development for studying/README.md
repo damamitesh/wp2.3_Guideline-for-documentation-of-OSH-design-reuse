@@ -1,5 +1,9 @@
 # 1. Introduction
 
+<details>
+  <summary>Click to see the introduction!</summary>
+  
+ ```
  #### 1.1 Motivation
    * ...
 
@@ -32,9 +36,16 @@
    * URL: ...
    * Name: ...
    * E-mail address: ...
+   ```
+ </details>
+ 
 
 # 2. Specification
 
+ <details>
+  <summary>Click to see the specification!</summary>
+  
+ ```
 ### 2.1 Stakeholders
   
    * Stakeholder name 1
@@ -69,3 +80,7 @@
   
    * Requirement 1
    * ...
+   ```
+ </details>
+ 
+ 
