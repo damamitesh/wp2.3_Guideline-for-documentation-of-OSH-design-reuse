@@ -188,7 +188,7 @@ What does include the documentation of manufacturing sequences and instructions?
    * Temperature setting
    * Cooling setting
      
-  #### 2. CNC machines such as Lathe, Milling , etc. parameters 
+  #### 2. CNC machines parameters such as Lathe, Milling , etc. 
   
    * Cutting parameters
       * Cutting speed
@@ -199,13 +199,11 @@ What does include the documentation of manufacturing sequences and instructions?
       * Spindle speed
       * Cutting temperature
    * Cutting tool
-      * Cutting tool material
       * Tool Geometry
-      * Tool coating
       * Tool setting
    * Coolant 
       
- #### 2. Burning machining such as laser cutting parameters 
+ #### 3. Burning machining parameters such as laser cutting 
   
    * Beam parmeters
       * Wavelength
@@ -219,6 +217,11 @@ What does include the documentation of manufacturing sequences and instructions?
       * Gas pressure
       * Stand-off distance
 
+  #### 4. Bonding technologies parameters such as welding
+    
+   * 
+      *
+   * 
    
 ![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Manufacturing%20sequences%201.jpg)
 
