@@ -1,34 +1,64 @@
 # 1. Introduction
 
- #### 1. Motivation
+ #### 1.1 Motivation
    * ...
 
- #### 2. Goal
+ #### 2.1 Goal
    * ...
 
- #### 3. History
+ #### 3.1 History
    * Initiators of the original project: ...
    * URL of the original project: ...
    * URL of other related project: ...
 
- #### 4. Documentation structure
+ #### 4.1 Documentation structure
    * Section 1: ...
    * Section 2: ...
    * Section 3: ...
    
- #### 5. Required skills
+ #### 5.1 Required skills
    * ...
- #### 6. Contribution process
+ #### 6.1 Contribution process
    * ...
- #### 7. Lasgt update
+ #### 7.1 Lasgt update
    * date, time, objet of modification, who, ...
- #### 8. Project team
+ #### 8.1 Project team
    * Name {E-mail}
        * Domain of expertise and role in the project: ...
        * link to personal web page: ...
-#### 9. Licence
+#### 9.1 Licence
    * ... 
-#### 10. Sponsors and partners
+#### 10.1 Sponsors and partners
    * URL: ...
    * Name: ...
    * E-mail address: ...
+
+# 2. Specification
+
+### 2.1 Stakeholders
+  
+   * Stakeholder name 1
+   * ...
+  
+  ![Image of stakeholder diagram for template](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Stakeholder%20diagram%20for%20template.jpg)
+  
+  *The link below can be used to define the stakeholders of your project/product.*
+  
+  <a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FStakeholder%20diagram%20for%20template.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FStakeholder%20diagram%20for%20template.png">Edit in diagrams.net</a>
+  
+  ### 2.2 External interfaces
+     * Stakeholder name 1
+       * Flow 1
+       * ...
+  
+ ![Image of stakeholder diagram for template](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/External%20interfaces%20for%20template.jpg)
+  
+   *The link below can be used to define the external interfaces of your project/product.*
+  
+  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FExternal%20interfaces%20for%20template.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FExternal%20interfaces%20for%20template.drawio">Edit in diagrams.net</a>
+
+  
+  
+  
+  
+  
