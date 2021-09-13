@@ -190,14 +190,19 @@ What does include the documentation of manufacturing sequences and instructions?
      
   #### 2. CNC machines such as Lathe, Milling , etc. parameters 
   
-   * Cutting speed
-   * Feed rate
-   * Cutting depth
-   * Cutting width
-   * Cutting force
-   * Cutting temperature
-   * cooling
-   * ...
+   * Cutting parameters
+      * Cutting speed
+      * Feed rate
+      * Cutting depth
+      * Cutting width
+      * Cutting force
+      * Spindle speed
+      * Cutting temperature
+   * Cutting tool
+      * Cutting tool material
+      * Tool Geometry
+   * Coolant 
+      
  
 ![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Manufacturing%20sequences%201.jpg)
 
