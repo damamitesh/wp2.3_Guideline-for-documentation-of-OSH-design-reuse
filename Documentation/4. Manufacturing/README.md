@@ -207,15 +207,18 @@ What does include the documentation of manufacturing sequences and instructions?
       
  #### 2. Burning machining such as laser cutting parameters 
   
-   * Properties of the laser beam 
+   * Beam parmeters
       * Wavelength
       * Power and intensity 
       * Polarization
-   * Angle of incidence
-   * Cutting speed
-   * Gas pressure
-   * Stand-off distance
-   * Cut edge
+   * Process Parameters
+      * Focusing of lser beams (the focal length of lens)
+      * Focal position
+      * Angle of incidence
+      * Cutting speed
+      * Gas pressure
+      * Stand-off distance
+
    
 ![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Manufacturing%20sequences%201.jpg)
 
