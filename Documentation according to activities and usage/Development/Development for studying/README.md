@@ -79,11 +79,62 @@
  </details>
  
  
-# 2. Design
-
- <details>
-  <summary>Click to see the design!</summary>
+# 3. Design
  
-  ## 2.1 Fonctional model
+  ## 3.1 Functional model
+  
+   <details>
+  <summary>Click to see the functional model!</summary>
+  
+  ## 3.1 functional tree
+  
+   1. A model specifying the kinds of technical functions 
+
+*You can use this template on the App diagram to define the functional tree of your project/product.*
+ 
+ <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20tree%20for%20template.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20tree.png">Edit in diagrams.net</a>
+  
+ 2. A model specifying the relationships between technical functions 
+ 
+ *You can use the link below  to define the functional graph of your project/product.*
+ 
+ <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20graph%20for%20template.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20graph%20for%20template.png">Edit in diagrams.net</a>
+  
+  3. Name of modeling language
+     * ...
+     * ...
+  4. Name of software
+     * Online app diagram
+     * ...
+  
+   </details>
+
+  ## 3.2 Behavioral model
+  
+ <details>
+  <summary>Click to see the behavioral model!</summary>
+
+  1. Type of simulation
+     * ...
+  2. Model definition
+     * Geometrical model
+     * Material characteristics
+     * Initial conditions
+     * Boundary conditions
+     * ...
+     * ...     
+  3. Modelling and results of simulations
+     * ...
+  4. Name of software
+     * ...
+
+   </details>
+
+  ## 3.3 Structural model
+  
+   <details>
+  <summary>Click to see the structural model!</summary>
+  
+  
   
    </details>
