@@ -112,7 +112,7 @@ To reuse a design model, it should provide information consist of:
   1. 3D/2D file format
      * Native formats
      * Neutral formats
-  2. Name of Software
+  2. Name of software
      * FreeCAD
      * ...
 
@@ -153,8 +153,8 @@ To reuse a design model, it should provide information consist of:
   
 ### Template of material Characteristics
  
-  #### Documentation of material cgaracteristics
-  1. Name of characteristice
+  #### Documentation of material characteristics
+  1. Name of characteristic
      * Properties
      * Unit of property
      * ...
