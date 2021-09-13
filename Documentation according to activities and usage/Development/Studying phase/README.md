@@ -152,7 +152,7 @@
    * ...
   
   #### 5. 3D/2D file format
-   * Neutral formats
+   * Native formats
   
   #### 6. Name of software for 3D modeling
    * FreeCAD
