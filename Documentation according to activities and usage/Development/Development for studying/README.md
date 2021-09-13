@@ -44,8 +44,8 @@
   
  ### 2.1 Stakeholders
   
-   * Stakeholder name 1
-   * ...
+  * Stakeholder name 1
+  * ...
   
   *The link below can be used to define the stakeholders of your project/product.*
   
@@ -53,9 +53,9 @@
   
 ### 2.2 External interfaces
   
-     * Stakeholder name 1
-       * Flow 1
-       * ...
+   * Stakeholder name 1
+      * Flow 1
+      * ...
   
    *The link below can be used to define the external interfaces of your project/product.*
   
@@ -63,7 +63,7 @@
 
  ### 2.3 Services
  
-    * Services to stakeholder 1
+   * Services to stakeholder 1
        * Service 1.1
        * ...
   
