@@ -1,7 +1,7 @@
 # 1. Manufacturing
 
 <details>
-  <summary>Click to see the introduction!</summary>
+  <summary>Click to see the Manufacturing!</summary>
 
  #### 1.1 Bill of Material
   
@@ -78,4 +78,19 @@
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FMachining%20parameters.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2Fmachnining%20paramters.png">Edit in diagrams.net</a>
   
   
+ </details>
+ 
+ # 2. Assembly
+
+<details>
+  <summary>Click to see the Assembly!</summary>
+
+ #### 2.1 Required skills for assembly
+  
+ *You can use this template to define the required skills for assembly.*
+ 
+![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Required%20skills.jpg)
+
+ <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FRequired%20skills.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FRequired%20skills.png">Edit in diagrams.net</a>
+ 
  </details>
