@@ -113,18 +113,18 @@
   <summary>Click to see the behavioral model!</summary>
 
   #### 1. Type of simulation
-     * ...
+   * ...
   #### 2. Model definition
-     * Geometrical model
-     * Material characteristics
-     * Initial conditions
-     * Boundary conditions
-     * ...
-     * ...     
+   * Geometrical model
+   * Material characteristics
+   * Initial conditions
+   * Boundary conditions
+   * ...
+         
   #### 3. Modelling and results of simulations
-     * ...
+   * ...
   #### 4. Name of software
-     * ...
+   * ...
 
    </details>
 
@@ -152,7 +152,7 @@
    * ...
   
   #### 5. 3D/2D file format
-   * Native formats
+   *  Neutral formats
   
   #### 6. Name of software for 3D modeling
    * FreeCAD
@@ -167,14 +167,4 @@
   
    </details>
 
-# 4. Manufacturing
- 
-<details>
-  <summary>Click to see the manufacturing</summary>
-  
-  #### 1. Bill of material
- 
- *You can use this template on the App diagram to define bill of material of your project/product.*
 
- <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FBOM%20template.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FBOM%20template%20of%20manufactured%20workpiece.png">Edit in diagrams.net</a>
-  </details>
