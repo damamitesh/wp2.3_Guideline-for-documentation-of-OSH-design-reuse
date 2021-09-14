@@ -16,10 +16,15 @@
   *You can use these paramters for each machining operation to compelet the manufacturing sequences on the template below.*
   
   - Describing step by step sequence of the machining process
+  
     1. Machine
+  
     2. Type of operation
-    3. Tools description 
-    4. Process parameters of each machining operation ( refer to template of manufacturing sequences below)
+  
+    3. Tools description
+  
+    4. Process parameters of each machining operation.
+  
        4.1 Process parameters of 3D printing
           * Extruder setting 
             * Extrusion multiplier
@@ -35,6 +40,7 @@
           * Internal/Eternal fill pattern
           * Temperature setting
           * Cooling setting
+       
        4.2 CNC machines parameters such as Lathe, Milling , etc.
           * Cutting parameters
             * Cutting speed
@@ -48,7 +54,8 @@
             * Tool Geometry
             * Tool setting
           * Coolant  
-       4.3 Burning machining parameters such as laser cutting 
+       
+       4.3 Burning machining parameters such as laser cutting.
           * Beam parmeters
             * Wavelength
             * Power and intensity 
@@ -60,19 +67,20 @@
             * Cutting speed
             * Gas pressure
             * Stand-off distance
-       4.4 Bonding technologies parameters such as welding
+       
+       4.4 Bonding technologies parameters such as welding.
           * Welding current
           * Welding voltage
           * Arc travel speed
-          * Torch angle
-           * Longitudinal
-           * Transverse
+          * Torch angle  
+            * Longitudinal
+            * Transverse
           * Electrode force
           * Electrode diameters
           * Length of arc
-       - Process parameters of CNC machines such as Lathe, Milling , etc.
-       - Process parameters of welding
+  
     5 Raw material
+  
     6 Manufacturing files (STL, svg or G-code, ...)
        - CAD files in an interchange format such as STL that is suitable for 3D priniting 
        - Nominal geometry and its allowable variation by using symbolic language on 2D drawings like SVG, JPEG and PDF format that is suitable for laser cutting
