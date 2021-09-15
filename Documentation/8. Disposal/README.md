@@ -89,7 +89,7 @@ How to visualize the process of disposal?
  #### 4. Describing the environmental assessment 
  
   
-   *You can use this template on the App diagram to describe the enviromental impacts.*
+   *You can use this template on the App diagram to describe the environmental impacts.*
  
  ![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Environmental%20impact.jpg)
 
