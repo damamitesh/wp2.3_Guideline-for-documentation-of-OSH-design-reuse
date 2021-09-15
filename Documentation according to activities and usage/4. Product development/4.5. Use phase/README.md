@@ -30,7 +30,7 @@
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FEnvironmental%20management.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FEnvronmental%20management.png">Edit in diagrams.net</a>
  
-#### 5. Repair information (refer to [maintenance](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Documentation/7.%20Maintenance))
+#### 5. Repair information 
  * ...
   
   </details>
