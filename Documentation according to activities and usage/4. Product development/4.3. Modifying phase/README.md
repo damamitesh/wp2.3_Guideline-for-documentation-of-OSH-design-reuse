@@ -25,6 +25,7 @@
 
 <details>
   <summary>Click to see the simulation model!</summary>
+  
   1. Type of simulation
      * ...
   2. Model definition
