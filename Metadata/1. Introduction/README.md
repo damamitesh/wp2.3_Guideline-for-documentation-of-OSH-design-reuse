@@ -11,34 +11,22 @@
  - URL of the original project
  - URL of other related projects
 
-#### *7. Last updates* 
+#### *4. Last updates* 
 *This section addresses the question: What is the last update of your documentation?*
-  - Date
-  - Time
+
   - Object of modification
-  - Name of modifier
-  - Etc.
     
-#### *8. Project team* 
+#### *5. Project team* 
 *Describe here who are the leader and the main contributors of the project*
-  - Name
-  - E-mail
-  - Domain of expertise
+  
+  - Name of expert
   - Role in the project
-  - link to personal web page
-  - Etc.
 
-#### *9. License* 
+#### *6. License* 
 *This section addresses the question: What open source hardware license your project complies with?*
-  - MIT 
-  - CC-BY-SA
-  - Etc.
 
-#### *10. Sponsors and Partners* 
-*This section addresses the question: Who is sponsoring your project?*
-  - URL 
-  - Name
-  - E-mail
+
+
 
 
 
