@@ -11,15 +11,6 @@
  - URL of the original project
  - URL of other related projects
 
-#### *4. Documentation structure* 
-*This section addresses the question: How is your documentation organized?*
-
-#### *5. Required skills* 
-*What are the specific knowledge a maker shall own to reuse - with or without modification - your product?*
-
-#### *6. Contribution Process* 
-*Describe here how a maker can contribute to your own project*
-
 #### *7. Last updates* 
 *This section addresses the question: What is the last update of your documentation?*
   - Date
