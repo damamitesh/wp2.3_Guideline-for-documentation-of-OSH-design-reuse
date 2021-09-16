@@ -6,7 +6,7 @@
 
 #### *2. Functional graph* 
 - **Definition:** *The functional graph is a multi-level logical articulation of technical functions.*
-   - In/out-going flows
+   - In/outgoing flows
      - Matter
        - High pressure liquid
        - Low pressure gaz
