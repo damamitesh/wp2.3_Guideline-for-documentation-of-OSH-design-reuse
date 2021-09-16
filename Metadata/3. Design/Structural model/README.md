@@ -76,5 +76,5 @@
       - Arduino
       - Python
       - Etc.
-    - Version of software 
+
 
