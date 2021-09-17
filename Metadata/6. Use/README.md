@@ -7,7 +7,6 @@
       - Multimiter
       - Gyroscope
       - etc.
-   - Device definition
    
 #### 2. Installation instruction
  - **Definition:** *An installation guide is a technical communication document intended to assist people on how to install a particular program.*
@@ -27,6 +26,6 @@
 
 #### 4. Environmental management 
 - **Definition:** *environmental management provide information to protect your product in different weather conditions.*
+  - Acceptable temprature
   - Hot or cold waether
-  - acceptable temprature
   - etc.
