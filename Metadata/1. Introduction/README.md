@@ -22,8 +22,7 @@
   - Name of expert
   - Role in the project
 
-#### *6. License* 
-*This section addresses the question: What open source hardware license your project complies with?*
+
 
 
 
