@@ -216,6 +216,7 @@ What does include the documentation of manufacturing sequences and instructions?
       * Cutting speed
       * Gas pressure
       * Stand-off distance
+      * Expected duration
 
   #### 4. Bonding technologies parameters such as welding
     
