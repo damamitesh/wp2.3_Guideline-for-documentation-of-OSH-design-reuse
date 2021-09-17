@@ -218,7 +218,7 @@ What does include the documentation of manufacturing sequences and instructions?
       * Stand-off distance
       * Expected duration
 
-  #### 4. Bonding technologies parameters such as welding
+  #### 4. Bonding technologies parameters such as Arc welding
     
    * Welding current
    * Welding voltage
