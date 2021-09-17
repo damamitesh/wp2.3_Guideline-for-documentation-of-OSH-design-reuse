@@ -6,18 +6,17 @@
   - 3D printing
       - FDM
       - SLS
-      - ... 
+      - SLA 
    - Thermoforming
    - Burning machining technology 
       - laser cutting
       - Plasma cutting
-      - ... 
+      
    - Bonding technologies 
-      - Solde
+      - Solder
       - Cold welding
       - Arc welding
       - Adhesive bonding 
-      - ...
       
 #### *2. Machining  parametersare*
 - **Definition:** *all those parameters that are inherent to any machining operation and should have a suitable finite value to smooth and efficient removal of materials.*
@@ -67,8 +66,9 @@
       * Cutting speed
       * Gas pressure
       * Stand-off distance
+      * Expected duration
 
-  #### 2.4. Bonding technologies parameters such as welding
+  #### 2.4. Bonding technologies parameters such as Arc welding
     
    * Welding current
    * Welding voltage
@@ -90,8 +90,9 @@
 #### *4. Manufacturing standard file formats*
 - **Definition:** *Support some of the manufacturing processes and the surface geometry of a design without the possibility of modification.* 
 
-   - CAD files
+   - Interchange CAD file formats
       - STL
+      - CSG
    - 2D drawings 
       - SVG
       - JPEG 
