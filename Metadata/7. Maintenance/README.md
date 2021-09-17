@@ -5,12 +5,7 @@
    - Cleaning
    - Lubricating
    - Time-based maintenance
-      - Predetermined intervals 
    - Usage-based maintenance
-      - Prescribed criteria
-      - Analysis
-      - Measurement
-      - Periodic test activities
    - Maintenance tools: are the various tools necessary to perform the maintenance operation
    
 #### *2. Defective components*
