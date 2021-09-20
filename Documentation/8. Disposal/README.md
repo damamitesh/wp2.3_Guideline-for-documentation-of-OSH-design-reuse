@@ -38,11 +38,11 @@ What does comprise the documentation of disposal instructions?
    - Conditionally recyclable: this tells you if any additional steps are required before recycling the component or product.
       - Identifying the conditional recyclable materials 
       - How to conditionally recycle the components or products and their type of materials?
- 2. End of life of the product for disposing or recycling
+ 2. Identify the product lifespan for disposing or recycling
  3. How to disassemble the components a product for recycling/disposing?
- 4. Describing the environmental assessment: it is the assessment of the environmental consequences of disposing or recycling a product before the decision to move forward with the proposed action.
-   - The negative consequences of disposable products on the environment if sustainability isn't factored into disposal options
-   - How to select the disposal or recycling process to have the less environmental impacts?
+ <Meta 4. Describing the environmental assessment: it is the assessment of the environmental consequences of disposing or recycling a product before the decision to move forward with the proposed action.>
+   <Meta - The negative consequences of disposable products on the environment if sustainability isn't factored into disposal options>
+    <Meta - How to select the disposal or recycling process to have the less environmental impacts?>
  
 How to visualize the process of disposal? 
  1. Images 
