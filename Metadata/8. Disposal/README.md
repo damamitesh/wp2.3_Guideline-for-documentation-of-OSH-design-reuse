@@ -15,7 +15,7 @@
    - Conditionally recyclable: this tells you if any additional steps are required before recycling the component or product. 
      - Conditionally recyclable materials
      - Conditionally recyclable process name 
-   - End of life
+   - Product lifespan 
    
 #### 2.  Environmental assessment
 - **Definition:** *Environmental assessment is the assessment of the environmental consequences of disposal or recycling a product before the decision to move forward with the proposed action.*
