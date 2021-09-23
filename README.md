@@ -34,11 +34,11 @@ The documentation template reuses exemplary documentation practices borrowed fro
 
 ## Getting started with your own documentation
 
-*This guideline and its template is available for you and your team to follow as reference in the process of developing your project.*
+This guideline and its template is available for you and your team to follow as reference in the process of developing your project.
 
 <meta You can even download this template and upload it on the platform of your choice. This can be used as a base for your documentation.>
 
-*A maker should have the specific knowledge in order to create his own documentation based on this project.*
+A maker should have the specific knowledge in order to create his own documentation based on this project.
 
 <meta name="description" content="Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch.">
   
@@ -48,11 +48,11 @@ To get started with your own documentation choose one of the three options:
 - [Edit a Markdown file](https://guides.github.com/features/mastering-markdown/)
 - Fork the repositiry
 
-*Then, to reference this guideline, you can follow the guideline and then fill the template in each section in your own Project's readme.*
+Then, to reference this guideline, you can follow the guideline and then fill the template in each section in your own Project's readme.
 
-*It is possible to use the link of the App diagram in the template and fill the information of your product in the tables or create your representations as a graph or tree.*
+It is possible to use the link of the App diagram in the template and fill the information of your product in the tables or create your representations as a graph or tree.
 
-*To reference the link of the App diagram in the template, you can follow these steps to create your own project's table, graph or, tree.*
+To reference the link of the App diagram in the template, you can follow these steps to create your own project's table, graph or, tree.
 
  - At first, use the link "Edit As New" or "Edit in diagrams.net" to go to App diagram.
  - Then, you can modify the text, table, tree, or graph.
