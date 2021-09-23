@@ -64,7 +64,7 @@ To use the link of the App diagram in the template, you can follow these steps t
 
 ![image](https://user-images.githubusercontent.com/59058909/132664321-95a2b5d0-ae50-44d7-9133-b4c92d3a30cc.png)
 
-  
+To follow these steps, you can create your own documentation of project.    
 
 ## How to contribute to this documentation project
 
