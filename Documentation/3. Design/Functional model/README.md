@@ -40,14 +40,14 @@
 
  ```
 1. What minimum documentation should the functional tree provide?
-  - A model specifying the kinds of technical functions and their sub-functions in the format of a tree   (refer to functional tree of XYZ Cargo-ADD ONS)
+  - A model specifying the kinds of technical functions and their sub-functions in the format of a tree (refer to functional tree of XYZ Cargo-ADD ONS)
 
 2. How to implement the functional tree?
   - Use functional modeling language for representation, such as  
     - UML (Use Case diagram)
     - SysML (Block Definition, Activity, or Internal Block diagram)
     - SADT/IDEF0 
-    - Functional flow block diagram
+    - Functional flow block diagram 
   - Use open-source software for modeling the tree representation, such as
     - Papyrus
     - Modelio
