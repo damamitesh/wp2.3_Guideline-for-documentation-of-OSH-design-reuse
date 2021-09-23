@@ -52,7 +52,7 @@ Then, to reference this guideline, you can follow the guideline and then fill th
 
 It is possible to use the link of the App diagram in the template and fill the information of your product in the tables or create your representations as a graph or tree.
 
-To reference the link of the App diagram in the template, you can follow these steps to create your own project's table, graph or, tree.
+To use the link of the App diagram in the template, you can follow these steps to create your own project's table, graph or, tree.
 
  - At first, use the link "Edit As New" or "Edit in diagrams.net" to go to App diagram.
  - Then, you can modify the text, table, tree, or graph.
