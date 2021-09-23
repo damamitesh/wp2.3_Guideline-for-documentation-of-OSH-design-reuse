@@ -55,7 +55,7 @@ It is possible to use the link of the App diagram in the template and fill the i
 To use the link of the App diagram in the template, you can follow these steps to create your own project's table, graph or, tree.
 
  - At first, use the link "Edit As New" or "Edit in diagrams.net" to go to App diagram.
- - Then, you can modify the text, table, tree, or graph.
+ - Then, you can modify the text, table, tree, or graph (image below).
  
 ![image](https://user-images.githubusercontent.com/59058909/132663234-720fc3a1-381e-4a00-97ea-844a1212fa43.png)
 
