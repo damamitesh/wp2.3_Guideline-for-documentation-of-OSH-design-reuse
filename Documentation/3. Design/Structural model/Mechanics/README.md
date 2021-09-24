@@ -10,15 +10,8 @@
  ```
 1. What minimum documentation should the architectural structure provide?
   - A model specifying the kind of components and their sub-components in the format of a tree  or a graph
- 
-2. What are the features provided by the assembly of parts?
-      For example:
-       - provide the parts to facilitate ability to change, and add new components easily.
-       - Easy attachment point for differential parts 
-       - Uses turnbuckles to give multi-degree rotation about 2 separate points, allowing the geometry to be greatly simplified
-       - Etc.
 
-3. How to implement the architectural model?
+2. How to implement the architectural model?
   - Use modeling language for representation, such as 
     - SysML (Block Definition, Activity, or Internal Block diagram)
     - UML
@@ -61,15 +54,11 @@
   *You can use the link below as a templates to define the architectural structure of your project/product.*
  
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FArchitectural%20model%20of%20mechanical%20structure%20for%20template.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2F%20Architectural%20model%20of%20mechanical%20structure%20for%20template.png" target="_blank">Edit in diagrams.net</a>
- 
- 2. What are the features provided by the assembly of parts?
-    * ...
-    * ...
-  
- 3. Name of modeling language
+
+ 2. Name of modeling language
      * UML
      * ...
- 4. Name of Software
+ 3. Name of Software
      * Online app diagram
      * ...
 
