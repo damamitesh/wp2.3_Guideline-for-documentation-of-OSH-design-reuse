@@ -68,7 +68,7 @@ How to visualize the process of user guide ?
 
   #### 1. Description of the device of the product
  
-   *You can use this template  on the App diagram to describe the device of the product*
+   *You can use this template  on the App diagram to describe the device of the product.*
  
 ![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Description%20of%20the%20device%20of%20the%20product.jpg)
 
@@ -76,7 +76,7 @@ How to visualize the process of user guide ?
      
  #### 2. Use of product and its device
  
-  *You can use this template  on the App diagram to explain the use of product*
+  *You can use this template  on the App diagram to explain the use of the product.*
  
 ![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Use%20the%20product%20and%20device.jpg)
 
@@ -84,7 +84,7 @@ How to visualize the process of user guide ?
 
 #### 3. Troubleshooting
 
-  *You can use this template  on the App diagram to explain the troubleshooting.*
+  *You can use this template on the App diagram to explain the troubleshooting.*
  
 ![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Troubleshooting.jpg)
 
@@ -92,7 +92,7 @@ How to visualize the process of user guide ?
  
 #### 4. Environmental management
 
- *You can use this template  on the App diagram to explain the environmental  management of the product.*
+ *You can use this template on the App diagram to explain the environmental management of the product.*
  
 ![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Envronmental%20management.png)
 
