@@ -189,7 +189,7 @@ What does include the documentation of manufacturing sequences and instructions?
    * Temperature setting
    * Cooling setting
      
-  #### 2. CNC machines parameters such as Lathe, Milling , etc. 
+  #### 2. CNC machines parameters such as Lathe, Milling, etc. 
   
    * Cutting parameters
       * Cutting speed
@@ -206,12 +206,12 @@ What does include the documentation of manufacturing sequences and instructions?
       
  #### 3. Burning machining parameters such as laser cutting 
   
-   * Beam parmeters
+   * Beam parameters
       * Wavelength
       * Power and intensity 
       * Polarization
    * Process Parameters
-      * Focusing of laser beams (the focal length of lens)
+      * Focusing of laser beams (the focal length of the lens)
       * Focal position
       * Angle of incidence
       * Cutting speed
