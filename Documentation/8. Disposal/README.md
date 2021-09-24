@@ -4,7 +4,7 @@
 
 ## **How to document a disposal process?**
 
-*Disposal instructions can guide the makers to provide the minimum documentation for disposal of a product or its disposable components*
+*Disposal instructions can guide the makers to provide the minimum documentation for disposal of a product or its disposable components.*
 
 *The purpose of the disposal process is to remove a system element from the operating environment with the intent of permanent termination of its use. This process can deal with any hazardous or toxic materials or waste products following the applicable guidance, policy, regulation, and statutes.*
 
@@ -12,7 +12,7 @@
 <details>
   <summary>Click to see the guideline!</summary>
  
-  - **Definition:** *disposal instructions identify the process of removing a system or its component, ensuring the proper handling of any environmentally sensitive materials, and sending the remainder to surplus storage or sale.*
+  - **Definition:** *Disposal instructions identify the process of removing a system or its component, ensuring the proper handling of any environmentally sensitive materials, and sending the remainder to surplus storage or sale.*
 
 
 ```
@@ -25,9 +25,9 @@ What does comprise the documentation of disposal instructions?
             - Polystyrene 
             - Cotton
             - etc.
-     - Determining what material can be recycled many times
+     - Determining what material can recycle many times
      - How to recycle the components or products and their type of materials?
-   - Non-recyclable: the components or products that are designed for single-use, which means they get discarded immediately after use.
+   - Non-recyclable: the components or products that design for single-use, which means they get discarded immediately after use.
       - Identifying the material of components or products.
          - Textiles
          - Ceramics
@@ -42,7 +42,7 @@ What does comprise the documentation of disposal instructions?
  3. How to disassemble the components a product for recycling/disposing?
  4. Describing the environmental assessment: it is the assessment of the environmental consequences of disposing or recycling a product before the decision to move forward with the proposed action.
    - The negative consequences of disposable products on the environment if sustainability isn't factored into disposal options.
-   - How to select the disposal or recycling process to have the less environmental impacts?
+   - How to select the disposal or recycling process to have a less environmental impact?
  
 How to visualize the process of disposal? 
  1. Images 
