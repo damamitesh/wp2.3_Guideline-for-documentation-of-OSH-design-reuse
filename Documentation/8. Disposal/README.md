@@ -55,7 +55,7 @@ How to visualize the process of disposal?
  #### 1. Distinguishing the disposable and non-disposable components or products
   * Recyclable 
      * Materials
-     * How many tims the materials can be recycled
+     * How many times the materials can be recycled
      * How to recycle 
   * Non- Recyclable
       * Materials
@@ -78,7 +78,7 @@ How to visualize the process of disposal?
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FEnd%20of%20life%20of%20product%20and%20components%20.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2F%20End%20of%20life%20of%20product%20and%20components%20.png">Edit in diagrams.net</a>
 
- #### 3. How to disassemble the components a product for recycling/ disposing
+ #### 3. How to disassemble the components of a product for recycling/ disposing
  
    *You can use this template on the App diagram to describe the spets for disassembling to recycle/ dispose the components of a product after their end of life.*
  
