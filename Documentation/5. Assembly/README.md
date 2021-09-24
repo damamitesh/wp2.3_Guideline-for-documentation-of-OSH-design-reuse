@@ -1,16 +1,16 @@
 # **Assembly**
 
-*I would like to enable makers to understand the steps of constructing a finished product from components or partially-compiled units.* 
+*I would like to enable makers to understand the steps of constructing a finished product from components or partially compiled units.* 
 
 ## **How to document a assembly or disassembly process?**
 
 *Assembly instruction can guide the makers to follow the process of assembly or disassembly of components of a product.*
 
-### **Assembly instruction** 
+### **Assembly instructions** 
 <details>
   <summary>Click to see the guideline!</summary>
  
- - **Definition:** *Assembly instruction could illustrate visually and with words and text how to assemble or disassemble the mechanical and electrical components of the product.*
+ - **Definition:** *Assembly instructions could illustrate visually and with words and text how to assemble or disassemble the mechanical and electrical components of the product.*
 
 
  ```
@@ -22,7 +22,7 @@ What does include the content of assembly instruction?
     - Etc.
  2. List of the tools for assembly or disassembly
     - Mandatory
-       - Allen Key set
+       - Allen Keyset
        - Imperial wrench set
        - Etc.
     - Optional
@@ -33,7 +33,7 @@ What does include the content of assembly instruction?
        - Item numbers: are based on the assembly structure, that is, the order in which parts are displayed in assembly.
        - Part number or drawing number: which is a reference back to the detail drawing (refer to the BOM). 
        - Description: is usually a part name or a complete description of parts.
-       - Quantity: is the number of that particular part used on this assembly. 
+       - Quantity is the number of that particular part used on this assembly. 
        - Image of each part
     - Datasheet of components for electronic parts
        - Description of features
