@@ -76,9 +76,10 @@ What should includes the bill of material (not limited to...)?
  Type of machines used 
 
    1. CNC machine tools for machining metal or other rigid materials
-     - Milling machines
+     - Milling 
      - Lathe
-     - Cutting, drilling machines
+     - Cutting 
+     - Drilling 
      - Etc.
     
    2. Other common manufacturing tools
@@ -125,7 +126,7 @@ What should includes the bill of material (not limited to...)?
   
   - **Comments:**
   
-      * Machining sequence should define for the manufacturing of each part.
+      * The machining sequence should define for the manufacturing of each part.
       * Process parameters are all those parameters that are inherent to any machining operation and should have a suitable finite value to smooth and efficient removal of materials.
       * Manufacturing standard file formats support some of the manufacturing processes and the surface geometry of a design without the possibility of modification.
 
@@ -141,7 +142,7 @@ What does include the documentation of manufacturing sequences and instructions?
        - Process parameters of 3D printing
        - Process parameters of Laser cutting
        - Process parameters of CNC machines such as Lathe, Milling , etc.
-       - Process parameters of welding
+       - Process parameters of arc welding
     - Raw material
     - Manufacturing files (STL, svg or G-code, ...)
        - CAD files in an interchange format such as STL that is suitable for 3D priniting 
@@ -169,7 +170,7 @@ What does include the documentation of manufacturing sequences and instructions?
   
   #### Template of manufacturing sequences
   
-   *You can use these paramters for each machining operation to compelet the manufacturing sequences on the App diagram.*
+   *You can use these parameters for each machining operation to complete the manufacturing sequences on the App diagram.*
   
   #### 1. 3D printer parameters 
 
@@ -210,7 +211,7 @@ What does include the documentation of manufacturing sequences and instructions?
       * Power and intensity 
       * Polarization
    * Process Parameters
-      * Focusing of lser beams (the focal length of lens)
+      * Focusing of laser beams (the focal length of lens)
       * Focal position
       * Angle of incidence
       * Cutting speed
