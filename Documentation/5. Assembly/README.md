@@ -87,13 +87,13 @@ HoHow to visualize the assembly or disassembly process?
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FRequired%20skills.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FRequired%20skills.png">Edit in diagrams.net</a>
 
  #### 2. List of the tools for assembly or disassembly
-   * Modatory
+   * Mondatory
      * ...
    * Optional
      * ... 
  #### 3. Assembly sequences 
    * Part list (refer to [Bill of Material (BOM)](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Documentation/4.%20Manufacturing#1-bill-of-material-bom))
-   * Data sheet
+   * Datasheet
   
    *You can use this template on the App diagram to define the part list.*
  
@@ -101,7 +101,7 @@ HoHow to visualize the assembly or disassembly process?
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FPart%20list%20or%20data%20sheet.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FPart%20list%20or%20data%20sheet.png">Edit in diagrams.net</a>
  
-   *You can use this template on the App diagram to define the data sheet.*
+   *You can use this template on the App diagram to define the datasheet.*
  
 ![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Data%20sheet.jpg)
 
