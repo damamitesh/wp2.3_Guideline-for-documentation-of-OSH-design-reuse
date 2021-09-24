@@ -50,13 +50,13 @@ What does include the content of assembly instruction?
       - Sequence of process 
     - The set of steps necessary to properly assemble the parts
        - Description of the assembly at each step
-       - Identifyin the joining technology at each step
+       - Identifying the joining technology at each step
           - Screwing
           - Bolting
           - Soldering
           - Etc.
   
-How to visualize of the assembly or disasembly process?
+HoHow to visualize the assembly or disassembly process?
  1. Images 
  2. Videos 
 ```  
