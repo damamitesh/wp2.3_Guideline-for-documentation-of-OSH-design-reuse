@@ -6,11 +6,11 @@
 
 
 *Manufacturing instructions can guide the makers to follow a process for replicating a product. Manufacturing instructions mean full description and instructions concerning raw material, operating conditions, and process to be employed for the manufacture and assembly of the product.
-The bill of marterial (BOM) is the document that describes all the components and there reference. If the component is to be purchased one should find all the information regired to buy the part. If the part is to be manufactured one should find all the description of the manufacturing instructions as described below.* 
+The bill of material (BOM) is the document that describes all the components and their references. If the component is to be purchased one should find all the information required to buy the part. If the part is to be manufactured one should find all the descriptions of the manufacturing instructions as described below.* 
 
 ## **How to document a manufacturing process a part?**
 
-*If the part is to be manufactured one should find all the description of the manufacturing instructions as described below.* 
+*If the part is to be manufactured one should find all the descriptions of the manufacturing instructions as described below.* 
 
 ### *1. Bill of material (BOM)*
 <details>
@@ -68,7 +68,7 @@ What should includes the bill of material (not limited to...)?
   <details>
   <summary>Click to see the guideline!</summary>
  
-  - **Definition:** *It means all the machinery, equipment, and processes that are used to manufacture products.  Manufacturing technology guide for finding the type of necessary technology to produce the part. In that case, it should describe the most suitable technology according to the context.*
+  - **Definition:** *It means all the machinery, equipment, and processes used to manufacture products. Manufacturing technology guide to find the type of necessary technology to produce the part. In that case, it should describe the most suitable technology according to the context.*
 
  ```
  What should include the documentation of manufacturing tools?
