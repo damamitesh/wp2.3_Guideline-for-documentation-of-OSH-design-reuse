@@ -11,5 +11,5 @@
 > *Figure 1. Same function, different behaviour, different structure (Rosenman & Gero, 1998)* 
 
 
-*Moreover, it should describe the complexity of product via:* 
+*Moreover, it should describe the complexity of the product via:* 
 - **Modular architecture** that describes **“architecture of functions and instructions of the product”.** 
