@@ -79,7 +79,7 @@
 <details>
   <summary>Click to see the guideline!</summary>
  
-- **Definition:** *An editable file format is a standard way that information is encoded for storage and allow the makers to study, modify the layout of circuit diagram, Printed Circuit Board (PCB) and Schematic diagram.* 
+- **Definition:** *An editable file format is a standard way that information is encoded for storage and allows the makers to study, modify the layout of the circuit diagram, Printed Circuit Board (PCB), and Schematic diagram.* 
 
  ```
 To reuse a electrical design, it should provide information consist of:
