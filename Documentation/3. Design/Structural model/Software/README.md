@@ -38,7 +38,7 @@
  
  ![Image of template for architectural structure ](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Template%20of%20software%20architecture.jpg)
  
-  *You can use the link below as a templates to define the software architecture of your project/product.*
+  *You can use the link below as a template to define the software architecture of your project/product.*
  
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FTemplate%20of%20software%20architecture.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FTemplate%20of%20software%20architecture.png" target="_blank">Edit in diagrams.net</a>
  
@@ -75,9 +75,9 @@ This part based on the different products could include
 *3. [Poppy project](https://docs.poppy-project.org/en/installation/)*
 </details>
 
-### Template of different parts of software
+### Template of different parts of the software
 
- #### Documentation of different parts of software
+ #### Documentation of different parts of the software
   1. Description of programming algorithm 
      * Representation of algorithm 
   2. The source code
