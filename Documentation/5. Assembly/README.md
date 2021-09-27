@@ -2,7 +2,7 @@
 
 *I would like to enable makers to understand the steps of constructing a finished product from components or partially compiled units.* 
 
-## **How to document a assembly or disassembly process?**
+## **How to document an assembly or disassembly process?**
 
 *Assembly instruction can guide the makers to follow the process of assembly or disassembly of components of a product.*
 
@@ -38,8 +38,8 @@ What does include the content of assembly instruction?
     - Datasheet of components for electronic parts
        - Description of features
           - Core
-          - Memeories
-          - Advenced connectivity
+          - Memories
+          - Advanced connectivity
           - etc.
        - Device summary
           - Reference
@@ -56,7 +56,7 @@ What does include the content of assembly instruction?
           - Soldering
           - Etc.
   
-HoHow to visualize the assembly or disassembly process?
+How to visualize the assembly or disassembly process?
  1. Images 
  2. Videos 
 ```  
