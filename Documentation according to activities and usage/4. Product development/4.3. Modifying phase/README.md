@@ -7,7 +7,7 @@
  
 </details>
 
-# 2. Native file format
+# 2. Structural model
 
 <details>
   <summary>Click to see the native file format!</summary>
@@ -21,7 +21,7 @@
      * ...
 </details>
 
-# 3. Simulation model
+# 3. Behavioral model
 
 <details>
   <summary>Click to see the simulation model!</summary>
