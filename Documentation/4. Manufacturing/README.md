@@ -4,11 +4,10 @@
 
 ## **How to document a manufacturing process?**
 
-
 *Manufacturing instructions can guide the makers to follow a process for replicating a product. Manufacturing instructions mean full description and instructions concerning raw material, operating conditions, and process to be employed for the manufacture and assembly of the product.
 The bill of material (BOM) is the document that describes all the components and their references. If the component is to be purchased one should find all the information required to buy the part. If the part is to be manufactured one should find all the descriptions of the manufacturing instructions as described below.* 
 
-## **How to document a manufacturing process a part?**
+## **How to document a manufacturing process part?**
 
 *If the part is to be manufactured one should find all the descriptions of the manufacturing instructions as described below.* 
 
@@ -19,7 +18,7 @@ The bill of material (BOM) is the document that describes all the components and
  - **Definition:** *A bill of materials (BOM) is a comprehensive list of parts, items, and other materials required to create a product, as well as instructions required for gathering and using the required materials.*
 
 ```
-What should includes the bill of material (not limited to...)?
+What should include the bill of material (not limited to...)?
 
    1. Part number
    2. Item name
@@ -56,7 +55,7 @@ What should includes the bill of material (not limited to...)?
 
  #### Bill of material
  
- *You can use this template on the App diagram to define bill of material of your project/product.*
+ *You can use this template on the App diagram to define the bill of material of your project/product.*
  
 ![image](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/BOM%20template-2.jpg)
 
@@ -86,9 +85,9 @@ What should includes the bill of material (not limited to...)?
      - 3D printing (FDM, SLS...) 
      - Thermoforming
      - Burning machining technology (laser cutting, Plasma cutting, ...) 
-     - Bonding technologies (Solder,cold welding,arc welding,adhesive bonding ...)  
+     - Bonding technologies (Solder, cold welding, arc welding, adhesive bonding ...)  
   
-   3. Finishing: to achieve the right properties such as surface quality, geometrical accuracy and mechanical properties, the finishing is essential. 
+   3. Finishing: to achieve the right properties such as surface quality, geometrical accuracy, and mechanical properties, finishing is essential. 
      - Sanding after 3D printing
      - Gap filling
      - Blasting
@@ -133,20 +132,20 @@ What should includes the bill of material (not limited to...)?
 ```
 What does include the documentation of manufacturing sequences and instructions?
  
-  1. Name of related machine of each step
+  1. Name of the related machine of each step
   2. Describing step by step sequence of the machining process
     - Machine
     - Type of operation
     - Tools description 
-    - Process parameters of each machining operation ( refer to template of manufacturing sequences below)
+    - Process parameters of each machining operation ( refer to the template of manufacturing sequences below)
        - Process parameters of 3D printing
        - Process parameters of Laser cutting
-       - Process parameters of CNC machines such as Lathe, Milling , etc.
+       - Process parameters of CNC machines such as Lathe, Milling, etc.
        - Process parameters of arc welding
     - Raw material
-    - Manufacturing files (STL, svg or G-code, ...)
-       - CAD files in an interchange format such as STL that is suitable for 3D priniting 
-       - Nominal geometry and its allowable variation by using symbolic language on 2D drawings like SVG, JPEG and PDF format that is suitable for laser cutting
+    - Manufacturing files (STL, SVG or G-code, ...)
+       - CAD files in an interchange format such as STL that is suitable for 3D printing 
+       - Nominal geometry and its allowable variation by using symbolic language on 2D drawings like SVG, JPEG, and PDF format that is suitable for laser cutting
        - Manufacturing export formats such as G-code, STEP-NC is suitable for CNC machining
        - Circuit board design formats such as Gerber RS-274X, excellon that is suitable for vector photoplotters 2D mechanical NC machines
   ``` 
