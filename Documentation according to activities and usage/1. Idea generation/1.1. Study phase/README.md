@@ -9,6 +9,4 @@
    * URL of other related project: ...
   
   
- #### 1.2 Brainstormig
- 
-  </details>
+
