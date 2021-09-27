@@ -150,11 +150,11 @@ Example XYZ Cargo ADD-ONS
 <details>
   <summary>Click to see the guideline!</summary>
   
-- **Definition:**  *A constraint is a choice that makes certain designs "not allowed" or inappropriate for its intended use.*
+- **Definition:**  *A constraint is a choice that makes certain designs "not allowed" or inappropriate for their intended use.*
 
 - **Comments:**
 
-  - *Constraint is a restriction, limit, or regulation imposed on a product.*
+  - *The constraint is a restriction, limit, or regulation imposed on a product.*
   - *There are two kinds of constraints: input constraints and system constraints.* 
     - *Input constraints are imposed as part of the design specifications.*
     - *System constraints are constraints imposed by the system in which the design solution must function.*
