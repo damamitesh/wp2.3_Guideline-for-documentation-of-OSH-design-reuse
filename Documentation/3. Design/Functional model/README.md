@@ -1,6 +1,6 @@
 # **Functional model**
 
-*I would like to alow the makers to understand what the product is made for.* 
+*I would like to allow the makers to understand what the product is made for.* 
 
 ## **What is a functional model?**
 <details>
@@ -8,8 +8,8 @@
 
 * A description of the functions performed by a product.
 * An opportunity to break down a product into smaller pieces that can be more easily understood.
-* At the highest level of a functional breakdown (black box view), service functions are the effects (intended by its stakeholders) of the interaction of the product with its environment.([Specification](https://github.com/OPEN-NEXT/wp2.3_template/tree/main/Documentation/2.%20Specification#specification))
-* At the intermediate and lowest levels of a functional breakdown (white box view), technical functions are input-output relationships transforming matter, energy or information flows. They are expressing in a non-solution neutral way and observable from inside the product. A set of technical function is necessary for the realization of a service function.
+* At the highest level of a functional breakdown (black box view), service functions are the effects (intended by its stakeholders) of the interaction of the product with its environment. ([Specification](https://github.com/OPEN-NEXT/wp2.3_template/tree/main/Documentation/2.%20Specification#specification))
+* At the intermediate and lowest levels of a functional breakdown (white box view), technical functions are input-output relationships transforming matter, energy or information flows. They are expressing in a non-solution neutral way and observable from inside the product. A set of technical functions is necessary for the realization of a service function.
  </details>
  
 
@@ -34,13 +34,13 @@
 
 - **Comments:**
 
-  - *A top-down and bottom up reading of the functional tree provides insight on the “how” and “why”, respectively.*
-  - *The decomposition process should be stopped when technical function is sufficiently detailed to reuse, make, or buy a design solution.*
+  - *A top-down and bottom-up reading of the functional tree provides insight on the “how” and “why”, respectively.*
+  - *The decomposition process should be stopped when the technical function is sufficiently detailed to reuse, make, or buy a design solution.*
 
 
  ```
 1. What minimum documentation should the functional tree provide?
-  - A model specifying the kinds of technical functions and their sub-functions in the format of a tree (refer to functional tree of XYZ Cargo-ADD ONS)
+  - A model specifying the kinds of technical functions and their sub-functions in the format of a tree (refer to the functional tree of XYZ Cargo-ADD ONS)
 
 2. How to implement the functional tree?
   - Use functional modeling language for representation, such as  
@@ -97,7 +97,7 @@
 
 - **Comments:**
 
-  - *Relationships between functions are in/out-going flows of matter, energy or information.*
+  - *Relationships between functions are in/out-going flows of matter, energy, or information.*
   - *Logical AND/OR gates can be used to define concurrent or sequential functions.*
   - *Articulation of technical function can describe as input-output relationships transforming flows by using the functional modeling language in the format of the graph*
   
