@@ -122,13 +122,13 @@ Example XYZ Cargo ADD-ONS
   <summary>Click to see the example!</summary>
   
  ```
-  What does contain the minimum documentation of the service to stakehokders?
+  What does contain the minimum documentation of the service to stakeholders?
   
   Example of services for ADD-ONS of XYZ Cargo
   
     - The ADD-ONS shall enable the food producer to store food
       - 1.1 solid (10 kilos)
-      - 1.2 liquid (5 litres)
+      - 1.2 liquid (5 litrs)
     - The ADD-ONS shall enable the food producer to heat up food
       -  2.1solid (150 deg Celcius)
       - 2.2 liquid (80 deg Celcius)
