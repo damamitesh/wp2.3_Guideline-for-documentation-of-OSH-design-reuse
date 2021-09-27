@@ -26,7 +26,7 @@
  <details>
   <summary>Click to the examples!</summary>
  
-*The links below show some kinds of architectural structure of open-source projects*
+*The links below show some kinds of the architectural structure of open-source projects*
 
 #### *Example 1: architectural structure of* [MPS ventilator](https://www.monolithicpower.com/en/mps-open-source-ventilator)
 
@@ -47,15 +47,15 @@
 ### Template of architectural structure
  
   #### Architectural structure documentation
-  1. A model specifying of components
+  1. A model specifying components
  
  ![Image of template for architectural structure ](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Architectural%20structure%20for%20template.jpg)
  
-  *You can use the link below as a templates to define the architectural structure of your project/product.*
+  *You can use the link below as a template to define the architectural structure of your project/product.*
  
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FArchitectural%20model%20of%20mechanical%20structure%20for%20template.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2F%20Architectural%20model%20of%20mechanical%20structure%20for%20template.png" target="_blank">Edit in diagrams.net</a>
 
- 2. Name of modeling language
+ 2. Name of the modeling language
      * UML
      * ...
  3. Name of Software
@@ -67,7 +67,7 @@
 <details>
   <summary>Click to see the guideline!</summary>
  
-- **Definition:** *An editable file format is a standard way that information is encoded for storage and allow the makers to study, modify the geometry of a model and reuse it.* 
+- **Definition:** *An editable file format is a standard way that information is encoded for storage and allows the makers to study, modify the geometry of a model and reuse it.* 
 
  ```
 To reuse a design model, it should provide information consist of:
@@ -115,13 +115,13 @@ To reuse a design model, it should provide information consist of:
   - *Selection of materials  based on factors including properties for [behavioral](https://github.com/OPEN-NEXT/wp2.3_template/tree/main/Documentation/3.%20Design/Behavioral%20model) analysis, [environmental impact](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Documentation/8.%20Disposal), [manufacturing](https://github.com/OPEN-NEXT/wp2.3_template/tree/main/Documentation/4.%20Manufacturing) processes in design reuse.* 
 
 ```
-  The material characteristics of mechanical parts consist: 
+  The material characteristics of mechanical parts consist of: 
   
-  1- Identifying the kind of characteristics and its properties: 
+  1- Identifying the kind of characteristics and their properties: 
   
     - Mechanical characteristics like hardness, elasticity, plasticity, toughness, etc. 
     - Manufacturing properties like castability, machinability rating, etc.
-    - Thermal characteristics like melting point,thermal conductivity, etc.
+    - Thermal characteristics like melting point, thermal conductivity, etc.
     - Electrical characteristics like electrical resistivity and conductibility, etc.
     - Chemical properties like corrosion resistance, surface tension, etc.
      
