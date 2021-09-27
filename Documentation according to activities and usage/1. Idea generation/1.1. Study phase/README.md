@@ -1,7 +1,7 @@
 # 1. Introduction
 
 <details>
-  <summary>Click to see the requirements in introduction for idea generation!</summary>
+  <summary>Click to see the introduction for idea generation!</summary>
 
  #### 1.1 History ( The existing source)
    * Initiators of the original project: ...
