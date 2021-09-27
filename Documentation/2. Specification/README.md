@@ -129,7 +129,7 @@ Example XYZ Cargo ADD-ONS
     - The ADD-ONS shall enable the food producer to store food
       - 1.1 solid (10 kilos)
       - 1.2 liquid (5 litrs)
-    - The ADD-ONS shall enable the food producer to heat up food
+    - The ADD-ONS shall enable the food producer to heat food
       -  2.1solid (150 deg Celcius)
       - 2.2 liquid (80 deg Celcius)
     - The ADD-ONS shall enable the food producer to cool down food for 4 hours
