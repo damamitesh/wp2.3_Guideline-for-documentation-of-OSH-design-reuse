@@ -111,11 +111,11 @@ Example XYZ Cargo ADD-ONS
 - **Definition:** *A service is an effect intended by a stakeholder resulting from the interaction of the product with its environment (i.e. what the  product is for).*
 
 - **Comments:**
-  - *Services provides users with and exchange value that can be included in an economic system (e.g. airlines buy flight hours).*
-  - *Services are intended effects that can observed from outside the product ("back box" external view), but not from outside an internal component ("white box" internal view).*
-  - *Services are defined in a solution neutral way.*
-  - *Services can be stated as follows : The [Product] shall enable [Stakeholder] [Action verb] (e.g. The product shall enable end-user to clean its teeths)*
-  - *we often reason in terms of action verbs to communicate expected behaviours, so it would be nice to be able to search designs with action verbs*
+  - *Services provide users with an exchange value that can be included in an economic system (e.g. airlines buy flight hours).*
+  - *Services are intended effects that can be observed from outside the product ("back box" external view), but not from outside an internal component ("white box" internal view).*
+  - *Services are defined in a solution neutral-way.*
+  - *Services can be stated as follows: The [Product] shall enable [Stakeholder] [Action verb] (e.g. The product shall enable end-user to clean its teeth)*
+  - *we often reason in terms of action verbs to communicate expected behaviors, so it would be nice to be able to search designs with action verbs*
 </details>
 
 <details>
