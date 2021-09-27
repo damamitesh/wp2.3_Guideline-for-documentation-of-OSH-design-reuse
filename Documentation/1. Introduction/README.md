@@ -42,7 +42,7 @@ mechanical design, automation, industrial programming, etc.
 ```
 These guidelines will provide you with a standard structure that is mainly following the product 
 life cycle and the technological decomposition. It is implemented in the documentation template available in this project. 
-As for example:
+For example:
 - Introduction
 - Specification
 - Design 
@@ -61,23 +61,23 @@ And inside each of the sections, if required:
 
 ## Required skills
 
-*What are the specific knowledge a maker shall own to reuse - with or without modification - your product?*
+*What is the specific knowledge a maker shall own to reuse - with or without modification - your product??*
 
 ```
-- For example the project echopen need the basic knowledge about the medical ultrasound technology such as ultrasound imaging, 
+- For example, the project echopen need basic knowledge about the medical ultrasound technology such as ultrasound imaging, 
 a matter of acoustical impedance, etc.  
 ```
 
 ## Contribution Process
 
-*Describe here how a maker can contribute to your own project*
+*Describe here how a maker can contribute to your project*
 
 ```
 -  Example of a contribution process:
   - Post an [issue] and briefly outline the changes you plan to make
-  - If you are looking for input on what to contribute, brows the issues with the Requests or Bug label
+  - If you are looking for input on what to contribute, browse the issues with the Requests or Bug label
   - Describe branches
-  - Describe what a Pull Request (PR) shall contain (detailed description of changes, summary of test, 
+  - Describe what a Pull Request (PR) shall contain (detailed description of changes, a summary of the test, 
     issue numbers that the PR resolves)
   - Specify code style 
   - Contributor license agreement
@@ -88,12 +88,12 @@ a matter of acoustical impedance, etc.
 *What is the last update of your documentation?*
 
 ```
-- Last modifiction (date, time, objet of modification, who,...) 
+- Last modification (date, time, object of modification, who,...)
 ```
 
 ## Project team
 
-*Describe here who are the leader and the main contributors of the project*
+*Describe here who is the leader and the main contributors of the project*
 
 ```
 - Name {E-mail}
@@ -103,7 +103,7 @@ a matter of acoustical impedance, etc.
 
 ## License
 
-*What open source hardware license your project complies with?*
+*What open-source hardware license your project complies with?*
 
 ```
 - https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licences
