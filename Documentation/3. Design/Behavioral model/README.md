@@ -1,12 +1,12 @@
 # **Behavioral model**
 
-*I would like to enable the makers to understand the analysis of the physical behavior of a product to support the decision made at the latter stages of design.* 
+*I would like to enable the makers to understand the analysis of the physical behavior of a product to support the decision made at the later stages of design.* 
 
 ## **What is a behavioral model?**
 <details>
   <summary>Click to expand!</summary>
    
-* An opportunity to describe the behavior a product when it receives a stimulus.
+* An opportunity to describe the behavior of a product when it receives a stimulus.
 * The behavior model could be the mathematical description of the physical product.
 * The behavior model is the physical interactions between the components of a design as well as between the design and its environment. An artifact exhibits certain behaviors not only by the change or maintaining of its physical state but also by several interactions that take place inside the artifact, as well as with its environment.
 </details>
@@ -22,7 +22,7 @@
 
 ## **How to document a behavioral model?**
 
-*Documentation of a behavioral model depends on the  product and there is different type of simulation for analysis of the behavior of a product. For example, finite element analysis( FEA) and computational fluid dynamics (CFD) are two types of mechanical simulation.* 
+*Documentation of a behavioral model depends on the product and there is a different type of simulation for analysis of the behavior of a product. For example, finite element analysis( FEA) and computational fluid dynamics (CFD) are two types of mechanical simulation.* 
 *FEA uses mathematical models to understand and quantify the effects of real-world conditions on a part or assembly. CFD is a branch of fluid mechanics that uses numerical analysis and data structures to analyze  the free-stream flow of the fluid, and the interaction of the fluid (liquids and gases) with surfaces defined by boundary conditions.*
 *Analysis of the behavior of a product depends on its components and its environment and there are different types of simulation to consider the behavior of the product. So, we can not identify all types of behavioral models in this section. But, we provide a general vision of the simulation models and their implementation.* 
 
@@ -43,12 +43,12 @@
     - Electronical simulations
     - Etc.
     
-  - Model definition consist of 
-    - Specification of geometrical model (refer to editable file format in structural model)
+  - Model definition consists of 
+    - Specification of the geometrical model (refer to editable file format in the structural model)
     - Material characteristics ( refer to structural model)
     - Initial conditions such as initial stresses, temperatures, velocities, etc. 
     - Boundary conditions can be imposed on individual solution variables such as displacements or rotations.
-    - Kinematic constraints that are several of the fundamental solution variables in the model (Linear constraint equations) or multi-point constraints (General  multi-point constraints) can be defined. 
+    - Kinematic constraints that are several of the fundamental solution variables in the model (Linear constraint equations) or multi-point constraints (General multi-point constraints) can be defined. 
     - Interactions that are contact and other interactions between parts can be defined
   - Modelling and results of simulations
     
@@ -72,7 +72,7 @@
  ![Image of Finite element analysis](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/Finite%20element%20analysis%20image.gif)
  </details>
   
- ### Template of simulation model
+ ### Template of the simulation model
  
   1. Type of simulation
      * ...
