@@ -192,7 +192,7 @@ Example XYZ Cargo ADD-ONS
 
 - **Comments:**
   -  *The minimum set of independent requirements can completely characterize the needs of the product in the functional domain.*
-  -  *Functional requirement describe qualitatively the system functions or tasks to be performed in operation.* 
+  -  *Functional requirements describe qualitatively the system functions or tasks to be performed in operation.* 
   -  *Requirement can state as follows: The [stakeholder] need [Property] [object] [Action verb]  at [Condition]* 
  </details>
  
@@ -200,13 +200,13 @@ Example XYZ Cargo ADD-ONS
   <summary>Click to see the example!</summary>
   
   ```
-  Example of functional requirement that ADD-ONS of XYZ cargo provides for the food producers, as a stakeholder, to preserve the quality of food.
+  Example of the functional requirement that ADD-ONS of XYZ cargo provides for the food producers, as a stakeholder, to preserve the quality of food.
  
   In this example, we assumed a refrigerator on the ADD-ONS could help the food producers to cool down and preserve the temperature of food. 
   
   So, we defined some  functional requirements (FR) based on this assumption that consist:
  
-    - FR1: To maintain the quality of food, food producer needs to main the material at cold temperature (between 3 °C and 10 °C) for short-term preservation (3h) or long-term preservation (24h).
+    - FR1: To maintain the quality of food, the food producer needs to main the material at cold temperature (between 3 °C and 10 °C) for short-term preservation (3h) or long-term preservation (24h).
     - FR2: ADD-ONS shall fix the internal ADD-ONS temperature for 7 °C.
     - FR3: To create a cold ambient in the cooling down system, the ADD-ONS shall compress the low temperature and pressured gas to start the cooling cycle.
     - FR4: the cooling down system shall control the pressure of exit hot gas 
