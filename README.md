@@ -2,17 +2,17 @@
 
 ## Motivations
 
-*Why did we start this documentation for design reuse project?*
+*Why did we start this documentation for the design reuse project?*
 
 
-Open source promotes the openness and accessibility of all useful information for studying, modifying or replicating a piece of software or hardware. As for [industry](https://www.researchgate.net/publication/306022370_Achieving_Benefits_with_Design_Reuse_in_Manufacturing_Industry) the **reuse** of existing designs is therefore a fundamental requirement for open source. This project is motivated by the very diverse and contrasted documentation practices observed in web-based [open source hardware](https://en.wikipedia.org/wiki/Open-source_hardware) projects. Indeed, the lack of standardised open source hardware documentation guidelines make the reuse of the solutions very problematic. We are closely working with the promoters of the [DIN SPEC 3105 standard](https://wiki.opensourceecology.org/wiki/DIN_SPEC_3105) to develop useful documentation guidelines and templates.
+Open source promotes the openness and accessibility of all useful information for studying, modifying, or replicating a piece of software or hardware. As for [industry](https://www.researchgate.net/publication/306022370_Achieving_Benefits_with_Design_Reuse_in_Manufacturing_Industry), the **reuse** of existing designs is, therefore, a fundamental requirement for open source. This project is motivated by the very diverse and contrasted documentation practices observed in web-based [open-source hardware](https://en.wikipedia.org/wiki/Open-source_hardware) projects. Indeed, the lack of standardized open-source hardware documentation guidelines makes the reuse of the solutions very problematic. We are closely working with the promoters of the [DIN SPEC 3105 standard](https://wiki.opensourceecology.org/wiki/DIN_SPEC_3105) to develop useful documentation guidelines and templates.
 
 ## Goals
 
 *What does this project provide?*
 
 
-This project delivers a template standing as a minimum viable documentation for open source hardware. By cloning this repository, any maker will be able to fill in the template provided in the folder entitled "Documentation".
+This project delivers a template standing as minimum viable documentation for open source hardware. By cloning this repository, any maker will be able to fill in the template provided in the folder entitled "Documentation".
 
 ## Sources of inspiration
 
@@ -32,17 +32,17 @@ The documentation template reuses exemplary documentation practices borrowed fro
 - [Echopen](https://github.com/echopen/) - project start kit or prototyping
 - ...
 
-## Getting started with your own documentation
+## Getting started with your documentation
 
-This guideline and its template is available for you and your team to follow as reference in the process of developing your project.
+This guideline and its template are available for you and your team to follow as a reference in the process of developing your project.
 
 <meta You can even download this template and upload it on the platform of your choice. This can be used as a base for your documentation.>
 
-A maker should have the specific knowledge in order to create his own documentation based on this project.
+A maker should have the specific knowledge to create his documentation based on this project.
 
 <meta name="description" content="Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch.">
   
-To get started with your own documentation choose one of the three options:
+To get started with your documentation choose one of the three options:
 
 - [Clone a GIT repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 - [Edit a Markdown file](https://guides.github.com/features/mastering-markdown/)
@@ -64,12 +64,12 @@ To use the link of the App diagram in the template, you can follow these steps t
 
 ![image](https://user-images.githubusercontent.com/59058909/132664321-95a2b5d0-ae50-44d7-9133-b4c92d3a30cc.png)
 
-To follow these steps, you can create your own documentation of project.    
+To follow these steps, you can create your documentation of the project.     
 
 ## How to contribute to this documentation project
 
 *Want to contribute, improve, modify the guidelines and templates?*
-Any comment, request are welcome...
+Any comments, request are welcome...
 Open a new issue here on [GitHub](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/issues)
 
 ## Project team
