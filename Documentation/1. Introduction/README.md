@@ -107,8 +107,8 @@ a matter of acoustical impedance, etc.
 *What open-source hardware license your project complies with?*
 
 
-- https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licences
-- https://opensource.com/law/15/2/intro-open-hardware-licensing#:~:text=Open%20source%20hardware%20is%20hardware,on%20their%20hardware%20at%20all.
+- [Comparison of free and open-source software licences](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licences)
+- [license of open hardware projects](https://opensource.com/law/15/2/intro-open-hardware-licensing#:~:text=Open%20source%20hardware%20is%20hardware,on%20their%20hardware%20at%20all.)
 
 
 ## Sponsors and Partners
