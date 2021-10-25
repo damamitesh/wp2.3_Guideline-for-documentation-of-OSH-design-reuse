@@ -166,7 +166,7 @@ Example XYZ Cargo ADD-ONS
    ```
   What does contain the minimum documentation of the constraints?
   
-  Example XYZ Cargo ADD-ONS, contraints for maker of ADD-ONS
+  Example XYZ Cargo ADD-ONS, constraints for maker of ADD-ONS
   
    - User should be able to dismantle ADD-ONS with a maximum one wrench and one screwdriver 
    - Users should be able to customize the modules of ADD-ONS to fit their use. 
