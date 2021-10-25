@@ -112,7 +112,7 @@ Example XYZ Cargo ADD-ONS
 
 - **Comments:**
   - *Services provide users with an exchange value that can be included in an economic system (e.g. airlines buy flight hours).*
-  - *Services are intended effects that can be observed from outside the product ("back box" external view), but not from outside an internal component ("white box" internal view).*
+  - *Services are intended effects that can be observed from outside the product ("black box" external view), but not from outside an internal component ("white box" internal view).*
   - *Services are defined in a solution neutral-way.*
   - *Services can be stated as follows: The [Product] shall enable [Stakeholder] [Action verb] (e.g. The product shall enable end-user to clean its teeth)*
   - *we often reason in terms of action verbs to communicate expected behaviors, so it would be nice to be able to search designs with action verbs*
