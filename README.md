@@ -46,7 +46,7 @@ To get started with your documentation choose one of the three options:
 
 - [Clone a GIT repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 - [Edit a Markdown file](https://guides.github.com/features/mastering-markdown/)
-- Fork the repository
+- [Fork the repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 
 Then, to reference this guideline, you can follow the guideline and then fill the template in each section in your own Project's readme.
 
