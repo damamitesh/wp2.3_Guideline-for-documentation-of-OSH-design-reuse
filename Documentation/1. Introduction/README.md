@@ -102,7 +102,7 @@ a matter of acoustical impedance, etc.
   - link to personal web page
 
 
-## License
+## [License](https://gitlab.com/OSEGermany/osh-guideline-legal-issues)
 
 *What open-source hardware license your project complies with?*
 
