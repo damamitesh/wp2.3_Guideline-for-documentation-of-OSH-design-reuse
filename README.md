@@ -6,6 +6,8 @@
 - The OKH LOSH detailed specifications for templates and howTo for manifest files are [here](https://github.com/OPEN-NEXT/OKH-LOSH/blob/master/OKH-LOSH.md)
 </details>
 
+Find a tl;dr IPR [here](https://github.com/OPEN-NEXT/tldr-ipr)
+
 ## Motivations
 
 *Why did we start this documentation for the design reuse project?*
