@@ -1,12 +1,12 @@
 # Introduction
 <details>
 <summary>Click to see the guidelines and examples </summary>
-  </details>
+<br> 
+</details>
 Find a tl;dr guide on lincensing and IPRand more extensive guide [here](https://github.com/OPEN-NEXT/tldr-ipr)
 The OKH LOSH detailed specifications [here](https://github.com/OPEN-NEXT/OKH-LOSH/blob/master/OTRL.md)
 Template and HowTo for Manifest file is [here](https://github.com/OPEN-NEXT/OKH-LOSH/blob/master/OKH-LOSH.md)
-<br>
-  </details>
+</details>
 
 ## Motivations
 
